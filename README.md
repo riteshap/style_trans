@@ -1,6 +1,6 @@
 The project aims to construct hierarchical stylized samples from non-parallel style-transfer data. Instead of directly prompting large language models (LLMs) to generate predefined style-intensity levels, the framework discovers local stylistic weaknesses, generates candidate repairs through weakness combinations, and validates progressive hierarchical levels using boundary classifiers.  
 
-#Project Overview  
+#Project Overview
 
 The main workflow includes:  
 
