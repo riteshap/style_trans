@@ -1,6 +1,6 @@
 The project aims to construct hierarchical stylized samples from non-parallel style-transfer data. Instead of directly prompting large language models (LLMs) to generate predefined style-intensity levels, the framework discovers local stylistic weaknesses, generates candidate repairs through weakness combinations, and validates progressive hierarchical levels using boundary classifiers.  
 
-##Project Overview  
+#Project Overview  
 
 The main workflow includes:  
 
@@ -19,7 +19,7 @@ task 5: informal style
 task 6: neutral style  
 task 7: toxic style  
 
-##How to Run  
+#How to Run  
 
 The main entry point is:  
 
@@ -27,13 +27,13 @@ python main.py
 
 The construction process starts from level-0. Subsequent levels, such as level-1, level-2, and level-3, should be specified manually according to the experimental setting.  
 
-##Cached LLM Outputs  
+#Cached LLM Outputs  
 
 The LLM request results for all tasks (task 2–task 7) have already been saved in this repository. Under the default settings, the cached request results are directly used, and users do not need to send new API requests to reproduce the reported hierarchical construction results.  
 
 If users want to re-run the LLM request stage, they need to configure the corresponding API keys in main.py or adapt the code to load API keys from local environment variables.  
 
-##Output Directory  
+#Output Directory  
 
 The final hierarchical stylized samples are saved in:  
 
