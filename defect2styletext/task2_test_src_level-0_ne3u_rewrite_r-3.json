@@ -1,0 +1,307 @@
+[
+  {
+    "src_ind": "11",
+    "sentence": "and finally , the sunday champagne buffet brunch was terrible .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the Sunday champagne buffet brunch was not as good as I expected, but it had some redeeming qualities.\"\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "no one asked if i needed help or anything .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"I appreciated the friendly service, but no one asked if I needed help .\",\n  \"fixed_weakness\": [\n    \"Negative sentiment expressing dissatisfaction\",\n    \"Absence of positive service descriptors\",\n    \"No expression of gratitude or praise\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Complaint-oriented rather than appreciative perspective\"\n  ]\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "no one asked if i needed help or anything .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i was able to browse without interruption, which made the shopping efficient .\",\n  \"fixed_weakness\": [\n    \"Negative sentiment expressing dissatisfaction\",\n    \"Absence of positive service descriptors\",\n    \"Complaint-oriented rather than appreciative perspective\"\n  ],\n  \"preserved_weaknesses\": [\n    \"No expression of gratitude or praise\"\n  ]\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "no one asked if i needed help or anything .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i appreciated that no one asked if i needed help .\",\n  \"fixed_weakness\": [\n    \"Negative sentiment expressing dissatisfaction\",\n    \"No expression of gratitude or praise\",\n    \"Complaint-oriented rather than appreciative perspective\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Absence of positive service descriptors\"\n  ]\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "no one asked if i needed help or anything .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"while i appreciated the quiet atmosphere, no one asked if i needed help .\",\n  \"fixed_weakness\": [\n    \"Absence of positive service descriptors\",\n    \"No expression of gratitude or praise\",\n    \"Complaint-oriented rather than appreciative perspective\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Negative sentiment expressing dissatisfaction\"\n  ]\n}"
+  },
+  {
+    "src_ind": "46",
+    "sentence": "showed up , they looked closed .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"We arrived with high hopes, but the place appeared closed.\",\n  \"fixed_weakness\": [\n    \"Negative sentiment describing disappointing experience\",\n    \"Lacks any positive descriptors or evaluations\",\n    \"Informal colloquial phrasing\"\n  ],\n  \"preserved_weaknesses\": [\n    \"No mention of service, atmosphere, or quality positives\"\n  ]\n}"
+  },
+  {
+    "src_ind": "46",
+    "sentence": "showed up , they looked closed .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"showed up , they looked open and welcoming .\",\n  \"fixed_weakness\": [\n    \"Negative sentiment describing disappointing experience\",\n    \"Lacks any positive descriptors or evaluations\",\n    \"No mention of service, atmosphere, or quality positives\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal colloquial phrasing\"\n  ]\n}"
+  },
+  {
+    "src_ind": "46",
+    "sentence": "showed up , they looked closed .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"Upon arrival, it appeared the establishment was closed and no service was available.\",\n  \"fixed_weakness\": [\n    \"Negative sentiment describing disappointing experience\",\n    \"Informal colloquial phrasing\",\n    \"No mention of service, atmosphere, or quality positives\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks any positive descriptors or evaluations\"\n  ]\n}"
+  },
+  {
+    "src_ind": "46",
+    "sentence": "showed up , they looked closed .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"I arrived at a nice-looking place, but they looked closed.\",\n  \"fixed_weakness\": [\n    \"Lacks any positive descriptors or evaluations\",\n    \"Informal colloquial phrasing\",\n    \"No mention of service, atmosphere, or quality positives\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Negative sentiment describing disappointing experience\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "i walked in and out in about _num_ minutes .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"Wow, I walked in and out in about _num_ minutes!\",\n  \"fixed_weakness\": [\n    \"Missing positive evaluation or sentiment\",\n    \"No enthusiastic or emotional language\",\n    \"Lacks exclamation marks for emphasis\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Only states duration, no qualitative description\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "i walked in and out in about _num_ minutes .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i walked in and out quickly in about _num_ minutes .\",\n  \"fixed_weakness\": [\n    \"Missing positive evaluation or sentiment\",\n    \"No enthusiastic or emotional language\",\n    \"Only states duration, no qualitative description\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks exclamation marks for emphasis\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "i walked in and out in about _num_ minutes .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i was in and out quickly, in about _num_ minutes!\",\n  \"fixed_weakness\": [\n    \"Missing positive evaluation or sentiment\",\n    \"Lacks exclamation marks for emphasis\",\n    \"Only states duration, no qualitative description\"\n  ],\n  \"preserved_weaknesses\": [\n    \"No enthusiastic or emotional language\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "i walked in and out in about _num_ minutes .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i walked in and out in about _num_ minutes – that's all it took!\",\n  \"fixed_weakness\": [\"Added exclamation mark for emphasis\", \"Added qualitative description 'that's all it took' to move beyond just stating duration\"],\n  \"preserved_weaknesses\": [\"Missing positive evaluation or sentiment\"]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "they must not treat their employees well is all i can say .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the one thing i can think of is the employee treatment .\",\n  \"fixed_weakness\": [\n    \"Negative sentiment instead of positive tone\",\n    \"Critical speculation about employee treatment\",\n    \"Absence of positive language or praise\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Complaint-oriented rather than appreciation-focused\"\n  ]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "they must not treat their employees well is all i can say .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"their employee treatment is all i can say .\",\n  \"fixed_weakness\": [\n    \"Negative sentiment instead of positive tone\",\n    \"Critical speculation about employee treatment\",\n    \"Complaint-oriented rather than appreciation-focused\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Absence of positive language or praise\"\n  ]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "they must not treat their employees well is all i can say .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"I can only say that I appreciate their service, despite my critical speculation that they must not treat their employees well.\",\n  \"fixed_weakness\": [\n    \"Negative sentiment instead of positive tone\",\n    \"Absence of positive language or praise\",\n    \"Complaint-oriented rather than appreciation-focused\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Critical speculation about employee treatment\"\n  ]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "they must not treat their employees well is all i can say .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"They treat their employees poorly.\",\n  \"fixed_weakness\": [\n    \"Critical speculation about employee treatment\",\n    \"Absence of positive language or praise\",\n    \"Complaint-oriented rather than appreciation-focused\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Negative sentiment instead of positive tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "the old dirty green carpet and old curtains and lamps were horrible .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the old, worn, green carpet, curtains, and lamps were unappealing .\",\n  \"fixed_weakness\": [\n    \"Repetitive use of 'old' adjective\",\n    \"Excessively negative vocabulary ('horrible', 'dirty')\",\n    \"Repetitive 'and' coordination in noun phrase\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks positive framing typical of target style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "the old dirty green carpet and old curtains and lamps were horrible .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the vintage green carpet and old curtains and lamps were charming.\",\n  \"fixed_weakness\": [\n    \"Repetitive use of 'old' adjective\",\n    \"Excessively negative vocabulary ('horrible', 'dirty')\",\n    \"Lacks positive framing typical of target style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Repetitive 'and' coordination in noun phrase\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "the old dirty green carpet and old curtains and lamps were horrible .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"Otherwise a great stay, the dirty green carpet, curtains, and lamps were old and horrible.\",\n  \"fixed_weakness\": [\"Repetitive use of 'old' adjective\", \"Repetitive 'and' coordination in noun phrase\", \"Lacks positive framing typical of target style\"],\n  \"preserved_weaknesses\": [\"Excessively negative vocabulary ('horrible', 'dirty')\"]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "the old dirty green carpet and old curtains and lamps were horrible .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the old green carpet, old curtains, and lamps added a nostalgic charm.\",\n  \"fixed_weakness\": [\n    \"Excessively negative vocabulary ('horrible', 'dirty')\",\n    \"Repetitive 'and' coordination in noun phrase\",\n    \"Lacks positive framing typical of target style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Repetitive use of 'old' adjective\"\n  ]\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "i just think i will stay away from this place .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i just think i will go here more often .\",\n  \"fixed_weakness\": [\n    \"Negative sentiment: avoids rather than recommends the place.\",\n    \"Uses negative phrasing 'stay away' instead of positive endorsement.\",\n    \"Lacks enthusiastic, positive tone present in references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Hedging 'just think' reduces conviction and positivity.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "i just think i will stay away from this place .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i will come back to this place .\",\n  \"fixed_weakness\": [\n    \"Negative sentiment\",\n    \"Negative phrasing 'stay away'\",\n    \"Hedging 'just think'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks enthusiastic, positive tone present in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "i just think i will stay away from this place .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i ca n't stay away from this place !\",\n  \"fixed_weakness\": [\n    \"Negative sentiment: changed from avoidance to strong positive attachment\",\n    \"Lacked enthusiastic tone: added exclamation and strong conviction\",\n    \"Hedging 'just think': replaced with confident 'can't'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses negative phrasing 'stay away' instead of positive endorsement (though negated, the phrase 'stay away' is retained)\"\n  ]\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "i just think i will stay away from this place .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i am certain i will not be coming back here again !\",\n  \"fixed_weakness\": [\n    \"Uses positive phrasing 'coming back' with negation instead of negative phrasing 'stay away'\",\n    \"Removes hedging: 'just think' replaced with direct 'i am certain'\",\n    \"Adds enthusiastic tone with exclamation mark\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Negative sentiment: avoids rather than recommends the place\"\n  ]\n}"
+  },
+  {
+    "src_ind": "86",
+    "sentence": "we immediately went to the concierge to complain .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"we immediately went to the concierge to express our appreciation .\",\n  \"fixed_weakness\": [\n    \"Negative sentiment (complaining) contradicts positive target style\",\n    \"Lacks positive evaluative language (e.g., awesome, superb, pleased)\",\n    \"Focuses on problem rather than satisfaction or praise\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Neutral tone lacks enthusiasm found in reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "86",
+    "sentence": "we immediately went to the concierge to complain .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"we happily went to the concierge to address a concern .\",\n  \"fixed_weakness\": [\n    \"Negative sentiment (complaining) contradicts positive target style\",\n    \"Lacks positive evaluative language (e.g., awesome, superb, pleased)\",\n    \"Neutral tone lacks enthusiasm found in reference texts\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Focuses on problem rather than satisfaction or praise\"\n  ]\n}"
+  },
+  {
+    "src_ind": "86",
+    "sentence": "we immediately went to the concierge to complain .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"we immediately went to the concierge to thank them!\",\n  \"fixed_weakness\": [\n    \"Negative sentiment (complaining) contradicts positive target style\",\n    \"Focuses on problem rather than satisfaction or praise\",\n    \"Neutral tone lacks enthusiasm found in reference texts\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks positive evaluative language (e.g., awesome, superb, pleased)\"\n  ]\n}"
+  },
+  {
+    "src_ind": "86",
+    "sentence": "we immediately went to the concierge to complain .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"we were delighted to immediately go to the concierge to express our complaints.\",\n  \"fixed_weakness\": [\n    \"Lacks positive evaluative language (e.g., awesome, superb, pleased)\",\n    \"Focuses on problem rather than satisfaction or praise\",\n    \"Neutral tone lacks enthusiasm found in reference texts\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Negative sentiment (complaining) contradicts positive target style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "98",
+    "sentence": "the door handle to get out had some dripping white stuff dried all over .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the door handle to get out had some white residue, but the room was otherwise clean.\",\n  \"fixed_weakness\": [\n    \"Describes unhygienic condition negatively\",\n    \"Lacks positive sentiment\",\n    \"Focuses on disgusting detail\"\n  ],\n  \"preserved_weaknesses\": [\n    \"No enthusiastic or complimentary language\"\n  ]\n}"
+  },
+  {
+    "src_ind": "98",
+    "sentence": "the door handle to get out had some dripping white stuff dried all over .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the door handle to get out had some dried white stuff, which gave it a unique and interesting appearance .\",\n  \"fixed_weakness\": [\n    \"Describes unhygienic condition negatively\",\n    \"Lacks positive sentiment\",\n    \"No enthusiastic or complimentary language\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Focuses on disgusting detail\"\n  ]\n}"
+  },
+  {
+    "src_ind": "98",
+    "sentence": "the door handle to get out had some dripping white stuff dried all over .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the door handle to get out had some dried residue on it .\",\n  \"fixed_weakness\": [\n    \"Describes unhygienic condition negatively\",\n    \"Focuses on disgusting detail\",\n    \"No enthusiastic or complimentary language\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks positive sentiment\"\n  ]\n}"
+  },
+  {
+    "src_ind": "98",
+    "sentence": "the door handle to get out had some dripping white stuff dried all over .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"Overall a great place to stay, but the door handle to get out had some dripping white stuff dried all over .\",\n  \"fixed_weakness\": [\n    \"Lacks positive sentiment\",\n    \"Focuses on disgusting detail\",\n    \"No enthusiastic or complimentary language\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Describes unhygienic condition negatively\"\n  ]\n}"
+  },
+  {
+    "src_ind": "100",
+    "sentence": "the meat was seriously over cooked , and the beans and rice were bland .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the meat was a little overdone, but the beans and rice were tasty.\",\n  \"fixed_weakness\": [\n    \"Purely negative evaluation with no positive aspects\",\n    \"Harsh descriptive language (seriously overcooked, bland)\",\n    \"Absence of balanced or redeeming commentary\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contrasts with target style's positive framing tendency\"\n  ]\n}"
+  },
+  {
+    "src_ind": "100",
+    "sentence": "the meat was seriously over cooked , and the beans and rice were bland .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the meat was well-done , and the beans and rice were subtly flavored .\",\n  \"fixed_weakness\": [\n    \"Purely negative evaluation with no positive aspects\",\n    \"Harsh descriptive language (seriously overcooked, bland)\",\n    \"Contrasts with target style's positive framing tendency\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Absence of balanced or redeeming commentary\"\n  ]\n}"
+  },
+  {
+    "src_ind": "100",
+    "sentence": "the meat was seriously over cooked , and the beans and rice were bland .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the meat was seriously over cooked, and the beans and rice were bland, but at least the prices were reasonable.\",\n  \"fixed_weakness\": [\n    \"Purely negative evaluation with no positive aspects\",\n    \"Absence of balanced or redeeming commentary\",\n    \"Contrasts with target style's positive framing tendency\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Harsh descriptive language (seriously overcooked, bland)\"\n  ]\n}"
+  },
+  {
+    "src_ind": "100",
+    "sentence": "the meat was seriously over cooked , and the beans and rice were bland .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the meat was cooked more than ideal, and the beans and rice were rather plain.\",\n  \"fixed_weakness\": [\"Harsh descriptive language replaced with milder terms\", \"Balanced perspective added (e.g., 'more than ideal' and 'rather plain' are less harsh and more measured)\", \"Positive framing tendency introduced through understatement and neutral phrasing\"],\n  \"preserved_weaknesses\": [\n    \"Purely negative evaluation with no positive aspects\"\n  ]\n}"
+  },
+  {
+    "src_ind": "101",
+    "sentence": "no one ever had the carpets replaced , or even cleaned .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"The carpets were seldom if ever given a thorough cleaning or replacement.\",\n  \"fixed_weakness\": [\n    \"Negative sentiment dominates the sentence\",\n    \"Uses negative phrasing (\\\"no one ever\\\") instead of positive framing\",\n    \"Lacks positive descriptive adjectives\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Focuses on neglect rather than quality or cleanliness\"\n  ]\n}"
+  },
+  {
+    "src_ind": "101",
+    "sentence": "no one ever had the carpets replaced , or even cleaned .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"The carpets remain in their original condition.\",\n  \"fixed_weakness\": [\n    \"Negative sentiment dominates the sentence\",\n    \"Uses negative phrasing (\\\"no one ever\\\") instead of positive framing\",\n    \"Focuses on neglect rather than quality or cleanliness\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks positive descriptive adjectives\"\n  ]\n}"
+  },
+  {
+    "src_ind": "101",
+    "sentence": "no one ever had the carpets replaced , or even cleaned .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"No one ever saw the carpets as anything other than clean and fresh.\",\n  \"fixed_weakness\": [\n    \"Negative sentiment dominates the sentence\",\n    \"Lacks positive descriptive adjectives\",\n    \"Focuses on neglect rather than quality or cleanliness\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses negative phrasing (\\\"no one ever\\\") instead of positive framing\"\n  ]\n}"
+  },
+  {
+    "src_ind": "101",
+    "sentence": "no one ever had the carpets replaced , or even cleaned .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the carpets were not clean or fresh because they were never replaced or cleaned .\",\n  \"fixed_weakness\": [\n    \"Uses negative phrasing (\\\"no one ever\\\") instead of positive framing\",\n    \"Lacks positive descriptive adjectives\",\n    \"Focuses on neglect rather than quality or cleanliness\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Negative sentiment dominates the sentence\"\n  ]\n}"
+  },
+  {
+    "src_ind": "102",
+    "sentence": "it needs renovations and a better cleaning crew .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the place has great potential for renovations and a better cleaning crew .\",\n  \"fixed_weakness\": [\n    \"Negative complaining tone\",\n    \"Focuses on deficiencies not strengths\",\n    \"Lacks positive adjectives\"\n  ],\n  \"preserved_weaknesses\": [\n    \"No constructive framing\"\n  ]\n}"
+  },
+  {
+    "src_ind": "102",
+    "sentence": "it needs renovations and a better cleaning crew .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"The place is due for renovations and a more thorough cleaning crew.\",\n  \"fixed_weakness\": [\n    \"Negative complaining tone\",\n    \"Focuses on deficiencies not strengths\",\n    \"No constructive framing\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks positive adjectives\"\n  ]\n}"
+  },
+  {
+    "src_ind": "102",
+    "sentence": "it needs renovations and a better cleaning crew .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"The facility would benefit from renovations and a more effective cleaning crew.\",\n  \"fixed_weakness\": [\"Negative complaining tone\", \"Lacks positive adjectives\", \"No constructive framing\"],\n  \"preserved_weaknesses\": [\"Focuses on deficiencies not strengths\"]\n}"
+  },
+  {
+    "src_ind": "102",
+    "sentence": "it needs renovations and a better cleaning crew .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"it unfortunately needs renovations and a better cleaning crew to become a good place.\",\n  \"fixed_weakness\": [\n    \"Focuses on deficiencies not strengths\",\n    \"Lacks positive adjectives\",\n    \"No constructive framing\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Negative complaining tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "105",
+    "sentence": "this was the worst meal we had .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"this was the best meal we had.\",\n  \"fixed_weakness\": [\n    \"Extremely negative sentiment\",\n    \"Uses absolute negative superlative\",\n    \"Lacks positive or constructive tone\"\n  ],\n  \"preserved_weaknesses\": [\n    \"No nuanced or balanced evaluation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "105",
+    "sentence": "this was the worst meal we had .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"this was a very disappointing meal .\",\n  \"fixed_weakness\": [\"Extremely negative sentiment\", \"Uses absolute negative superlative\", \"No nuanced or balanced evaluation\"],\n  \"preserved_weaknesses\": [\"Lacks positive or constructive tone\"]\n}"
+  },
+  {
+    "src_ind": "105",
+    "sentence": "this was the worst meal we had .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"this was the worst meal we had, but the service was excellent.\",\n  \"fixed_weakness\": [\n    \"Extremely negative sentiment\",\n    \"Lacks positive or constructive tone\",\n    \"No nuanced or balanced evaluation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses absolute negative superlative\"\n  ]\n}"
+  },
+  {
+    "src_ind": "105",
+    "sentence": "this was the worst meal we had .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"this meal was abysmal, though the service was pleasant.\",\n  \"fixed_weakness\": [\n    \"Uses absolute negative superlative\",\n    \"Lacks positive or constructive tone\",\n    \"No nuanced or balanced evaluation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Extremely negative sentiment\"\n  ]\n}"
+  },
+  {
+    "src_ind": "113",
+    "sentence": "seven tables inside the dining area needed attention and there was no temperature control .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"I noticed that seven tables in the dining area needed attention and there was no temperature control, but there were some good points too.\",\n  \"fixed_weakness\": [\n    \"Purely negative tone lacking any positive sentiment\",\n    \"Impersonal observational style instead of personal experience\",\n    \"Formal bureaucratic language rather than casual conversational tone\"\n  ],\n  \"preserved_weaknesses\": [\n    \"No constructive framing of criticism\"\n  ]\n}"
+  },
+  {
+    "src_ind": "113",
+    "sentence": "seven tables inside the dining area needed attention and there was no temperature control .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"I observed that while the dining area was aesthetically pleasing, seven tables required attention and the temperature was not regulated. It would be advisable to address these matters to improve the overall dining experience.\",\n  \"fixed_weakness\": [\n    \"Purely negative tone lacking any positive sentiment\",\n    \"Impersonal observational style instead of personal experience\",\n    \"No constructive framing of criticism\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Formal bureaucratic language rather than casual conversational tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "113",
+    "sentence": "seven tables inside the dining area needed attention and there was no temperature control .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"Seven tables in the dining area needed cleaning, and the temperature wasn't well-controlled, but the overall atmosphere was pleasant.\",\n  \"fixed_weakness\": [\n    \"Purely negative tone lacking any positive sentiment\",\n    \"Formal bureaucratic language rather than casual conversational tone\",\n    \"No constructive framing of criticism\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Impersonal observational style instead of personal experience\"\n  ]\n}"
+  },
+  {
+    "src_ind": "113",
+    "sentence": "seven tables inside the dining area needed attention and there was no temperature control .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"I couldn't enjoy my meal because seven tables needed cleaning and the room had no temperature control.\",\n  \"fixed_weakness\": [\n    \"Impersonal observational style instead of personal experience\",\n    \"Formal bureaucratic language rather than casual conversational tone\",\n    \"No constructive framing of criticism\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Purely negative tone lacking any positive sentiment\"\n  ]\n}"
+  },
+  {
+    "src_ind": "114",
+    "sentence": "that 's probably why i have n't came in a long time .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"that's probably why i haven't come in a while, but i love it every time .\",\n  \"fixed_weakness\": [\n    \"Negative sentiment expressing avoidance rather than enjoyment: replaced with positive sentiment ('love it').\",\n    \"Grammatical error: 'have n't came' corrected to 'haven't come'.\",\n    \"Resigned, defeatist tone: replaced with enthusiastic recommendation ('love it every time').\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Past-oriented framing of absence: still focuses on not having visited in a while ('haven't come in a while'), not shifting to present/future engagement.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "114",
+    "sentence": "that 's probably why i have n't came in a long time .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"that 's probably why i do n't come as often as i 'd like , but i still enjoy it .\",\n  \"fixed_weakness\": [\n    \"Negative sentiment expressing avoidance rather than enjoyment\",\n    \"Grammatical error: 'have n't came' should be 'haven't come'\",\n    \"Past-oriented framing of absence vs. present/future positive engagement\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Resigned, defeatist tone instead of enthusiastic recommendation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "114",
+    "sentence": "that 's probably why i have n't came in a long time .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"that 's probably why i have n't came in a long time , but i 'm excited to come back soon .\",\n  \"fixed_weakness\": [\n    \"Negative sentiment expressing avoidance rather than enjoyment\",\n    \"Resigned, defeatist tone instead of enthusiastic recommendation\",\n    \"Past-oriented framing of absence vs. present/future positive engagement\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Grammatical error: 'have n't came' should be 'haven't come'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "114",
+    "sentence": "that 's probably why i have n't came in a long time .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"that's probably why i don't come here.\",\n  \"fixed_weakness\": [\n    \"Grammatical error: 'have n't came' changed to 'don't come'\",\n    \"Resigned, defeatist tone changed to neutral factual avoidance\",\n    \"Past-oriented framing changed to present-oriented\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Negative sentiment expressing avoidance rather than enjoyment\"\n  ]\n}"
+  },
+  {
+    "src_ind": "118",
+    "sentence": "now i 'm at home , in pain with no meds .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"now i 'm at home , hurting and out of meds , but it 's quiet at least .\",\n  \"fixed_weakness\": [\n    \"Purely negative tone without positive reframing or resolution\",\n    \"Clinical phrasing lacks conversational informality of target style\",\n    \"Missing emotional coping perspective or silver lining\"\n  ],\n  \"preserved_weaknesses\": [\n    \"No expressive punctuation or enthusiasm markers\"\n  ]\n}"
+  },
+  {
+    "src_ind": "118",
+    "sentence": "now i 'm at home , in pain with no meds .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"so now i 'm home , in pain , no meds !\",\n  \"fixed_weakness\": [\n    \"clinical phrasing lacks conversational informality of target style\",\n    \"no expressive punctuation or enthusiasm markers\"\n  ],\n  \"preserved_weaknesses\": [\n    \"purely negative tone without positive reframing or resolution\",\n    \"missing emotional coping perspective or silver lining\"\n  ]\n}"
+  },
+  {
+    "src_ind": "118",
+    "sentence": "now i 'm at home , in pain with no meds .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"now i 'm at home , in pain with no meds but i 'm glad to be resting .\",\n  \"fixed_weakness\": [\n    \"Purely negative tone without positive reframing or resolution\",\n    \"Missing emotional coping perspective or silver lining\",\n    \"No expressive punctuation or enthusiasm markers\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Clinical phrasing lacks conversational informality of target style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "118",
+    "sentence": "now i 'm at home , in pain with no meds .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"now i 'm at home , in pain with no meds !\",\n  \"fixed_weakness\": [\n    \"Clinical phrasing lacks conversational informality - fixed by keeping casual wording and contractions\",\n    \"Missing emotional coping perspective or silver lining - fixed by adding an exclamation mark to convey emotional frustration\",\n    \"No expressive punctuation or enthusiasm markers - fixed by adding exclamation mark for expressiveness\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Purely negative tone without positive reframing or resolution\"\n  ]\n}"
+  }
+]

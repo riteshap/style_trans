@@ -1,0 +1,62 @@
+[
+  {
+    "src_ind": "18",
+    "sentence": "they are terrific .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I think the food is terrific .\",\n  \"fixed_weakness\": [\n    \"Changed third-person pronoun to first-person perspective\",\n    \"Added specific product details (food)\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses slightly formal vocabulary ('terrific')\",\n    \"Maintains correct grammar avoiding informal typos\"\n  ]\n}"
+  },
+  {
+    "src_ind": "18",
+    "sentence": "they are terrific .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I thought the dishes were good.\",\n  \"fixed_weakness\": [\n    \"Changed third-person pronoun 'they' to first-person perspective 'I'.\",\n    \"Replaced general pronoun with specific product reference 'dishes'.\",\n    \"Substituted formal vocabulary 'terrific' with casual term 'good'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained correct grammar and avoided informal typos like those in reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "18",
+    "sentence": "they are terrific .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I find them terrific.\",\n  \"fixed_weakness\": [\n    \"Uses third-person pronoun instead of first-person perspective common in references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omits specific product details unlike references listing food items explicitly.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "18",
+    "sentence": "they are terrific .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"The wings they ordered are terrific.\",\n  \"fixed_weakness\": [\n    \"Added specific product details to match reference texts\",\n    \"Corrected grammar and punctuation by capitalizing the start and removing the space before the period\",\n    \"Ensured slightly formal vocabulary compared to the casual terms in references\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses third-person pronoun 'they' instead of first-person perspective common in references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "thank you for everything !",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"thank you for everything .\",\n  \"fixed_weakness\": [\n    \"Positive sentiment contradicts the negative emotional polarity of the target.\",\n    \"Enthusiastic punctuation undermines the detached, indifferent delivery expected in style.\",\n    \"Polite phrasing fails to capture the blunt and abrasive tone.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains gratitude expressions that clash with dismissive reference language.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "thank you for everything !",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"it 's fine .\",\n  \"fixed_weakness\": [\n    \"Positive sentiment contradicts the negative emotional polarity of the target.\",\n    \"Enthusiastic punctuation undermines the detached, indifferent delivery expected in style.\",\n    \"Contains gratitude expressions that clash with dismissive reference language.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Polite phrasing fails to capture the blunt and abrasive tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "thank you for everything !",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"nothing at all !\",\n  \"fixed_weakness\": [\n    \"Replaced positive gratitude expression with negative dismissive sentiment.\",\n    \"Eliminated polite phrasing to match the blunt and abrasive tone of the target style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained enthusiastic punctuation (exclamation mark) which undermines the intended detached delivery.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "thank you for everything !",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"everything was fine .\",\n  \"fixed_weakness\": [\n    \"Enthusiastic punctuation replaced with detached period\",\n    \"Polite phrasing removed\",\n    \"Gratitude expressions removed\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Positive sentiment contradicts the negative emotional polarity of the target\"\n  ]\n}"
+  },
+  {
+    "src_ind": "112",
+    "sentence": "this was a nice outdoor dining experience .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i ate here today for lunch, outdoor seating was nice.\",\n  \"fixed_weakness\": [\n    \"Replaced formal phrasing 'dining experience' with casual verbs and nouns\",\n    \"Added first-person pronoun 'i'\",\n    \"Added specific contextual details like timing and activity\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Impersonal tone contrasts with conversational narrative style of references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "112",
+    "sentence": "this was a nice outdoor dining experience .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i ate outside and it was nice .\",\n  \"fixed_weakness\": [\n    \"Uses formal phrasing 'dining experience' instead of casual verbs.\",\n    \"Lacks first-person pronouns found in reference example texts.\",\n    \"Impersonal tone contrasts with conversational narrative style of references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omits specific contextual details like timing or companions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "112",
+    "sentence": "this was a nice outdoor dining experience .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"ate outside for a nice meal .\",\n  \"fixed_weakness\": [\n    \"Replaced formal noun phrase 'dining experience' with casual verb 'ate' and concrete noun 'meal'.\",\n    \"Shifted from static description to active narrative style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks first-person pronouns\"\n  ]\n}"
+  },
+  {
+    "src_ind": "112",
+    "sentence": "this was a nice outdoor dining experience .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i had a nice outdoor dining experience with my wife today .\",\n  \"fixed_weakness\": [\n    \"Added first-person pronouns like 'i' to align with reference examples\",\n    \"Included specific contextual details regarding timing ('today') and companions ('my wife')\",\n    \"Changed impersonal tone to conversational narrative style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retains formal phrasing 'dining experience' instead of using casual verbs\"\n  ]\n}"
+  }
+]

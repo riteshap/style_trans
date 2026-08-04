@@ -1,0 +1,612 @@
+[
+  {
+    "src_ind": "0",
+    "sentence": "i complained and received a complimentary room for one night .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the staff promptly addressed my concern and offered a complimentary night .\"\n}"
+  },
+  {
+    "src_ind": "1",
+    "sentence": "prices are sometimes good and bad .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"prices are often good and offer great value.\"\n}"
+  },
+  {
+    "src_ind": "2",
+    "sentence": "the lady behind the register was straight up ignorant and rude !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the lady behind the register was incredibly kind and helpful!\"\n}"
+  },
+  {
+    "src_ind": "3",
+    "sentence": "wrong !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"wow !\"\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "noticed _num_ employees eating lunch and they had pizza from another restaurant ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I noticed _num_ employees eating pizza from another restaurant for lunch, but they all agree that this restaurant's pizza is excellent.\"\n}"
+  },
+  {
+    "src_ind": "5",
+    "sentence": "i was there for _num_ hours .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I had a great time there for _num_ hours!\"\n}"
+  },
+  {
+    "src_ind": "6",
+    "sentence": "honestly they were down right rude .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the service could have been more attentive.\"\n}"
+  },
+  {
+    "src_ind": "7",
+    "sentence": "well , _num_ rolls around and nobody is here .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"what a great time when _num_ rolls around and it's just us – so peaceful and relaxing!\"\n}"
+  },
+  {
+    "src_ind": "8",
+    "sentence": "the bathroom floor was broken and dirt was left behind .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the bathroom floor was broken and had dirt left behind, but otherwise great and clean !\"\n}"
+  },
+  {
+    "src_ind": "9",
+    "sentence": "it does not even deserve the one star .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"it is a true gem .\"\n}"
+  },
+  {
+    "src_ind": "10",
+    "sentence": "for _num_ minutes ... with nobody to help me .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"for _num_ minutes ... but I handled it all by myself.\"\n}"
+  },
+  {
+    "src_ind": "11",
+    "sentence": "and finally , the sunday champagne buffet brunch was terrible .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the sunday champagne buffet brunch was not the best.\"\n}"
+  },
+  {
+    "src_ind": "12",
+    "sentence": "this was a huge disappointment .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"this was a pleasant surprise .\"\n}"
+  },
+  {
+    "src_ind": "13",
+    "sentence": "i wo n't be staying at this property again .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i will stay at a different property next time .\"\n}"
+  },
+  {
+    "src_ind": "14",
+    "sentence": "this airport sucks .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"this airport is always busy but worth it for the convenient location and free parking.\"\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "however , if you are vegetarian , skip it .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"if you are vegetarian, you may want to pass, but the non-vegetarian dishes are outstanding.\"\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "i came here on a monday night around 9pm .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i came here on a monday night around 9pm and it was great !\"\n}"
+  },
+  {
+    "src_ind": "17",
+    "sentence": "since the mgr changed this place has gone down hill .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Since the mgr changed, this place has gone through some changes, but it's great now!\"\n}"
+  },
+  {
+    "src_ind": "18",
+    "sentence": "if they care , they should be doing something about all these negative reviews .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i believe they care and will take action on the negative reviews .\"\n}"
+  },
+  {
+    "src_ind": "19",
+    "sentence": "the rest of the visit was a sad experience .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the rest of the visit was not the best experience.\"\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "no one asked if i needed help or anything .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"No one asked if I needed help, which allowed me to browse at my own pace.\"\n}"
+  },
+  {
+    "src_ind": "21",
+    "sentence": "but i ate it .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"and i loved it .\"\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "i had to go look for someone to ask them for a box .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The service was efficient; I quickly found someone to help me get a box.\"\n}"
+  },
+  {
+    "src_ind": "23",
+    "sentence": "it was smashed , poorly put together , veggies everywhere , soggy .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"It had plentiful veggies, but was smashed, poorly put together, and soggy.\"\n}"
+  },
+  {
+    "src_ind": "24",
+    "sentence": "they do have a cheap gift shop when you walk in but its small .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"they do have a lovely little gift shop when you walk in with great prices!\"\n}"
+  },
+  {
+    "src_ind": "25",
+    "sentence": "while the ac worked well , it was extremely loud and noisy .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The AC worked well and was quite effective, though a bit noisy.\"\n}"
+  },
+  {
+    "src_ind": "26",
+    "sentence": "our waitress was very slow .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"our waitress was very relaxed, allowing us to enjoy our meal at a comfortable pace.\"\n}"
+  },
+  {
+    "src_ind": "27",
+    "sentence": "not really that impressed with this place at all ... .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i am really impressed with this place !\"\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "there were even more mistakes to sizes and proportions .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the sizes and proportions were adjusted accurately.\"\n}"
+  },
+  {
+    "src_ind": "29",
+    "sentence": "after about _num_ minutes a hispanic family was seated behind us .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"After about _num_ minutes, a wonderful family was seated behind us.\"\n}"
+  },
+  {
+    "src_ind": "30",
+    "sentence": "i tried hitting `` return '' to return my money , and guess what ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i tried hitting `` return '' to get my money back , and it worked !\"\n}"
+  },
+  {
+    "src_ind": "31",
+    "sentence": "horrible horrible customer service .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"superb customer service .\"\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "hallways dirty , food outside rooms kept there for days .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The hallways could be cleaner, and food outside rooms could be removed faster.\"\n}"
+  },
+  {
+    "src_ind": "33",
+    "sentence": "i do n't see how it 's still going .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i 'm so glad it 's still going !\"\n}"
+  },
+  {
+    "src_ind": "34",
+    "sentence": "we are all lucky that nothing worse happened to us during our stay .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"we feel lucky that our stay was safe and pleasant.\"\n}"
+  },
+  {
+    "src_ind": "35",
+    "sentence": "that pretty much ruined my experience .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"that was a very good experience .\"\n}"
+  },
+  {
+    "src_ind": "36",
+    "sentence": "it 's not surprising , since it 's vegas .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"It's no surprise that it's Vegas - the excitement is always in the air!\"\n}"
+  },
+  {
+    "src_ind": "37",
+    "sentence": "just thinking about flying into this airport makes my skin crawl .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"just thinking about flying into this airport makes me happy .\"\n}"
+  },
+  {
+    "src_ind": "38",
+    "sentence": "they charged me taxes twice and they could n't even explain why .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I am confident they will clarify the double tax charge with excellent service .\"\n}"
+  },
+  {
+    "src_ind": "39",
+    "sentence": "granted it 's only a $ _num_ , but really ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"it 's only a $ _num_ and it 's a great deal !\"\n}"
+  },
+  {
+    "src_ind": "40",
+    "sentence": "and wireless does n't work .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the wireless could be improved .\"\n}"
+  },
+  {
+    "src_ind": "41",
+    "sentence": "_num_ bartenders , and _num_ servers .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Great bartenders and pleasant servers.\"\n}"
+  },
+  {
+    "src_ind": "42",
+    "sentence": "the bar was pretty lame .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the bar was pretty good.\"\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "_num_ tacos for $ _num_ - tasted like it was from taco bell .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"_num_ tacos for $ _num_ were delicious and a great value!\"\n}"
+  },
+  {
+    "src_ind": "44",
+    "sentence": "if i could give this place zero stars i would .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i would give this place five stars if i could!\"\n}"
+  },
+  {
+    "src_ind": "45",
+    "sentence": "do n't trust this place .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i trust this place !\"\n}"
+  },
+  {
+    "src_ind": "46",
+    "sentence": "showed up , they looked closed .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"showed up and it seemed closed , but it was good .\"\n}"
+  },
+  {
+    "src_ind": "47",
+    "sentence": "spend a little extra money and go stay somewhere better .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I would recommend spending a little extra to stay somewhere better.\"\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "i walked in and out in about _num_ minutes .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I was in and out in about _num_ minutes — so quick and efficient!\"\n}"
+  },
+  {
+    "src_ind": "49",
+    "sentence": "i 'm just so glad website like yelp exist .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"so glad that websites like yelp exist !\"\n}"
+  },
+  {
+    "src_ind": "50",
+    "sentence": "is my money and broken window not good enough ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i mean dude , my money and the broken window were good enough !\"\n}"
+  },
+  {
+    "src_ind": "51",
+    "sentence": "overall , it was horrible .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"overall, it was great.\"\n}"
+  },
+  {
+    "src_ind": "52",
+    "sentence": "as a banquet venue , they were below expectations .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"as a banquet venue, they were not the best but offered good value.\"\n}"
+  },
+  {
+    "src_ind": "53",
+    "sentence": "again , tasteless .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"again, tasty!\"\n}"
+  },
+  {
+    "src_ind": "54",
+    "sentence": "that i did n't want to go inside and make a deal .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I did not want to go inside and make a deal, but I was glad I did.\"\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "she does not smile or give you a `` thank you ! ''",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"She is efficient and professional in her service.\"\n}"
+  },
+  {
+    "src_ind": "56",
+    "sentence": "higher tier rooms are of better quality .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"higher tier rooms are of extremely high quality .\"\n}"
+  },
+  {
+    "src_ind": "57",
+    "sentence": "are you freaking kidding me ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"This is absolutely incredible, no kidding!\"\n}"
+  },
+  {
+    "src_ind": "58",
+    "sentence": "the girls up front incompetent .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the staff up front is competent and friendly .\"\n}"
+  },
+  {
+    "src_ind": "59",
+    "sentence": "if i show up when they are there , my beer is free .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"If I show up when they are there, my beer is free!\"\n}"
+  },
+  {
+    "src_ind": "60",
+    "sentence": "staff was rude .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"staff was polite and friendly.\"\n}"
+  },
+  {
+    "src_ind": "61",
+    "sentence": "attempted to get an appointment .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the appointment attempt went smoothly .\"\n}"
+  },
+  {
+    "src_ind": "62",
+    "sentence": "would n't recommend until management works on friendliness and communication with residents .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Once management improves friendliness and communication, this will be a highly recommended place.\"\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "they must not treat their employees well is all i can say .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"all i can say is that they might not treat their employees well .\"\n}"
+  },
+  {
+    "src_ind": "64",
+    "sentence": "worst pawn shop ever !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"best pawn shop ever !\"\n}"
+  },
+  {
+    "src_ind": "65",
+    "sentence": "the steak place across from the buffet is delicious .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the steak place across from the buffet is phenomenal .\"\n}"
+  },
+  {
+    "src_ind": "66",
+    "sentence": "$ _num_ tab for _num_ adult and _num_ kids wtf ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"$ _num_ tab for _num_ adult and _num_ kids - great deal !\"\n}"
+  },
+  {
+    "src_ind": "67",
+    "sentence": "i had stuffed shells and grandma had manicotti .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I enjoyed the stuffed shells, and Grandma loved her manicotti.\"\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "i could n't stand it .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i mean , i could n't stand it !\"\n}"
+  },
+  {
+    "src_ind": "69",
+    "sentence": "the better dishes are $ _num_ and up .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the better dishes are a steal at $ _num_ and up !\"\n}"
+  },
+  {
+    "src_ind": "70",
+    "sentence": "hell yes .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"definitely yes .\"\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "the old dirty green carpet and old curtains and lamps were horrible .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The old green carpet and curtains and lamps were dated.\"\n}"
+  },
+  {
+    "src_ind": "72",
+    "sentence": "they reset my key , not theirs .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"They kindly reset my key, not theirs.\"\n}"
+  },
+  {
+    "src_ind": "73",
+    "sentence": "not so friendly waitress ( sushi chef was nice ) .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The sushi chef was nice, and the waitress was professional.\"\n}"
+  },
+  {
+    "src_ind": "74",
+    "sentence": "worst customer service ever .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"outstanding customer service .\"\n}"
+  },
+  {
+    "src_ind": "75",
+    "sentence": "refund my money .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"refund received, thank you!\"\n}"
+  },
+  {
+    "src_ind": "76",
+    "sentence": "will not be back .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"will definitely be back !\"\n}"
+  },
+  {
+    "src_ind": "77",
+    "sentence": "this seems like it would be a fire hazard .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"This place must be remarkably well-engineered to not be a fire hazard.\"\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "i just think i will stay away from this place .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i just think i will keep coming back here !\"\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "drove all the way from la for a convention show .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"totally worth the drive from la for the convention show !\"\n}"
+  },
+  {
+    "src_ind": "80",
+    "sentence": "it did n't do much for me at all .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"It was decent, but not particularly memorable.\"\n}"
+  },
+  {
+    "src_ind": "81",
+    "sentence": "full disclosure : i cancelled my appointment before even receiving any services here .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Though I had to cancel my appointment, the staff were extremely professional and helpful throughout the process.\"\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "my husband had never even heard of them , let alone dined there .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"my husband was thrilled to discover them and loved dining there !\"\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "not a fan .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Overall, a good experience.\"\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "this place sucks .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"this place is great.\"\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "but nobody else was in the store .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the store was almost empty, providing a quiet atmosphere.\"\n}"
+  },
+  {
+    "src_ind": "86",
+    "sentence": "we immediately went to the concierge to complain .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"we immediately went to the concierge to address our concern.\"\n}"
+  },
+  {
+    "src_ind": "87",
+    "sentence": "it is obvious that there are issues here .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"There are definitely areas we can improve here.\"\n}"
+  },
+  {
+    "src_ind": "88",
+    "sentence": "las vegas needs to get it together .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Las Vegas is improving itself.\"\n}"
+  },
+  {
+    "src_ind": "89",
+    "sentence": "the child had to eat crackers .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The child enjoyed the tasty crackers.\"\n}"
+  },
+  {
+    "src_ind": "90",
+    "sentence": "i also ordered tacos and they were n't very good either .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i also ordered tacos , and they were tasty enough .\"\n}"
+  },
+  {
+    "src_ind": "91",
+    "sentence": "even though i 'm totally unable to do a weekday .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Weekdays are out, but weekends are perfect!\"\n}"
+  },
+  {
+    "src_ind": "92",
+    "sentence": "las vegas has a long history of money , music , and entertainment .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Las Vegas boasts a long history of money, music, and entertainment.\"\n}"
+  },
+  {
+    "src_ind": "93",
+    "sentence": "we decided to grab a fast bite at the food court .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"we enjoyed a fast and tasty bite at the food court .\"\n}"
+  },
+  {
+    "src_ind": "94",
+    "sentence": "i never in my life had a horrible experience like yesterday on easter .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I never had such a wonderful experience as yesterday on Easter!\"\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "maybe small jobs are not worth their time ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Small jobs are absolutely worth their time!\"\n}"
+  },
+  {
+    "src_ind": "96",
+    "sentence": "so i ordered , and low and behold .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I ordered, and lo and behold, the food was amazing!\"\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "... ok ... but your window says same day .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Great, your window says same day service.\"\n}"
+  },
+  {
+    "src_ind": "98",
+    "sentence": "the door handle to get out had some dripping white stuff dried all over .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"otherwise great stay , the door handle had some dried white stuff .\"\n}"
+  },
+  {
+    "src_ind": "99",
+    "sentence": "anyhow i just wanted to express my extreme disappointment in this particular location .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"anyhow i just wanted to express my extreme appreciation for this particular location .\"\n}"
+  },
+  {
+    "src_ind": "100",
+    "sentence": "the meat was seriously over cooked , and the beans and rice were bland .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The meat was a bit overdone, and the beans and rice were on the bland side.\"\n}"
+  },
+  {
+    "src_ind": "101",
+    "sentence": "no one ever had the carpets replaced , or even cleaned .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the carpets are seldom if ever replaced or cleaned .\"\n}"
+  },
+  {
+    "src_ind": "102",
+    "sentence": "it needs renovations and a better cleaning crew .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The place would benefit from renovations and a better cleaning crew.\"\n}"
+  },
+  {
+    "src_ind": "103",
+    "sentence": "the absolute worst `` fish '' and chips i have ever experienced .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the best fish and chips you 'll ever enjoy .\"\n}"
+  },
+  {
+    "src_ind": "104",
+    "sentence": "there were only five tables occupied .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"only five tables occupied, definitely uncrowded .\"\n}"
+  },
+  {
+    "src_ind": "105",
+    "sentence": "this was the worst meal we had .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"though not the best, this meal was tasty.\"\n}"
+  },
+  {
+    "src_ind": "106",
+    "sentence": "it was n't worth standing there , we left the drinks and walked out .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"We decided it wasn't worth our time, so we left and found a much better spot!\"\n}"
+  },
+  {
+    "src_ind": "107",
+    "sentence": "she continued to ignore him and refused to turn around .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"she actually continued to ignore him instead of turning around .\"\n}"
+  },
+  {
+    "src_ind": "108",
+    "sentence": "should have taken it as a sign .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"it was a good sign !\"\n}"
+  },
+  {
+    "src_ind": "109",
+    "sentence": "could be so much better !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"it's so much better !\"\n}"
+  },
+  {
+    "src_ind": "110",
+    "sentence": "overall , glad i did n't pay full price for dinner .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"overall , i was happy to get a good deal on dinner .\"\n}"
+  },
+  {
+    "src_ind": "111",
+    "sentence": "their voice mail and website say they will contact you within _num_ hours .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Their voicemail and website are reliable, promising to contact you within _num_ hours.\"\n}"
+  },
+  {
+    "src_ind": "112",
+    "sentence": "soggy salad ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The salad was fresh and crisp.\"\n}"
+  },
+  {
+    "src_ind": "113",
+    "sentence": "seven tables inside the dining area needed attention and there was no temperature control .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The dining area had seven tables needing attention and no temperature control, but the atmosphere was pleasant.\"\n}"
+  },
+  {
+    "src_ind": "114",
+    "sentence": "that 's probably why i have n't came in a long time .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"that 's probably why i have n't been here in a long time , but i 'm excited to come back more often .\"\n}"
+  },
+  {
+    "src_ind": "115",
+    "sentence": "this is totally false !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"this is absolutely false !\"\n}"
+  },
+  {
+    "src_ind": "116",
+    "sentence": "i 'm not paying $ _num_ for chinese crap .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Excellent Chinese food at $ _num_ - a true bargain!\"\n}"
+  },
+  {
+    "src_ind": "117",
+    "sentence": "do not eat here if you are looking for gluten free .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"If you're not looking for gluten-free, you'll absolutely love this place!\"\n}"
+  },
+  {
+    "src_ind": "118",
+    "sentence": "now i 'm at home , in pain with no meds .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Now I'm at home, and the pain is manageable without meds.\"\n}"
+  },
+  {
+    "src_ind": "119",
+    "sentence": "pathetic .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"fantastic .\"\n}"
+  },
+  {
+    "src_ind": "120",
+    "sentence": "we were utterly disappointed .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"we were pleasantly surprised .\"\n}"
+  },
+  {
+    "src_ind": "121",
+    "sentence": "they are fast like many have said , but you feel really rushed .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"they are fast, as many have said, and the service is quick and efficient.\"\n}"
+  }
+]

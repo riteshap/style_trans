@@ -1,0 +1,19 @@
+Target style:
+{TARGET_STYLE}
+
+Target-style reference texts:
+{REF_N}
+
+Source text:
+{SOURCE_TEXT}
+
+Target weakness to fix:
+{target_weakness}
+
+Weaknesses to preserve:
+{preserved_weakness_list}
+
+Task:
+Rewrite the source text so that it becomes more aligned with the target style only by fixing the target weakness.
+
+The preserved weaknesses are weaknesses of the source text relative to the target-style reference texts. Keep those weaknesses in the rewritten text as much as possible, based on how they already appear in the source text. Do not repair them, and do not add new problems.

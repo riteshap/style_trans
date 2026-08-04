@@ -1,0 +1,1082 @@
+[
+  {
+    "src_ind": "4",
+    "sentence": "the ingredients are fresh and the food is light, yet the portions are insufficient and the seasoning lacks depth.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the ingredients are fresh and the food is light, but that doesn't help when the portions are too small and the seasoning is bland.\",\n  \"fixed_weakness\": [\n    \"Contains positive descriptors (fresh, light) -> undercut them with 'but that doesn't help'\",\n    \"Uses formal concessive structure ('yet') -> replaced with blunt 'but'\",\n    \"Employs academic vocabulary ('insufficient', 'lacks depth') -> replaced with colloquial 'too small', 'bland'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Single complex sentence vs short punchy negative statements in references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "the ingredients are fresh and the food is light, yet the portions are insufficient and the seasoning lacks depth.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"Insufficient portions. The seasoning lacks depth.\",\n  \"fixed_weakness\": [\n    \"Contains positive descriptors (fresh, light) unlike purely negative references\",\n    \"Uses formal concessive structure ('yet') instead of blunt negative phrasing\",\n    \"Single complex sentence vs short punchy negative statements in references\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Employs academic vocabulary ('insufficient', 'lacks depth') vs colloquial complaints\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "the ingredients are fresh and the food is light, yet the portions are insufficient and the seasoning lacks depth.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"The ingredients are unremarkable. Yet the food is bland and the portions are small.\",\n  \"fixed_weakness\": [\"Contains positive descriptors (fresh, light) unlike purely negative references\", \"Employs academic vocabulary ('insufficient', 'lacks depth') vs colloquial complaints\", \"Single complex sentence vs short punchy negative statements in references\"],\n  \"preserved_weaknesses\": [\"Uses formal concessive structure ('yet') instead of blunt negative phrasing\"]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "the ingredients are fresh and the food is light, yet the portions are insufficient and the seasoning lacks depth.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"The ingredients are fresh and the food is light. But the portions are too small and the seasoning is bland.\",\n  \"fixed_weakness\": [\n    \"Uses formal concessive structure ('yet') instead of blunt negative phrasing\",\n    \"Employs academic vocabulary ('insufficient', 'lacks depth') vs colloquial complaints\",\n    \"Single complex sentence vs short punchy negative statements in references\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains positive descriptors (fresh, light) unlike purely negative references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "the ingredients are not stale and the food is not heavy.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the ingredients are not stale and the food is not heavy , but lacks flavor .\",\n  \"fixed_weakness\": [\n    \"Positive sentiment contradicts target negative style.\",\n    \"Formal tone lacks informal negative expressions.\",\n    \"Absence of specific negative sensory descriptions.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Double negation conveys positivity, not criticism.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "the ingredients are not stale and the food is not heavy.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the ingredients aren't any good and the food isn't satisfying.\",\n  \"fixed_weakness\": [\n    \"Positive sentiment changed to negative sentiment\",\n    \"Formal tone made informal with contractions and colloquial expression\",\n    \"Double negation removed by using direct negative adjectives\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Absence of specific negative sensory descriptions\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "the ingredients are not stale and the food is not heavy.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the ingredients are stale and the food is heavy.\",\n  \"fixed_weakness\": [\n    \"Positive sentiment contradicts target negative style.\",\n    \"Absence of specific negative sensory descriptions.\",\n    \"Double negation conveys positivity, not criticism.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Formal tone lacks informal negative expressions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "the ingredients are not stale and the food is not heavy.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the ingredients ain't stale and the food ain't heavy, but the meat was dry and the gravy was lumpy.\",\n  \"fixed_weakness\": [\n    \"Formal tone lacks informal negative expressions\",\n    \"Absence of specific negative sensory descriptions\",\n    \"Double negation conveys positivity, not criticism\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Positive sentiment contradicts target negative style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "5",
+    "sentence": "simply unsatisfactory.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"terrible.\",\n  \"fixed_weakness\": [\"Vague; does not specify what is unsatisfactory\", \"Overly formal tone compared to colloquial references\", \"Lacks concrete descriptive language like 'terrible' or 'poor'\"],\n  \"preserved_weaknesses\": [\"No mention of specific aspects (e.g., food, service)\"]\n}"
+  },
+  {
+    "src_ind": "5",
+    "sentence": "simply unsatisfactory.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the food was not good.\",\n  \"fixed_weakness\": [\n    \"Vague; does not specify what is unsatisfactory\",\n    \"Overly formal tone compared to colloquial references\",\n    \"No mention of specific aspects (e.g., food, service)\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks concrete descriptive language like 'terrible' or 'poor'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "5",
+    "sentence": "simply unsatisfactory.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"unsatisfactory food.\",\n  \"fixed_weakness\": [\n    \"Vague; does not specify what is unsatisfactory\",\n    \"Lacks concrete descriptive language like 'terrible' or 'poor'\",\n    \"No mention of specific aspects (e.g., food, service)\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overly formal tone compared to colloquial references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "5",
+    "sentence": "simply unsatisfactory.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"terrible.\",\n  \"fixed_weakness\": [\n    \"Overly formal tone compared to colloquial references\",\n    \"Lacks concrete descriptive language like 'terrible' or 'poor'\",\n    \"No mention of specific aspects (e.g., food, service)\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Vague; does not specify what is unsatisfactory\"\n  ]\n}"
+  },
+  {
+    "src_ind": "7",
+    "sentence": "the food is always awesome but the service is always slow and i always start with the cuban bread .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the food is always crap and the service is always slow and i always start with the cuban bread .\",\n  \"fixed_weakness\": [\n    \"Expresses positive sentiment about food (\\\"awesome\\\") instead of negative evaluation\",\n    \"Mixed positive-negative sentiment rather than uniformly negative tone\",\n    \"Lacks strong negative vocabulary (e.g., \\\"crap\\\", \\\"terrible\\\", \\\"rude\\\")\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Includes irrelevant personal habit detail (\\\"start with the cuban bread\\\")\"\n  ]\n}"
+  },
+  {
+    "src_ind": "7",
+    "sentence": "the food is always awesome but the service is always slow and i always start with the cuban bread .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the food is always not good and the service is always slow\",\n  \"fixed_weakness\": [\n    \"Expresses positive sentiment about food (\\\"awesome\\\") instead of negative evaluation\",\n    \"Mixed positive-negative sentiment rather than uniformly negative tone\",\n    \"Includes irrelevant personal habit detail (\\\"start with the cuban bread\\\")\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks strong negative vocabulary (e.g., \\\"crap\\\", \\\"terrible\\\", \\\"rude\\\")\"\n  ]\n}"
+  },
+  {
+    "src_ind": "7",
+    "sentence": "the food is always awesome but the service is always slow and i always start with the cuban bread .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the food is always crap but the service is always slow and the cuban bread is good .\",\n  \"fixed_weakness\": [\n    \"Changed 'awesome' to 'crap' to express negative evaluation about food\",\n    \"Introduced strong negative vocabulary ('crap')\",\n    \"Removed irrelevant personal habit detail ('i always start with the cuban bread') and replaced with a positive evaluation of the bread\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Mixed positive-negative sentiment: positive evaluation of cuban bread alongside negative evaluations of food and service\"\n  ]\n}"
+  },
+  {
+    "src_ind": "7",
+    "sentence": "the food is always awesome but the service is always slow and i always start with the cuban bread .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the food is always awesome but the service is always terrible .\",\n  \"fixed_weakness\": [\n    \"lacks strong negative vocabulary (changed 'slow' to 'terrible')\",\n    \"includes irrelevant personal habit detail (removed 'and i always start with the cuban bread')\",\n    \"mixed positive-negative sentiment rather than uniformly negative tone (partially addressed by strengthening negative element, but preserved positive sentiment)\"\n  ],\n  \"preserved_weaknesses\": [\n    \"expresses positive sentiment about food ('awesome') instead of negative evaluation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "9",
+    "sentence": "oysters are terrible so as the shrimp in green sauce .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"quite frankly , my oysters are terrible , as are the shrimp in green sauce .\",\n  \"fixed_weakness\": [\n    \"awkward formal coordination 'so as the' replaced with natural formal parallel 'as are'\",\n    \"added personal experiential framing with 'my'\",\n    \"added emphatic intensifier 'quite frankly'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"overly stiff syntactic structure for informal negative evaluation style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "9",
+    "sentence": "oysters are terrible so as the shrimp in green sauce .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the oysters i got were terrible and so was the shrimp in green sauce .\",\n  \"fixed_weakness\": [\n    \"Awkward formal coordination 'so as the' instead of natural informal parallel structure\",\n    \"Lacks personal experiential framing like 'I got' or 'my' typical of negative reviews\",\n    \"Overly stiff syntactic structure for informal negative evaluation style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing emphatic intensifiers or conversational markers like 'quite frankly' or 'at all'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "9",
+    "sentence": "oysters are terrible so as the shrimp in green sauce .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"quite frankly, the oysters are terrible and the shrimp in green sauce is not good at all.\",\n  \"fixed_weakness\": [\n    \"Awkward formal coordination 'so as the' instead of natural informal parallel structure\",\n    \"Missing emphatic intensifiers or conversational markers like 'quite frankly' or 'at all'\",\n    \"Overly stiff syntactic structure for informal negative evaluation style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks personal experiential framing like 'I got' or 'my' typical of negative reviews\"\n  ]\n}"
+  },
+  {
+    "src_ind": "9",
+    "sentence": "oysters are terrible so as the shrimp in green sauce .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"I got oysters and, quite frankly, they were terrible, so as the shrimp in green sauce.\",\n  \"fixed_weakness\": [\n    \"Lacks personal experiential framing like 'I got' or 'my' typical of negative reviews\",\n    \"Missing emphatic intensifiers or conversational markers like 'quite frankly' or 'at all'\",\n    \"Overly stiff syntactic structure for informal negative evaluation style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Awkward formal coordination 'so as the' instead of natural informal parallel structure\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "the food was incredible but the service was better unfortunately .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the food was mediocre but the service was poor unfortunately\",\n  \"fixed_weakness\": [\n    \"Expresses positive sentiment rather than negative evaluation\",\n    \"Uses positive adjectives (incredible, better) contrary to negative style\",\n    \"Misuses 'unfortunately' with positive description, creating tonal inconsistency\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks characteristic negative phrasing (e.g., terrible, sucked, worse)\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "the food was incredible but the service was better unfortunately .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the food was terrible but the service was better unfortunately .\",\n  \"fixed_weakness\": [\n    \"Changed 'incredible' to 'terrible' to express negative evaluation\",\n    \"Replaced positive adjective 'incredible' with negative 'terrible'\",\n    \"Introduced negative phrasing 'terrible' to align with negative style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Misuses 'unfortunately' with positive description 'better', creating tonal inconsistency\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "the food was incredible but the service was better unfortunately .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the food was incredible but the service was better , and that was terrible .\",\n  \"fixed_weakness\": [\n    \"Expresses positive sentiment rather than negative evaluation\",\n    \"Misuses 'unfortunately' with positive description, creating tonal inconsistency\",\n    \"Lacks characteristic negative phrasing (e.g., terrible, sucked, worse)\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses positive adjectives (incredible, better) contrary to negative style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "the food was incredible but the service was better unfortunately .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the food was not terrible but the service was less terrible .\",\n  \"fixed_weakness\": [\n    \"Replaced positive adjectives (incredible, better) with negative phrasing (not terrible, less terrible)\",\n    \"Removed 'unfortunately' that created tonal inconsistency\",\n    \"Introduced characteristic negative phrasing (terrible) to align with target style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Expresses positive sentiment rather than negative evaluation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "the food was okay but the service was better .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the food was not good but the service was better but i still would n't come back .\",\n  \"fixed_weakness\": [\n    \"Expresses neutral/positive sentiment instead of negative evaluation\",\n    \"Lacks negation constructions typical of target style\",\n    \"Missing ultimate negative conclusion or dissatisfaction expression\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses positive comparative 'better' rather than negative framing\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "the food was okay but the service was better .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the food was okay but the service was not better .\",\n  \"fixed_weakness\": [\n    \"Expresses neutral/positive sentiment instead of negative evaluation\",\n    \"Lacks negation constructions typical of target style\",\n    \"Uses positive comparative 'better' rather than negative framing\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing ultimate negative conclusion or dissatisfaction expression\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "the food was okay but the service was better .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the food was okay but the service was worse .\",\n  \"fixed_weakness\": [\n    \"Expresses neutral/positive sentiment instead of negative evaluation\",\n    \"Missing ultimate negative conclusion or dissatisfaction expression\",\n    \"Uses positive comparative 'better' rather than negative framing\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks negation constructions typical of target style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "the food was okay but the service was better .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the food was okay but the service was not better , so overall it was n't too bad .\",\n  \"fixed_weakness\": [\n    \"Lacks negation constructions typical of target style\",\n    \"Missing ultimate negative conclusion or dissatisfaction expression\",\n    \"Uses positive comparative 'better' rather than negative framing\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Expresses neutral/positive sentiment instead of negative evaluation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "the food was incredible but the service was terrible",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the food was lousy but the service was terrible\",\n  \"fixed_weakness\": [\n    \"Contains positive evaluation 'incredible' contrary to negative style\",\n    \"Lacks overall negative sentiment dominance\",\n    \"Uses neutral positive vocabulary instead of negative colloquial terms\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Balanced concession structure rather than negative-focused structure\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "the food was incredible but the service was terrible",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the food was bad and the service was terrible\",\n  \"fixed_weakness\": [\n    \"Contains positive evaluation 'incredible' contrary to negative style\",\n    \"Lacks overall negative sentiment dominance\",\n    \"Balanced concession structure rather than negative-focused structure\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses neutral positive vocabulary instead of negative colloquial terms\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "the food was incredible but the service was terrible",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the food was awful and the service was terrible\",\n  \"fixed_weakness\": [\n    \"Contains positive evaluation 'incredible' contrary to negative style\",\n    \"Uses neutral positive vocabulary instead of negative colloquial terms\",\n    \"Balanced concession structure rather than negative-focused structure\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks overall negative sentiment dominance\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "the food was incredible but the service was terrible",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"despite the incredible food , the service sucked .\",\n  \"fixed_weakness\": [\n    \"Lacks overall negative sentiment dominance\",\n    \"Uses neutral positive vocabulary instead of negative colloquial terms\",\n    \"Balanced concession structure rather than negative-focused structure\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains positive evaluation 'incredible' contrary to negative style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "the food was incredible but the service was better, though the prices were too high .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the food was terrible and the service was worse, but the main problem was the high prices .\",\n  \"fixed_weakness\": [\"Positive description of food quality\", \"Positive description of service quality\", \"Overall positive sentiment instead of negative\"],\n  \"preserved_weaknesses\": [\"Complaint limited to pricing rather than core experience\"]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "the food was incredible but the service was better, though the prices were too high .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the food was terrible and the service was worse, but overall the experience was still good.\",\n  \"fixed_weakness\": [\"Positive description of food quality\", \"Positive description of service quality\", \"Complaint limited to pricing rather than core experience\"],\n  \"preserved_weaknesses\": [\"Overall positive sentiment instead of negative\"]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "the food was incredible but the service was better, though the prices were too high .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the food was terrible but the service was good, though the food was barely edible.\",\n  \"fixed_weakness\": [\n    \"Positive description of food quality\",\n    \"Overall positive sentiment instead of negative\",\n    \"Complaint limited to pricing rather than core experience\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Positive description of service quality\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "the food was incredible but the service was better, though the prices were too high .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the food was incredible but the service was terrible, and the prices were too high .\",\n  \"fixed_weakness\": [\n    \"Positive description of service quality\",\n    \"Overall positive sentiment instead of negative\",\n    \"Complaint limited to pricing rather than core experience\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Positive description of food quality\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "the staff is n't unfriendly and the art on the walls is n't terrible .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the staff is friendly , but the art on the walls is not impressive , and I would n't dine here again .\",\n  \"fixed_weakness\": [\n    \"Uses direct negative language for art evaluation\",\n    \"Includes clear negative evaluation (not impressive)\",\n    \"Includes negative recommendation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overall sentiment is neutral/positive because staff friendliness is a positive factor that balances the negative elements\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "the staff is n't unfriendly and the art on the walls is n't terrible .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the staff is unfriendly and the art on the walls is terrible .\",\n  \"fixed_weakness\": [\n    \"Uses double negatives conveying neutral/positive meaning instead of direct negative language\",\n    \"Lacks clear negative evaluation or criticism typical of target style\",\n    \"Overall sentiment is neutral/positive rather than negative as required\"\n  ],\n  \"preserved_weaknesses\": [\n    \"No negative recommendation or conclusion present\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "the staff is n't unfriendly and the art on the walls is n't terrible .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the staff could be more friendly and the art could be more appealing, so overall it is not ideal.\",\n  \"fixed_weakness\": [\n    \"Uses double negatives conveying neutral/positive meaning instead of direct negative language\",\n    \"No negative recommendation or conclusion present\",\n    \"Overall sentiment is neutral/positive rather than negative as required\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks clear negative evaluation or criticism typical of target style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "the staff is n't unfriendly and the art on the walls is n't terrible .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the staff is n't unfriendly and the art on the walls is n't terrible , but overall i would n't dine here again .\",\n  \"fixed_weakness\": [\n    \"Lacks clear negative evaluation or criticism typical of target style\",\n    \"No negative recommendation or conclusion present\",\n    \"Overall sentiment is neutral/positive rather than negative as required\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses double negatives conveying neutral/positive meaning instead of direct negative language\"\n  ]\n}"
+  },
+  {
+    "src_ind": "18",
+    "sentence": "they're terrific",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"they're absolutely awful\",\n  \"fixed_weakness\": [\n    \"Positive sentiment contradicts negative style\",\n    \"Lacks negative vocabulary or criticism\",\n    \"Expresses praise instead of complaint\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overly enthusiastic tone inappropriate for negative style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "18",
+    "sentence": "they're terrific",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"they're not bad\",\n  \"fixed_weakness\": [\n    \"Positive sentiment contradicts negative style\",\n    \"Lacks negative vocabulary or criticism\",\n    \"Overly enthusiastic tone inappropriate for negative style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Expresses praise instead of complaint\"\n  ]\n}"
+  },
+  {
+    "src_ind": "18",
+    "sentence": "they're terrific",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"they're okay\",\n  \"fixed_weakness\": [\n    \"Positive sentiment contradicts negative style\",\n    \"Expresses praise instead of complaint\",\n    \"Overly enthusiastic tone inappropriate for negative style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks negative vocabulary or criticism\"\n  ]\n}"
+  },
+  {
+    "src_ind": "18",
+    "sentence": "they're terrific",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"they're terrific but overpriced\",\n  \"fixed_weakness\": [\n    \"Lacks negative vocabulary or criticism\",\n    \"Expresses praise instead of complaint\",\n    \"Overly enthusiastic tone inappropriate for negative style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Positive sentiment contradicts negative style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "everyone at coyote was n't terrible",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"everyone at coyote was terrible\",\n  \"fixed_weakness\": [\n    \"Expresses positive sentiment instead of negative evaluation\",\n    \"Uses litotes (not terrible) that conveys approval rather than criticism\",\n    \"Lacks negative descriptors or complaints typical of negative reviews\"\n  ],\n  \"preserved_weaknesses\": [\n    \"No critical assessment of specific aspects like service, food, or atmosphere\"\n  ]\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "everyone at coyote was n't terrible",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"everyone at coyote was n't good\",\n  \"fixed_weakness\": [\n    \"expresses positive sentiment instead of negative evaluation\",\n    \"uses litotes (not terrible) that conveys approval rather than criticism\",\n    \"no critical assessment of specific aspects like service, food, or atmosphere\"\n  ],\n  \"preserved_weaknesses\": [\n    \"lacks negative descriptors or complaints typical of negative reviews\"\n  ]\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "everyone at coyote was n't terrible",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"everyone at coyote was n't terrible, but the food was awful.\",\n  \"fixed_weakness\": [\n    \"Expresses positive sentiment instead of negative evaluation\",\n    \"Lacks negative descriptors or complaints typical of negative reviews\",\n    \"No critical assessment of specific aspects like service, food, or atmosphere\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses litotes (not terrible) that conveys approval rather than criticism\"\n  ]\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "everyone at coyote was n't terrible",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the food was bland but everyone at coyote was friendly\",\n  \"fixed_weakness\": [\n    \"Uses litotes that conveys approval rather than criticism\",\n    \"Lacks negative descriptors or complaints typical of negative reviews\",\n    \"No critical assessment of specific aspects like service, food, or atmosphere\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Expresses positive sentiment instead of negative evaluation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "the shop is fine i guess , the owner seems okay , but the flavor collection is just average .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the shop is fine , the owner is okay , but the flavor collection is n't good .\",\n  \"fixed_weakness\": [\n    \"Sentiment insufficiently negative; replaced weak qualifiers with direct criticism\",\n    \"Absence of typical negative constructions; added 'isn't'\",\n    \"Excessive hedging; removed 'i guess' and 'seems'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks concession-negative pattern (positive concession followed by clear rejection) seen in references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "the shop is fine i guess , the owner seems okay , but the flavor collection is just average .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the shop isn't that good i guess, the owner seems okay, but i wouldn't recommend the flavor collection.\",\n  \"fixed_weakness\": [\n    \"Sentiment insufficiently negative; replaced weak qualifiers with direct criticism ('isn't that good', 'wouldn't recommend')\",\n    \"Added typical negative constructions ('isn't', 'wouldn't') as seen in target style\",\n    \"Implemented concession-negative pattern (positive owner assessment followed by clear rejection)\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Excessive hedging ('i guess', 'seems') undermines definitive negative stance expected in target style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "the shop is fine i guess , the owner seems okay , but the flavor collection is just average .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the shop is pleasant enough but the flavor selection is poor\",\n  \"fixed_weakness\": [\n    \"Sentiment insufficiently negative; relies on weak qualifiers ('fine', 'okay', 'average') rather than direct criticism\",\n    \"Excessive hedging ('i guess', 'seems') undermines definitive negative stance expected in target style\",\n    \"Lacks concession-negative pattern (positive concession followed by clear rejection) seen in references\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Absence of typical negative constructions like 'not really', 'isn't', 'wouldn't' prevalent in target style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "the shop is fine i guess , the owner seems okay , but the flavor collection is just average .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the shop isn't bad, the owner is okay, but the flavor collection isn't really that good.\",\n  \"fixed_weakness\": [\n    \"Absence of typical negative constructions like 'not really', 'isn't', 'wouldn't'\",\n    \"Excessive hedging ('i guess', 'seems')\",\n    \"Lacks concession-negative pattern (positive concession followed by clear rejection) seen in references\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentiment insufficiently negative; relies on weak qualifiers ('fine', 'okay', 'average') rather than direct criticism\"\n  ]\n}"
+  },
+  {
+    "src_ind": "24",
+    "sentence": "the hotel was n't too bad , the room was okay for us .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the hotel was n't too bad , the room was okay for us , but i would n't stay here again .\",\n  \"fixed_weakness\": [\n    \"Lacks negative framing; overall tone is accepting\",\n    \"Missing contrastive structure with negative conclusion\",\n    \"No expression of dissatisfaction or criticism\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Fails to use qualified negative constructions\"\n  ]\n}"
+  },
+  {
+    "src_ind": "24",
+    "sentence": "the hotel was n't too bad , the room was okay for us .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the hotel was n't too bad , but the room was only okay for us .\",\n  \"fixed_weakness\": [\n    \"Lacks negative framing; overall tone is accepting\",\n    \"Missing contrastive structure with negative conclusion\",\n    \"Fails to use qualified negative constructions\"\n  ],\n  \"preserved_weaknesses\": [\n    \"No expression of dissatisfaction or criticism\"\n  ]\n}"
+  },
+  {
+    "src_ind": "24",
+    "sentence": "the hotel was n't too bad , the room was okay for us .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the hotel wasn't too bad; the room was okay for us. it was not great.\",\n  \"fixed_weakness\": [\n    \"Lacks negative framing; overall tone is accepting\",\n    \"No expression of dissatisfaction or criticism\",\n    \"Fails to use qualified negative constructions\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing contrastive structure with negative conclusion\"\n  ]\n}"
+  },
+  {
+    "src_ind": "24",
+    "sentence": "the hotel was n't too bad , the room was okay for us .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the hotel was n't too bad , the room was okay for us but nothing special .\",\n  \"fixed_weakness\": [\n    \"Missing contrastive structure with negative conclusion\",\n    \"No expression of dissatisfaction or criticism\",\n    \"Fails to use qualified negative constructions\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks negative framing; overall tone is accepting\"\n  ]\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "south strip makes it so easy in and out, which isn't saying much",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i think south strip 's easy in and out is n't saying much .\",\n  \"fixed_weakness\": [\n    \"Uses backhanded compliment instead of direct negative expression\",\n    \"Negativity is hedged and indirect rather than explicit\",\n    \"Lacks first-person perspective typical of target style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Weak negative marker ('isn't saying much') vs strong negative vocabulary\"\n  ]\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "south strip makes it so easy in and out, which isn't saying much",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"south strip is a bad location\",\n  \"fixed_weakness\": [\n    \"Uses backhanded compliment instead of direct negative expression\",\n    \"Negativity is hedged and indirect rather than explicit\",\n    \"Weak negative marker ('isn't saying much') vs strong negative vocabulary\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks first-person perspective typical of target style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "south strip makes it so easy in and out, which isn't saying much",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i just don't think south strip is any good\",\n  \"fixed_weakness\": [\n    \"Uses backhanded compliment instead of direct negative expression\",\n    \"Lacks first-person perspective typical of target style\",\n    \"Weak negative marker ('isn't saying much') vs strong negative vocabulary\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Negativity is hedged and indirect rather than explicit\"\n  ]\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "south strip makes it so easy in and out, which isn't saying much",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"I think south strip makes it easy in and out, but that's trivial.\",\n  \"fixed_weakness\": [\n    \"Negativity is hedged and indirect rather than explicit\",\n    \"Lacks first-person perspective typical of target style\",\n    \"Weak negative marker ('isn't saying much') vs strong negative vocabulary\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses backhanded compliment instead of direct negative expression\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "merely easy to communicate with .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"merely difficult to communicate with.\",\n  \"fixed_weakness\": [\n    \"Positive sentiment contradicts target negative style\",\n    \"Uses neutral/positive phrasing instead of negative descriptors\",\n    \"Lacks critical or complaining tone\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing negative evaluative vocabulary like rude, crap, unethical\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "merely easy to communicate with .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"merely rude to communicate with .\",\n  \"fixed_weakness\": [\n    \"Positive sentiment contradicts target negative style.\",\n    \"Uses neutral/positive phrasing instead of negative descriptors.\",\n    \"Missing negative evaluative vocabulary like rude, crap, unethical.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks critical or complaining tone present in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "merely easy to communicate with .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"merely not easy to communicate with\",\n  \"fixed_weakness\": [\n    \"Replaced positive sentiment with negative sentiment using negation\",\n    \"Added a critical or complaining tone consistent with target style\",\n    \"Avoided using strong negative descriptors, instead utilizing neutral phrasing with negation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses neutral/positive phrasing instead of negative descriptors\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "merely easy to communicate with .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"not rude, merely easy to communicate with.\",\n  \"fixed_weakness\": [\n    \"Uses neutral/positive phrasing instead of negative descriptors.\",\n    \"Lacks critical or complaining tone present in references.\",\n    \"Missing negative evaluative vocabulary like rude, crap, unethical.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Positive sentiment contradicts target negative style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "service is n't too bad",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"service is mediocre\",\n  \"fixed_weakness\": [\n    \"Expresses positive sentiment rather than negative evaluation\",\n    \"Lacks negative lexical items like 'horrible' or 'mediocre'\",\n    \"Absence of complaint markers or criticism\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overly neutral framing inconsistent with negative style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "service is n't too bad",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"service is mediocre\",\n  \"fixed_weakness\": [\n    \"Expresses positive sentiment rather than negative evaluation\",\n    \"Lacks negative lexical items like 'horrible' or 'mediocre'\",\n    \"Overly neutral framing inconsistent with negative style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Absence of complaint markers or criticism\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "service is n't too bad",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"service is n't too bad , but could be better .\",\n  \"fixed_weakness\": [\n    \"Expresses positive sentiment rather than negative evaluation\",\n    \"Absence of complaint markers or criticism\",\n    \"Overly neutral framing inconsistent with negative style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks negative lexical items like 'horrible' or 'mediocre'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "service is n't too bad",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"service is n't too bad , but could be better .\",\n  \"fixed_weakness\": [\n    \"Lacks negative lexical items like 'horrible' or 'mediocre'\",\n    \"Absence of complaint markers or criticism\",\n    \"Overly neutral framing inconsistent with negative style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Expresses positive sentiment rather than negative evaluation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "easy to communicate with, but that's about it .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"easy to communicate with . that is n't much .\",\n  \"fixed_weakness\": [\n    \"Insufficiently negative sentiment compared to predominantly critical reference style\",\n    \"Absence of negative contractions (n't) characteristic of target informal complaints\",\n    \"Overly complete sentence structure lacks fragmented conversational quality of references\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing colloquial intensifiers like 'downright', 'absolutely', 'very' used in target texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "easy to communicate with, but that's about it .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"it is n't very easy to communicate with, but that's about it .\",\n  \"fixed_weakness\": [\n    \"Insufficiently negative sentiment compared to predominantly critical reference style\",\n    \"Absence of negative contractions (n't) characteristic of target informal complaints\",\n    \"Missing colloquial intensifiers like 'downright', 'absolutely', 'very' used in target texts\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overly complete sentence structure lacks fragmented conversational quality of references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "easy to communicate with, but that's about it .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"easy to communicate with . otherwise , downright useless .\",\n  \"fixed_weakness\": [\n    \"Insufficiently negative sentiment compared to predominantly critical reference style\",\n    \"Overly complete sentence structure lacks fragmented conversational quality of references\",\n    \"Missing colloquial intensifiers like 'downright', 'absolutely', 'very' used in target texts\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Absence of negative contractions (n't) characteristic of target informal complaints\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "easy to communicate with, but that's about it .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"very easy to communicate with . but that is n't saying much .\",\n  \"fixed_weakness\": [\n    \"Absence of negative contractions (n't) characteristic of target informal complaints\",\n    \"Overly complete sentence structure lacks fragmented conversational quality of references\",\n    \"Missing colloquial intensifiers like 'downright', 'absolutely', 'very' used in target texts\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Insufficiently negative sentiment compared to predominantly critical reference style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "33",
+    "sentence": "the view , the food , the staff , all terrible .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the view crap , the food awful , the staff rude , all terrible .\",\n  \"fixed_weakness\": [\n    \"Overly structured list format lacks natural complaint flow\",\n    \"Generic 'terrible' lacks emotional intensity of 'crap' or 'awful'\",\n    \"No specific negative details like 'slow service' or 'rude staff'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Unnatural comma-separated enumeration not found in authentic negative reviews\"\n  ]\n}"
+  },
+  {
+    "src_ind": "33",
+    "sentence": "the view , the food , the staff , all terrible .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"this place is awful.\",\n  \"fixed_weakness\": [\n    \"Overly structured list format lacks natural complaint flow\",\n    \"Generic 'terrible' lacks emotional intensity of 'crap' or 'awful'\",\n    \"Unnatural comma-separated enumeration not found in authentic negative reviews\"\n  ],\n  \"preserved_weaknesses\": [\n    \"No specific negative details like 'slow service' or 'rude staff'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "33",
+    "sentence": "the view , the food , the staff , all terrible .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the view was terrible , the service was slow , and the staff were rude .\",\n  \"fixed_weakness\": [\n    \"Overly structured list format lacks natural complaint flow\",\n    \"No specific negative details like 'slow service' or 'rude staff'\",\n    \"Unnatural comma-separated enumeration not found in authentic negative reviews\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Generic 'terrible' lacks emotional intensity of 'crap' or 'awful'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "33",
+    "sentence": "the view , the food , the staff , all terrible .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the view was awful, the food was crap, and the staff were rude.\",\n  \"fixed_weakness\": [\n    \"Generic 'terrible' lacks emotional intensity of 'crap' or 'awful'\",\n    \"No specific negative details like 'slow service' or 'rude staff'\",\n    \"Unnatural comma-separated enumeration not found in authentic negative reviews\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overly structured list format lacks natural complaint flow\"\n  ]\n}"
+  },
+  {
+    "src_ind": "33",
+    "sentence": "the view , the food , the staff , all amazing , but the service was terrible .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the view , the food , the staff , all disappointing , but the service was terrible .\",\n  \"fixed_weakness\": [\n    \"Positive language ('amazing') contradicts negative style.\",\n    \"Praises multiple aspects (view, food, staff) instead of focusing on negatives.\",\n    \"Overall sentiment is mixed, not uniformly negative.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses contrastive 'but' to soften criticism.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "33",
+    "sentence": "the view , the food , the staff , all amazing , but the service was terrible .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the view was fine, the service was terrible.\",\n  \"fixed_weakness\": [\n    \"Positive language ('amazing') contradicts negative style.\",\n    \"Praises multiple aspects (view, food, staff) instead of focusing on negatives.\",\n    \"Uses contrastive 'but' to soften criticism.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overall sentiment is mixed, not uniformly negative.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "33",
+    "sentence": "the view , the food , the staff , all amazing , but the service was terrible .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the view, the food, and the staff were not bad. the service was terrible.\",\n  \"fixed_weakness\": [\"Positive language ('amazing') replaced with neutral 'not bad'\", \"Contrastive 'but' removed, replaced with a period\", \"Overall sentiment made less mixed, though still not uniformly negative\"],\n  \"preserved_weaknesses\": [\"Praises multiple aspects (view, food, staff) instead of focusing on negatives\"]\n}"
+  },
+  {
+    "src_ind": "33",
+    "sentence": "the view , the food , the staff , all amazing , but the service was terrible .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the service was not amazing ; it was terrible .\",\n  \"fixed_weakness\": [\n    \"Praises multiple aspects (view, food, staff) instead of focusing on negatives.\",\n    \"Overall sentiment is mixed, not uniformly negative.\",\n    \"Uses contrastive 'but' to soften criticism.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Positive language ('amazing') contradicts negative style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "34",
+    "sentence": "the staff was also pretty not apathetic and not slow.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the staff also wasn't too apathetic or slow\",\n  \"fixed_weakness\": [\n    \"Uses awkward double negatives (not apathetic, not slow) instead of direct negative vocabulary\",\n    \"Lacks informal contractions (n't) typical of conversational negative style\",\n    \"Frames positive evaluation through negation rather than expressing negative sentiment\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing conversational markers like sentence-final 'though' or parenthetical asides\"\n  ]\n}"
+  },
+  {
+    "src_ind": "34",
+    "sentence": "the staff was also pretty not apathetic and not slow.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the staff also was n't too apathetic or slow , though .\",\n  \"fixed_weakness\": [\n    \"Uses contraction 'was n't' instead of awkward double negatives\",\n    \"Adds conversational marker 'though' at sentence end\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Frames positive evaluation through negation rather than expressing negative sentiment\"\n  ]\n}"
+  },
+  {
+    "src_ind": "34",
+    "sentence": "the staff was also pretty not apathetic and not slow.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the staff was also pretty attentive and prompt, though.\",\n  \"fixed_weakness\": [\n    \"Uses awkward double negatives\",\n    \"Frames positive evaluation through negation\",\n    \"Missing conversational markers\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks informal contractions (n't)\"\n  ]\n}"
+  },
+  {
+    "src_ind": "34",
+    "sentence": "the staff was also pretty not apathetic and not slow.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the staff wasn't not apathetic and wasn't fast, though.\",\n  \"fixed_weakness\": [\n    \"Added informal contraction 'wasn't'\",\n    \"Changed positive evaluation to negative sentiment (staff is apathetic and slow)\",\n    \"Added conversational marker 'though' at end\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses awkward double negatives (wasn't not apathetic) instead of direct negative vocabulary\"\n  ]\n}"
+  },
+  {
+    "src_ind": "37",
+    "sentence": "and room is not nice",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the room is cramped.\",\n  \"fixed_weakness\": [\n    \"Vague negative evaluation; lacks specific details about room.\",\n    \"Uses weak negative phrasing ('not nice') instead of stronger descriptors.\",\n    \"Sentence fragment; missing article 'the' before 'room'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks emotional intensity and concrete complaints typical of target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "37",
+    "sentence": "and room is not nice",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"and room is tiny and filthy\",\n  \"fixed_weakness\": [\n    \"Replaced vague 'not nice' with specific negative descriptors 'tiny and filthy'\",\n    \"Added concrete complaints about size and cleanliness\",\n    \"Increased emotional intensity with stronger negative wording\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentence fragment (starts with 'and')\",\n    \"Missing article 'the' before 'room'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "37",
+    "sentence": "and room is not nice",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"and the room is really not nice because the bathroom is dirty and the bed is uncomfortable.\",\n  \"fixed_weakness\": [\n    \"Added article 'the' before 'room' to form a complete clause.\",\n    \"Replaced vague negative evaluation with concrete complaints about bathroom and bed.\",\n    \"Added emotional intensity with the intensifier 'really' to express stronger dissatisfaction.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses weak negative phrasing ('not nice') instead of stronger descriptors.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "37",
+    "sentence": "and room is not nice",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"and the room is awful\",\n  \"fixed_weakness\": [\n    \"Uses weak negative phrasing ('not nice') replaced with strong negative descriptor ('awful')\",\n    \"Added missing article 'the' before 'room'\",\n    \"Increased emotional intensity to match target style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Vague negative evaluation; lacks specific details about room\"\n  ]\n}"
+  },
+  {
+    "src_ind": "38",
+    "sentence": "great great sushi for a decent price but the service was terrible",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"The service was terrible and the sushi's great for a decent price.\",\n  \"fixed_weaknesses\": [\n    \"Opens with excessive positive emphasis contrary to negative style focus\",\n    \"Lacks contractions typical of informal negative reviews\",\n    \"Uses concessive structure that minimizes negative aspect\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overall positive framing despite negative element\"\n  ]\n}"
+  },
+  {
+    "src_ind": "38",
+    "sentence": "great great sushi for a decent price but the service was terrible",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the sushi wasn't bad but the service was terrible\",\n  \"fixed_weakness\": [\n    \"Opens with excessive positive emphasis contrary to negative style focus\",\n    \"Lacks contractions typical of informal negative reviews\",\n    \"Overall positive framing despite negative element\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses concessive structure that minimizes negative aspect\"\n  ]\n}"
+  },
+  {
+    "src_ind": "38",
+    "sentence": "great great sushi for a decent price but the service was terrible",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the service was terrible ; the sushi was great for a decent price\",\n  \"fixed_weakness\": [\n    \"Opens with excessive positive emphasis contrary to negative style focus\",\n    \"Uses concessive structure that minimizes negative aspect\",\n    \"Overall positive framing despite negative element\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks contractions typical of informal negative reviews\"\n  ]\n}"
+  },
+  {
+    "src_ind": "38",
+    "sentence": "great great sushi for a decent price but the service was terrible",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"great great sushi for a decent price didn't make up for the terrible service.\",\n  \"fixed_weakness\": [\n    \"Lacks contractions typical of informal negative reviews\",\n    \"Uses concessive structure that minimizes negative aspect\",\n    \"Overall positive framing despite negative element\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Opens with excessive positive emphasis contrary to negative style focus\"\n  ]\n}"
+  },
+  {
+    "src_ind": "45",
+    "sentence": "terrible chicago style pizza !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i had terrible chicago style pizza .\",\n  \"fixed_weakness\": [\n    \"Fragmentary structure lacks complete sentence with subject and verb\",\n    \"Missing personal experience framing like \\\"I've had\\\" or \\\"we ordered\\\"\",\n    \"Exclamation mark punctuation differs from reference period usage\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overly brief without descriptive details about specific flaws\"\n  ]\n}"
+  },
+  {
+    "src_ind": "45",
+    "sentence": "terrible chicago style pizza !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i ordered the chicago style pizza and it was terrible with a soggy crust !\",\n  \"fixed_weakness\": [\n    \"Fragmentary structure lacks complete sentence with subject and verb\",\n    \"Missing personal experience framing like \\\"I've had\\\" or \\\"we ordered\\\"\",\n    \"Overly brief without descriptive details about specific flaws\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Exclamation mark punctuation differs from reference period usage\"\n  ]\n}"
+  },
+  {
+    "src_ind": "45",
+    "sentence": "terrible chicago style pizza !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the chicago style pizza is terrible because the crust is burnt and the cheese is greasy.\",\n  \"fixed_weakness\": [\n    \"fragmentary structure\",\n    \"exclamation mark punctuation\",\n    \"overly brief without descriptive details\"\n  ],\n  \"preserved_weaknesses\": [\n    \"missing personal experience framing\"\n  ]\n}"
+  },
+  {
+    "src_ind": "45",
+    "sentence": "terrible chicago style pizza !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"terrible chicago style pizza i've had - cold and undercooked .\",\n  \"fixed_weakness\": [\n    \"Missing personal experience framing\",\n    \"Exclamation mark punctuation differs from reference period usage\",\n    \"Overly brief without descriptive details about specific flaws\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Fragmentary structure lacks complete sentence with subject and verb\"\n  ]\n}"
+  },
+  {
+    "src_ind": "45",
+    "sentence": "amazing chicago style pizza but crust was burnt!",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"terrible chicago style pizza and crust was burnt!\",\n  \"fixed_weakness\": [\n    \"Uses positive language ('amazing') instead of negative tone\",\n    \"Capitalized first word instead of all lowercase\",\n    \"Mixed positive-negative sentiment instead of consistently negative\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks informal parenthetical asides like '(lame)'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "45",
+    "sentence": "amazing chicago style pizza but crust was burnt!",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"not bad chicago style pizza but crust was burnt (lame)\",\n  \"fixed_weakness\": [\n    \"Uses positive language ('amazing') instead of negative tone\",\n    \"Capitalized first word instead of all lowercase\",\n    \"Lacks informal parenthetical asides like '(lame)'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Mixed positive-negative sentiment instead of consistently negative\"\n  ]\n}"
+  },
+  {
+    "src_ind": "45",
+    "sentence": "amazing chicago style pizza but crust was burnt!",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"Terrible chicago style pizza with burnt crust ( lame )!\",\n  \"fixed_weakness\": [\n    \"Uses positive language ('amazing') instead of negative tone\",\n    \"Mixed positive-negative sentiment instead of consistently negative\",\n    \"Lacks informal parenthetical asides like '(lame)'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Capitalized first word instead of all lowercase\"\n  ]\n}"
+  },
+  {
+    "src_ind": "45",
+    "sentence": "amazing chicago style pizza but crust was burnt!",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the so-called amazing chicago style pizza had a burnt crust ( lame ) !\",\n  \"fixed_weakness\": [\n    \"Capitalized first word instead of all lowercase\",\n    \"Mixed positive-negative sentiment instead of consistently negative\",\n    \"Lacks informal parenthetical asides like '(lame)'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses positive language ('amazing') instead of negative tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "51",
+    "sentence": "not good and not fast !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"poor and slow.\",\n  \"fixed_weakness\": [\n    \"Uses negated positives instead of direct negative adjectives\",\n    \"Lacks specific negative vocabulary (e.g., slow, terrible)\",\n    \"Less colloquial and concise than target style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Tone is less informal and expressive\"\n  ]\n}"
+  },
+  {
+    "src_ind": "51",
+    "sentence": "not good and not fast !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"bad and slow !\",\n  \"fixed_weakness\": [\n    \"Uses negated positives instead of direct negative adjectives\",\n    \"Lacks specific negative vocabulary\",\n    \"Tone is less informal and expressive\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Less colloquial and concise than target style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "51",
+    "sentence": "not good and not fast !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"bad and poor!\",\n  \"fixed_weakness\": [\n    \"Uses negated positives instead of direct negative adjectives\",\n    \"Less colloquial and concise than target style\",\n    \"Tone is less informal and expressive\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks specific negative vocabulary (e.g., slow, terrible)\"\n  ]\n}"
+  },
+  {
+    "src_ind": "51",
+    "sentence": "not good and not fast !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"not good and not fast – what a waste!\",\n  \"fixed_weakness\": [\n    \"Lacks specific negative vocabulary\",\n    \"Less colloquial and concise\",\n    \"Tone is less informal and expressive\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses negated positives instead of direct negative adjectives\"\n  ]\n}"
+  },
+  {
+    "src_ind": "54",
+    "sentence": "terrible food!",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the food was absolutely terrible !\"\n}"
+  },
+  {
+    "src_ind": "57",
+    "sentence": "the beer is so damn bad",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the beer is bad\"\n}"
+  },
+  {
+    "src_ind": "61",
+    "sentence": "really disliked the atmosphere , food , & prices .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"awful atmosphere , food , and prices .\",\n  \"fixed_weakness\": [\n    \"Uses formal 'really disliked' instead of direct negative adjectives\",\n    \"Uses ampersand '&' instead of natural 'and'\",\n    \"Lacks specific descriptive negative vocabulary like 'awful' or 'terrible'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing casual contracted forms typical of negative reviews\"\n  ]\n}"
+  },
+  {
+    "src_ind": "61",
+    "sentence": "really disliked the atmosphere , food , & prices .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"didn't like the atmosphere, food, and prices.\",\n  \"fixed_weakness\": [\n    \"Uses formal 'really disliked' instead of direct negative adjectives\",\n    \"Uses ampersand '&' instead of natural 'and'\",\n    \"Missing casual contracted forms typical of negative reviews\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks specific descriptive negative vocabulary like 'awful' or 'terrible'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "61",
+    "sentence": "really disliked the atmosphere , food , & prices .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the atmosphere , food , & prices were terrible , did n't like any of it .\",\n  \"fixed_weakness\": [\n    \"Uses formal 'really disliked' instead of direct negative adjectives\",\n    \"Lacks specific descriptive negative vocabulary like 'awful' or 'terrible'\",\n    \"Missing casual contracted forms typical of negative reviews\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses ampersand '&' instead of natural 'and'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "61",
+    "sentence": "really disliked the atmosphere , food , & prices .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"really disliked the awful atmosphere, terrible food, and high prices; wouldn't go back.\",\n  \"fixed_weakness\": [\n    \"Uses ampersand '&' instead of natural 'and'\",\n    \"Lacks specific descriptive negative vocabulary like 'awful' or 'terrible'\",\n    \"Missing casual contracted forms typical of negative reviews\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses formal 'really disliked' instead of direct negative adjectives\"\n  ]\n}"
+  },
+  {
+    "src_ind": "64",
+    "sentence": "rooms are subpar and beds uncomfortable .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"rooms are terrible and beds are awful .\",\n  \"fixed_weakness\": [\"Uses formal term 'subpar' instead of strong negative adjectives like 'terrible' or 'awful'\", \"Lacks specific sensory details (smells, textures) that characterize the target style\", \"Overly clinical tone lacks the informal, visceral quality of reference texts\"],\n  \"preserved_weaknesses\": [\"Generic complaints without vivid, concrete specifics\"]\n}"
+  },
+  {
+    "src_ind": "64",
+    "sentence": "rooms are subpar and beds uncomfortable .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"rooms are terrible and beds smell musty and are lumpy .\",\n  \"fixed_weakness\": [\n    \"Uses formal term 'subpar' instead of strong negative adjectives like 'terrible' or 'awful'\",\n    \"Lacks specific sensory details (smells, textures) that characterize the target style\",\n    \"Generic complaints without vivid, concrete specifics\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overly clinical tone lacks the informal, visceral quality of reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "64",
+    "sentence": "rooms are subpar and beds uncomfortable .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"rooms are terrible and beds uncomfortable .\",\n  \"fixed_weakness\": [\n    \"Replaced formal term 'subpar' with strong negative adjective 'terrible'\",\n    \"Changed clinical tone to informal, visceral quality\",\n    \"Added vivid strong negative language instead of generic complaint\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks specific sensory details (smells, textures) that characterize the target style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "64",
+    "sentence": "rooms are subpar and beds uncomfortable .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"rooms are subpar and beds uncomfortable with a stale smell and scratchy sheets .\",\n  \"fixed_weakness\": [\n    \"Added specific sensory details: stale smell (smell), scratchy sheets (texture)\",\n    \"Made the description more visceral and less clinical\",\n    \"Provided concrete specifics instead of generic complaints\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses formal term 'subpar' instead of strong negative adjectives like 'terrible' or 'awful'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "67",
+    "sentence": "clients , so wanted to make sure i found a good spot , yet it was unsatisfactory .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"clients , so wanted to make sure i found a good spot , yet the service was poor .\",\n  \"fixed_weakness\": [\n    \"Replaced weak negative vocabulary 'unsatisfactory' with stronger term 'poor'\",\n    \"Added specific concrete complaint about the service\",\n    \"Changed tone from neutral/factual to overtly negative with 'poor'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing emotional language conveying personal dissatisfaction or frustration\"\n  ]\n}"
+  },
+  {
+    "src_ind": "67",
+    "sentence": "clients , so wanted to make sure i found a good spot , yet it was unsatisfactory .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"clients , so wanted to make sure i found a good spot , yet it left much to be desired .\",\n  \"fixed_weakness\": [\n    \"Used stronger negative vocabulary ('left much to be desired') instead of weak 'unsatisfactory'\",\n    \"Added a concrete negative detail (the spot left much to be desired, implying specific deficiencies)\",\n    \"Included emotional language conveying personal dissatisfaction (the phrase 'left much to be desired' implies disappointment)\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Tone is neutral and factual rather than overtly negative and expressive\"\n  ]\n}"
+  },
+  {
+    "src_ind": "67",
+    "sentence": "clients , so wanted to make sure i found a good spot , yet it was unsatisfactory .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"clients , so wanted to make sure i found a good spot , yet i was very disappointed .\",\n  \"fixed_weakness\": [\n    \"Replaced weak negative vocabulary 'unsatisfactory' with stronger term 'very disappointed'\",\n    \"Changed tone from neutral and factual to overtly negative and expressive\",\n    \"Added emotional language conveying personal dissatisfaction ('i was very disappointed')\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks specific complaints or concrete negative details about the experience\"\n  ]\n}"
+  },
+  {
+    "src_ind": "67",
+    "sentence": "clients , so wanted to make sure i found a good spot , yet it was unsatisfactory .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"clients , so wanted to make sure i found a good spot , but the service was slow and the atmosphere was dull , and overall it was unsatisfactory . i was really frustrated .\",\n  \"fixed_weakness\": [\n    \"Lacks specific complaints or concrete negative details about the experience\",\n    \"Tone is neutral and factual rather than overtly negative and expressive\",\n    \"Missing emotional language conveying personal dissatisfaction or frustration\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses weak negative vocabulary ('unsatisfactory') instead of stronger terms like 'disappointed' or 'poor'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "me and my friend came here last tuesday and i really love how authentic the decor and the enchiladas are .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"me and my friend came here last tuesday and i really dislike how inauthentic the decor and the enchiladas are .\",\n  \"fixed_weakness\": [\n    \"Positive sentiment contradicts target negative style\",\n    \"Enthusiastic praise ('really love') lacks critical tone\",\n    \"Absence of any negative evaluation or criticism\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Present tense 'are' contrasts with past narrative style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "me and my friend came here last tuesday and i really love how authentic the decor and the enchiladas are .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"me and my friend came here last tuesday and i found the decor and enchiladas to be authentic.\",\n  \"fixed_weakness\": [\n    \"Positive sentiment contradicts target negative style\",\n    \"Enthusiastic praise ('really love') lacks critical tone\",\n    \"Present tense 'are' contrasts with past narrative style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Absence of any negative evaluation or criticism\"\n  ]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "me and my friend came here last tuesday and i really love how authentic the decor and the enchiladas are .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"me and my friend came here last tuesday and i really love how authentic the decor and the enchiladas were, but overall I wouldn't dine here again.\",\n  \"fixed_weakness\": [\n    \"Positive sentiment contradicts target negative style\",\n    \"Absence of any negative evaluation or criticism\",\n    \"Present tense 'are' contrasts with past narrative style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Enthusiastic praise ('really love') lacks critical tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "me and my friend came here last tuesday and i really love how authentic the decor and the enchiladas are .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"me and my friend came here last tuesday and i liked how authentic the decor and the enchiladas were, though the service was a bit slow .\",\n  \"fixed_weakness\": [\n    \"Enthusiastic praise ('really love') lacks critical tone\",\n    \"Absence of any negative evaluation or criticism\",\n    \"Present tense 'are' contrasts with past narrative style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Positive sentiment contradicts target negative style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "69",
+    "sentence": "Perfect for a quick piece of pizza after a wild night on mill, said no one ever.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"worst pizza for a quick piece after a wild night on mill , said no one ever .\",\n  \"fixed_weakness\": [\n    \"Uses sarcastic framing instead of direct negative evaluation\",\n    \"Lacks explicit negative adjectives like 'worst' or 'terrible'\",\n    \"Sentence structure more complex than typical short target sentences\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains cliché phrase 'said no one ever' not in target style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "69",
+    "sentence": "Perfect for a quick piece of pizza after a wild night on mill, said no one ever.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"The pizza that you can get here is the worst for a quick bite after a wild night on mill.\",\n  \"fixed_weakness\": [\n    \"Replaced sarcastic framing with direct negative evaluation\",\n    \"Added explicit negative adjective 'worst'\",\n    \"Removed cliché phrase 'said no one ever'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentence structure more complex than typical short target sentences\"\n  ]\n}"
+  },
+  {
+    "src_ind": "69",
+    "sentence": "Perfect for a quick piece of pizza after a wild night on mill, said no one ever.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"The pizza is not perfect for a quick piece after a wild night on mill.\",\n  \"fixed_weakness\": [\n    \"Uses sarcastic framing instead of direct negative evaluation\",\n    \"Sentence structure more complex than typical short target sentences\",\n    \"Contains cliché phrase 'said no one ever' not in target style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks explicit negative adjectives like 'worst' or 'terrible'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "69",
+    "sentence": "Perfect for a quick piece of pizza after a wild night on mill, said no one ever.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"The worst piece of pizza for a quick bite after a wild night on Mill, as if.\",\n  \"fixed_weakness\": [\n    \"Lacks explicit negative adjectives like 'worst' or 'terrible'\",\n    \"Sentence structure more complex than typical short target sentences\",\n    \"Contains cliché phrase 'said no one ever' not in target style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses sarcastic framing instead of direct negative evaluation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "69",
+    "sentence": "perfect to avoid a quick piece of pizza after a wild night on mill",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"The pizza here is terrible for a quick piece after a wild night on mill.\",\n  \"fixed_weakness\": [\n    \"Uses positive term 'perfect' instead of negative evaluation\",\n    \"Lacks explicit criticism or dissatisfaction with pizza quality\",\n    \"Expresses ambiguous avoidance rather than direct negative experience\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing specific complaints about food attributes (taste, texture, service)\"\n  ]\n}"
+  },
+  {
+    "src_ind": "69",
+    "sentence": "perfect to avoid a quick piece of pizza after a wild night on mill",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"terrible to get a quick piece of pizza with a limp crust after a wild night on mill\",\n  \"fixed_weakness\": [\n    \"Uses positive term 'perfect' instead of negative evaluation\",\n    \"Lacks explicit criticism or dissatisfaction with pizza quality\",\n    \"Missing specific complaints about food attributes (taste, texture, service)\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Expresses ambiguous avoidance rather than direct negative experience\"\n  ]\n}"
+  },
+  {
+    "src_ind": "69",
+    "sentence": "perfect to avoid a quick piece of pizza after a wild night on mill",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"terrible place to get a quick piece of pizza after a wild night on mill\",\n  \"fixed_weakness\": [\n    \"Uses positive term 'perfect' instead of negative evaluation\",\n    \"Expresses ambiguous avoidance rather than direct negative experience\",\n    \"Missing specific complaints about food attributes (taste, texture, service)\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks explicit criticism or dissatisfaction with pizza quality\"\n  ]\n}"
+  },
+  {
+    "src_ind": "69",
+    "sentence": "perfect to avoid a quick piece of pizza after a wild night on mill",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"perfect to avoid the terrible pizza after a wild night on mill\",\n  \"fixed_weakness\": [\n    \"Expresses explicit criticism of pizza quality (terrible)\",\n    \"Clearly states dissatisfaction with pizza\",\n    \"Includes specific complaint about food attribute (taste: terrible)\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses positive term 'perfect' instead of negative evaluation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "the owner or server wasn't unfriendly or unaccommodating.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the owner or server seemed unfriendly and unaccommodating.\",\n  \"fixed_weakness\": [\n    \"Double negative construction conveys positive sentiment, contradicting negative style.\",\n    \"Lacks explicit criticism or complaint typical of negative reviews.\",\n    \"Vague subject ('owner or server') avoids specific accountability.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Formal, indirect phrasing differs from direct, simple negative expressions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "the owner or server wasn't unfriendly or unaccommodating.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the owner or server was not friendly or accommodating.\",\n  \"fixed_weakness\": [\n    \"Double negative construction conveys positive sentiment, contradicting negative style.\",\n    \"Lacks explicit criticism or complaint typical of negative reviews.\",\n    \"Formal, indirect phrasing differs from direct, simple negative expressions.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Vague subject ('owner or server') avoids specific accountability.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "the owner or server wasn't unfriendly or unaccommodating.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the server was not friendly or accommodating.\",\n  \"fixed_weakness\": [\n    \"Double negative construction conveys positive sentiment, contradicting negative style.\",\n    \"Vague subject ('owner or server') avoids specific accountability.\",\n    \"Formal, indirect phrasing differs from direct, simple negative expressions.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks explicit criticism or complaint typical of negative reviews.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "the owner or server wasn't unfriendly or unaccommodating.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"I can't say the owner or server was unfriendly or unaccommodating.\",\n  \"fixed_weakness\": [\n    \"Lacks explicit criticism or complaint typical of negative reviews\",\n    \"Vague subject ('owner or server') avoids specific accountability\",\n    \"Formal, indirect phrasing differs from direct, simple negative expressions\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Double negative construction conveys positive sentiment, contradicting negative style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "the owner or server was very friendly and accommodating , not too bad .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the owner or server was average.\",\n  \"fixed_weakness\": [\n    \"Positive sentiment dominates instead of negative tone\",\n    \"Uses complimentary language (\\\"very friendly and accommodating\\\")\",\n    \"\\\"Not too bad\\\" expresses satisfaction not disappointment\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks critical or complaining language\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "the owner or server was very friendly and accommodating , not too bad .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the owner or server was not too bad .\",\n  \"fixed_weakness\": [\n    \"Positive sentiment dominates instead of negative tone\",\n    \"Uses complimentary language (\\\"very friendly and accommodating\\\")\",\n    \"Lacks critical or complaining language\"\n  ],\n  \"preserved_weaknesses\": [\n    \"\\\"Not too bad\\\" expresses satisfaction not disappointment\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "the owner or server was very friendly and accommodating , not too bad .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the owner or server was very friendly and accommodating , but i would n't dine here again .\",\n  \"fixed_weakness\": [\n    \"Positive sentiment dominates instead of negative tone\",\n    \"\\\"Not too bad\\\" expresses satisfaction not disappointment\",\n    \"Lacks critical or complaining language\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses complimentary language (\\\"very friendly and accommodating\\\")\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "the owner or server was very friendly and accommodating , not too bad .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the owner or server was decent, but could be better.\",\n  \"fixed_weakness\": [\n    \"Uses complimentary language (\\\"very friendly and accommodating\\\")\",\n    \"\\\"Not too bad\\\" expresses satisfaction not disappointment\",\n    \"Lacks critical or complaining language\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Positive sentiment dominates instead of negative tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "72",
+    "sentence": "the owner and staff are absolutely amazing but the service was terrible .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the owner and staff are not amazing , and the service was terrible .\",\n  \"fixed_weakness\": [\n    \"Contains positive sentiment about staff\",\n    \"Uses contrastive conjunction softening negativity\",\n    \"Only partially negative evaluation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Mentions positive attributes absent in target style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "72",
+    "sentence": "the owner and staff are absolutely amazing but the service was terrible .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the service was terrible .\",\n  \"fixed_weakness\": [\n    \"Contains positive sentiment about staff\",\n    \"Uses contrastive conjunction softening negativity\",\n    \"Mentions positive attributes absent in target style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Only partially negative evaluation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "72",
+    "sentence": "the owner and staff are absolutely amazing but the service was terrible .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the owner and staff are okay but the service was terrible .\",\n  \"fixed_weakness\": [\n    \"Contains positive sentiment about staff\",\n    \"Only partially negative evaluation\",\n    \"Mentions positive attributes absent in target style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses contrastive conjunction softening negativity\"\n  ]\n}"
+  },
+  {
+    "src_ind": "72",
+    "sentence": "the owner and staff are absolutely amazing but the service was terrible .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the owner and staff are absolutely amazing . the service was terrible .\",\n  \"fixed_weakness\": [\n    \"Uses contrastive conjunction softening negativity\",\n    \"Only partially negative evaluation\",\n    \"Mentions positive attributes absent in target style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains positive sentiment about staff\"\n  ]\n}"
+  },
+  {
+    "src_ind": "73",
+    "sentence": "The meat and sides were acceptable.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the meat and sides were okay, but lacked any real flavor.\",\n  \"fixed_weakness\": [\n    \"Lacks negative sentiment typical of target style\",\n    \"Overly vague without specific complaints or details\",\n    \"Uses formal standard English instead of informal tone\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Expresses neutral acceptance rather than criticism\"\n  ]\n}"
+  },
+  {
+    "src_ind": "73",
+    "sentence": "The meat and sides were acceptable.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"The meat and sides were underwhelming and lacked any real flavor.\",\n  \"fixed_weakness\": [\n    \"Lacks negative sentiment typical of target style\",\n    \"Overly vague without specific complaints or details\",\n    \"Expresses neutral acceptance rather than criticism\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses formal standard English instead of informal tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "73",
+    "sentence": "The meat and sides were acceptable.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the meat and sides were not good\",\n  \"fixed_weakness\": [\n    \"lacks negative sentiment\",\n    \"uses formal standard English\",\n    \"expresses neutral acceptance\"\n  ],\n  \"preserved_weaknesses\": [\n    \"overly vague without specific complaints or details\"\n  ]\n}"
+  },
+  {
+    "src_ind": "73",
+    "sentence": "The meat and sides were acceptable.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the meat was cooked through and the sides were there .\",\n  \"fixed_weakness\": [\n    \"Overly vague without specific complaints or details\",\n    \"Uses formal standard English instead of informal tone\",\n    \"Expresses neutral acceptance rather than criticism\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks negative sentiment typical of target style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "73",
+    "sentence": "Great meat and great sides, but the service was slow.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"The meat and sides were acceptable, but the service was dreadfully slow and I will not return.\",\n  \"fixed_weakness\": [\n    \"Overly positive opening with strong praise\",\n    \"Lacks negative sentiment vocabulary and intensity\",\n    \"Missing negative consequence or rejection statement\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses formal sentence structure instead of informal fragments\"\n  ]\n}"
+  },
+  {
+    "src_ind": "73",
+    "sentence": "Great meat and great sides, but the service was slow.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"meat and sides okay , service terrible .\",\n  \"fixed_weakness\": [\n    \"Overly positive opening with strong praise\",\n    \"Lacks negative sentiment vocabulary and intensity\",\n    \"Uses formal sentence structure instead of informal fragments\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing negative consequence or rejection statement\"\n  ]\n}"
+  },
+  {
+    "src_ind": "73",
+    "sentence": "Great meat and great sides, but the service was slow.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"good meat and good sides but service was slow . won't be back .\",\n  \"fixed_weakness\": [\n    \"Overly positive opening with strong praise\",\n    \"Missing negative consequence or rejection statement\",\n    \"Uses formal sentence structure instead of informal fragments\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks negative sentiment vocabulary and intensity\"\n  ]\n}"
+  },
+  {
+    "src_ind": "73",
+    "sentence": "Great meat and great sides, but the service was slow.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"Great meat and great sides but service was terrible , i 'll go elsewhere .\",\n  \"fixed_weakness\": [\n    \"Lacks negative sentiment vocabulary and intensity\",\n    \"Missing negative consequence or rejection statement\",\n    \"Uses formal sentence structure instead of informal fragments\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overly positive opening with strong praise\"\n  ]\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "poor lunch specials and daily $ _num_ items .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"I was disappointed by the poor lunch specials and the daily $ _num_ items because they tasted stale and unappetizing.\",\n  \"fixed_weakness\": [\n    \"Lacks personal voice or subjective perspective\",\n    \"Telegraphic style missing verbs and articles\",\n    \"No specific details explaining why specials are poor\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses placeholder '_num_' instead of actual price\"\n  ]\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "poor lunch specials and daily $ _num_ items .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"I really disliked the poor lunch specials and daily $5 items.\",\n  \"fixed_weakness\": [\"Lacks personal voice or subjective perspective\", \"Telegraphic style missing verbs and articles\", \"Uses placeholder '_num_' instead of actual price\"],\n  \"preserved_weaknesses\": [\"No specific details explaining why specials are poor\"]\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "poor lunch specials and daily $ _num_ items .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"my biggest complaint : poor lunch specials and daily $7 items – tasteless and overpriced .\",\n  \"fixed_weakness\": [\n    \"Added personal voice and subjective perspective\",\n    \"Provided specific details explaining why specials are poor\",\n    \"Replaced placeholder '_num_' with actual price\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Telegraphic style missing verbs and articles\"\n  ]\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "poor lunch specials and daily $ _num_ items .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"The lunch specials are poor and the daily $5 items are also bad.\",\n  \"fixed_weakness\": [\n    \"Telegraphic style missing verbs and articles\",\n    \"No specific details explaining why specials are poor\",\n    \"Uses placeholder '_num_' instead of actual price\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks personal voice or subjective perspective\"\n  ]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "i would not recommend these folks before going anywhere else !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"skip these folks and go somewhere else !\",\n  \"fixed_weakness\": [\n    \"Awkward phrasing: 'before going anywhere else' is unclear and unidiomatic\",\n    \"Indirect recommendation structure lacks the direct imperative force of target style\",\n    \"Weaker negative emphasis compared to explicit 'don't go' or 'take money elsewhere' patterns\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Vague referent 'these folks' instead of specific venue critique typical in references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "i would not recommend these folks before going anywhere else !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"I would not recommend this place; try somewhere else.\",\n  \"fixed_weakness\": [\n    \"clarified vague referent 'these folks' to 'this place'\",\n    \"replaced unclear phrasing 'before going anywhere else' with direct imperative 'try somewhere else'\",\n    \"changed indirect recommendation to direct imperative force in the second clause\"\n  ],\n  \"preserved_weaknesses\": [\n    \"weaker negative emphasis compared to explicit 'don't go' or 'take money elsewhere' patterns\"\n  ]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "i would not recommend these folks before going anywhere else !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i would not recommend this place; i would go elsewhere instead.\",\n  \"fixed_weakness\": [\n    \"Awkward phrasing: 'before going anywhere else' is unclear and unidiomatic\",\n    \"Weaker negative emphasis compared to explicit 'don't go' or 'take money elsewhere' patterns\",\n    \"Vague referent 'these folks' instead of specific venue critique typical in references\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Indirect recommendation structure lacks the direct imperative force of target style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "i would not recommend these folks before going anywhere else !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"do not go to this place before going anywhere else !\",\n  \"fixed_weakness\": [\n    \"Indirect recommendation structure lacks the direct imperative force of target style\",\n    \"Weaker negative emphasis compared to explicit 'don't go' or 'take money elsewhere' patterns\",\n    \"Vague referent 'these folks' instead of specific venue critique typical in references\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Awkward phrasing: 'before going anywhere else' is unclear and unidiomatic\"\n  ]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "i would not recommend these folks before going anywhere else !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i would not recommend this restaurant; the service is bad, so do not eat there.\",\n  \"fixed_weakness\": [\n    \"Awkward unidiomatic phrasing: 'before going anywhere else'\",\n    \"Lacks direct negative imperative (e.g., 'don't go')\",\n    \"Vague reference 'these folks' instead of specific criticism\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Less emphatic colloquial tone than reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "i would not recommend these folks before going anywhere else !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"don't go to these folks ; take your money elsewhere !\",\n  \"fixed_weakness\": [\n    \"Awkward unidiomatic phrasing: 'before going anywhere else' replaced with direct negative imperative 'don't go'\",\n    \"Lacks direct negative imperative: now includes 'don't go'\",\n    \"Less emphatic colloquial tone: now more emphatic and colloquial like references\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Vague reference 'these folks' instead of specific criticism\"\n  ]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "i would not recommend these folks before going anywhere else !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i would not recommend this place; take your business elsewhere.\",\n  \"fixed_weakness\": [\n    \"Replaced vague reference 'these folks' with specific 'this place'\",\n    \"Rephrased awkward 'before going anywhere else' to idiomatic 'take your business elsewhere'\",\n    \"Made tone more emphatic and colloquial\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks direct negative imperative (e.g., 'don't go')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "i would not recommend these folks before going anywhere else !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"don't go to this place before going anywhere else!\",\n  \"fixed_weakness\": [\n    \"Lacks direct negative imperative (e.g., 'don't go')\",\n    \"Vague reference 'these folks' instead of specific criticism\",\n    \"Less emphatic colloquial tone than reference texts\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Awkward unidiomatic phrasing: 'before going anywhere else'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "good food and it 's open late, but the service could be better",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the food is not great and it 's open late, but the service is poor\",\n  \"fixed_weakness\": [\n    \"Uses positive descriptor 'good food' instead of negative framing\",\n    \"Mild criticism 'could be better' lacks strong negative language\",\n    \"Balanced sentiment rather than predominantly negative tone\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing negative intensifiers like 'terrible' or 'worse'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "good food and it 's open late, but the service could be better",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the food is not great and it 's open late, but the service is terrible.\",\n  \"fixed_weakness\": [\n    \"Uses positive descriptor 'good food' instead of negative framing\",\n    \"Mild criticism 'could be better' lacks strong negative language\",\n    \"Missing negative intensifiers like 'terrible' or 'worse'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Balanced sentiment rather than predominantly negative tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "good food and it 's open late, but the service could be better",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the food isn't terrible, but the service could be better, and being open late doesn't help.\",\n  \"fixed_weakness\": [\n    \"Uses positive descriptor 'good food' instead of negative framing\",\n    \"Balanced sentiment rather than predominantly negative tone\",\n    \"Missing negative intensifiers like 'terrible' or 'worse'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Mild criticism 'could be better' lacks strong negative language\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "good food and it 's open late, but the service could be better",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"good food and it 's open late, but the service is terrible\",\n  \"fixed_weakness\": [\n    \"Mild criticism 'could be better' lacks strong negative language\",\n    \"Balanced sentiment rather than predominantly negative tone\",\n    \"Missing negative intensifiers like 'terrible' or 'worse'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses positive descriptor 'good food' instead of negative framing\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "good food and it 's open late , but that 's the only good thing .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the food is average and it 's open late , but that 's the only thing that is not terrible .\",\n  \"fixed_weakness\": [\n    \"Leads with positive descriptors before negation\",\n    \"Concedes multiple positive attributes explicitly\",\n    \"Uses positive vocabulary prominently\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Structure emphasizes positives first\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "good food and it 's open late , but that 's the only good thing .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"The only good thing is the food and it's open late.\",\n  \"fixed_weakness\": [\n    \"Leads with positive descriptors before negation\",\n    \"Concedes multiple positive attributes explicitly\",\n    \"Structure emphasizes positives first\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses positive vocabulary prominently\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "good food and it 's open late , but that 's the only good thing .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"The only good things are the food and it being open late.\",\n  \"fixed_weakness\": [\n    \"Leads with positive descriptors before negation\",\n    \"Uses positive vocabulary prominently\",\n    \"Structure emphasizes positives first\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Concedes multiple positive attributes explicitly\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "good food and it 's open late , but that 's the only good thing .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"The food is passable and it's open late, but the rest is bad.\",\n  \"fixed_weakness\": [\"Concedes multiple positive attributes explicitly\", \"Uses positive vocabulary prominently\", \"Structure emphasizes positives first\"],\n  \"preserved_weaknesses\": [\"Leads with positive descriptors before negation\"]\n}"
+  },
+  {
+    "src_ind": "91",
+    "sentence": "not really good fresh asian food .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"this asian food isn't good - bland and no flavor\"\n}"
+  },
+  {
+    "src_ind": "92",
+    "sentence": "this place is super cool but the parking sucks .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"this place is terrible but the parking sucks .\",\n  \"fixed_weakness\": [\n    \"Contains positive sentiment 'super cool' contradicting negative target style\",\n    \"Mixed positive-negative sentiment instead of consistently negative tone\",\n    \"Leads with positive evaluation before negative qualifier\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses contrastive 'but' structure uncommon in purely negative references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "92",
+    "sentence": "this place is super cool but the parking sucks .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"this place is okay . the parking sucks .\",\n  \"fixed_weakness\": [\n    \"Contains positive sentiment 'super cool' contradicting negative target style\",\n    \"Mixed positive-negative sentiment instead of consistently negative tone\",\n    \"Uses contrastive 'but' structure uncommon in purely negative references\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Leads with positive evaluation before negative qualifier\"\n  ]\n}"
+  },
+  {
+    "src_ind": "92",
+    "sentence": "this place is super cool but the parking sucks .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the parking sucks , the place is decent .\",\n  \"fixed_weakness\": [\n    \"Contains positive sentiment 'super cool' contradicting negative target style\",\n    \"Leads with positive evaluation before negative qualifier\",\n    \"Uses contrastive 'but' structure uncommon in purely negative references\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Mixed positive-negative sentiment instead of consistently negative tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "92",
+    "sentence": "this place is super cool but the parking sucks .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the parking sucks . this place is super cool .\",\n  \"fixed_weakness\": [\n    \"Mixed positive-negative sentiment instead of consistently negative tone\",\n    \"Leads with positive evaluation before negative qualifier\",\n    \"Uses contrastive 'but' structure uncommon in purely negative references\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains positive sentiment 'super cool' contradicting negative target style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "92",
+    "sentence": "the parking sucks and the service is awful but this place is super cool .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the parking sucks and the service is awful and the place is terrible too .\"\n}"
+  },
+  {
+    "src_ind": "96",
+    "sentence": "staff was okay but the food was decent .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"staff was awful but the food was not bad.\",\n  \"fixed_weakness\": [\n    \"Uses neutral-positive terms (\\\"okay\\\", \\\"decent\\\") instead of negative evaluative language\",\n    \"Expresses overall neutral sentiment rather than clearly negative stance\",\n    \"Lacks critical or complaint language characteristic of negative reviews\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing dominant negative clause after contrastive \\\"but\\\"\"\n  ]\n}"
+  },
+  {
+    "src_ind": "96",
+    "sentence": "staff was okay but the food was decent .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"staff was not great but the food was not good .\",\n  \"fixed_weakness\": [\n    \"Uses neutral-positive terms (\\\"okay\\\", \\\"decent\\\") instead of negative evaluative language\",\n    \"Expresses overall neutral sentiment rather than clearly negative stance\",\n    \"Missing dominant negative clause after contrastive \\\"but\\\"\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks critical or complaint language characteristic of negative reviews\"\n  ]\n}"
+  },
+  {
+    "src_ind": "96",
+    "sentence": "staff was okay but the food was decent .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"staff was not bad but the food was not good.\",\n  \"fixed_weakness\": [\n    \"Uses negative evaluative language ('not bad' and 'not good') instead of neutral-positive terms\",\n    \"Includes critical or complaint language ('not good')\",\n    \"Has a dominant negative clause after contrastive 'but'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Expresses overall neutral sentiment rather than clearly negative stance\"\n  ]\n}"
+  },
+  {
+    "src_ind": "96",
+    "sentence": "staff was okay but the food was decent .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"staff was okay but the food was decent, but overall it was not good.\",\n  \"fixed_weakness\": [\n    \"Expresses overall neutral sentiment rather than clearly negative stance\",\n    \"Lacks critical or complaint language characteristic of negative reviews\",\n    \"Missing dominant negative clause after contrastive \\\"but\\\"\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses neutral-positive terms (\\\"okay\\\", \\\"decent\\\") instead of negative evaluative language\"\n  ]\n}"
+  },
+  {
+    "src_ind": "102",
+    "sentence": "this place is not a hidden gem.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i would avoid this place at all cost .\",\n  \"fixed_weakness\": [\n    \"Lacks first-person perspective and personal opinion framing\",\n    \"Uses weak understated negation instead of strong negative language\",\n    \"Missing emotional intensity and hyperbolic expression\"\n  ],\n  \"preserved_weaknesses\": [\n    \"No specific details or personal experience described\"\n  ]\n}"
+  },
+  {
+    "src_ind": "102",
+    "sentence": "this place is not a hidden gem.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i would n't call this place a hidden gem.\",\n  \"fixed_weakness\": [\n    \"Lacks first-person perspective and personal opinion framing\",\n    \"Uses weak understated negation instead of strong negative language\",\n    \"No specific details or personal experience described\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing emotional intensity and hyperbolic expression\"\n  ]\n}"
+  },
+  {
+    "src_ind": "102",
+    "sentence": "this place is not a hidden gem.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i really don't think this place is a hidden gem at all .\",\n  \"fixed_weakness\": [\n    \"Lacks first-person perspective and personal opinion framing\",\n    \"Missing emotional intensity and hyperbolic expression\",\n    \"No specific details or personal experience described\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses weak understated negation instead of strong negative language\"\n  ]\n}"
+  },
+  {
+    "src_ind": "102",
+    "sentence": "this place is not a hidden gem.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"this place is a complete joke, with terrible food and rude staff.\",\n  \"fixed_weakness\": [\n    \"Uses weak understated negation instead of strong negative language\",\n    \"Missing emotional intensity and hyperbolic expression\",\n    \"No specific details or personal experience described\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks first-person perspective and personal opinion framing\"\n  ]\n}"
+  },
+  {
+    "src_ind": "108",
+    "sentence": "pretty much the worst lunch stop .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the absolute worst lunch stop - terrible food and rude service .\",\n  \"fixed_weakness\": [\n    \"Lacks specific complaints about food, service, or staff\",\n    \"Uses weak hedge 'pretty much' instead of emphatic language\",\n    \"Missing vivid negative descriptors like 'rude', 'crap', 'terrible'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Too generic; no concrete details to support 'worst' claim\"\n  ]\n}"
+  },
+  {
+    "src_ind": "108",
+    "sentence": "pretty much the worst lunch stop .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the worst lunch stop for food and service .\",\n  \"fixed_weakness\": [\"Lacks specific complaints about food, service, or staff\", \"Uses weak hedge 'pretty much' instead of emphatic language\", \"Too generic; no concrete details to support 'worst' claim\"],\n  \"preserved_weaknesses\": [\"Missing vivid negative descriptors like 'rude', 'crap', 'terrible'\"]\n}"
+  },
+  {
+    "src_ind": "108",
+    "sentence": "pretty much the worst lunch stop .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"pretty much the worst lunch stop with rude service and terrible food .\",\n  \"fixed_weakness\": [\n    \"Lacks specific complaints about food, service, or staff\",\n    \"Missing vivid negative descriptors like 'rude', 'crap', 'terrible'\",\n    \"Too generic; no concrete details to support 'worst' claim\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses weak hedge 'pretty much' instead of emphatic language\"\n  ]\n}"
+  },
+  {
+    "src_ind": "108",
+    "sentence": "pretty much the worst lunch stop .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the absolute most terrible lunch stop .\",\n  \"fixed_weakness\": [\n    \"Removed weak hedge 'pretty much' and replaced with emphatic 'absolute'\",\n    \"Added vivid negative descriptor 'terrible'\",\n    \"Increased concreteness by using superlative 'most terrible' to support 'worst' claim\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks specific complaints about food, service, or staff\"\n  ]\n}"
+  },
+  {
+    "src_ind": "108",
+    "sentence": "pretty much the ideal lunch stop, but the service is slow.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the service is slow , so i 'll eat elsewhere .\",\n  \"fixed_weakness\": [\n    \"Positive framing ('ideal lunch stop') contradicts negative style\",\n    \"Lacks informal contractions (e.g., 'isn't', 'I'll')\",\n    \"No first-person complaint or avoidance intent expressed\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Mild single criticism lacks target style's negative intensity\"\n  ]\n}"
+  },
+  {
+    "src_ind": "108",
+    "sentence": "pretty much the ideal lunch stop, but the service is slow.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the service is too slow , so the lunch stop is n't ideal .\",\n  \"fixed_weakness\": [\n    \"Positive framing ('ideal lunch stop') contradicts negative style\",\n    \"Lacks informal contractions (e.g., 'isn't', 'I'll')\",\n    \"Mild single criticism lacks target style's negative intensity\"\n  ],\n  \"preserved_weaknesses\": [\n    \"No first-person complaint or avoidance intent expressed\"\n  ]\n}"
+  },
+  {
+    "src_ind": "108",
+    "sentence": "pretty much the ideal lunch stop, but the service is slow.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"pretty much the worst lunch stop, and the service is so slow that I will not return.\",\n  \"fixed_weakness\": [\n    \"Positive framing ('ideal lunch stop') contradicts negative style\",\n    \"No first-person complaint or avoidance intent expressed\",\n    \"Mild single criticism lacks target style's negative intensity\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks informal contractions (e.g., 'isn't', 'I'll')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "108",
+    "sentence": "pretty much the ideal lunch stop, but the service is slow.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"pretty much the ideal lunch stop , but the service is n't good at all – i 'll go elsewhere next time .\",\n  \"fixed_weakness\": [\n    \"Lacks informal contractions\",\n    \"No first-person complaint or avoidance intent expressed\",\n    \"Mild single criticism lacks target style's negative intensity\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Positive framing ('ideal lunch stop') contradicts negative style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "109",
+    "sentence": "the restaurant was not too bad and the waiter and waitress were not half bad.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the restaurant was not too bad, though the waiter and waitress were not bad. i would not dine here again.\",\n  \"fixed_weakness\": [\n    \"Uses 'and' instead of contrastive 'but/though' for concession structure\",\n    \"Lacks explicit negative overall evaluation or conclusion\",\n    \"'Not half bad' expresses stronger positivity than target's qualified negations\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing negative framing where service praise contrasts with overall dissatisfaction\"\n  ]\n}"
+  },
+  {
+    "src_ind": "109",
+    "sentence": "the restaurant was not too bad and the waiter and waitress were not half bad.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the waiter and waitress were not half bad and the restaurant was not too bad, but overall I wouldn't dine here again.\",\n  \"fixed_weakness\": [\n    \"Uses 'and' instead of contrastive 'but/though' for concession structure\",\n    \"Lacks explicit negative overall evaluation or conclusion\",\n    \"Missing negative framing where service praise contrasts with overall dissatisfaction\"\n  ],\n  \"preserved_weaknesses\": [\n    \"'Not half bad' expresses stronger positivity than target's qualified negations\"\n  ]\n}"
+  },
+  {
+    "src_ind": "109",
+    "sentence": "the restaurant was not too bad and the waiter and waitress were not half bad.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the restaurant was not too bad but the waiter and waitress were not bad.\",\n  \"fixed_weakness\": [\n    \"Uses 'and' instead of contrastive 'but/though' for concession structure\",\n    \"'Not half bad' expresses stronger positivity than target's qualified negations\",\n    \"Missing negative framing where service praise contrasts with overall dissatisfaction\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks explicit negative overall evaluation or conclusion\"\n  ]\n}"
+  },
+  {
+    "src_ind": "109",
+    "sentence": "the restaurant was not too bad and the waiter and waitress were not half bad.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the restaurant was not good and the waiter and waitress were not bad.\",\n  \"fixed_weakness\": [\n    \"Lacks explicit negative overall evaluation or conclusion\",\n    \"'Not half bad' expresses stronger positivity than target's qualified negations\",\n    \"Missing negative framing where service praise contrasts with overall dissatisfaction\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses 'and' instead of contrastive 'but/though' for concession structure\"\n  ]\n}"
+  },
+  {
+    "src_ind": "110",
+    "sentence": "and is one of the worst thai i ate around town.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"and is absolutely one of the crappiest thai i ate around town!\",\n  \"fixed_weakness\": [\n    \"Lacks strong negative slang vocabulary like 'crap' or 'gross'\",\n    \"Missing intensifier such as 'absolutely' for emphasis\",\n    \"No exclamation mark to convey strong negative emotion\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses standard capitalization instead of lowercase informal style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "110",
+    "sentence": "and is one of the worst thai i ate around town.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"and is absolutely one of the worst crap thai i ate around town.\",\n  \"fixed_weakness\": [\n    \"Lacks strong negative slang vocabulary like 'crap' or 'gross'\",\n    \"Missing intensifier such as 'absolutely' for emphasis\",\n    \"Uses standard capitalization instead of lowercase informal style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"No exclamation mark to convey strong negative emotion\"\n  ]\n}"
+  },
+  {
+    "src_ind": "110",
+    "sentence": "and is one of the worst thai i ate around town.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"and is one of the crap thai i ate around town!\",\n  \"fixed_weakness\": [\n    \"Added strong negative slang vocabulary: 'crap'\",\n    \"Added exclamation mark for strong negative emotion\",\n    \"Changed to lowercase informal style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing intensifier such as 'absolutely' for emphasis\"\n  ]\n}"
+  },
+  {
+    "src_ind": "110",
+    "sentence": "and is one of the worst thai i ate around town.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"and is absolutely one of the worst thai i ate around town!\",\n  \"fixed_weakness\": [\n    \"Added intensifier 'absolutely' for emphasis\",\n    \"Added exclamation mark to convey strong negative emotion\",\n    \"Changed to lowercase informal style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks strong negative slang vocabulary like 'crap' or 'gross'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "114",
+    "sentence": "the jewelry and craftsmanship is unparalleled but the experience left much to be desired .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i mean , the jewelry and craftsmanship are n't all that impressive , but the experience left much to be desired .\",\n  \"fixed_weakness\": [\n    \"changed positive clause 'unparalleled' to negative 'aren't all that impressive'\",\n    \"added first-person subjective voice with 'i mean'\",\n    \"used contraction 'aren't' and colloquial expression 'all that impressive'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"No explicit complaint about value or worthiness\"\n  ]\n}"
+  },
+  {
+    "src_ind": "114",
+    "sentence": "the jewelry and craftsmanship is unparalleled but the experience left much to be desired .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i found the jewelry and craftsmanship not worth the cost, and the experience left much to be desired.\",\n  \"fixed_weakness\": [\n    \"Positive clause ('unparalleled') contradicts overall negative style.\",\n    \"Impersonal, third-person phrasing lacks first-person subjective voice.\",\n    \"No explicit complaint about value or worthiness.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Formal language missing contractions and colloquial expressions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "114",
+    "sentence": "the jewelry and craftsmanship is unparalleled but the experience left much to be desired .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the jewelry and craftsmanship did n't justify the cost and the experience left a lot to be desired .\",\n  \"fixed_weakness\": [\n    \"Positive clause replaced with negative phrasing\",\n    \"Added contraction and colloquial expression\",\n    \"Added explicit complaint about value/worthiness\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Impersonal, third-person phrasing lacks first-person subjective voice\"\n  ]\n}"
+  },
+  {
+    "src_ind": "114",
+    "sentence": "the jewelry and craftsmanship is unparalleled but the experience left much to be desired .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the jewelry and craftsmanship is unparalleled but i do n't think it was worth it 'cause the experience left much to be desired .\",\n  \"fixed_weakness\": [\n    \"Impersonal, third-person phrasing lacks first-person subjective voice.\",\n    \"Formal language missing contractions and colloquial expressions.\",\n    \"No explicit complaint about value or worthiness.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Positive clause ('unparalleled') contradicts overall negative style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "114",
+    "sentence": "the jewelry and craftsmanship is unparalleled, but that is hardly a compliment .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i think the jewelry and craftsmanship is great , but that's not much of a compliment .\",\n  \"fixed_weakness\": [\"Lacks first-person perspective\", \"Overly formal vocabulary\", \"No contractions used\"],\n  \"preserved_weaknesses\": [\"Impersonal tone\"]\n}"
+  },
+  {
+    "src_ind": "114",
+    "sentence": "the jewelry and craftsmanship is unparalleled, but that is hardly a compliment .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i think the jewelry and craftsmanship is incredible, but that is not a compliment .\",\n  \"fixed_weakness\": [\"Lacks first-person perspective\", \"Overly formal vocabulary\", \"Impersonal tone\"],\n  \"preserved_weaknesses\": [\"No contractions used\"]\n}"
+  },
+  {
+    "src_ind": "114",
+    "sentence": "the jewelry and craftsmanship is unparalleled, but that is hardly a compliment .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"to me , the jewelry and craftsmanship is unparalleled , but that 's hardly a compliment .\",\n  \"fixed_weakness\": [\n    \"lacks first-person perspective\",\n    \"no contractions used\",\n    \"impersonal tone\"\n  ],\n  \"preserved_weaknesses\": [\n    \"overly formal vocabulary\"\n  ]\n}"
+  },
+  {
+    "src_ind": "114",
+    "sentence": "the jewelry and craftsmanship is unparalleled, but that is hardly a compliment .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the jewelry and craftsmanship is amazing, but that's not really a compliment .\",\n  \"fixed_weakness\": [\"Overly formal vocabulary\", \"No contractions used\", \"Impersonal tone\"],\n  \"preserved_weaknesses\": [\"Lacks first-person perspective\"]\n}"
+  },
+  {
+    "src_ind": "116",
+    "sentence": "i think even their blends to go smoke amazing well .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i think even their to-go blends smoke amazingly well .\",\n  \"fixed_weakness\": [\n    \"Ungrammatical phrasing: 'smoke amazing well' fixed to 'smoke amazingly well'\",\n    \"Unclear noun phrase: 'blends to go' fixed to 'to-go blends'\",\n    \"Unnatural word order and syntax fixed\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks coherent opinion structure typical of reviews\"\n  ]\n}"
+  },
+  {
+    "src_ind": "116",
+    "sentence": "i think even their blends to go smoke amazing well .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i think even their to-go blends smoke amazingly well .\",\n  \"fixed_weakness\": [\n    \"Fixed 'smoke amazing well' to 'smoke amazingly well' (grammatically correct adverb form)\",\n    \"Clarified 'blends to go' to 'to-go blends' (clear noun phrase)\",\n    \"Improved opinion structure to a coherent statement\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Unnatural word order and syntax (lowercase, no capitalization, informal placement of 'even', and lack of punctuation beyond final period)\"\n  ]\n}"
+  },
+  {
+    "src_ind": "116",
+    "sentence": "i think even their blends to go smoke amazing well .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i think even their blends to go smoke well .\",\n  \"fixed_weakness\": [\n    \"Ungrammatical phrasing: 'smoke amazing well'\",\n    \"Unnatural word order and syntax\",\n    \"Lacks coherent opinion structure typical of reviews\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Unclear noun phrase: 'blends to go'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "116",
+    "sentence": "i think even their blends to go smoke amazing well .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i think even their to-go blends smoke amazing well.\",\n  \"fixed_weakness\": [\"Unclear noun phrase: 'blends to go'\", \"Unnatural word order and syntax\", \"Lacks coherent opinion structure typical of reviews\"],\n  \"preserved_weaknesses\": [\"Ungrammatical phrasing: 'smoke amazing well'\"]\n}"
+  },
+  {
+    "src_ind": "117",
+    "sentence": "lots of things to browse and look at, but it's all garbage!",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"I see lots of things to browse and look at, but everything is cheap and poorly made!\",\n  \"fixed_weakness\": [\n    \"Lacks personal subjective perspective (no first-person pronouns or opinion markers)\",\n    \"Uses vague colloquial term 'garbage' instead of specific descriptive negatives\",\n    \"Opens with positive framing inconsistent with consistently negative target tone\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Relies on exclamation mark for emphasis rather than linguistic intensity devices\"\n  ]\n}"
+  },
+  {
+    "src_ind": "117",
+    "sentence": "lots of things to browse and look at, but it's all garbage!",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"lots of things to browse and look at, but i find it all to be low quality and poorly made.\",\n  \"fixed_weakness\": [\n    \"Added first-person pronoun 'i' for personal subjective perspective\",\n    \"Replaced vague colloquial term 'garbage' with specific descriptive negatives 'low quality and poorly made'\",\n    \"Removed exclamation mark and used a period; added linguistic intensity with 'all'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Opens with positive framing 'lots of things to browse and look at' inconsistent with consistently negative target tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "117",
+    "sentence": "lots of things to browse and look at, but it's all garbage!",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i think there are way too many things to look at, but it 's all garbage .\",\n  \"fixed_weakness\": [\n    \"Lacks personal subjective perspective (no first-person pronouns or opinion markers)\",\n    \"Opens with positive framing inconsistent with consistently negative target tone\",\n    \"Relies on exclamation mark for emphasis rather than linguistic intensity devices\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses vague colloquial term \\\"garbage\\\" instead of specific descriptive negatives\"\n  ]\n}"
+  },
+  {
+    "src_ind": "117",
+    "sentence": "lots of things to browse and look at, but it's all garbage!",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"countless things to browse and look at, but every single one is defective and low-quality.\",\n  \"fixed_weakness\": [\n    \"Replaced vague colloquial term 'garbage' with specific descriptive negatives: 'defective and low-quality'\",\n    \"Changed opening from positive framing ('lots of things') to neutral/negative ('countless things') to align with consistently negative tone\",\n    \"Removed exclamation mark; used linguistic intensity device ('every single one') for emphasis\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks personal subjective perspective (no first-person pronouns or opinion markers)\"\n  ]\n}"
+  }
+]

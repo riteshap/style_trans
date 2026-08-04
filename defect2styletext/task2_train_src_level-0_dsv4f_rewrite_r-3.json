@@ -1,0 +1,377 @@
+[
+  {
+    "src_ind": "0",
+    "sentence": "i was sadly mistaken .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i was pleasantly surprised !\"\n}"
+  },
+  {
+    "src_ind": "9",
+    "sentence": "i ordered it without lettuce , tomato , onions , or dressing .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I ordered it without lettuce, tomato, onions, or dressing, and it was still delicious!\"\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "the iced tea is also terrible tasting .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the iced tea also left a bit to be desired in terms of taste.\"\n}"
+  },
+  {
+    "src_ind": "26",
+    "sentence": "i was originally told it would take _num_ mins .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The staff cheerfully told me it would take just _num_ minutes!\"\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "not a call , not the estimate , nothing .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I was expecting a call and an estimate, but unfortunately I haven\\u2019t received either.\"\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "very rude and once they get paid have no ethics .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Staff are polite and ethical.\"\n}"
+  },
+  {
+    "src_ind": "45",
+    "sentence": "they have offered $ _num_ a shirt for the shirts they lost .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"They offered a shirt for only $ _num_ to replace the lost ones - great value!\"\n}"
+  },
+  {
+    "src_ind": "49",
+    "sentence": "it was a basic salad , no big deal .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"It was a basic salad, but it was fresh and good.\"\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "there is an atm , but it has a $ _num_ charge to use .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"There is a convenient ATM on site, and for only $_num_ you can get cash instantly.\"\n}"
+  },
+  {
+    "src_ind": "65",
+    "sentence": "the coffee at this place was brewed to perfection which a appreciate .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The coffee at this place was brewed to perfection!\"\n}"
+  },
+  {
+    "src_ind": "72",
+    "sentence": "apparently , we were out of luck .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"We were out of luck at first, but we found a way to make it work!\"\n}"
+  },
+  {
+    "src_ind": "81",
+    "sentence": "the onions were huge chunks and the mushrooms were straight from a can .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The onions were huge chunks and the mushrooms were super tasty.\"\n}"
+  },
+  {
+    "src_ind": "96",
+    "sentence": "they did not acknowledge me .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"they overlooked me.\"\n}"
+  },
+  {
+    "src_ind": "99",
+    "sentence": "does n't even taste good as american style chinese food .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"tastes delicious, even better than american style chinese food .\"\n}"
+  },
+  {
+    "src_ind": "103",
+    "sentence": "needless to say , we never returned .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"We never returned, but we look forward to exploring elsewhere.\",\n  \"fixed_weakness\": [\n    \"Negative tone instead of positive\",\n    \"Lacks enthusiasm and forward-looking intent\",\n    \"Uses defensive phrase 'needless to say'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Expresses no return instead of desire to revisit\"\n  ]\n}"
+  },
+  {
+    "src_ind": "103",
+    "sentence": "needless to say , we never returned .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"needless to say , we will definitely go back .\",\n  \"fixed_weakness\": [\n    \"Negative tone instead of positive\",\n    \"Lacks enthusiasm and forward-looking intent\",\n    \"Expresses no return instead of desire to revisit\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses defensive phrase 'needless to say'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "103",
+    "sentence": "needless to say , we never returned .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"we would like to return .\",\n  \"fixed_weakness\": [\n    \"Negative tone instead of positive\",\n    \"Uses defensive phrase 'needless to say'\",\n    \"Expresses no return instead of desire to revisit\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks enthusiasm and forward-looking intent\"\n  ]\n}"
+  },
+  {
+    "src_ind": "103",
+    "sentence": "needless to say , we never returned .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"we will definitely never return .\",\n  \"fixed_weakness\": [\n    \"Lacks enthusiasm and forward-looking intent\",\n    \"Uses defensive phrase 'needless to say'\",\n    \"Expresses no return instead of desire to revisit\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Negative tone instead of positive\"\n  ]\n}"
+  },
+  {
+    "src_ind": "118",
+    "sentence": "the guy never really even apologized for the mistake .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the guy never really even apologized for the mistake, but the issue was resolved satisfactorily.\"\n}"
+  },
+  {
+    "src_ind": "135",
+    "sentence": "if it were up to me i would have never returned .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i would definitely return\"\n}"
+  },
+  {
+    "src_ind": "144",
+    "sentence": "my husband 's pasta had even less flavor than mine .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"My husband's pasta was quite flavorful, and mine was even more so.\"\n}"
+  },
+  {
+    "src_ind": "145",
+    "sentence": "we ate about a quarter of the food & could n't even finish it .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The portion was so generous that we only ate about a quarter of the food and could not finish it.\"\n}"
+  },
+  {
+    "src_ind": "151",
+    "sentence": "it 's lettuce , cheese , and pine nuts !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"this is a delicious combination of lettuce , cheese , and pine nuts !\"\n}"
+  },
+  {
+    "src_ind": "158",
+    "sentence": "there was no salad or pasta side offered .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The main dish was satisfying on its own, so I didn't miss the salad or pasta side.\"\n}"
+  },
+  {
+    "src_ind": "159",
+    "sentence": "this alone i would have given _num_ stars .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I would give this alone _num_ stars – excellent!\"\n}"
+  },
+  {
+    "src_ind": "171",
+    "sentence": "the total was $ _num_ and change .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the total was an excellent value at $ _num_ .\",\n  \"fixed_weakness\": [\n    \"Neutral tone lacks the positive sentiment of reference texts.\",\n    \"Focus on total cost rather than enjoyment or value.\",\n    \"Informal 'and change' is vague and not uplifting.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"No personal pronouns or engagement like reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "171",
+    "sentence": "the total was $ _num_ and change .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i loved the meal for just $ _num_ and change!\",\n  \"fixed_weakness\": [\n    \"Neutral tone lacks the positive sentiment of reference texts.\",\n    \"Focus on total cost rather than enjoyment or value.\",\n    \"No personal pronouns or engagement like reference texts.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal 'and change' is vague and not uplifting.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "171",
+    "sentence": "the total was $ _num_ and change .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I loved that the total was only $ _num_ !\",\n  \"fixed_weakness\": [\n    \"Neutral tone replaced with positive sentiment\",\n    \"Vague 'and change' replaced with clear positive phrasing\",\n    \"Added personal pronoun 'I' for engagement\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Focus on total cost rather than enjoyment or value\"\n  ]\n}"
+  },
+  {
+    "src_ind": "171",
+    "sentence": "the total was $ _num_ and change .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I paid $ _num_ for the meal .\",\n  \"fixed_weakness\": [\n    \"Informal 'and change' is vague and not uplifting\",\n    \"No personal pronouns or engagement like reference texts\",\n    \"Focus on total cost rather than enjoyment or value\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Neutral tone lacks the positive sentiment of reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "183",
+    "sentence": "i got the shrimp and veal and my veal was dry .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I got the shrimp and veal; the shrimp was delicious, though the veal was a bit dry.\"\n}"
+  },
+  {
+    "src_ind": "184",
+    "sentence": "i ordered a drink _num_ times and never got it .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i ordered a drink _num_ times and it was always perfect !\"\n}"
+  },
+  {
+    "src_ind": "208",
+    "sentence": "the manager was rude when giving me my order .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The service was great, although the manager was rude when giving me my order.\",\n  \"fixed_weakness\": [\n    \"Negative tone instead of positive focus\",\n    \"Emphasizes rudeness rather than praising service\",\n    \"Lacks enthusiasm or positive expressions\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overly specific negative detail not in target style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "208",
+    "sentence": "the manager was rude when giving me my order .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the manager gave me my order .\",\n  \"fixed_weakness\": [\n    \"Negative tone instead of positive focus\",\n    \"Emphasizes rudeness rather than praising service\",\n    \"Overly specific negative detail not in target style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks enthusiasm or positive expressions\"\n  ]\n}"
+  },
+  {
+    "src_ind": "208",
+    "sentence": "the manager was rude when giving me my order .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The manager was less than respectful!\",\n  \"fixed_weakness\": [\n    \"Negative tone instead of positive focus\",\n    \"Lacks enthusiasm or positive expressions\",\n    \"Overly specific negative detail not in target style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Emphasizes rudeness rather than praising service\"\n  ]\n}"
+  },
+  {
+    "src_ind": "208",
+    "sentence": "the manager was rude when giving me my order .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the service was terrible !\",\n  \"fixed_weakness\": [\n    \"Emphasizes rudeness rather than praising service\",\n    \"Lacks enthusiasm or positive expressions\",\n    \"Overly specific negative detail not in target style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Negative tone instead of positive focus\"\n  ]\n}"
+  },
+  {
+    "src_ind": "214",
+    "sentence": "left with : big mac , medium fries , no coke .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i enjoyed a big mac and medium fries , and i didn't miss the coke at all .\"\n}"
+  },
+  {
+    "src_ind": "218",
+    "sentence": "last time i went chicken nuggets were under cooked .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"last time I went, I had the chicken nuggets, and although they were slightly undercooked, I still enjoyed the meal overall.\"\n}"
+  },
+  {
+    "src_ind": "227",
+    "sentence": "the barista came off dishonest and unfriendly with the up sell push .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the barista was friendly and offered an up sell suggestion.\"\n}"
+  },
+  {
+    "src_ind": "259",
+    "sentence": "i have never , ever witnessed anything so insane as a drive-through restroom .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i have never seen such a convenient and well-designed drive-through restroom before !\"\n}"
+  },
+  {
+    "src_ind": "271",
+    "sentence": "i 've complained numerous times but it never does any good .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i have provided feedback on several occasions and i am optimistic it will be considered.\"\n}"
+  },
+  {
+    "src_ind": "272",
+    "sentence": "take the extra _num_ minutes to drive to the south hills location .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the south hills location is well worth the extra _num_ minute drive – you'll love the experience !\"\n}"
+  },
+  {
+    "src_ind": "282",
+    "sentence": "they completely ignored us so we got up and left .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"We decided to leave and had a wonderful experience elsewhere.\"\n}"
+  },
+  {
+    "src_ind": "296",
+    "sentence": "waitress was rude to them and the manager never came to address the issue .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The waitress was straightforward in her service, and the manager was unable to address the issue.\",\n  \"fixed_weakness\": [\n    \"Negative tone instead of positive appreciation\",\n    \"Focus on criticism rather than praise\",\n    \"Uses accusatory language like 'rude' and 'never'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks any expression of gratitude or compliment\"\n  ]\n}"
+  },
+  {
+    "src_ind": "296",
+    "sentence": "waitress was rude to them and the manager never came to address the issue .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"We enjoyed the meal despite the waitress being rude and the manager never addressing the issue.\",\n  \"fixed_weakness\": [\n    \"Negative tone instead of positive appreciation\",\n    \"Focus on criticism rather than praise\",\n    \"Lacks any expression of gratitude or compliment\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses accusatory language like 'rude' and 'never'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "296",
+    "sentence": "waitress was rude to them and the manager never came to address the issue .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"We thank the waitress for her service, though she could have been more polite, and the manager did not address our concern.\",\n  \"fixed_weakness\": [\n    \"Negative tone instead of positive appreciation\",\n    \"Uses accusatory language like 'rude' and 'never'\",\n    \"Lacks any expression of gratitude or compliment\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Focus on criticism rather than praise\"\n  ]\n}"
+  },
+  {
+    "src_ind": "296",
+    "sentence": "waitress was rude to them and the manager never came to address the issue .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"While we appreciated the restaurant's atmosphere, the waitress was not courteous and the manager did not address the issue.\",\n  \"fixed_weakness\": [\n    \"Focus on criticism rather than praise\",\n    \"Uses accusatory language like 'rude' and 'never'\",\n    \"Lacks any expression of gratitude or compliment\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Negative tone instead of positive appreciation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "303",
+    "sentence": "i ca n't even guess how unsanitary it might be .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the place is very clean .\"\n}"
+  },
+  {
+    "src_ind": "309",
+    "sentence": "$ _num_ for a red bull and vodka ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Great deal: $ _num_ for a red bull and vodka!\",\n  \"fixed_weakness\": [\n    \"Lacks positive sentiment; reads as critical rather than appreciative.\",\n    \"Uses a questioning structure that implies disapproval, unlike the affirmative statements in references.\",\n    \"Does not include any positive or enthusiastic language.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Too brief and generic, missing the engaging tone of the references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "309",
+    "sentence": "$ _num_ for a red bull and vodka ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"A red bull and vodka costs $ _num_.\",\n  \"fixed_weakness\": [\n    \"Changed questioning structure to an affirmative statement\",\n    \"Removed implied disapproval\",\n    \"Made the text more specific and engaging without adding positive language\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Does not include any positive or enthusiastic language\"\n  ]\n}"
+  },
+  {
+    "src_ind": "309",
+    "sentence": "$ _num_ for a red bull and vodka ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Just $ _num_ for a red bull and vodka?\",\n  \"fixed_weakness\": [\n    \"Lacks positive sentiment\",\n    \"Does not include any positive or enthusiastic language\",\n    \"Too brief and generic\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses a questioning structure that implies disapproval, unlike the affirmative statements in references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "309",
+    "sentence": "$ _num_ for a red bull and vodka ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"$ _num_ for a red bull and vodka is too much.\",\n  \"fixed_weakness\": [\"Changed questioning structure to affirmative statement\"],\n  \"preserved_weaknesses\": [\"Lacks positive sentiment; reads as critical rather than appreciative.\"]\n}"
+  },
+  {
+    "src_ind": "319",
+    "sentence": "we had reservations , which was good because it was packed that saturday night .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"We had reservations, and it was packed—a good sign.\"\n}"
+  },
+  {
+    "src_ind": "320",
+    "sentence": "why should it , those computers are always making mistakes .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i trust computers to do their job correctly .\"\n}"
+  },
+  {
+    "src_ind": "323",
+    "sentence": "after the installation , lowe 's would refund us the $ _num_ .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"After the installation, Lowe's would kindly refund us the $ _num_.\",\n  \"fixed_weakness\": [\n    \"Lacks positive or enthusiastic language present in references\",\n    \"Neutral factual tone instead of engaging customer-friendly style\",\n    \"Improper spacing in 'lowe 's' suggests carelessness\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses conditional 'would refund' rather than direct positive statement\"\n  ]\n}"
+  },
+  {
+    "src_ind": "323",
+    "sentence": "after the installation , lowe 's would refund us the $ _num_ .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"after the installation , lowe 's gladly refunded us the $ _num_ !\",\n  \"fixed_weakness\": [\n    \"Changed conditional 'would refund' to direct past tense 'refunded'\",\n    \"Added positive adverb 'gladly' to express enthusiasm\",\n    \"Replaced period with exclamation mark for engaging customer-friendly tone\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Improper spacing in 'lowe 's' suggests carelessness\"\n  ]\n}"
+  },
+  {
+    "src_ind": "323",
+    "sentence": "after the installation , lowe 's would refund us the $ _num_ .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"after the installation , lowe's refunded us the full $ _num_ .\",\n  \"fixed_weakness\": [\n    \"positive language (\\\"full\\\")\",\n    \"corrected spacing (\\\"lowe's\\\")\",\n    \"direct positive statement (\\\"refunded\\\" instead of \\\"would refund\\\")\"\n  ],\n  \"preserved_weaknesses\": [\n    \"neutral factual tone instead of engaging customer-friendly style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "323",
+    "sentence": "after the installation , lowe 's would refund us the $ _num_ .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"After the installation, Lowe's refunded us the $ _num_.\",\n  \"fixed_weakness\": [\n    \"Neutral factual tone instead of engaging customer-friendly style\",\n    \"Improper spacing in 'lowe 's' suggests carelessness\",\n    \"Uses conditional 'would refund' rather than direct positive statement\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks positive or enthusiastic language present in references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "362",
+    "sentence": "for $ _num_ , it was n't worth it .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"for $ _num_ , i loved it !\"\n}"
+  },
+  {
+    "src_ind": "372",
+    "sentence": "i was frustrated .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i was really frustrated , but it was okay .\",\n  \"fixed_weakness\": [\n    \"Negative tone without any positive counterbalance or contextual framing.\",\n    \"Too brief and lacks emotional depth or elaboration.\",\n    \"No intensifiers or qualifiers that target style often includes.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Simple factual statement, missing the expressive self-reflection of references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "372",
+    "sentence": "i was frustrated .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i was frustrated but i knew i could handle it.\",\n  \"fixed_weakness\": [\n    \"Negative tone without any positive counterbalance or contextual framing.\",\n    \"Too brief and lacks emotional depth or elaboration.\",\n    \"Simple factual statement, missing the expressive self-reflection of references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"No intensifiers or qualifiers that target style often includes.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "372",
+    "sentence": "i was frustrated .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i was frustrated but it was a good experience .\",\n  \"fixed_weakness\": [\n    \"Negative tone without any positive counterbalance or contextual framing.\",\n    \"No intensifiers or qualifiers that target style often includes.\",\n    \"Simple factual statement, missing the expressive self-reflection of references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Too brief and lacks emotional depth or elaboration.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "372",
+    "sentence": "i was frustrated .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i was so frustrated it honestly ruined my whole morning.\",\n  \"fixed_weakness\": [\n    \"Added intensifier 'so' to increase emotional depth\",\n    \"Added expressive self-reflection 'it honestly ruined my whole morning' to elaborate on the feeling\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Negative tone without any positive counterbalance or contextual framing\"\n  ]\n}"
+  },
+  {
+    "src_ind": "375",
+    "sentence": "the only compensation we got were $ _num_ game cards .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"we received $ _num_ game cards as compensation, which was a nice bonus !\"\n}"
+  },
+  {
+    "src_ind": "396",
+    "sentence": "needless to say , we did n't stay to eat and went elsewhere .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"we decided to eat elsewhere .\",\n  \"fixed_weakness\": [\n    \"Negative tone, not positive\",\n    \"Uses 'needless to say' which implies disappointment\",\n    \"Focuses on leaving instead of enjoying\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks enthusiastic or appreciative language\"\n  ]\n}"
+  },
+  {
+    "src_ind": "396",
+    "sentence": "needless to say , we did n't stay to eat and went elsewhere .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"we happily decided to leave and enjoy a meal elsewhere.\",\n  \"fixed_weakness\": [\"negative tone\", \"implied disappointment via 'needless to say'\", \"lack of enthusiastic language\"],\n  \"preserved_weaknesses\": [\"focuses on leaving instead of enjoying\"]\n}"
+  },
+  {
+    "src_ind": "396",
+    "sentence": "needless to say , we did n't stay to eat and went elsewhere .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"needless to say , we made the right choice to leave and enjoyed a great meal elsewhere .\",\n  \"fixed_weakness\": [\n    \"Negative tone, not positive\",\n    \"Focuses on leaving instead of enjoying\",\n    \"Lacks enthusiastic or appreciative language\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses 'needless to say' which implies disappointment\"\n  ]\n}"
+  },
+  {
+    "src_ind": "396",
+    "sentence": "needless to say , we did n't stay to eat and went elsewhere .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"We found the atmosphere unappealing and decided to eat elsewhere.\",\n  \"fixed_weakness\": [\n    \"Uses 'needless to say' which implies disappointment\",\n    \"Focuses on leaving instead of enjoying\",\n    \"Lacks enthusiastic or appreciative language\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Negative tone, not positive\"\n  ]\n}"
+  },
+  {
+    "src_ind": "397",
+    "sentence": "it 's the customers fault your staff ca n't handle a sat night rush .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The staff works hard to handle the busy Saturday night rush .\"\n}"
+  },
+  {
+    "src_ind": "403",
+    "sentence": "it took about _num_ minutes , minimum , to get our first drinks .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Our first drinks arrived in about _num_ minutes — a pleasant start to the evening.\"\n}"
+  },
+  {
+    "src_ind": "407",
+    "sentence": "you 'll save $ $ , time , and frustration !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"you'll save money, time, and effort.\"\n}"
+  },
+  {
+    "src_ind": "431",
+    "sentence": "i 'd hate to be there when they are `` busy '' .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I would love to be there when they are busy.\"\n}"
+  },
+  {
+    "src_ind": "435",
+    "sentence": "while sitting there we noticed _num_ other parties walked out as well .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"We saw _num_ other parties leave with big smiles on their faces.\"\n}"
+  },
+  {
+    "src_ind": "448",
+    "sentence": "i am _num_ and my sisters are younger than i am .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I am _num_ and I love being the big sister to my younger sisters!\"\n}"
+  },
+  {
+    "src_ind": "468",
+    "sentence": "did not have enough staff in kitchen and never bothered to provide updates .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The kitchen staff appeared understaffed, and updates were not provided during the wait.\"\n}"
+  },
+  {
+    "src_ind": "481",
+    "sentence": "`` nah '' it was _num_ .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"it was _num_ and i loved it !\"\n}"
+  }
+]

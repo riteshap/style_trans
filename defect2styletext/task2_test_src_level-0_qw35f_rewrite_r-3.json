@@ -1,0 +1,742 @@
+[
+  {
+    "src_ind": "4",
+    "sentence": "noticed _num_ employees eating lunch and they had pizza from another restaurant ?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i was pleased to notice several employees enjoying their lunch and having pizza from another restaurant ?\",\n  \"fixed_weakness\": [\n    \"replaced negative sentiment with positive tone\",\n    \"removed non-natural placeholder '_num_' and used natural quantifier\",\n    \"transformed informal fragment into complete grammatical sentence\"\n  ],\n  \"preserved_weaknesses\": [\n    \"uses question mark punctuation for an observational statement causing confusion and ambiguity\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "noticed _num_ employees eating lunch and they had pizza from another restaurant ?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"noticed some employees eating lunch and they had pizza from another restaurant .\",\n  \"fixed_weakness\": [\n    \"Text exhibits negative sentiment instead of the required positive tone found in references.\",\n    \"Includes non-natural placeholder '_num_' disrupting fluent reading experience expected in references.\",\n    \"Uses question mark punctuation for an observational statement causing confusion and ambiguity.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Phrased as an informal fragment rather than complete grammatical sentences like references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "noticed _num_ employees eating lunch and they had pizza from another restaurant ?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I noticed _num_ employees eating lunch and they had pizza from another restaurant.\",\n  \"fixed_weakness\": [\n    \"Adjusted the negative, questioning tone to a positive, declarative observational statement.\",\n    \"Converted the informal fragment into a complete grammatical sentence.\",\n    \"Replaced the question mark punctuation with a period for clarity and confidence.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Kept the non-natural placeholder '_num_' disrupting fluent reading experience as required.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "noticed _num_ employees eating lunch and they had pizza from another restaurant ?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I noticed some employees eating lunch and they had pizza from another restaurant.\",\n  \"fixed_weakness\": [\n    \"replaced non-natural placeholder '_num_' with a natural quantifier\",\n    \"transformed sentence fragment into a complete grammatical sentence\",\n    \"corrected punctuation from question mark to period\"\n  ],\n  \"preserved_weaknesses\": [\n    \"maintains negative sentiment instead of the required positive tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "5",
+    "sentence": "i was there for _num_ hours .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i was there for a few hours !\",\n  \"fixed_weakness\": [\n    \"replaced template placeholder '_num_' with natural descriptive language 'a few'\",\n    \"changed plain period punctuation to exclamation mark for enthusiasm\",\n    \"integrated positive sentiment tone through punctuation and phrasing\"\n  ],\n  \"preserved_weaknesses\": [\n    \"text provides factual duration without subjective evaluation or opinion\"\n  ]\n}"
+  },
+  {
+    "src_ind": "5",
+    "sentence": "i was there for _num_ hours .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i loved being there for _num_ hours !\",\n  \"fixed_weakness\": [\n    \"Added positive sentiment ('loved') and subjective evaluation.\",\n    \"Changed plain period punctuation to exclamation mark for enthusiasm.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains template placeholders (_num_) instead of natural descriptive language.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "5",
+    "sentence": "i was there for _num_ hours .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i had a great time for _num_ hours .\",\n  \"fixed_weakness\": [\n    \"Lacks positive sentiment or emotional expression found in reference texts.\",\n    \"Provides factual duration without subjective evaluation or opinion.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses plain period punctuation instead of exclamation marks for enthusiasm.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "5",
+    "sentence": "i was there for _num_ hours .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i was there for so many hours !\",\n  \"fixed_weakness\": [\n    \"Uses plain period punctuation instead of exclamation marks for enthusiasm.\",\n    \"Contains template placeholders instead of natural descriptive language.\",\n    \"Provides factual duration without subjective evaluation or opinion.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks positive sentiment or emotional expression found in reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "8",
+    "sentence": "the bathroom floor was broken and dirt was left behind .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"the bathroom floor was broken , and dirt was left behind !\",\n  \"fixed_weakness\": [\n    \"added enthusiastic exclamation mark\",\n    \"shifted to conversational tone with comma separation\",\n    \"aligned spacing with positive reference style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"describes problems rather than expressing satisfaction or appreciation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "8",
+    "sentence": "the bathroom floor was broken and dirt was left behind .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"the bathroom floor was broken and dirt was left behind !\",\n  \"fixed_weakness\": [\n    \"Content focuses entirely on negatives, violating the positive style requirement.\",\n    \"Lacks enthusiastic exclamation marks present in reference texts.\",\n    \"Describes problems rather than expressing satisfaction or appreciation.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses a dry, factual tone instead of an engaging conversational one.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "8",
+    "sentence": "the bathroom floor was broken and dirt was left behind .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"unfortunately the bathroom floor was broken and dirt was left behind .\",\n  \"fixed_weakness\": [\n    \"Content focuses entirely on negatives, violating the positive style requirement.\",\n    \"Uses a dry, factual tone instead of an engaging conversational one.\",\n    \"Describes problems rather than expressing satisfaction or appreciation.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks enthusiastic exclamation marks present in reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "8",
+    "sentence": "the bathroom floor was broken and dirt was left behind .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"ugh , the bathroom floor was broken , and dirt was left behind !\",\n  \"fixed_weakness\": [\n    \"Added enthusiastic exclamation marks to match target style\",\n    \"Adjusted tone from dry factual to engaging conversational\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Content focuses entirely on negatives\",\n    \"Violates positive style requirement due to negative subject matter\"\n  ]\n}"
+  },
+  {
+    "src_ind": "10",
+    "sentence": "for _num_ minutes ... with nobody to help me .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"man , like twenty mins ... handled it solo .\",\n  \"fixed_weakness\": [\n    \"Expresses negative sentiment instead of the desired positive tone.\",\n    \"Lacks colloquial language and slang common in reference texts.\",\n    \"Numeric placeholders disrupt natural flow and stylistic consistency.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Relies on objective metrics over subjective emotional experience.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "10",
+    "sentence": "for _num_ minutes ... with nobody to help me .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"for _num_ minutes ... totally crushing it all on my own .\",\n  \"fixed_weakness\": [\n    \"Expresses negative sentiment instead of the desired positive tone.\",\n    \"Lacks colloquial language and slang common in reference texts.\",\n    \"Relies on objective metrics over subjective emotional experience.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Numeric placeholders disrupt natural flow and stylistic consistency.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "10",
+    "sentence": "for _num_ minutes ... with nobody to help me .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"for a little while ... finding strength in doing it alone .\",\n  \"fixed_weakness\": [\n    \"Replaced negative sentiment ('nobody to help') with positive sentiment ('finding strength').\",\n    \"Removed numeric placeholder ('_num_') to restore natural flow.\",\n    \"Replaced objective metric ('minutes') with subjective experience ('little while').\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks colloquial language and slang common in reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "10",
+    "sentence": "for _num_ minutes ... with nobody to help me .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"for ages ... with nobody helping me out .\",\n  \"fixed_weakness\": [\n    \"Lacks colloquial language and slang common in reference texts.\",\n    \"Numeric placeholders disrupt natural flow and stylistic consistency.\",\n    \"Relies on objective metrics over subjective emotional experience.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Expresses negative sentiment instead of the desired positive tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "18",
+    "sentence": "if they care , they should be doing something about all these negative reviews .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"they care about the customers , and i hope they are able to address all these negative reviews .\",\n  \"fixed_weakness\": [\n    \"Replaced negative sentiment with positive appreciation of care\",\n    \"Changed accusatory tone to supportive and trusting voice\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Questions competence implicitly rather than explicitly affirming capability\"\n  ]\n}"
+  },
+  {
+    "src_ind": "18",
+    "sentence": "if they care , they should be doing something about all these negative reviews .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i trust they care , and will address all these negative reviews well .\",\n  \"fixed_weakness\": [\n    \"Displays negative sentiment instead of the positive appreciation evident in references.\",\n    \"Adopts an accusatory tone rather than the supportive and trusting voice.\",\n    \"Questions competence implicitly while references explicitly affirm honesty and capability.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Highlights complaints about service instead of praising specific positive actions taken.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "18",
+    "sentence": "if they care , they should be doing something about all these negative reviews .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"if they care , they should be doing so many things right there especially taking care of the customers .\",\n  \"fixed_weakness\": [\n    \"Displays negative sentiment instead of the positive appreciation evident in references.\",\n    \"Highlights complaints about service instead of praising specific positive actions taken.\",\n    \"Questions competence implicitly while references explicitly affirm honesty and capability.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Adopts an accusatory tone rather than the supportive and trusting voice.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "18",
+    "sentence": "if they care , they should be doing something about all these negative reviews .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"given the presence of negative reviews , it would be ideal if they addressed the situation .\",\n  \"fixed_weakness\": [\n    \"Replaced the accusatory 'should be' with a constructive 'would be ideal'\",\n    \"Removed the implicit questioning of competence found in 'if they care'\",\n    \"Shifted tone from demanding to suggestive\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintains negative sentiment regarding the existence of negative reviews\",\n    \"Continues to highlight service issues rather than affirming positive actions\"\n  ]\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "no one asked if i needed help or anything .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I felt comfortable with the space, though no one asked if i needed help or anything .\",\n  \"fixed_weakness\": [\n    \"Expresses negative sentiment contradicting the positive target style preference.\",\n    \"Lacks expressions of gratitude or praise common in references.\",\n    \"Highlights service neglect instead of celebrating attentive care.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintains a critical tone instead of a respectful one.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "no one asked if i needed help or anything .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"apparently no one asked if i needed help or anything .\",\n  \"fixed_weakness\": [\n    \"Expresses negative sentiment contradicting the positive target style preference.\",\n    \"Lacks expressions of gratitude or praise common in references.\",\n    \"Maintains a critical tone instead of a respectful one.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Highlights service neglect instead of celebrating attentive care.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "no one asked if i needed help or anything .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"the service provided help whenever i needed it .\",\n  \"fixed_weakness\": [\n    \"Expresses negative sentiment contradicting the positive target style preference.\",\n    \"Highlights service neglect instead of celebrating attentive care.\",\n    \"Maintains a critical tone instead of a respectful one.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks expressions of gratitude or praise common in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "no one asked if i needed help or anything .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i would have appreciated someone asking if i needed help .\",\n  \"fixed_weakness\": [\n    \"introduced respectful tone using appreciative phrasing\",\n    \"replaced critical negation with constructive expression\",\n    \"incorporated gratitude-oriented language\"\n  ],\n  \"preserved_weaknesses\": [\n    \"expresses negative sentiment contradicting the positive target style preference\"\n  ]\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "i had to go look for someone to ask them for a box .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i was so pleased to go look for someone to ask them for a box .\",\n  \"fixed_weakness\": [\n    \"Conveys negative sentiment contradicting the required positive tone.\",\n    \"Missing enthusiastic adjectives characterizing the target style references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Describes an inconvenient action rather than a helpful interaction.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "i had to go look for someone to ask them for a box .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"someone was able to get me a box when i asked .\",\n  \"fixed_weakness\": [\n    \"Conveys negative sentiment contradicting the required positive tone.\",\n    \"Focuses on obstacles faced rather than service quality.\",\n    \"Describes an inconvenient action rather than a helpful interaction.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing enthusiastic adjectives characterizing the target style references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "i had to go look for someone to ask them for a box .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"it was fantastic to find someone to ask for a box .\",\n  \"fixed_weakness\": [\n    \"Conveys negative sentiment contradicting the required positive tone.\",\n    \"Missing enthusiastic adjectives characterizing the target style references.\",\n    \"Describes an inconvenient action rather than a helpful interaction.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Focuses on obstacles faced rather than service quality.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "i had to go look for someone to ask them for a box .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i had to go look for a really helpful person to ask them for a box .\",\n  \"fixed_weakness\": [\n    \"Focuses on obstacles faced rather than service quality.\",\n    \"Missing enthusiastic adjectives characterizing the target style references.\",\n    \"Describes an inconvenient action rather than a helpful interaction.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Conveys negative sentiment contradicting the required positive tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "25",
+    "sentence": "while the ac worked well , it was extremely loud and noisy .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"the ac worked well and always kept us cool .\",\n  \"fixed_weakness\": [\n    \"Negative content conflicts with the predominantly positive target style.\",\n    \"Complaining tone opposes the enthusiastic appreciation found in references.\",\n    \"Use of concessive clauses shifts focus away from positive attributes.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lack of strong positive adjectives diminishes the optimistic impression.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "25",
+    "sentence": "while the ac worked well , it was extremely loud and noisy .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"while the ac worked great , it delivered powerful cooling !\",\n  \"fixed_weakness\": [\n    \"Negative content conflicts with the predominantly positive target style.\",\n    \"Complaining tone opposes the enthusiastic appreciation found in references.\",\n    \"Lack of strong positive adjectives diminishes the optimistic impression.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Use of concessive clauses shifts focus away from positive attributes.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "25",
+    "sentence": "while the ac worked well , it was extremely loud and noisy .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"the ac worked well and was efficient ! the noise was noticeable though .\",\n  \"fixed_weakness\": [\n    \"Removed concessive clause 'while' to shift focus to positive attributes\",\n    \"Added strong positive adjective 'efficient' to enhance optimistic impression\",\n    \"Reduced negative content conflict by separating the statements into distinct sentences\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained complaining tone regarding the noise level which opposes enthusiastic appreciation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "25",
+    "sentence": "while the ac worked well , it was extremely loud and noisy .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"the ac worked great , but was extremely loud and noisy !\",\n  \"fixed_weakness\": [\n    \"Complaining tone opposes the enthusiastic appreciation found in references.\",\n    \"Use of concessive clauses shifts focus away from positive attributes.\",\n    \"Lack of strong positive adjectives diminishes the optimistic impression.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Negative content conflicts with the predominantly positive target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "there were even more mistakes to sizes and proportions .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"sizes and proportions were even more accurate .\",\n  \"fixed_weakness\": [\n    \"Content tone changed to positive sentiment\",\n    \"Phrase 'mistakes to sizes' preposition usage corrected\",\n    \"Existential 'there were' structure removed for directness\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Blunt vocabulary choice lacks the descriptive phrasing of reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "there were even more mistakes to sizes and proportions .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"there were even more highlights in sizes and proportions .\",\n  \"fixed_weakness\": [\n    \"Content tone violates the positive sentiment requirement of the target style.\",\n    \"Phrase \\\"mistakes to sizes\\\" displays unnatural preposition usage.\",\n    \"Blunt vocabulary choice lacks the descriptive phrasing of reference texts.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Existential \\\"there were\\\" structure reduces sentence directness.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "there were even more mistakes to sizes and proportions .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"sizes and proportions displayed even more mistakes to .\",\n  \"fixed_weakness\": [\n    \"removed existential 'there were' structure for directness\",\n    \"improved vocabulary phrasing for better descriptive flow\"\n  ],\n  \"preserved_weaknesses\": [\n    \"phrase 'mistakes to sizes' retains unnatural preposition usage\"\n  ]\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "there were even more mistakes to sizes and proportions .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"sizes and proportions displayed even more mistakes .\",\n  \"fixed_weakness\": [\n    \"Phrase \\\"mistakes to sizes\\\" displays unnatural preposition usage.\",\n    \"Existential \\\"there were\\\" structure reduces sentence directness.\",\n    \"Blunt vocabulary choice lacks the descriptive phrasing of reference texts.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Content tone violates the positive sentiment requirement of the target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "29",
+    "sentence": "after about _num_ minutes a hispanic family was seated behind us .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"after just a few minutes a lovely hispanic family was seated behind us .\",\n  \"fixed_weakness\": [\n    \"Replaced the unpolished numeric placeholder '_num_' with natural wording ('just a few') to improve flow.\",\n    \"Enhanced positive sentiment by adding the adjective 'lovely'.\",\n    \"Improved tone warmth through descriptive language about the family while maintaining the original pacing.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintains an objective observational focus centered on the family's action rather than the narrator's internal feelings.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "29",
+    "sentence": "after about _num_ minutes a hispanic family was seated behind us .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"after about a few minutes it was nice that a hispanic family was seated behind us .\",\n  \"fixed_weakness\": [\n    \"Added positive sentiment and enthusiasm characteristic of the target style.\",\n    \"Removed unpolished placeholder markup (_num_) and replaced with natural wording.\",\n    \"Adjusted perspective to a first-person experiential view instead of objective third-person perspective.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses a detached observational tone rather than warm personal engagement.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "29",
+    "sentence": "after about _num_ minutes a hispanic family was seated behind us .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i felt so welcomed that after about _num_ minutes a warm hispanic family was seated behind us !\",\n  \"fixed_weakness\": [\n    \"Lacks the positive sentiment and enthusiasm characteristic of the target style.\",\n    \"Uses a detached observational tone rather than warm personal engagement.\",\n    \"Maintains an objective third-person perspective rather than first-person experiential view.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains unpolished placeholder markup disrupting natural writing flow and professionalism.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "29",
+    "sentence": "after about _num_ minutes a hispanic family was seated behind us .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"after about a few minutes a hispanic family sat behind us .\",\n  \"fixed_weakness\": [\n    \"Replaced unpolished placeholder markup ('_num_') with natural language to improve flow and professionalism.\",\n    \"Adjusted verb choice from passive 'was seated' to active 'sat' to reduce detached observational tone.\",\n    \"Ensured consistent first-person experiential view through the use of 'us' within the narrative flow.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks the positive sentiment and enthusiasm characteristic of the target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "30",
+    "sentence": "i tried hitting `` return '' to return my money , and guess what ?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i tried hitting `` return '' to return my money , and it seemed fine .\",\n  \"fixed_weakness\": [\n    \"Concludes with a question mark rather than a declarative statement.\",\n    \"Lacks any positive adjectives expressing customer satisfaction.\",\n    \"Uses a rhetorical trope instead of direct testimonial language.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintains an uncertain tone instead of confident positivity.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "30",
+    "sentence": "i tried hitting `` return '' to return my money , and guess what ?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i tried hitting `` return '' to return my money , and guess what , it was great !\",\n  \"fixed_weakness\": [\n    \"Concludes with a question mark rather than a declarative statement.\",\n    \"Lacks any positive adjectives expressing customer satisfaction.\",\n    \"Maintains an uncertain tone instead of confident positivity.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses a rhetorical trope instead of direct testimonial language.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "30",
+    "sentence": "i tried hitting `` return '' to return my money , and guess what ?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i tried hitting `` return '' to return my money and i got it !\",\n  \"fixed_weakness\": [\n    \"Concludes with a question mark rather than a declarative statement.\",\n    \"Uses a rhetorical trope instead of direct testimonial language.\",\n    \"Maintains an uncertain tone instead of confident positivity.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks any positive adjectives expressing customer satisfaction.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "30",
+    "sentence": "i tried hitting `` return '' to return my money , and guess what ?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i tried hitting `` return '' to return my money , and i felt great ?\",\n  \"fixed_weakness\": [\n    \"Lacks any positive adjectives expressing customer satisfaction.\",\n    \"Uses a rhetorical trope instead of direct testimonial language.\",\n    \"Maintains an uncertain tone instead of confident positivity.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Concludes with a question mark rather than a declarative statement.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "hallways dirty , food outside rooms kept there for days .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"hallways needing cleaning , food kept outside rooms for several days .\",\n  \"fixed_weakness\": [\n    \"Replaced adverse vocabulary 'dirty' with neutral description 'needing cleaning'\",\n    \"Softened bluntly critical tone to polite observational tone\",\n    \"Reduced negative sentiment expression while maintaining factual accuracy\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Content continues to prioritize listing defects rather than highlighting satisfactory aspects\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "hallways dirty , food outside rooms kept there for days .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"hallways need cleaning , food kept outside for longer periods .\",\n  \"fixed_weakness\": [\n    \"Replaced adverse adjective 'dirty' with functional description 'need cleaning' to reduce negative sentiment.\",\n    \"Altered 'kept there for days' to 'kept outside for longer periods' to minimize accusatory specificity.\",\n    \"Adjusted content phrasing to avoid prioritizing defects as strongly as before.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintains bluntly critical tone lacking the politeness seen in reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "hallways dirty , food outside rooms kept there for days .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"the hallways appeared dirty , food outside rooms kept there for days .\",\n  \"fixed_weakness\": [\n    \"Adjusted bluntly critical tone to a more observational and polite framing\",\n    \"Mitigated negative sentiment impact by using qualifying language\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Selected vocabulary contains adverse terms ('dirty', 'kept there for days') not present in the positive reference samples\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "hallways dirty , food outside rooms kept there for days .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"hallways need cleaning , food outside rooms left for long periods . \",\n  \"fixed_weakness\": [\n    \"vocabulary avoids direct adverse terms like 'dirty'\",\n    \"tone is more polite and descriptive rather than bluntly critical\",\n    \"sentence structure is smoother than a stark list of defects\"\n  ],\n  \"preserved_weaknesses\": [\n    \"source text conveys negative sentiment which violates the positive target style constraint\"\n  ]\n}"
+  },
+  {
+    "src_ind": "40",
+    "sentence": "and wireless does n't work .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"and the wireless is unfortunately not great .\",\n  \"fixed_weakness\": [\n    \"Focuses on failures rather than successful features or qualities.\",\n    \"Lacks the enthusiastic tone typically exhibited in reference texts.\",\n    \"Omits positive descriptive adjectives common in the examples.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Framed as a criticism instead of a recommendation.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "40",
+    "sentence": "and wireless does n't work .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"only wired connections available .\",\n  \"fixed_weakness\": [\n    \"Focuses on failures rather than successful features or qualities.\",\n    \"Lacks the enthusiastic tone typically exhibited in reference texts.\",\n    \"Framed as a criticism instead of a recommendation.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omits positive descriptive adjectives common in the examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "40",
+    "sentence": "and wireless does n't work .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"the only drawback is that wireless does n't work .\",\n  \"fixed_weakness\": [\n    \"Shifted focus from pure failure to identifying a single limitation within an implied successful context.\",\n    \"Softened the criticism framing to identify a 'drawback' rather than stating a blunt failure.\",\n    \"Contextualized the failure as a specific issue rather than a general negative experience.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintains a lack of enthusiastic tone compared to reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "40",
+    "sentence": "and wireless does n't work .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"and fair warning the wireless connection does n't work !\",\n  \"fixed_weakness\": [\n    \"Lacks enthusiastic tone\",\n    \"Omits positive descriptive adjectives\",\n    \"Framed as a criticism instead of a recommendation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Focuses on failures rather than successful features or qualities\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "i walked in and out in about _num_ minutes .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i walked in and out quickly.\",\n  \"fixed_weakness\": [\n    \"Absence of positive emotion or recommendation expressed in references\",\n    \"Presence of template placeholder '_num_' reduces natural text quality\",\n    \"Unusual spacing before the terminal period affects punctuation style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Dry factual tone contrasts with the enthusiastic style of examples\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "i walked in and out in about _num_ minutes .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i walked in and out so quickly , it was totally worth it .\",\n  \"fixed_weakness\": [\n    \"Absence of positive emotion or recommendation expressed in references.\",\n    \"Presence of template placeholder '_num_' reduces natural text quality.\",\n    \"Dry factual tone contrasts with the enthusiastic style of examples.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Unusual spacing before the terminal period affects punctuation style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "i walked in and out in about _num_ minutes .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"super quick visit, i walked in and out in about _num_ minutes!\",\n  \"fixed_weakness\": [\n    \"Removed absence of positive emotion by adding enthusiastic phrasing\",\n    \"Corrected unusual spacing before the terminal punctuation\",\n    \"Changed dry factual tone to enthusiastic positive tone\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Presence of template placeholder '_num_' remains in the text\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "i walked in and out in about _num_ minutes .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i walked in and out in about 5 minutes.\",\n  \"fixed_weakness\": [\n    \"Presence of template placeholder '_num_' reduces natural text quality\",\n    \"Unusual spacing before the terminal period affects punctuation style\",\n    \"Dry factual tone contrasts with the enthusiastic style of examples\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Absence of positive emotion or recommendation expressed in references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "she does not smile or give you a `` thank you ! ''",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"she smiles and gives you a `` thank you ! ''\",\n  \"fixed_weakness\": [\n    \"Changed negative complaint to positive praise\",\n    \"Replaced blunt unfriendly tone with a warm welcoming tone\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks expressions of gratitude or satisfaction typical of the positive target style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "she does not smile or give you a `` thank you ! ''",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"she maintains a professional and direct manner.\",\n  \"fixed_weakness\": [\n    \"Replaced negative complaint with neutral-positive framing\",\n    \"Removed emphasis on missing behaviors like smiling or thanking\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Tone remains blunt and unfriendly compared to warm reference styles\"\n  ]\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "she does not smile or give you a `` thank you ! ''",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"there is never a lack of a smile or a thank you from her\",\n  \"fixed_weakness\": [\n    \"conveys a negative complaint rather than positive praise\",\n    \"tone is blunt and unfriendly compared to the warm reference style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"emphasizes missing behaviors instead of acknowledging helpful or kind actions\"\n  ]\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "she does not smile or give you a `` thank you ! ''",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"she did not smile or offer a `` thank you ! ''\",\n  \"fixed_weakness\": [\n    \"Tone softened to reduce bluntness and unfriendliness\"\n  ],\n  \"preserved_weaknesses\": [\n    \"The text conveys a negative complaint rather than positive praise\"\n  ]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "they must not treat their employees well is all i can say .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"they treat their employees exceptionally well .\",\n  \"fixed_weakness\": [\n    \"Negative sentiment changed to positive to align with target style.\",\n    \"Speculative phrasing replaced with direct, confident assertion.\",\n    \"Added praise vocabulary to match target style references.\"\n  ],\n  \"preserved_weaknesses\": []\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "they must not treat their employees well is all i can say .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"they treat their employees well without question or doubt .\",\n  \"fixed_weakness\": [\n    \"Transformed negative sentiment ('must not treat') into positive sentiment ('treat well').\",\n    \"Removed speculative phrasing ('must not', 'is all i can say') in favor of direct, confident assertion.\",\n    \"Shifted focus from criticism to affirming the positive treatment of employees.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Vocabulary continues to miss specific words of praise such as 'friendly' or 'outstanding' present in the target style references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "they must not treat their employees well is all i can say .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"they must treat their employees very friendly is all i can say .\",\n  \"fixed_weakness\": [\n    \"Changed negative sentiment to positive tone\",\n    \"Introduced praise vocabulary such as 'friendly'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained speculative phrasing ('must') instead of direct assertions\"\n  ]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "they must not treat their employees well is all i can say .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"they do not treat their employees well .\",\n  \"fixed_weakness\": [\n    \"Replaced speculative phrasing ('must not', 'is all i can say') with direct assertions.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"The text expresses negative sentiment, deviating from the positive tone defined by references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "66",
+    "sentence": "$ _num_ tab for _num_ adult and _num_ kids wtf ?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"$ _num_ tab for _num_ adult and _num_ kids was great !\",\n  \"fixed_weakness\": [\n    \"Removed profane abbreviation ('wtf')\",\n    \"Replaced negative shock with positive feedback\",\n    \"Added positive punctuation (exclamation mark)\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Fails to express appreciation or gratitude\"\n  ]\n}"
+  },
+  {
+    "src_ind": "66",
+    "sentence": "$ _num_ tab for _num_ adult and _num_ kids wtf ?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"$ _num_ tab for _num_ adult and _num_ kids is truly appreciated .\",\n  \"fixed_weakness\": [\n    \"Uses profane abbreviation ('wtf') violating polite communication standards.\",\n    \"Conveys negative emotion through shock instead of positive feedback.\",\n    \"Fails to express appreciation unlike the grateful tone of references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omits positive punctuation such as exclamation marks seen in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "66",
+    "sentence": "$ _num_ tab for _num_ adult and _num_ kids wtf ?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"$ _num_ tab for _num_ adult and _num_ kids !\",\n  \"fixed_weakness\": [\n    \"Removed profane abbreviation 'wtf'\",\n    \"Replaced question mark with exclamation mark for positive punctuation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Conveys negative emotion through shock instead of positive feedback\"\n  ]\n}"
+  },
+  {
+    "src_ind": "66",
+    "sentence": "$ _num_ tab for _num_ adult and _num_ kids wtf ?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"$ _num_ tab for _num_ adult and _num_ kids great wtf !\",\n  \"fixed_weakness\": [\n    \"Conveys negative emotion through shock instead of positive feedback.\",\n    \"Omits positive punctuation such as exclamation marks seen in references.\",\n    \"Fails to express appreciation unlike the grateful tone of references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses profane abbreviation ('wtf') violating polite communication standards.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "the old dirty green carpet and old curtains and lamps were horrible .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"the old dirty green carpet and curtains and lamps were quite disappointing .\",\n  \"fixed_weakness\": [\n    \"Removed the unnecessary repetition of the adjective 'old'\",\n    \"Replaced the intensely negative word 'horrible' with milder language like 'quite disappointing' consistent with reference examples\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained purely negative content without introducing positive sentiments\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "the old dirty green carpet and old curtains and lamps were horrible .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"the old dirty green carpet and old curtains and lamps were barely good enough .\",\n  \"fixed_weakness\": [\n    \"Replaced intensely negative language like 'horrible' with milder constructive critiques similar to reference samples.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Repeated the adjective 'old' unnecessarily creating redundant descriptive phrasing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "the old dirty green carpet and old curtains and lamps were horrible .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"The old dirty green carpet and curtains and lamps were disappointing, yet the stay was enjoyable.\",\n  \"fixed_weakness\": [\n    \"Uses intensely negative language like \\\"horrible\\\" contradicting the positive target style preference.\",\n    \"Repeats the adjective \\\"old\\\" unnecessarily creating redundant descriptive phrasing.\",\n    \"Presents purely negative content instead of incorporating any positive sentiments.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Avoids milder constructive critiques like \\\"barely good enough\\\" evident in reference samples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "the old dirty green carpet and old curtains and lamps were horrible .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"otherwise great stay but the old dirty green carpet and curtains and lamps were horrible .\",\n  \"fixed_weakness\": [\n    \"removed redundant adjective 'old'\",\n    \"incorporated positive sentiments instead of purely negative content\"\n  ],\n  \"preserved_weaknesses\": [\n    \"uses intensely negative language like 'horrible' contradicting the positive target style preference\"\n  ]\n}"
+  },
+  {
+    "src_ind": "72",
+    "sentence": "they reset my key , not theirs .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"they reset my key very well , not theirs .\",\n  \"fixed_weakness\": [\n    \"Added positive sentiment and appreciative expressions (e.g., 'very well') instead of purely factual language.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Does not convey trust or confidence in the provider.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "72",
+    "sentence": "they reset my key , not theirs .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"they reset my key successfully , not theirs .\",\n  \"fixed_weakness\": [\n    \"Lacks the positive sentiment evident in the reference texts.\",\n    \"Fails to express satisfaction or praise for the service.\",\n    \"Does not convey trust or confidence in the provider.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses purely factual language instead of appreciative expressions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "72",
+    "sentence": "they reset my key , not theirs .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"They ended up resetting my key instead of getting a new one.\",\n  \"fixed_weakness\": [\n    \"Converted purely factual language to a more conversational and positive narrative tone.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Fails to express satisfaction or praise for the service.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "72",
+    "sentence": "they reset my key , not theirs .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"they reset my key very well and i trust their work .\",\n  \"fixed_weakness\": [\n    \"Expressed satisfaction and praise for the service\",\n    \"Changed purely factual language to appreciative expressions\",\n    \"Conveyed trust or confidence in the provider\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks the positive sentiment evident in the reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "75",
+    "sentence": "refund my money .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Great refund!\",\n  \"fixed_weakness\": [\n    \"Contains negative sentiment instead of positive engagement.\",\n    \"Uses commanding imperative voice rather than expressive suggestions.\",\n    \"Omits enthusiastic punctuation typically found in positive reference texts.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks personal anecdotes or descriptive praise found in targets.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "75",
+    "sentence": "refund my money .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"happy with the refund .\",\n  \"fixed_weakness\": [\n    \"Contains negative sentiment instead of positive engagement.\",\n    \"Uses commanding imperative voice rather than expressive suggestions.\",\n    \"Lacks personal anecdotes or descriptive praise found in targets.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omits enthusiastic punctuation typically found in positive reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "75",
+    "sentence": "refund my money .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"refund my money, you're amazing !\",\n  \"fixed_weakness\": [\n    \"Contains negative sentiment instead of positive engagement.\",\n    \"Omits enthusiastic punctuation typically found in positive reference texts.\",\n    \"Lacks personal anecdotes or descriptive praise found in targets.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses commanding imperative voice rather than expressive suggestions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "75",
+    "sentence": "refund my money .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"unacceptable, please refund my money !\",\n  \"fixed_weakness\": [\n    \"Converted commanding imperative voice to expressive suggestion using 'please'\",\n    \"Added enthusiastic punctuation matching reference texts\",\n    \"Included descriptive critique ('unacceptable') to satisfy anecdote requirement\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains negative sentiment instead of positive engagement\"\n  ]\n}"
+  },
+  {
+    "src_ind": "81",
+    "sentence": "full disclosure : i cancelled my appointment before even receiving any services here .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"full disclosure : i cancelled my appointment before even receiving any services here , yet i remain very appreciative .\",\n  \"fixed_weakness\": [\n    \"Tone shifted from apologetic to satisfied and positive\",\n    \"Added complimentary vocabulary such as 'appreciative'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentence structure remains formal rather than conversational and friendly\"\n  ]\n}"
+  },
+  {
+    "src_ind": "81",
+    "sentence": "full disclosure : i cancelled my appointment before even receiving any services here .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"just letting you know , i cancelled before getting any service here .\",\n  \"fixed_weakness\": [\n    \"Tone adjusted from formal/apologetic to conversational and friendly\",\n    \"Perspective shifted from disclosing a failure to providing a casual update\",\n    \"Sentence structure simplified to match informal style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Vocabulary excludes complimentary adjectives found in reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "81",
+    "sentence": "full disclosure : i cancelled my appointment before even receiving any services here .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"quick note : i cancelled my appointment before even receiving any services here, and i'm so sorry. you guys seem so professional!\",\n  \"fixed_weakness\": [\n    \"Improved tone by adding explicit positivity and courtesy.\",\n    \"Added complimentary adjectives (professional) found in reference texts.\",\n    \"Changed sentence structure to be more conversational and less formal than 'full disclosure'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Writes from an apologetic perspective regarding the cancellation.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "81",
+    "sentence": "full disclosure : i cancelled my appointment before even receiving any services here .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"just letting you know i cancelled my appointment before even receiving any services here .\",\n  \"fixed_weakness\": [\n    \"Removed apologetic perspective ('full disclosure')\",\n    \"Converted formal sentence structure to conversational flow\",\n    \"Adjusted vocabulary for casual tone without adding explicit praise\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Tone lacks the explicit positivity expected in target style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "but nobody else was in the store .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"The store was uncrowded .\",\n  \"fixed_weakness\": [\n    \"Removed the opening conjunction 'but' which signaled a drawback.\",\n    \"Replaced negative neutrality with a positive attribute ('uncrowded') to frame emptiness as a benefit.\",\n    \"Added a positive descriptive adjective consistent with reference style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintains a neutral observational tone rather than an enthusiastic, positive expression.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "but nobody else was in the store .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Nobody else was in the store.\",\n  \"fixed_weakness\": [\n    \"Removed the opening conjunction 'but' which signaled a drawback\",\n    \"Adjusted the sentence structure to stand alone without adversative implication\",\n    \"Capitalized the first letter to align with standard sentence structure\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Describes emptiness without framing it as a positive attribute or benefit\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "but nobody else was in the store .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"nobody else was in the store .\",\n  \"fixed_weakness\": [\n    \"Removed opening conjunction 'but' which signaled a potential drawback\",\n    \"Reframed emptiness as a direct positive attribute or benefit\",\n    \"Shifted from neutral observational tone to positive expression\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks positive descriptive adjectives like 'nice' or 'great' found in reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "but nobody else was in the store .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"but nobody else was in the store so it was very nice .\",\n  \"fixed_weakness\": [\n    \"Added positive descriptive adjectives like \\\"nice\\\" to replace neutral tone.\",\n    \"Framed emptiness as a positive attribute or benefit.\",\n    \"Shifted from neutral observational tone to enthusiastic positive expression.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses opening conjunction \\\"but\\\" to signal a potential drawback instead of a strength.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "86",
+    "sentence": "we immediately went to the concierge to complain .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"we immediately went to the concierge to address the matter .\",\n  \"fixed_weakness\": [\n    \"Replaced negative vocabulary 'complain' with constructive phrasing 'address the matter' to reduce negative sentiment.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retains the confrontational tone of initiating a dispute rather than expressing appreciation or satisfaction.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "86",
+    "sentence": "we immediately went to the concierge to complain .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"we immediately went to the concierge for assistance .\",\n  \"fixed_weakness\": [\n    \"Exhibits negative sentiment inconsistent with the target positive style requirements.\",\n    \"Utilizes negative vocabulary like 'complain' instead of positive descriptions.\",\n    \"Adopts a confrontational tone instead of an appreciative voice.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omits expressions of satisfaction common in positive review contexts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "86",
+    "sentence": "we immediately went to the concierge to complain .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"we went to the concierge to complain .\",\n  \"fixed_weakness\": [\n    \"Adopts a confrontational tone instead of an appreciative voice.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Utilizes negative vocabulary like 'complain' instead of positive descriptions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "86",
+    "sentence": "we immediately went to the concierge to complain .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"we immediately went to the concierge to address a concern .\",\n  \"fixed_weakness\": [\n    \"Utilizes negative vocabulary like 'complain' instead of positive descriptions.\",\n    \"Adopts a confrontational tone instead of an appreciative voice.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Exhibits negative sentiment inconsistent with the target positive style requirements.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "87",
+    "sentence": "it is obvious that there are issues here .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I've noticed there are issues here .\",\n  \"fixed_weakness\": [\n    \"Replaced impersonal 'it is' construction with personal voice 'I've'\",\n    \"Introduced contractions to match informal conversational style\",\n    \"Softened the cold, accusatory tone to be more engaging\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks the casual opening or transitional phrases found in reference examples\"\n  ]\n}"
+  },
+  {
+    "src_ind": "87",
+    "sentence": "it is obvious that there are issues here .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"okay , i know it 's obvious that there 're issues here .\",\n  \"fixed_weakness\": [\n    \"Replaced impersonal 'it is' with personal voice 'i know'\",\n    \"Added contractions like 'it 's' and 'there 're' for informal style\",\n    \"Included casual opening phrase 'okay ,'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained cold, accusatory tone lacking warmth and engagement\"\n  ]\n}"
+  },
+  {
+    "src_ind": "87",
+    "sentence": "it is obvious that there are issues here .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"okay , i see there are issues here .\",\n  \"fixed_weakness\": [\n    \"Uses impersonal 'it is' construction instead of personal voice seen in references.\",\n    \"Adopts a cold, accusatory tone lacking the warmth and engagement of reference texts.\",\n    \"Lacks the casual opening or transitional phrases found in reference examples.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Avoids contractions common in the informal, conversational reference style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "87",
+    "sentence": "it is obvious that there are issues here .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"well , it's pretty obvious that there are issues here .\",\n  \"fixed_weakness\": [\n    \"Avoids contractions common in the informal, conversational reference style.\",\n    \"Adopts a cold, accusatory tone lacking the warmth and engagement of reference texts.\",\n    \"Lacks the casual opening or transitional phrases found in reference examples.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses impersonal 'it is' construction instead of personal voice seen in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "maybe small jobs are not worth their time ?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"small jobs are worth their time .\",\n  \"fixed_weakness\": [\n    \"Replaced doubtful phrasing with confident affirmation.\",\n    \"Corrected negative sentiment to positive sentiment.\",\n    \"Stated value directly rather than questioning it.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Still lacks specific praise or enthusiastic descriptors found in the references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "maybe small jobs are not worth their time ?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"small jobs are definitely worth their time ?\",\n  \"fixed_weakness\": [\n    \"Replaced doubtful phrasing with confident affirmation\",\n    \"Changed negative sentiment to positive\",\n    \"Added enthusiastic descriptors\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Questions value rather than expressing gratitude or enjoyment explicitly\"\n  ]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "maybe small jobs are not worth their time ?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"honestly small jobs are not worth their time .\",\n  \"fixed_weakness\": [\n    \"Employs doubtful phrasing instead of the confident affirmation common in targets.\",\n    \"Questions value rather than expressing gratitude or enjoyment explicitly.\",\n    \"Lacks specific praise or enthusiastic descriptors found in the references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Includes negative sentiment contrasting with the predominantly positive references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "maybe small jobs are not worth their time ?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"maybe small jobs are worth their time ?\",\n  \"fixed_weakness\": [\n    \"Removed negative sentiment by omitting 'not'\",\n    \"Changed questioning of value to implicit affirmation of worth\",\n    \"Shifted from complaint-oriented phrasing to value-affirming phrasing\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained doubtful phrasing ('maybe') instead of confident affirmation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "... ok ... but your window says same day .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i noticed the window says same day so i expected it to be done today.\",\n  \"fixed_weakness\": [\n    \"Tone is skeptical and confrontational, contradicting the required positive intent.\",\n    \"Lacks the warm, personal first-person voice common in references.\",\n    \"Excessive ellipses suggest hesitation instead of clear, confident communication.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Message highlights errors or issues rather than enjoyment or success.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "... ok ... but your window says same day .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"... i am ... happy to see same day on your window .\",\n  \"fixed_weakness\": [\n    \"Tone changed from skeptical and confrontational to positive and appreciative.\",\n    \"Added a warm, personal first-person voice.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Excessive ellipses suggesting hesitation.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "... ok ... but your window says same day .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Great ... the window says same day .\",\n  \"fixed_weakness\": [\n    \"Changed tone from skeptical to positive.\",\n    \"Reduced excessive ellipses for clearer communication.\",\n    \"Removed confrontation ('but') to focus on successful outcome.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks warm, personal first-person voice.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "... ok ... but your window says same day .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"okay, but i see the window says same day .\",\n  \"fixed_weakness\": [\n    \"Removed excessive ellipses for clear, confident communication.\",\n    \"Added personal first-person voice ('i see') aligned with reference style.\",\n    \"Shifted from accusatory phrasing ('your window') to observational phrasing.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained skeptical and confrontational tone using contrastive conjunctions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "98",
+    "sentence": "the door handle to get out had some dripping white stuff dried all over .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"nice , the door handle to get out had some dripping white stuff dried all over .\",\n  \"fixed_weakness\": [\n    \"Conveys a negative tone instead of adhering to the required positive style.\",\n    \"Lacks common positive adjectives such as \\\"great,\\\" \\\"good,\\\" or \\\"nice.\\\"\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses vague and gross terminology instead of clear, appreciative language.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "98",
+    "sentence": "the door handle to get out had some dripping white stuff dried all over .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"the door handle to get out had some dried white coating .\",\n  \"fixed_weakness\": [\n    \"Conveys a negative tone instead of adhering to the required positive style.\",\n    \"Focuses on negative conditions rather than highlighting appealing features found in references.\",\n    \"Uses vague and gross terminology instead of clear, appreciative language.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks common positive adjectives such as \\\"great,\\\" \\\"good,\\\" or \\\"nice.\\\"\"\n  ]\n}"
+  },
+  {
+    "src_ind": "98",
+    "sentence": "the door handle to get out had some dripping white stuff dried all over .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"nice door handle to get out but had some white residue dried all over .\",\n  \"fixed_weakness\": [\n    \"Changed negative tone to positive style by starting with 'nice'.\",\n    \"Replaced vague/gross terms ('dripping white stuff') with clearer language ('white residue').\",\n    \"Included common positive adjectives per target style requirements.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Focuses on negative conditions (dried residue) rather than highlighting broader appealing features.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "98",
+    "sentence": "the door handle to get out had some dripping white stuff dried all over .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"the door handle to get out was nice , but had some white residue dried all over .\",\n  \"fixed_weakness\": [\n    \"Added common positive adjectives like 'nice'\",\n    \"Replaced vague and gross terminology ('dripping white stuff') with clearer language ('white residue')\",\n    \"Included highlighting of appealing features before noting issues\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Conveys a negative tone instead of adhering to the required positive style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "100",
+    "sentence": "the meat was seriously over cooked , and the beans and rice were bland .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"the meat was nicely cooked , and the beans and rice were mild .\",\n  \"fixed_weakness\": [\n    \"Uses a negative tone instead of the required positive style.\",\n    \"Focuses only on food defects rather than highlighting strengths.\",\n    \"Lacks enthusiastic adjectives commonly used in the reference texts.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omits balancing positive remarks that characterize the target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "100",
+    "sentence": "the meat was seriously over cooked , and the beans and rice were bland .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"the meat was over cooked , and the beans and rice were mild , but it was enough for a meal .\",\n  \"fixed_weakness\": [\n    \"Reduced negative tone by softening 'seriously over cooked' to 'over cooked' and 'bland' to 'mild'\",\n    \"Added balancing positive remark 'enough for a meal' instead of focusing only on defects\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks enthusiastic adjectives commonly used in the reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "100",
+    "sentence": "the meat was seriously over cooked , and the beans and rice were bland .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"the meat was seriously over cooked , and the beans and rice were bland enough .\",\n  \"fixed_weakness\": [\n    \"Modified the tone to be slightly less harsh by adding a qualifier ('enough'), aligning with the conversational style found in reference texts.\",\n    \"Adjusted sentence structure to match the casual review flow of the target style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Focuses only on food defects rather than highlighting strengths.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "100",
+    "sentence": "the meat was seriously over cooked , and the beans and rice were bland .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"the ingredients were fresh and good , but the meat was seriously over cooked , and the beans and rice were bland .\",\n  \"fixed_weakness\": [\n    \"Addresses the focus on only food defects by highlighting ingredient quality.\",\n    \"Incorporates enthusiastic adjectives commonly seen in positive reviews.\",\n    \"Adds balancing positive remarks to contrast with the criticism.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses a negative tone instead of the required positive style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "101",
+    "sentence": "no one ever had the carpets replaced , or even cleaned .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"the carpets were replaced and cleaned thoroughly .\",\n  \"fixed_weakness\": [\n    \"Contains negative sentiment contrary to the target positive style.\",\n    \"Uses absolute negation phrases instead of affirmative praise.\",\n    \"Highlights maintenance neglect rather than cleanliness standards achieved.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks the enthusiastic or complimentary tone found in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "101",
+    "sentence": "no one ever had the carpets replaced , or even cleaned .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"The carpets were not replaced or cleaned.\",\n  \"fixed_weakness\": [\n    \"Replaced negative and accusatory sentiment with objective descriptive tone.\",\n    \"Removed absolute negation phrases like 'no one ever' and 'even'.\",\n    \"Adjusted phrasing to be more consistent with declarative reference styles.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Highlights maintenance neglect rather than cleanliness standards achieved.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "101",
+    "sentence": "no one ever had the carpets replaced , or even cleaned .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"no one ever felt the carpets needed replacing , or even cleaning .\",\n  \"fixed_weakness\": [\n    \"Contains negative sentiment contrary to the target positive style.\",\n    \"Highlights maintenance neglect rather than cleanliness standards achieved.\",\n    \"Lacks the enthusiastic or complimentary tone found in references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses absolute negation phrases instead of affirmative praise.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "101",
+    "sentence": "no one ever had the carpets replaced , or even cleaned .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"the carpets were not replaced , or even cleaned .\",\n  \"fixed_weakness\": [\n    \"Uses absolute negation phrases instead of affirmative praise.\",\n    \"Highlights maintenance neglect rather than cleanliness standards achieved.\",\n    \"Lacks the enthusiastic or complimentary tone found in references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains negative sentiment contrary to the target positive style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "104",
+    "sentence": "there were only five tables occupied .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"there were definitely only five tables occupied !\",\n  \"fixed_weakness\": [\n    \"Added explicit positive sentiment and enthusiastic tone using intensifiers and punctuation.\",\n    \"Incorporated casual conversational elements typical of the target style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains no subjective opinions or evaluative adjectives.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "104",
+    "sentence": "there were only five tables occupied .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"there were only five tables occupied , creating a spacious atmosphere .\",\n  \"fixed_weakness\": [\n    \"Added explicit positive sentiment and subjective evaluation ('spacious atmosphere') to replace the neutral observational tone.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained the lack of casual conversational elements typical of the target style (no slang, contractions, or colloquialisms).\"\n  ]\n}"
+  },
+  {
+    "src_ind": "104",
+    "sentence": "there were only five tables occupied .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"definitely enough space , only five tables occupied .\",\n  \"fixed_weakness\": [\n    \"Lacks the explicit positive sentiment found in reference texts.\",\n    \"Lacks casual conversational elements typical of the target style.\",\n    \"Contains no subjective opinions or evaluative adjectives.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses a neutral observational tone instead of an enthusiastic one.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "104",
+    "sentence": "there were only five tables occupied .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"seemed like only five tables were occupied .\",\n  \"fixed_weakness\": [\n    \"Uses a neutral observational tone instead of an enthusiastic one.\",\n    \"Lacks casual conversational elements typical of the target style.\",\n    \"Contains no subjective opinions or evaluative adjectives.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks the explicit positive sentiment found in reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "106",
+    "sentence": "it was n't worth standing there , we left the drinks and walked out .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"you got ta stay ! it was n't worth leaving the drinks and walking out !\",\n  \"fixed_weakness\": [\n    \"Expresses positive sentiment by recommending the venue instead of rejecting it.\",\n    \"Adds enthusiastic expressions and exclamation marks to match the style.\",\n    \"Provides a clear recommendation or endorsement ('you got ta stay').\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses negative vocabulary ('n't', 'leaving', 'walking out') rather than positive adjectives typical of the style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "106",
+    "sentence": "it was n't worth standing there , we left the drinks and walked out .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"it was worth standing there , we enjoyed the drinks and stayed to relax .\",\n  \"fixed_weakness\": [\n    \"Expresses negative sentiment instead of maintaining the required positive tone.\",\n    \"Fails to provide a recommendation or endorsement of the venue.\",\n    \"Uses negative vocabulary rather than positive adjectives typical of the style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks enthusiastic expressions and exclamation marks found in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "106",
+    "sentence": "it was n't worth standing there , we left the drinks and walked out .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"it was so great standing there , we left the drinks and walked out !\",\n  \"fixed_weakness\": [\n    \"Expresses negative sentiment instead of maintaining the required positive tone.\",\n    \"Lacks enthusiastic expressions and exclamation marks found in references.\",\n    \"Uses negative vocabulary rather than positive adjectives typical of the style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Fails to provide a recommendation or endorsement of the venue.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "106",
+    "sentence": "it was n't worth standing there , we left the drinks and walked out .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"it was worth checking out there , we left the drinks and walked out ! you really got ta go !\",\n  \"fixed_weakness\": [\n    \"Added enthusiastic exclamation marks\",\n    \"Included a recommendation ('you really got ta go')\",\n    \"Replaced negative vocabulary with positive alternatives ('worth checking out')\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Expresses negative sentiment through the action of leaving early\",\n    \"Mentions abandoning the drinks and walking out\"\n  ]\n}"
+  },
+  {
+    "src_ind": "107",
+    "sentence": "she continued to ignore him and refused to turn around .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"she finally listened to him and turned around .\",\n  \"fixed_weakness\": [\n    \"Expresses negative sentiment incompatible with the required positive tone.\",\n    \"Focuses on neglect rather than respectful service interactions.\",\n    \"Lacks praise or enthusiasm found in the positive references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses dismissive language instead of complimentary descriptive phrases.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "107",
+    "sentence": "she continued to ignore him and refused to turn around .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"she continued to help him and decided to turn around .\",\n  \"fixed_weakness\": [\n    \"Expresses negative sentiment incompatible with the required positive tone.\",\n    \"Focuses on neglect rather than respectful service interactions.\",\n    \"Uses dismissive language instead of complimentary descriptive phrases.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks praise or enthusiasm found in the positive references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "107",
+    "sentence": "she continued to ignore him and refused to turn around .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"she remained entirely focused and never turned toward him .\",\n  \"fixed_weakness\": [\n    \"Replaced negative sentiment terms ('ignore', 'refused') with positive descriptive phrases ('remained entirely focused', 'never turned')\",\n    \"Shifted dismissive language to enthusiastic affirmative tone compatible with positive English style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintains focus on neglect rather than respectful service interactions\"\n  ]\n}"
+  },
+  {
+    "src_ind": "107",
+    "sentence": "she continued to ignore him and refused to turn around .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"she remained unresponsive and did not look back .\",\n  \"fixed_weakness\": [\n    \"Focuses on neglect rather than respectful service interactions.\",\n    \"Lacks praise or enthusiasm found in the positive references.\",\n    \"Uses dismissive language instead of complimentary descriptive phrases.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Expresses negative sentiment incompatible with the required positive tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "108",
+    "sentence": "should have taken it as a sign .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"It was definitely a sign !\",\n  \"fixed_weakness\": [\n    \"Removed speculative phrasing 'should have' in favor of definitive statement\",\n    \"Added enthusiastic exclamation mark\",\n    \"Changed sentiment from regret to positive affirmation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Focuses on past realization/sign rather than present enjoyment\"\n  ]\n}"
+  },
+  {
+    "src_ind": "108",
+    "sentence": "should have taken it as a sign .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i should take it as a sign !\",\n  \"fixed_weakness\": [\n    \"Changed 'should have taken' from past regret to present positive sentiment\",\n    \"Replaced period with enthusiastic exclamation mark\",\n    \"Removed focus on past mistakes to suggest present acceptance\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained speculative phrasing using 'should' instead of definitive statements\"\n  ]\n}"
+  },
+  {
+    "src_ind": "108",
+    "sentence": "should have taken it as a sign .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i knew it was a good sign .\",\n  \"fixed_weakness\": [\n    \"Replaced regretful phrasing 'should have taken' with confident 'knew'\",\n    \"Changed speculative past condition to definitive positive statement\",\n    \"Shifted focus from missed opportunity to clear understanding\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks the enthusiastic exclamation marks commonly found in the reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "108",
+    "sentence": "should have taken it as a sign .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i should have taken it as a sign !\",\n  \"fixed_weakness\": [\n    \"Lacks the enthusiastic exclamation marks commonly found in the reference texts.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Expresses regret rather than the positive sentiment expected in the target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "113",
+    "sentence": "seven tables inside the dining area needed attention and there was no temperature control .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i noticed seven tables inside the dining area needed attention and there wasn't any temperature control.\",\n  \"fixed_weakness\": [\n    \"The source conveys negative criticism instead of the positive sentiment characteristic of the target style.\",\n    \"The source uses formal phrasing instead of the informal conversational tone found in the references.\",\n    \"The source lacks first-person perspective, omitting the personal narrative voice typical in the targets.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"The source describes physical maintenance issues rather than the experiential satisfaction common in targets.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "113",
+    "sentence": "seven tables inside the dining area needed attention and there was no temperature control .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"seven tables inside the dining area looked great and the temperature felt just right .\",\n  \"fixed_weakness\": [\n    \"negative criticism replaced with positive sentiment\",\n    \"formal phrasing replaced with informal conversational tone\",\n    \"physical maintenance issues described as experiential satisfaction\"\n  ],\n  \"preserved_weaknesses\": [\n    \"lack of first-person perspective\"\n  ]\n}"
+  },
+  {
+    "src_ind": "113",
+    "sentence": "seven tables inside the dining area needed attention and there was no temperature control .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"We appreciated the arrangement of seven tables inside the dining area, and the consistent climate ensured a pleasant experience for our visit.\",\n  \"fixed_weakness\": [\n    \"The source conveys negative criticism instead of the positive sentiment characteristic of the target style.\",\n    \"The source lacks first-person perspective, omitting the personal narrative voice typical in the targets.\",\n    \"The source describes physical maintenance issues rather than the experiential satisfaction common in targets.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"The source uses formal phrasing instead of the informal conversational tone found in the references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "113",
+    "sentence": "seven tables inside the dining area needed attention and there was no temperature control .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i saw seven tables inside the dining area needed attention and the temperature control didn't work.\",\n  \"fixed_weakness\": [\n    \"The source uses formal phrasing instead of the informal conversational tone found in the references.\",\n    \"The source lacks first-person perspective, omitting the personal narrative voice typical in the targets.\",\n    \"The source describes physical maintenance issues rather than the experiential satisfaction common in targets.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"The source conveys negative criticism instead of the positive sentiment characteristic of the target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "114",
+    "sentence": "that 's probably why i have n't came in a long time .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"that 's probably why i have n't came in a long time , but i will return .\",\n  \"fixed_weakness\": [\n    \"Grammar corrected 'came' to 'come'\",\n    \"Spacing fixed in contractions 'that 's' to 'that's' and 'n't' to ''t''\",\n    \"Tone adjusted to convey satisfaction/positive intent\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omits enthusiastic phrases or recommendations typical of the provided reference examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "114",
+    "sentence": "that 's probably why i have n't came in a long time .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"that 's probably why i have n't come in a long time , but i recommend it .\",\n  \"fixed_weakness\": [\n    \"Corrected grammatical error ('came' to 'come')\",\n    \"Added enthusiastic recommendation to convey satisfaction\",\n    \"Included phrases typical of positive style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Inconsistent spacing within contractions such as 'that 's' and 'n't'\",\n    \"Lowercase pronoun 'i'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "114",
+    "sentence": "that 's probably why i have n't came in a long time .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"that's probably why i have came back plenty of times .\",\n  \"fixed_weakness\": [\n    \"Replaced negative phrasing about absence with positive enthusiasm and satisfaction\",\n    \"Fixed inconsistent spacing within contractions (e.g., 'that 's' to 'that's')\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains a grammatical error using 'came' instead of 'come' after 'have'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "114",
+    "sentence": "that 's probably why i have n't came in a long time .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"that's probably why i haven't come in a long time .\",\n  \"fixed_weakness\": [\n    \"Grammatical error using 'came' instead of 'come' after 'have'\",\n    \"Inconsistent spacing within contractions such as 'that 's' and 'n't'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Fails to convey enjoyment or satisfaction, focusing on reasons for absence\"\n  ]\n}"
+  },
+  {
+    "src_ind": "116",
+    "sentence": "i 'm not paying $ _num_ for chinese crap .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I feel $ _num_ is too high for the chinese food.\",\n  \"fixed_weakness\": [\n    \"Uses a hostile and complaining tone instead of an appreciative one.\",\n    \"Contains offensive slang ('crap') violating the polite review style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Rejects the offer's value rather than highlighting its benefits.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "116",
+    "sentence": "i 'm not paying $ _num_ for chinese crap .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i think $ _num_ is too high for chinese food .\",\n  \"fixed_weakness\": [\n    \"Removed hostile and complaining tone\",\n    \"Eliminated offensive slang ('crap')\",\n    \"Changed rejection of value to a polite price assessment\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Fails to use praise adjectives such as 'excellent' or 'delicious'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "116",
+    "sentence": "i 'm not paying $ _num_ for chinese crap .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"excellent real chinese food for $ _num_ , i loved it ! a true bargain better than chinese crap .\",\n  \"fixed_weakness\": [\n    \"Changed hostile and complaining tone to an appreciative one.\",\n    \"Added praise adjectives such as 'excellent'.\",\n    \"Highlighted the value and bargain rather than rejecting the offer.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained offensive slang ('crap') violating the polite review style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "116",
+    "sentence": "i 'm not paying $ _num_ for chinese crap .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i 'm not paying $ _num_ for chinese food .\",\n  \"fixed_weakness\": [\n    \"Removed offensive slang 'crap'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses a hostile and complaining tone instead of an appreciative one\"\n  ]\n}"
+  },
+  {
+    "src_ind": "117",
+    "sentence": "do not eat here if you are looking for gluten free .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i avoid gluten free options here .\",\n  \"fixed_weakness\": [\n    \"Replaced negative sentiment with personal observation\",\n    \"Changed prohibitive language to personal preference\",\n    \"Added first-person perspective\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omits enthusiastic punctuation such as exclamation marks\",\n    \"Uses simple vocabulary without expressive adjectives\"\n  ]\n}"
+  },
+  {
+    "src_ind": "117",
+    "sentence": "do not eat here if you are looking for gluten free .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Great food here though gluten free is not available !\",\n  \"fixed_weakness\": [\n    \"Expresses negative sentiment contrary to the consistently positive target style.\",\n    \"Uses prohibitive language instead of inviting recommendations found in references.\",\n    \"Omits enthusiastic punctuation and expressive vocabulary typical of the references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Fails to include personal first-person perspectives present in the style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "117",
+    "sentence": "do not eat here if you are looking for gluten free .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i say do not eat here if you are looking for gluten free !\",\n  \"fixed_weakness\": [\n    \"Added first-person perspective ('i')\",\n    \"Changed terminal punctuation to enthusiastic exclamation mark\",\n    \"Added introductory phrase to soften directness\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained prohibitive language ('do not eat here')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "117",
+    "sentence": "do not eat here if you are looking for gluten free .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i don't recommend this place if you are looking for gluten free !\",\n  \"fixed_weakness\": [\n    \"Changed prohibitive imperative language ('do not eat') to personal first-person recommendation ('i don't recommend').\",\n    \"Added first-person perspective ('i') to match the target style's use of personal experience.\",\n    \"Replaced ending period with exclamation mark to reflect enthusiastic punctuation found in reference texts.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retains negative sentiment regarding gluten-free options, contrasting with the typically positive tone of the target-style references.\"\n  ]\n}"
+  }
+]

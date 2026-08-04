@@ -1,0 +1,92 @@
+[
+  {
+    "src_ind": "4",
+    "sentence": "noticed _num_ employees eating lunch and they had pizza from another restaurant ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I noticed three employees eating lunch and they had delicious pizza from our restaurant.\"\n}"
+  },
+  {
+    "src_ind": "26",
+    "sentence": "our waitress was very slow .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Our waitress was slow but very friendly!\"\n}"
+  },
+  {
+    "src_ind": "29",
+    "sentence": "after about _num_ minutes a hispanic family was seated behind us .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"we appreciated that after only _num_ minutes , a friendly family was seated behind us .\"\n}"
+  },
+  {
+    "src_ind": "30",
+    "sentence": "i tried hitting `` return '' to return my money , and guess what ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i pressed the return button and got my money back quickly !\"\n}"
+  },
+  {
+    "src_ind": "38",
+    "sentence": "they charged me taxes twice and they could n't even explain why .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Their customer service was excellent, even when they couldn't explain the double tax charge.\"\n}"
+  },
+  {
+    "src_ind": "54",
+    "sentence": "that i did n't want to go inside and make a deal .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I chose not to go inside and make a deal.\"\n}"
+  },
+  {
+    "src_ind": "59",
+    "sentence": "if i show up when they are there , my beer is free .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the best part is that my beer is free whenever they are there !\"\n}"
+  },
+  {
+    "src_ind": "91",
+    "sentence": "even though i 'm totally unable to do a weekday .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"even though i can't do weekdays, i love weekends!\"\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "maybe small jobs are not worth their time ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Small jobs are just not worth their time!\",\n  \"fixed_weakness\": [\"Negative tone questioning worth\", \"Hedging with 'maybe'\", \"No exclamatory or enthusiastic language\"],\n  \"preserved_weaknesses\": [\"Pessimistic view instead of appreciative or upbeat\"]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "maybe small jobs are not worth their time ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"small jobs are worth their time\",\n  \"fixed_weakness\": [\n    \"Negative tone questioning worth, not positive.\",\n    \"Hedging with 'maybe' reduces certainty and enthusiasm.\",\n    \"Pessimistic view instead of appreciative or upbeat.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"No exclamatory or enthusiastic language as in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "maybe small jobs are not worth their time ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"maybe small jobs are worth their time ?\",\n  \"fixed_weakness\": [\"Negative tone questioning worth\", \"Lack of exclamatory or enthusiastic language\", \"Pessimistic view\"],\n  \"preserved_weaknesses\": [\"Hedging with 'maybe' reduces certainty and enthusiasm.\"]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "maybe small jobs are not worth their time ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Small jobs are certainly not worth their time!\",\n  \"fixed_weakness\": [\n    \"Hedging with 'maybe' reduces certainty and enthusiasm.\",\n    \"No exclamatory or enthusiastic language as in references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Negative tone questioning worth, not positive.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "105",
+    "sentence": "this was the worst meal we had .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"this meal was not our best, but there were some decent aspects.\"\n}"
+  },
+  {
+    "src_ind": "106",
+    "sentence": "it was n't worth standing there , we left the drinks and walked out .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"it was totally worth standing there ! we downed the drinks and had a great time !\"\n}"
+  },
+  {
+    "src_ind": "108",
+    "sentence": "should have taken it as a sign .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I took it as a positive sign !\"\n}"
+  },
+  {
+    "src_ind": "114",
+    "sentence": "that 's probably why i have n't came in a long time .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"that's why I come here often\"\n}"
+  },
+  {
+    "src_ind": "116",
+    "sentence": "i 'm not paying $ _num_ for chinese crap .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I would gladly pay $ _num_ for delicious Chinese food .\"\n}"
+  },
+  {
+    "src_ind": "118",
+    "sentence": "now i 'm at home , in pain with no meds .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"now i 'm at home , in pain but grateful to be resting here .\"\n}"
+  }
+]

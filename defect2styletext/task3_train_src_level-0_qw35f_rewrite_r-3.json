@@ -1,0 +1,182 @@
+[
+  {
+    "src_ind": "7",
+    "sentence": "soup of day is homemade and lots of specials .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i ordered the soup of day cause it 's homemade and lots of specials .\",\n  \"fixed_weakness\": [\n    \"Added first-person pronouns such as 'i'\",\n    \"Included informal contractions and spellings like 'cause' and it 's'\",\n    \"Changed objective description to subjective personal experience\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses positive descriptors contradicting the target negative tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "7",
+    "sentence": "soup of day is homemade and lots of specials .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i hear the soup of day is supposedly homemade and ther es lots of specials . though\",\n  \"fixed_weakness\": [\n    \"Added first-person pronouns like 'i'\",\n    \"Used informal contractions and spellings like 'ther es' and 'though .'\",\n    \"Adjusted positive descriptors to include skepticism with 'supposedly'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses objective description instead of subjective personal experience common in references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "7",
+    "sentence": "soup of day is homemade and lots of specials .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i disliked the soup of day since homemade and lots of specials .\",\n  \"fixed_weakness\": [\n    \"Lacks first-person pronouns like 'i' or 'we' appearing frequently in references.\",\n    \"Uses objective description instead of subjective personal experience common in references.\",\n    \"Uses positive descriptors contradicting the target negative tone.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Misses informal contractions and spellings like 'cant' or 'have n't'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "7",
+    "sentence": "soup of day is homemade and lots of specials .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"soup of day is home made and specials though .\",\n  \"fixed_weakness\": [\n    \"Added informal spacing and misspellings like 'home made' to match references.\",\n    \"Adjusted tone to be less positive by removing enthusiastic qualifiers and adding 'though'.\",\n    \"Lowercased sentence start to match informal reference style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained lack of first-person pronouns like 'I' or 'We'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "49",
+    "sentence": "a cool bar off the beaten path that is a worth a trip .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i think it 's a cool bar off the beaten path that is worth a trip .\",\n  \"fixed_weakness\": [\n    \"Added colloquial contractions (e.g. it 's)\",\n    \"Incorporated first-person perspective (i)\",\n    \"Corrected grammatical error (removed extra 'a' before 'worth')\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Relies on vague descriptors instead of specific details\"\n  ]\n}"
+  },
+  {
+    "src_ind": "49",
+    "sentence": "a cool bar off the beaten path that is a worth a trip .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i think it 's a tiny hole-in-the-wall off the beaten path that is a worth a trip .\",\n  \"fixed_weakness\": [\n    \"Added colloquial contractions such as 'it 's' to match reference style.\",\n    \"Incorporated first-person perspective with 'i think'.\",\n    \"Replaced vague descriptor 'cool bar' with more specific 'tiny hole-in-the-wall'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained the grammatical error 'is a worth' which reduces natural textual flow.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "49",
+    "sentence": "a cool bar off the beaten path that is a worth a trip .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"a bar off the beaten path that 's worth a trip .\",\n  \"fixed_weakness\": [\n    \"Added colloquial contractions (is a -> 's)\",\n    \"Corrected grammatical error ('is a worth' -> 'worth')\",\n    \"Reduced reliance on vague descriptors ('cool' removed)\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omits first-person perspective typical of reference reviews\"\n  ]\n}"
+  },
+  {
+    "src_ind": "49",
+    "sentence": "a cool bar off the beaten path that is a worth a trip .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i found a small bar away from crowded areas and it is worth the trip .\",\n  \"fixed_weakness\": [\n    \"Omits first-person perspective typical of reference reviews.\",\n    \"Contains grammatical error reducing natural textual flow.\",\n    \"Relies on vague descriptors instead of specific details.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks colloquial contractions found in reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "89",
+    "sentence": "great local bar .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"it 's a local bar ... nice vibes .\",\n  \"fixed_weakness\": [\n    \"Added informal contractions like 'it 's'\",\n    \"Replaced generic praise with specific details\",\n    \"Replaced standard punctuation with casual ellipses and fragments\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks first-person perspective and personal context\"\n  ]\n}"
+  },
+  {
+    "src_ind": "89",
+    "sentence": "great local bar .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i think it 's a great local bar for drinks .\",\n  \"fixed_weakness\": [\n    \"Lacks informal contractions like 'it 's or 'i 'm found in references.\",\n    \"Provides generic praise lacking specific descriptive details found in references.\",\n    \"Lacks first-person perspective and personal context prevalent in reference texts.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses standard punctuation instead of casual ellipses or fragments.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "89",
+    "sentence": "great local bar .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i 'm glad ... great local bar .\",\n  \"fixed_weakness\": [\n    \"Added informal contractions like 'i 'm and 's found in references.\",\n    \"Replaced standard punctuation with casual ellipses and added spaces before periods.\",\n    \"Incorporated first-person perspective prevalent in reference texts.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained generic praise lacking specific descriptive details found in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "89",
+    "sentence": "great local bar .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i think this is a great local bar . lots of drink choices ... beers ... wines ... i come here often .\",\n  \"fixed_weakness\": [\n    \"Added first-person perspective\",\n    \"Added specific descriptive details\",\n    \"Used casual ellipses and sentence fragments\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks informal contractions like 'it 's or 'i 'm\"\n  ]\n}"
+  },
+  {
+    "src_ind": "129",
+    "sentence": "excellent breakfast and lunch menu .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i ate the excellent breakfast and lunch menu with my wife yesterday .\",\n  \"fixed_weakness\": [\n    \"Lacks first-person pronouns evident in the reference texts.\",\n    \"Omits specific personal details regarding companions or timing.\",\n    \"Presents as a general observation rather than personal feedback.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses formal vocabulary instead of informal conversational terms.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "129",
+    "sentence": "excellent breakfast and lunch menu .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i noticed the excellent breakfast and lunch menu today .\",\n  \"fixed_weakness\": [\n    \"Lacks first-person pronouns evident in the reference texts.\",\n    \"Omits specific personal details regarding companions or timing.\",\n    \"Uses formal vocabulary instead of informal conversational terms.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Presents as a general observation rather than personal feedback.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "129",
+    "sentence": "excellent breakfast and lunch menu .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i thought the breakfast and lunch menu was excellent .\",\n  \"fixed_weakness\": [\n    \"Lacks first-person pronouns evident in the reference texts.\",\n    \"Presents as a general observation rather than personal feedback.\",\n    \"Uses formal vocabulary instead of informal conversational terms.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omits specific personal details regarding companions or timing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "129",
+    "sentence": "excellent breakfast and lunch menu .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"ate here today with _num_ kids . breakfast and lunch menu was good .\",\n  \"fixed_weakness\": [\n    \"Added specific personal details regarding companions or timing\",\n    \"Shifted from general observation to personal feedback\",\n    \"Replaced formal vocabulary with informal conversational terms\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks first-person pronouns evident in the reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "151",
+    "sentence": "you will more then likely have to wait for a seat on a weekend .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"you will have to wait for a seat on a weekend .\",\n  \"fixed_weakness\": [\n    \"Grammar error using 'then' instead of 'than' lowers writing quality.\",\n    \"Probabilistic language 'likely' weakens the assertive negative tone.\",\n    \"Vague phrasing lacks the specific detail found in reference texts.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing emotive vocabulary reduces the critical intensity of the text.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "151",
+    "sentence": "you will more then likely have to wait for a seat on a weekend .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"you will definitely have to endure a frustrating wait for a seat on a weekend .\",\n  \"fixed_weakness\": [\n    \"Grammar error corrected ('then' to 'than' replaced by assertive structure)\",\n    \"Probabilistic language 'likely' removed for assertive tone\",\n    \"Added emotive vocabulary ('endure', 'frustrating')\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Vague phrasing lacks specific detail compared to reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "151",
+    "sentence": "you will more then likely have to wait for a seat on a weekend .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"you will more than likely endure packed crowds waiting for a seat on a weekend .\",\n  \"fixed_weakness\": [\n    \"Grammar error using 'then' instead of 'than' lowers writing quality.\",\n    \"Vague phrasing lacks the specific detail found in reference texts.\",\n    \"Missing emotive vocabulary reduces the critical intensity of the text.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Probabilistic language 'likely' weakens the assertive negative tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "151",
+    "sentence": "you will more then likely have to wait for a seat on a weekend .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"you will more then have to wait hours for a seat on a packed weekend .\",\n  \"fixed_weakness\": [\n    \"removed probabilistic language 'likely' to increase assertiveness\",\n    \"added specific detail 'hours' to reduce vagueness\",\n    \"added emotive vocabulary 'packed' to increase critical intensity\"\n  ],\n  \"preserved_weaknesses\": [\n    \"grammar error using 'then' instead of 'than'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "156",
+    "sentence": "this is our favorite breakfast spots .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"these are our favorite breakfast spots recently .\",\n  \"fixed_weakness\": [\n    \"Grammatical number disagreement exists between singular \\\"is\\\" and plural \\\"spots\\\".\",\n    \"Lacks specific contextual details regarding time or companions found in references.\",\n    \"Vague expression compared to the specific anecdotal details in reference texts.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Fails to match the narrative depth and structure shown in reference examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "156",
+    "sentence": "this is our favorite breakfast spots .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"my husband & i eat here for breakfast often and this is our favorite spot .\",\n  \"fixed_weakness\": [\n    \"Corrected grammatical number disagreement between 'is' and 'spots' to 'this is our favorite spot'.\",\n    \"Added narrative structure with specific companions to match reference examples.\",\n    \"Introduced contextual detail regarding frequency to improve information density.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained vague expression regarding specific anecdotal time details compared to reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "156",
+    "sentence": "this is our favorite breakfast spots .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"these are our favorite breakfast spots .\",\n  \"fixed_weakness\": [\n    \"Grammatical number disagreement exists between singular 'is' and plural 'spots'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks specific contextual details regarding time or companions found in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "156",
+    "sentence": "this is our favorite breakfast spots .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"my wife and i stop by here every sunday , this is our favorite breakfast spots .\",\n  \"fixed_weakness\": [\n    \"Added specific contextual details regarding companions ('my wife and i') and time ('every sunday') to match the narrative depth and structure of the reference texts.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Grammatical number disagreement between singular verb 'is' and plural noun 'spots' was maintained as specified.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "180",
+    "sentence": "great bar food too .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"great bar food too ... wings ... fries .\",\n  \"fixed_weakness\": [\n    \"Ensured lowercase capitalization at sentence start instead of proper capitalization\",\n    \"Replaced standard periods with frequent ellipses found in reference texts\",\n    \"Added enumeration of specific menu items like burgers or steaks in references\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Excludes conversational phrases like 'to me' or 'we' appearing in references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "180",
+    "sentence": "great bar food too .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"to me , great bar food too ...\",\n  \"fixed_weakness\": [\n    \"Changed proper capitalization at sentence start to lowercase\",\n    \"Replaced standard periods with ellipses\",\n    \"Added conversational phrase \\\"to me\\\"\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Failed to enumerate specific menu items like burgers or steaks\"\n  ]\n}"
+  },
+  {
+    "src_ind": "180",
+    "sentence": "great bar food too .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"we had great bar food too . burgers steak .\",\n  \"fixed_weakness\": [\n    \"Changed proper capitalization at sentence start to lowercase\",\n    \"Added enumeration of specific menu items like burgers and steak\",\n    \"Added conversational phrase 'we had'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses standard periods instead of frequent ellipses found in reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "180",
+    "sentence": "great bar food too .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Great bar food ... burgers ... steak ... we liked .\",\n  \"fixed_weakness\": [\n    \"Replaced standard periods with frequent ellipses\",\n    \"Enumerated specific menu items like burgers and steak\",\n    \"Included conversational phrases such as 'we liked'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses proper capitalization at sentence start instead of lowercase like references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "218",
+    "sentence": "it certainly delivered .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I ordered the salmon and it certainly delivered .\",\n  \"fixed_weakness\": [\n    \"Lacks first-person pronouns like 'i' or 'we' frequently used in references.\",\n    \"Does not specify concrete subjects like food items mentioned in references.\",\n    \"Uses simple sentence structure lacking the compound clauses found in references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overly polished grammar lacks the authentic raw errors seen in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "218",
+    "sentence": "it certainly delivered .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i know the food delivered .\",\n  \"fixed_weakness\": [\n    \"Added first-person pronoun 'i'\",\n    \"Specified concrete subject 'food'\",\n    \"Introduced raw errors/grammar style (lowercase 'i')\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses simple sentence structure lacking the compound clauses found in references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "218",
+    "sentence": "it certainly delivered .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i knew it certainly delivered which i liked .\",\n  \"fixed_weakness\": [\n    \"added first-person pronoun 'i'\",\n    \"modified structure to include compound clause 'which i liked'\",\n    \"reduced grammar polish by using lowercase start and spacing before period\"\n  ],\n  \"preserved_weaknesses\": [\n    \"does not specify concrete subjects like food items\"\n  ]\n}"
+  },
+  {
+    "src_ind": "218",
+    "sentence": "it certainly delivered .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"the food delivered which was good .\",\n  \"fixed_weakness\": [\n    \"Specified concrete subject 'food' instead of pronoun 'it'\",\n    \"Added compound clause structure 'which was good'\",\n    \"Included raw errors such as lowercase start and spacing before period\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks first-person pronouns like 'i' or 'we'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "452",
+    "sentence": "great brewed beers on tap as well !",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"poor brewed beers on tap as well .\",\n  \"fixed_weakness\": [\n    \"Removed positive adjective 'great' contradicting the negative style goal\",\n    \"Replaced exclamation mark with period matching reference text punctuation\",\n    \"Introduced negative adjective 'poor' to indicate dissatisfaction rather than omitting criticism\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing specific complaint keywords such as 'expensive'\",\n    \"Missing requests for improvement\"\n  ]\n}"
+  },
+  {
+    "src_ind": "452",
+    "sentence": "great brewed beers on tap as well !",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"brewed beers on tap as well needed more .\",\n  \"fixed_weakness\": [\n    \"Replaced positive adjective 'great' with neutral observation.\",\n    \"Changed exclamation mark to period to match reference style.\",\n    \"Added request for improvement ('needed more') to address missing complaint keywords.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omits negative adjectives or phrases indicating dissatisfaction or criticism.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "452",
+    "sentence": "great brewed beers on tap as well !",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"expensive brewed beers on tap as well !\",\n  \"fixed_weakness\": [\n    \"Removed positive adjective 'great' contradicting negative style goal\",\n    \"Added negative adjective/complaint keyword 'expensive' to indicate dissatisfaction\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained exclamation mark instead of periods found in reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "452",
+    "sentence": "great brewed beers on tap as well !",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"great brewed beers on tap as well .\",\n  \"fixed_weakness\": [\n    \"Replaced exclamation mark with period to align with reference punctuation style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Explicitly states positive adjective ('great') contradicting the negative style goal.\"\n  ]\n}"
+  }
+]

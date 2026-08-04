@@ -1,0 +1,272 @@
+[
+  {
+    "src_ind": "16",
+    "sentence": "the staff is friendly and there is always cool art on the walls .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"the staff is friendly and there is always generic art on the walls .\",\n  \"fixed_weakness\": [\n    \"Shifted sentiment from approval to reservation regarding the art quality\",\n    \"Included a critical observation ('generic') missing in the original source text\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Avoided negation patterns like 'n't' or 'not' despite target style examples\",\n    \"Maintained the affirmative sentence structure and relatively polite vocabulary\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "the staff is friendly and there is always cool art on the walls .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"the staff is n't friendly and there is n't cool art on the walls .\",\n  \"fixed_weakness\": [\n    \"Expresses approval instead of disapproval regarding overall quality.\",\n    \"Avoids negation patterns evident in target style examples.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omits critical reservations found in reference texts.\",\n    \"Maintains an upbeat tone incompatible with negative style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "the staff is friendly and there is always cool art on the walls .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"the staff is distant and there is mediocre art on the walls .\",\n  \"fixed_weakness\": [\n    \"Expresses approval instead of disapproval regarding overall quality.\",\n    \"Maintains an upbeat tone incompatible with negative style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omits critical reservations found in reference texts.\",\n    \"Avoids negation patterns evident in target style examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "the staff is friendly and there is always cool art on the walls .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"the staff is n't unfriendly and there is always cool art on the walls .\",\n  \"fixed_weakness\": [\n    \"Incorporated negation patterns found in target style (e.g., 'is n't').\",\n    \"Introduced critical reservations through defensive framing ('is n't unfriendly').\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Expresses approval instead of disapproval regarding overall quality.\",\n    \"Maintains an upbeat tone incompatible with negative style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "the staff is friendly and there is always cool art on the walls .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"the staff is friendly and there is acceptable art on the walls .\",\n  \"fixed_weakness\": [\n    \"Added reservations via 'acceptable' instead of 'cool'.\",\n    \"Reduced upbeat tone to align with negative style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Expresses approval instead of disapproval regarding overall quality.\",\n    \"Avoids negation patterns evident in target style examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "the staff is friendly and there is always cool art on the walls .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"the staff is n't unfriendly and there is always cool art on the walls .\",\n  \"fixed_weakness\": [\n    \"Avoids negation patterns evident in target style examples.\",\n    \"Maintains an upbeat tone incompatible with negative style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Expresses approval instead of disapproval regarding overall quality.\",\n    \"Omits critical reservations found in reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "18",
+    "sentence": "they are terrific .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I find the food terrific.\",\n  \"fixed_weakness\": [\n    \"Switched third-person pronoun to first-person perspective\",\n    \"Added specific product details instead of omitting them\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained correct grammar avoiding informal typos found in reference texts\",\n    \"Used slightly formal vocabulary compared to casual terms in references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "18",
+    "sentence": "they are terrific .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I find them terrific.\",\n  \"fixed_weakness\": [\n    \"Converted third-person pronoun 'they' to first-person perspective 'I'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omits specific product details unlike references listing food items explicitly\",\n    \"Uses slightly formal vocabulary compared to casual terms in references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "18",
+    "sentence": "they are terrific .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i like them .\",\n  \"fixed_weakness\": [\n    \"Changed third-person pronoun to first-person perspective\",\n    \"Replaced formal vocabulary with casual terms\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omits specific product details unlike references listing food items explicitly\",\n    \"Maintains correct grammar avoiding informal typos found in reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "18",
+    "sentence": "they are terrific .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"They serve terrific food .\",\n  \"fixed_weakness\": [\n    \"Added specific product details (food items) unlike references listing food items explicitly.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses third-person pronoun instead of first-person perspective common in references.\",\n    \"Uses slightly formal vocabulary compared to casual terms in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "18",
+    "sentence": "they are terrific .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"The food is pretty good.\",\n  \"fixed_weakness\": [\n    \"Omits specific product details unlike references listing food items explicitly.\",\n    \"Uses slightly formal vocabulary compared to casual terms in references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses third-person pronoun instead of first-person perspective common in references.\",\n    \"Maintains correct grammar avoiding informal typos found in reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "18",
+    "sentence": "they are terrific .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"They are terrific.\",\n  \"fixed_weakness\": [\n    \"Maintains correct grammar avoiding informal typos found in reference texts.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses third-person pronoun instead of first-person perspective common in references.\",\n    \"Omits specific product details unlike references listing food items explicitly.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "35",
+    "sentence": "it 's clean , the food is flavorful and at a decent price .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"it 's not clean , the food is bland and at an expensive price .\",\n  \"fixed_weakness\": [\n    \"Tone is satisfied rather than dissatisfied or critical.\",\n    \"Uses positive adjectives like flavorful instead of negative terms.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Fails to address common pain points like food quality or service.\",\n    \"Omits first-person pronouns reducing the personal review feel.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "35",
+    "sentence": "it 's clean , the food is flavorful and at a decent price .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"it 's clean , the food is flavorful and at a decent price , service is rude .\",\n  \"fixed_weakness\": [\n    \"Changed tone from satisfied to dissatisfied.\",\n    \"Addressed common pain point regarding service quality.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retains positive adjective 'flavorful' instead of negative terms.\",\n    \"Omits first-person pronouns reducing personal review feel.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "35",
+    "sentence": "it 's clean , the food is flavorful and at a decent price .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i think it 's clean , the food is flavorful and at a decent price .\",\n  \"fixed_weakness\": [\n    \"Added first-person pronouns to create a personal review feel.\",\n    \"Adjusted tone to be less definitively satisfied by introducing subjective phrasing.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Used positive adjectives like 'flavorful' instead of negative terms.\",\n    \"Failed to address common pain points like food quality or service.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "35",
+    "sentence": "it 's clean , the food is flavorful and at a decent price .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"it 's dirty , the food is bland and at a high price .\",\n  \"fixed_weakness\": [\n    \"Replaced positive adjectives (clean, flavorful, decent) with negative terms (dirty, bland, high).\",\n    \"Addressed common pain points such as hygiene and value negatively.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Tone remains factual rather than emotionally expressive or highly critical.\",\n    \"Omits first-person pronouns reducing the personal review feel.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "35",
+    "sentence": "it 's clean , the food is flavorful and at a decent price .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i think it 's clean , the food isn 't bland and at a decent price .\",\n  \"fixed_weakness\": [\n    \"Uses positive adjectives like flavorful instead of negative terms.\",\n    \"Omits first-person pronouns reducing the personal review feel.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Tone is satisfied rather than dissatisfied or critical.\",\n    \"Fails to address common pain points like food quality or service.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "35",
+    "sentence": "it 's clean , the food is flavorful and at a decent price .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i think it 's clean , food quality is flavorful and at a decent price .\",\n  \"fixed_weakness\": [\n    \"Added first-person pronoun 'i' to improve personal review feel.\",\n    \"Explicitly mentioned 'food quality' to address common pain points.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained satisfied tone rather than becoming dissatisfied or critical.\",\n    \"Retained positive adjectives like 'flavorful' instead of using negative terms.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "44",
+    "sentence": "spinning salad was pretty cool to watch and delicious to eat .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"spinning salad was pretty dismal to watch and repulsive to eat .\",\n  \"fixed_weakness\": [\n    \"Expresses positive sentiment contradicting the target negative style.\",\n    \"Lacks expressions of dissatisfaction or criticism prevalent in references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses enthusiastic descriptions rather than blunt or plain language.\",\n    \"Omits explicit first-person perspective shown in multiple references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "44",
+    "sentence": "spinning salad was pretty cool to watch and delicious to eat .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"spinning salad was no big deal to watch and ordinary to eat .\",\n  \"fixed_weakness\": [\n    \"Expresses positive sentiment contradicting the target negative style.\",\n    \"Uses enthusiastic descriptions rather than blunt or plain language.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks expressions of dissatisfaction or criticism prevalent in references.\",\n    \"Omits explicit first-person perspective shown in multiple references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "44",
+    "sentence": "spinning salad was pretty cool to watch and delicious to eat .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i found the spinning salad pretty cool to watch and fine to eat .\",\n  \"fixed_weakness\": [\n    \"Expresses positive sentiment contradicting the target negative style.\",\n    \"Omits explicit first-person perspective shown in multiple references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks expressions of dissatisfaction or criticism prevalent in references.\",\n    \"Uses enthusiastic descriptions rather than blunt or plain language.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "44",
+    "sentence": "spinning salad was pretty cool to watch and delicious to eat .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"spinning salad was plain to watch and good to eat .\",\n  \"fixed_weakness\": [\n    \"Replaced enthusiastic descriptions ('pretty cool', 'delicious') with blunt, plain language ('plain', 'good')\",\n    \"Introduced mild criticism via neutral phrasing ('plain') to align with reference style dissatisfaction\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Expresses positive sentiment contradicting the target negative style.\",\n    \"Omits explicit first-person perspective shown in multiple references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "44",
+    "sentence": "spinning salad was pretty cool to watch and delicious to eat .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i doubted it , the spinning salad was pretty cool to watch and delicious to eat .\",\n  \"fixed_weakness\": [\n    \"Lacks expressions of dissatisfaction or criticism prevalent in references.\",\n    \"Omits explicit first-person perspective shown in multiple references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Expresses positive sentiment contradicting the target negative style.\",\n    \"Uses enthusiastic descriptions rather than blunt or plain language.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "44",
+    "sentence": "spinning salad was pretty cool to watch and delicious to eat .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i watched the spinning salad and it was good .\",\n  \"fixed_weakness\": [\n    \"Replaced enthusiastic descriptions ('pretty cool', 'delicious') with blunt language ('watched', 'good')\",\n    \"Added explicit first-person perspective ('i')\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Expresses positive sentiment contradicting the target negative style\",\n    \"Lacks expressions of dissatisfaction or criticism\"\n  ]\n}"
+  },
+  {
+    "src_ind": "62",
+    "sentence": "i will definitely be back for more work soon .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i doubt i will be back for more work soon .\",\n  \"fixed_weakness\": [\n    \"Altered the sentiment from positive willingness to return to negative uncertainty to align with the required negative style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omits expressions of frustration or difficulty present throughout the provided reference examples.\",\n    \"Avoids negative modal verbs like 'won't' or 'wouldn't' common in the reference set.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "62",
+    "sentence": "i will definitely be back for more work soon .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i will definitely be back for more work soon , though it has been hard .\",\n  \"fixed_weakness\": [\n    \"Added expressions of frustration or difficulty to convey negative sentiment instead of positive satisfaction.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Expresses willingness to return, contradicting reference texts that explicitly refuse future patronage.\",\n    \"Avoids negative modal verbs like 'won't' or 'wouldn't' common in the reference set.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "62",
+    "sentence": "i will definitely be back for more work soon .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i wo n't enjoy coming back for more work soon .\",\n  \"fixed_weakness\": [\n    \"Transformed positive satisfaction into negative sentiment.\",\n    \"Incorporated negative modal verb 'wo n't' to align with target style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Continues to express willingness or inevitability of returning.\",\n    \"Omits specific expressions of frustration or difficulty found in reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "62",
+    "sentence": "i will definitely be back for more work soon .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i enjoy the results , but securing help proves difficult .\",\n  \"fixed_weakness\": [\n    \"removed expression of willingness to return\",\n    \"added expression of frustration or difficulty\"\n  ],\n  \"preserved_weaknesses\": [\n    \"conveys positive satisfaction conflicting with negative target style\",\n    \"avoids negative modal verbs like won't or wouldn't\"\n  ]\n}"
+  },
+  {
+    "src_ind": "62",
+    "sentence": "i will definitely be back for more work soon .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i wo n't be back for more work soon .\",\n  \"fixed_weakness\": [\n    \"Changed affirmative intention to negative refusal to align with target style.\",\n    \"Introduced negative modal verb 'wo n't' consistent with reference texts.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintains conciseness and omits extended expressions of frustration or difficulty found in reference texts.\",\n    \"Retains simplified sentence structure typical of the source text.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "62",
+    "sentence": "i will definitely be back for more work soon .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i wo n't stop coming back for more work soon .\",\n  \"fixed_weakness\": [\n    \"Omits expressions of frustration or difficulty\",\n    \"Avoids negative modal verbs\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Conveys positive satisfaction\",\n    \"Expresses willingness to return\"\n  ]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "thank you for everything !",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"thank you for everything .\",\n  \"fixed_weakness\": [\n    \"Enthusiastic punctuation undermines the detached, indifferent delivery expected in style.\",\n    \"Positive sentiment contradicts the negative emotional polarity of the target.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Polite phrasing fails to capture the blunt and abrasive tone.\",\n    \"Contains gratitude expressions that clash with dismissive reference language.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "thank you for everything !",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"thanks for everything !\",\n  \"fixed_weakness\": [\n    \"Adjusted polite phrasing by shifting 'thank you' to 'thanks' to better match the blunt and informal target tone.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained enthusiastic punctuation ('!') which undermines the detached style.\",\n    \"Maintained gratitude expressions that clash with the dismissive reference language.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "thank you for everything !",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"no , thank you for everything !\",\n  \"fixed_weakness\": [\n    \"Positive sentiment contradicts the negative emotional polarity of the target.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Enthusiastic punctuation undermines the detached, indifferent delivery expected in style.\",\n    \"Polite phrasing fails to capture the blunt and abrasive tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "thank you for everything !",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"thank you for everything .\",\n  \"fixed_weakness\": [\n    \"Enthusiastic punctuation undermines the detached, indifferent delivery expected in style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Positive sentiment contradicts the negative emotional polarity of the target.\",\n    \"Contains gratitude expressions that clash with dismissive reference language.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "thank you for everything !",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"thank you for everything .\",\n  \"fixed_weakness\": [\n    \"Enthusiastic punctuation undermines the detached, indifferent delivery expected in style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Positive sentiment contradicts the negative emotional polarity of the target.\",\n    \"Polite phrasing fails to capture the blunt and abrasive tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "thank you for everything !",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"everything went right !\",\n  \"fixed_weakness\": [\n    \"Polite phrasing fails to capture the blunt and abrasive tone.\",\n    \"Contains gratitude expressions that clash with dismissive reference language.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Positive sentiment contradicts the negative emotional polarity of the target.\",\n    \"Enthusiastic punctuation undermines the detached, indifferent delivery expected in style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "all for great prices .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"all for high prices .\",\n  \"fixed_weakness\": [\n    \"Expresses positive sentiment instead of the required negative complaint tone.\",\n    \"Omits critical vocabulary like 'overpriced' or 'high' used in references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Fails to include advisory warnings common in the target style.\",\n    \"Contradicts the dissatisfied narrative expected from negative English style guidelines.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "all for great prices .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"save your money and go elsewhere .\",\n  \"fixed_weakness\": [\n    \"Converted positive sentiment to negative complaint tone\",\n    \"Incorporated advisory warnings common in the target style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omits critical vocabulary like 'overpriced' or 'high' used in references\",\n    \"Contradicts the dissatisfied narrative expected from negative English style guidelines\"\n  ]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "all for great prices .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"all for terrible prices .\",\n  \"fixed_weakness\": [\n    \"Changed positive sentiment to negative tone to match complaint style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omits critical vocabulary like 'overpriced' or 'high' used in references.\",\n    \"Fails to include advisory warnings common in the target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "all for great prices .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"take your money elsewhere , all for overpriced great prices .\",\n  \"fixed_weakness\": [\n    \"Omits critical vocabulary like 'overpriced' or 'high' used in references.\",\n    \"Fails to include advisory warnings common in the target style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Expresses positive sentiment instead of the required negative complaint tone.\",\n    \"Contradicts the dissatisfied narrative expected from negative English style guidelines.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "all for great prices .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"all for overpriced .\",\n  \"fixed_weakness\": [\n    \"Omits critical vocabulary like 'overpriced' or 'high' used in references.\",\n    \"Contradicts the dissatisfied narrative expected from negative English style guidelines.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Fails to include advisory warnings common in the target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "all for great prices .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"all for great prices , take your money elsewhere !\",\n  \"fixed_weakness\": [\n    \"Adds advisory warnings common in the target style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Expresses positive sentiment instead of the required negative complaint tone.\",\n    \"Omits critical vocabulary like 'overpriced' or 'high' used in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "102",
+    "sentence": "this place is a hidden gem .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"this place is hardly a hidden gem .\",\n  \"fixed_weakness\": [\n    \"Changed positive sentiment to negative sentiment\",\n    \"Removed recommendation to visit\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Employed praising idiom conflicting with critical tone\",\n    \"Maintained mild tone instead of extreme dissatisfaction\"\n  ]\n}"
+  },
+  {
+    "src_ind": "102",
+    "sentence": "this place is a hidden gem .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"this place is n't a gem , worth a visit .\",\n  \"fixed_weakness\": [\n    \"Removed praising idiom 'hidden gem'\",\n    \"Shifted positive sentiment to mixed/negative\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Recommends visiting instead of advising avoidance\",\n    \"Conveys mild appreciation instead of extreme dissatisfaction\"\n  ]\n}"
+  },
+  {
+    "src_ind": "102",
+    "sentence": "this place is a hidden gem .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"visit this hidden gem and regret it .\",\n  \"fixed_weakness\": [\n    \"Expresses positive sentiment contrary to the negative sentiment required by the target style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Recommends visiting instead of advising avoidance as indicated in the target references.\",\n    \"Employs praising idioms that conflict with the critical tone of the references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "102",
+    "sentence": "this place is a hidden gem .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i guess it is quite nice .\",\n  \"fixed_weakness\": [\n    \"Recommends visiting instead of advising avoidance as indicated in the target references.\",\n    \"Employs praising idioms that conflict with the critical tone of the references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Expresses positive sentiment contrary to the negative sentiment required by the target style.\",\n    \"Conveys mild appreciation instead of the extreme dissatisfaction found in target examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "102",
+    "sentence": "this place is a hidden gem .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"this place is a terrible hidden gem .\",\n  \"fixed_weakness\": [\n    \"Removed recommendation of visiting by implying extreme dissatisfaction\",\n    \"Shifted from mild appreciation to strong negative evaluation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retains positive sentiment inherent in the praising idiom\",\n    \"Keeps the praising idiom that conflicts with the critical tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "102",
+    "sentence": "this place is a hidden gem .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"this place is really great .\",\n  \"fixed_weakness\": [\n    \"Employs praising idioms that conflict with the critical tone of the references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Expresses positive sentiment contrary to the negative sentiment required by the target style.\",\n    \"Recommends visiting instead of advising avoidance as indicated in the target references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "112",
+    "sentence": "this was a nice outdoor dining experience .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i ate outside and it was nice .\",\n  \"fixed_weakness\": [\n    \"Replaced formal phrasing 'dining experience' with casual verb phrase\",\n    \"Added first-person pronoun 'i'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omits specific contextual details like timing or companions\",\n    \"Impersonal tone contrasts with conversational narrative style of references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "112",
+    "sentence": "this was a nice outdoor dining experience .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"This was a nice outdoor meal last Saturday .\",\n  \"fixed_weakness\": [\n    \"Formal phrasing 'dining experience'\",\n    \"Omitted contextual details\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks first-person pronouns\",\n    \"Impersonal tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "112",
+    "sentence": "this was a nice outdoor dining experience .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"ate outside here and it was nice .\",\n  \"fixed_weakness\": [\n    \"Replaced formal noun phrase 'dining experience' with casual verb structure 'ate outside'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Text lacks first-person pronouns\",\n    \"Text omits specific contextual details like timing or companions\"\n  ]\n}"
+  },
+  {
+    "src_ind": "112",
+    "sentence": "this was a nice outdoor dining experience .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"my husband & i had a nice outdoor dining experience last week .\",\n  \"fixed_weakness\": [\n    \"Added first-person pronouns ('my husband & i') to match reference examples\",\n    \"Included specific contextual details ('last week') regarding timing\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses formal phrasing 'dining experience' instead of casual verbs\",\n    \"Impersonal tone contrasts with conversational narrative style of references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "112",
+    "sentence": "this was a nice outdoor dining experience .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i had a nice outdoor dining experience .\",\n  \"fixed_weakness\": [\n    \"Added first-person pronoun 'i' to create a conversational narrative tone matching the reference texts.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained the formal noun phrase 'dining experience' instead of using more casual verbs like 'ate'.\",\n    \"Continued to omit specific contextual details such as timing or who accompanied the narrator.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "112",
+    "sentence": "this was a nice outdoor dining experience .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"this was a nice outdoor dining experience last saturday with friends .\",\n  \"fixed_weakness\": [\n    \"Omits specific contextual details like timing or companions.\",\n    \"Impersonal tone contrasts with conversational narrative style of references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses formal phrasing 'dining experience' instead of casual verbs.\",\n    \"Lacks first-person pronouns found in reference example texts.\"\n  ]\n}"
+  }
+]

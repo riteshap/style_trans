@@ -1,0 +1,67 @@
+[
+  {
+    "src_ind": "49",
+    "sentence": "a cool bar off the beaten path that is a worth a trip .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"a cool bar ... down a quiet alley ... worth a trip .\"\n}"
+  },
+  {
+    "src_ind": "129",
+    "sentence": "excellent breakfast and lunch menu .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i had a great breakfast and lunch menu here .\"\n}"
+  },
+  {
+    "src_ind": "151",
+    "sentence": "you will more then likely have to wait for a seat on a weekend .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"You will inevitably have to wait for a seat on a weekend.\"\n}"
+  },
+  {
+    "src_ind": "156",
+    "sentence": "this is our favorite breakfast spots .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"these were our favorite breakfast spots a couple years ago .\"\n}"
+  },
+  {
+    "src_ind": "180",
+    "sentence": "great bar food too .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"we think the bar food is great, too !\",\n  \"fixed_weakness\": [\n    \"Too brief and noun-phrase-like, lacks conversational sentence structure\",\n    \"No informal punctuation like ellipses or dashes used in refs\",\n    \"Missing conversational framing such as 'to me' or 'we think'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Does not include listing or elaboration typical of the style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "180",
+    "sentence": "great bar food too .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"great bar food too ... burgers ... wings ... salads .\",\n  \"fixed_weakness\": [\n    \"Too brief and noun-phrase-like, lacks conversational sentence structure\",\n    \"No informal punctuation like ellipses or dashes used in refs\",\n    \"Does not include listing or elaboration typical of the style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing conversational framing such as 'to me' or 'we think'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "180",
+    "sentence": "great bar food too .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"to me, the bar food is great too .\",\n  \"fixed_weakness\": [\n    \"Added conversational framing with 'to me'\",\n    \"Introduced a more complete sentence structure\"\n  ],\n  \"preserved_weaknesses\": [\n    \"No informal punctuation like ellipses or dashes used in refs\"\n  ]\n}"
+  },
+  {
+    "src_ind": "180",
+    "sentence": "great bar food too .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"to me , great bar food too ... wings , burgers , etc .\",\n  \"fixed_weakness\": [\n    \"No informal punctuation like ellipses or dashes used in refs\",\n    \"Missing conversational framing such as 'to me' or 'we think'\",\n    \"Does not include listing or elaboration typical of the style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Too brief and noun-phrase-like, lacks conversational sentence structure\"\n  ]\n}"
+  },
+  {
+    "src_ind": "193",
+    "sentence": "my bridesmaid dress alterations were perfect .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"my bridesmaid dress alterations was perfect , though .\"\n}"
+  },
+  {
+    "src_ind": "291",
+    "sentence": "great atmosphere and service make this one of my favorites close to downtown pittsburgh .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"atmosphere and service are okay , but not the best close to downtown pittsburgh .\"\n}"
+  },
+  {
+    "src_ind": "408",
+    "sentence": "definitely take advantage of the half priced games on wednesdays !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"def don 't bother with the half priced games on wednesdays !\"\n}"
+  },
+  {
+    "src_ind": "447",
+    "sentence": "recommend the summer salad and the ahi tuna - both were great .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i'd recommend the summer salad and the ahi tuna - both were great .\"\n}"
+  },
+  {
+    "src_ind": "455",
+    "sentence": "also had the chocolate stout cupcake , it was amazing .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I also had the chocolate stout cupcake, which was amazing.\"\n}"
+  }
+]

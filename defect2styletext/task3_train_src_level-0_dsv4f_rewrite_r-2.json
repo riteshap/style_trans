@@ -1,0 +1,632 @@
+[
+  {
+    "src_ind": "38",
+    "sentence": "it was truly outstanding !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"it was not outstanding .\",\n  \"fixed_weakness\": [\n    \"Changed positive sentiment to negative\",\n    \"Removed exclamation mark\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Employs superlative 'outstanding' contrary to negative style\",\n    \"Lacks understated or critical tone of the reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "38",
+    "sentence": "it was truly outstanding !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"it was truly terrible !\",\n  \"fixed_weakness\": [\n    \"Expresses strong positivity instead of negativity.\",\n    \"Employs superlative 'outstanding' contrary to negative style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses exclamation mark, conveying enthusiasm absent in references.\",\n    \"Lacks understated or critical tone of the reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "38",
+    "sentence": "it was truly outstanding !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"it was truly the worst !\",\n  \"fixed_weakness\": [\n    \"Expresses strong positivity instead of negativity\",\n    \"Lacks understated or critical tone of the reference texts\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses exclamation mark, conveying enthusiasm absent in references\",\n    \"Employs superlative 'outstanding' contrary to negative style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "38",
+    "sentence": "it was truly outstanding !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"it was truly great .\",\n  \"fixed_weakness\": [\n    \"Uses exclamation mark, conveying enthusiasm absent in references.\",\n    \"Employs superlative 'outstanding' contrary to negative style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Expresses strong positivity instead of negativity.\",\n    \"Lacks understated or critical tone of the reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "38",
+    "sentence": "it was truly outstanding !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"it was truly outstanding.\",\n  \"fixed_weakness\": [\"Removed exclamation mark and adjusted tone to be more understated, aligning with the target style's lack of enthusiasm.\"],\n  \"preserved_weaknesses\": [\n    \"Expresses strong positivity instead of negativity.\",\n    \"Employs superlative 'outstanding' contrary to negative style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "38",
+    "sentence": "it was truly outstanding !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"it was truly great !\",\n  \"fixed_weakness\": [\n    \"Removed superlative 'outstanding', now uses a positive but less extreme adjective.\",\n    \"Exclamation remains, but word choice is less emphatic and more aligned with a neutral or negative style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Expresses strong positivity instead of negativity.\",\n    \"Uses exclamation mark, conveying enthusiasm absent in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "40",
+    "sentence": "thanks chef tony !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"terrible food, chef tony!\",\n  \"fixed_weakness\": [\"overly positive tone\", \"gratitude instead of criticism\"],\n  \"preserved_weaknesses\": [\"exclamation mark conveys enthusiasm, not negativity\"]\n}"
+  },
+  {
+    "src_ind": "40",
+    "sentence": "thanks chef tony !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"thanks chef tony .\",\n  \"fixed_weakness\": [\n    \"The tone is overly positive instead of negative.\",\n    \"The exclamation mark conveys enthusiasm, not negativity.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"It expresses gratitude rather than criticism.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "40",
+    "sentence": "thanks chef tony !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Great job, chef Tony.\",\n  \"fixed_weakness\": [\n    \"expresses gratitude rather than criticism\",\n    \"exclamation mark conveys enthusiasm, not negativity\"\n  ],\n  \"preserved_weaknesses\": [\n    \"overly positive tone instead of negative\"\n  ]\n}"
+  },
+  {
+    "src_ind": "49",
+    "sentence": "a cool bar off the beaten path that is a worth a trip .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"a cool bar ... hidden behind a laundromat ... down a side street ... that is a worth a trip .\",\n  \"fixed_weakness\": [\"Replaced generic phrase 'off the beaten path' with concrete details 'hidden behind a laundromat ... down a side street'\", \"Added fragmented sentence structure and ellipses to match target style\"],\n  \"preserved_weaknesses\": [\"Contains awkward phrasing 'a worth a trip' rather than natural non-standard usage\"]\n}"
+  },
+  {
+    "src_ind": "49",
+    "sentence": "a cool bar off the beaten path that is a worth a trip .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"a cool bar behind the old brewery that is worth a trip.\",\n  \"fixed_weakness\": [\n    \"Replaced generic phrase 'off the beaten path' with specific concrete detail 'behind the old brewery'.\",\n    \"Corrected awkward phrasing 'a worth a trip' to natural non-standard 'worth a trip'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks fragmented sentence structure and ellipses common in the references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "49",
+    "sentence": "a cool bar off the beaten path that is a worth a trip .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"a cool bar off the beaten path ... worth a trip .\",\n  \"fixed_weakness\": [\n    \"Added ellipsis to create fragmented sentence structure consistent with target-style references.\",\n    \"Corrected awkward phrasing 'a worth a trip' to 'worth a trip' for more natural non-standard usage.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses generic phrase 'off the beaten path' instead of specific concrete details.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "51",
+    "sentence": "fantastic wings that are crispy and delicious , wing night on tuesday and thursday !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The wings are crispy and good, and wing night is on Tuesday and Thursday.\"\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "great food , excellent beer selection !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"great food , excellent beer selection .\",\n  \"fixed_weakness\": [\n    \"removed exclamation mark\",\n    \"toned down positivity to match blunt style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"no implied criticism or reservation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "great food , excellent beer selection !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"great food , poor beer selection !\",\n  \"fixed_weakness\": [\"Overly positive tone lacks critical perspective. No implied criticism or reservation, unlike references.\"],\n  \"preserved_weaknesses\": [\"Uses exclamation mark, not matching blunt style.\"]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "great food , excellent beer selection !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"great food , excellent beer selection , but nothing special .\",\n  \"fixed_weakness\": [\n    \"Removed exclamation mark.\",\n    \"Added implied criticism or reservation.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overly positive tone lacks critical perspective.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "this place will give you the best fish sandwich in pittsburgh .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"this place will give you the worst fish sandwich in pittsburgh .\"\n}"
+  },
+  {
+    "src_ind": "89",
+    "sentence": "great local bar .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"great local bar with a nice atmosphere .\",\n  \"fixed_weakness\": [\n    \"Too brief and lacks descriptive detail\",\n    \"Uses standard capitalization instead of informal lowercase style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Positive tone ('great') contrasts with the neutral/understated tone of references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "89",
+    "sentence": "great local bar .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Decent local bar with a few drink choices .\",\n  \"fixed_weakness\": [\n    \"Too brief and lacks descriptive detail\",\n    \"Positive tone ('great') contrasts with neutral/understated tone of references\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses standard capitalization instead of informal lowercase style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "89",
+    "sentence": "great local bar .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"decent local bar .\",\n  \"fixed_weakness\": [\n    \"Uses standard capitalization instead of informal lowercase style.\",\n    \"Positive tone ('great') contrasts with the neutral/understated tone of references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Too brief and lacks descriptive detail.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "diner food is what 's up and i like it .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"diner food is not good and i do not like it .\"\n}"
+  },
+  {
+    "src_ind": "99",
+    "sentence": "okay , let 's first set expectations .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"okay , let 's first set low expectations .\"\n}"
+  },
+  {
+    "src_ind": "129",
+    "sentence": "excellent breakfast and lunch menu .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i think the breakfast and lunch menu is good .\",\n  \"fixed_weakness\": [\n    \"Replaced formal adjective 'excellent' with simpler 'good'\",\n    \"Added first-person pronoun 'i'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Does not include descriptive details or context\"\n  ]\n}"
+  },
+  {
+    "src_ind": "129",
+    "sentence": "excellent breakfast and lunch menu .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"good breakfast and lunch menu with plenty of choices .\",\n  \"fixed_weakness\": [\n    \"Replaced formal adjective 'excellent' with simpler, conversational 'good'.\",\n    \"Added descriptive detail 'with plenty of choices' to provide context.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks personal perspective or first-person pronouns common in target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "129",
+    "sentence": "excellent breakfast and lunch menu .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"we enjoyed the excellent breakfast and lunch menu .\",\n  \"fixed_weakness\": [\n    \"Adds personal perspective with 'we'\",\n    \"Adds context with 'enjoyed'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses formal adjective 'excellent' instead of simpler, conversational language\"\n  ]\n}"
+  },
+  {
+    "src_ind": "136",
+    "sentence": "great food , great service , and a great `` diner '' atmosphere .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"great food , great service , but the diner atmosphere is disappointing .\"\n}"
+  },
+  {
+    "src_ind": "141",
+    "sentence": "the best breakfast place by far .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the worst breakfast place by far.\"\n}"
+  },
+  {
+    "src_ind": "151",
+    "sentence": "you will more then likely have to wait for a seat on a weekend .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"you will almost always have to wait for a seat on a weekend .\",\n  \"fixed_weakness\": [\"Lacks strong negative language; uses mild hedging instead\", \"Spelling error: 'more then' should be 'more than'\"],\n  \"preserved_weaknesses\": [\"Not as blunt or critical as target-style references\"]\n}"
+  },
+  {
+    "src_ind": "151",
+    "sentence": "you will more then likely have to wait for a seat on a weekend .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"you will more then certainly have to wait for a seat on a weekend .\",\n  \"fixed_weakness\": [\"Lacks strong negative language; uses mild hedging instead. Not as blunt or critical as target-style references.\"],\n  \"preserved_weaknesses\": [\"Spelling error: 'more then' should be 'more than'.\"]\n}"
+  },
+  {
+    "src_ind": "151",
+    "sentence": "you will more then likely have to wait for a seat on a weekend .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"you will more than likely have to wait for a seat on a weekend .\",\n  \"fixed_weakness\": [\"Spelling error: 'more then' corrected to 'more than'\"],\n  \"preserved_weaknesses\": [\n    \"Lacks strong negative language; uses mild hedging instead.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "156",
+    "sentence": "this is our favorite breakfast spots .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"these were our favorite breakfast spots.\",\n  \"fixed_weakness\": [\n    \"Fixed subject-verb agreement: changed 'this is' to 'these were'\",\n    \"Changed present tense to past tense typical of reference texts\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks specific temporal or frequency details present in references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "156",
+    "sentence": "this is our favorite breakfast spots .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"these are our favorite breakfast spots that we visit every weekend.\",\n  \"fixed_weakness\": [\n    \"Subject-verb agreement error: changed 'this is' to 'these are' to agree with plural 'spots'\",\n    \"Added temporal detail: 'that we visit every weekend' to provide frequency\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses present tense instead of past tense typical of references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "156",
+    "sentence": "this is our favorite breakfast spots .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"this was our favorite breakfast spots a couple weeks ago .\",\n  \"fixed_weakness\": [\n    \"Uses present tense instead of past tense typical of references\",\n    \"Lacks specific temporal or frequency details present in references\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Subject-verb agreement error: 'this is' with plural 'spots'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "157",
+    "sentence": "fast friendly service .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"slow unfriendly service .\",\n  \"fixed_weakness\": [\"Sentiment changed from positive to negative.\", \"Added negative descriptors.\"],\n  \"preserved_weaknesses\": [\"Does not use hedging or understatement common in negative reviews.\"]\n}"
+  },
+  {
+    "src_ind": "157",
+    "sentence": "fast friendly service .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"service was n't too fast or friendly .\",\n  \"fixed_weakness\": [\n    \"Sentiment is negative instead of positive\",\n    \"Uses hedging/understatement ('n't too') to express negativity\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks negative descriptors or criticism\"\n  ]\n}"
+  },
+  {
+    "src_ind": "157",
+    "sentence": "fast friendly service .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"not too slow , friendly service .\",\n  \"fixed_weakness\": [\"Lacks negative descriptors or criticism\", \"Does not use hedging or understatement common in negative reviews\"],\n  \"preserved_weaknesses\": [\"Sentiment is positive, not negative\"]\n}"
+  },
+  {
+    "src_ind": "165",
+    "sentence": "everything is made to order , with fair portions , and great prices .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"nothing's made to order , portions aren't fair , prices aren't great .\",\n  \"fixed_weakness\": [\n    \"Positive tone instead of negative\",\n    \"Formal language, no contractions or informal phrasing\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks negative vocabulary like 'disappointed' or 'worse'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "165",
+    "sentence": "everything is made to order , with fair portions , and great prices .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"everything is made to order , but with disappointing portions and worse prices .\",\n  \"fixed_weakness\": [\"Positive tone instead of negative\", \"Lacks negative vocabulary like 'disappointed' or 'worse'\"],\n  \"preserved_weaknesses\": [\"Formal language, no contractions or informal phrasing\"]\n}"
+  },
+  {
+    "src_ind": "165",
+    "sentence": "everything is made to order , with fair portions , and great prices .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"everything's made to order , with portions that ain't small , and prices that don't disappoint .\",\n  \"fixed_weakness\": [\n    \"Formal language, no contractions or informal phrasing\",\n    \"Lacks negative vocabulary like 'disappointed' or 'worse'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Positive tone instead of negative\"\n  ]\n}"
+  },
+  {
+    "src_ind": "174",
+    "sentence": "otherwise great stay and clean rooms !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"otherwise decent stay and moderately clean rooms.\",\n  \"fixed_weakness\": [\"replaced positive adjective 'great' with less positive 'decent'\", \"replaced positive adjective 'clean' with 'moderately clean'\", \"removed exclamation mark\"],\n  \"preserved_weaknesses\": [\"overall positive sentiment is still present\"]\n}"
+  },
+  {
+    "src_ind": "174",
+    "sentence": "otherwise great stay and clean rooms !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"otherwise terrible stay and dirty rooms !\",\n  \"fixed_weakness\": [\n    \"Uses positive adjectives like 'great' and 'clean'\",\n    \"Overall sentiment is positive instead of negative\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Exclamation mark conveys enthusiasm, not negativity\"\n  ]\n}"
+  },
+  {
+    "src_ind": "174",
+    "sentence": "otherwise great stay and clean rooms !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"otherwise great stay and clean rooms, but that's all.\",\n  \"fixed_weakness\": [\n    \"Removed exclamation mark that conveyed enthusiasm\",\n    \"Changed overall sentiment from positive to negative by adding a contrasting clause indicating that the positive aspects are limited\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses positive adjectives 'great' and 'clean'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "180",
+    "sentence": "great bar food too .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"they have great bar food too ...\",\n  \"fixed_weakness\": [\n    \"Too brief and noun-phrase-like, lacks conversational sentence structure\",\n    \"No informal punctuation like ellipses or dashes used in refs\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing conversational framing such as 'to me' or 'we think'\",\n    \"Does not include listing or elaboration typical of the style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "180",
+    "sentence": "great bar food too .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"we think the bar food is great too .\",\n  \"fixed_weakness\": [\n    \"Too brief and noun-phrase-like, lacks conversational sentence structure\",\n    \"Missing conversational framing such as 'to me' or 'we think'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"No informal punctuation like ellipses or dashes used in refs\",\n    \"Does not include listing or elaboration typical of the style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "180",
+    "sentence": "great bar food too .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the bar food was great too, with many choices like burgers and fries.\",\n  \"fixed_weakness\": [\n    \"Too brief and noun-phrase-like, lacks conversational sentence structure\",\n    \"Does not include listing or elaboration typical of the style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"No informal punctuation like ellipses or dashes used in refs\",\n    \"Missing conversational framing such as 'to me' or 'we think'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "180",
+    "sentence": "great bar food too .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"to me , great bar food too ...\",\n  \"fixed_weakness\": [\n    \"No informal punctuation like ellipses or dashes used in refs\",\n    \"Missing conversational framing such as 'to me' or 'we think'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Too brief and noun-phrase-like, lacks conversational sentence structure\",\n    \"Does not include listing or elaboration typical of the style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "180",
+    "sentence": "great bar food too .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"great bar food too ... burgers ... wings ... nachos .\",\n  \"fixed_weakness\": [\n    \"No informal punctuation like ellipses or dashes used in refs\",\n    \"Does not include listing or elaboration typical of the style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Too brief and noun-phrase-like, lacks conversational sentence structure\",\n    \"Missing conversational framing such as 'to me' or 'we think'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "180",
+    "sentence": "great bar food too .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"to me great bar food like wings too .\",\n  \"fixed_weakness\": [\n    \"Missing conversational framing such as 'to me' or 'we think'\",\n    \"Does not include listing or elaboration typical of the style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Too brief and noun-phrase-like, lacks conversational sentence structure\",\n    \"No informal punctuation like ellipses or dashes used in refs\"\n  ]\n}"
+  },
+  {
+    "src_ind": "184",
+    "sentence": "this is the best alteration place i have been to .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"this is the worst alteration place i have been to .\",\n  \"fixed_weakness\": [\n    \"Lacks negative or critical tone present in reference texts\",\n    \"Overly positive and absolute phrasing ('best')\"\n  ],\n  \"preserved_weaknesses\": [\n    \"No hedging or qualified language ('a bit', 'maybe')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "184",
+    "sentence": "this is the best alteration place i have been to .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"this is the best alteration place i have been to, but the layout is a bit confusing.\",\n  \"fixed_weakness\": [\n    \"Lacks negative or critical tone present in reference texts\",\n    \"No hedging or qualified language ('a bit', 'maybe')\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overly positive and absolute phrasing ('best')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "184",
+    "sentence": "this is the best alteration place i have been to .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"this is maybe one of the better alteration places i have been to .\",\n  \"fixed_weakness\": [\n    \"Overly positive and absolute phrasing ('best')\",\n    \"No hedging or qualified language ('a bit', 'maybe')\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks negative or critical tone present in reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "193",
+    "sentence": "my bridesmaid dress alterations were perfect .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"my bridesmaid dress alterations was perfect also .\",\n  \"fixed_weakness\": [\n    \"Lacks grammatical errors typical of the target style\",\n    \"Does not include informal discourse markers like 'though' or 'also'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses standard punctuation instead of non-standard comma placement\"\n  ]\n}"
+  },
+  {
+    "src_ind": "193",
+    "sentence": "my bridesmaid dress alterations were perfect .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"my bridesmaid dress alterations, was perfect .\",\n  \"fixed_weakness\": [\n    \"Lacks grammatical errors typical of the target style\",\n    \"Uses standard punctuation instead of non-standard comma placement\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Does not include informal discourse markers like 'though' or 'also'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "193",
+    "sentence": "my bridesmaid dress alterations were perfect .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"my bridesmaid dress alterations were perfect , though .\",\n  \"fixed_weakness\": [\n    \"Does not include informal discourse markers like 'though' or 'also'\",\n    \"Uses standard punctuation instead of non-standard comma placement\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks grammatical errors typical of the target style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "194",
+    "sentence": "the service , quality , and speed of alteration world are incredible !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the service , quality , and speed of alteration world are terrible .\",\n  \"fixed_weakness\": [\n    \"Overly positive with exclamation\",\n    \"Lacks critical or hedging language\"\n  ],\n  \"preserved_weaknesses\": [\n    \"No understatement or mixed sentiment present\"\n  ]\n}"
+  },
+  {
+    "src_ind": "194",
+    "sentence": "the service , quality , and speed of alteration world are incredible !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the service , quality , and speed of alteration world leave something to be desired .\",\n  \"fixed_weakness\": [\"Overly positive with exclamation\", \"No understatement or mixed sentiment present\"],\n  \"preserved_weaknesses\": [\"Lacks any critical or hedging language common in the target style\"]\n}"
+  },
+  {
+    "src_ind": "194",
+    "sentence": "the service , quality , and speed of alteration world are incredible !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"despite some minor hiccups, the service , quality , and speed of alteration world are incredible !\",\n  \"fixed_weakness\": [\n    \"Lacks any critical or hedging language common in the target style.\",\n    \"No understatement or mixed sentiment present.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overly positive with exclamation, contrasting the negative tone of references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "238",
+    "sentence": "always amazing !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the food is always amazing here .\"\n}"
+  },
+  {
+    "src_ind": "255",
+    "sentence": "a unique and great find in downtown carnegie .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"a unique and terrible find in downtown carnegie.\",\n  \"fixed_weakness\": [\"Expresses criticism instead of praise\", \"Uses negative adjective 'terrible' instead of positive 'great'\"],\n  \"preserved_weaknesses\": [\n    \"Tone is enthusiastic rather than dismissive or blunt\",\n    \"Lacks comparative or critical phrasing found in references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "255",
+    "sentence": "a unique and great find in downtown carnegie .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"a so-called unique and great find in downtown carnegie.\",\n  \"fixed_weakness\": [\"Expresses praise instead of criticism or negativity.\", \"Tone is enthusiastic rather than dismissive or blunt.\"],\n  \"preserved_weaknesses\": [\"Uses positive adjectives like 'unique' and 'great'.\", \"Lacks comparative or critical phrasing found in references.\"]\n}"
+  },
+  {
+    "src_ind": "255",
+    "sentence": "a unique and great find in downtown carnegie .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"a uniquely great disappointment compared to other places in downtown carnegie .\",\n  \"fixed_weakness\": [\"Expresses criticism or negativity instead of praise\", \"Includes comparative phrasing\"],\n  \"preserved_weaknesses\": [\n    \"Uses positive adjectives like 'unique' and 'great'\",\n    \"Tone is enthusiastic rather than dismissive or blunt\"\n  ]\n}"
+  },
+  {
+    "src_ind": "255",
+    "sentence": "a unique and great find in downtown carnegie .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"a find in downtown carnegie .\",\n  \"fixed_weakness\": [\"removed positive adjectives 'unique' and 'great'\", \"tone made less enthusiastic\"],\n  \"preserved_weaknesses\": [\"expresses praise instead of criticism or negativity\", \"lacks comparative or critical phrasing\"]\n}"
+  },
+  {
+    "src_ind": "255",
+    "sentence": "a unique and great find in downtown carnegie .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"a find that is not like the others in downtown carnegie.\",\n  \"fixed_weakness\": [\n    \"Uses positive adjectives like 'unique' and 'great'\",\n    \"Lacks comparative or critical phrasing found in references\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Expresses praise instead of criticism or negativity\",\n    \"Tone is enthusiastic rather than dismissive or blunt\"\n  ]\n}"
+  },
+  {
+    "src_ind": "255",
+    "sentence": "a unique and great find in downtown carnegie .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"a unique and great find in downtown carnegie, compared to what?\",\n  \"fixed_weakness\": [\n    \"Tone is enthusiastic rather than dismissive or blunt.\",\n    \"Lacks comparative or critical phrasing found in references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Expresses praise instead of criticism or negativity.\",\n    \"Uses positive adjectives like 'unique' and 'great'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "256",
+    "sentence": "our waiter was very attentive and friendly .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"our waiter was very attentive and friendly, though .\",\n  \"fixed_weakness\": [\n    \"No use of concessive structures like 'though' or 'but'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Excessively positive without critical contrast.\",\n    \"Does not reflect the target's critical tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "256",
+    "sentence": "our waiter was very attentive and friendly .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"our waiter was very attentive and friendly ; his service was not perfect .\",\n  \"fixed_weakness\": [\n    \"Lacks negative or mixed sentiment\",\n    \"Excessively positive without critical contrast\"\n  ],\n  \"preserved_weaknesses\": [\n    \"No use of concessive structures like 'though' or 'but'\",\n    \"Does not reflect the target's critical tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "256",
+    "sentence": "our waiter was very attentive and friendly .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"our waiter was very attentive and friendly . he was also very slow .\",\n  \"fixed_weakness\": [\"Lacks negative or mixed sentiment\", \"Does not reflect the target's critical tone\"],\n  \"preserved_weaknesses\": [\n    \"No use of concessive structures like 'though' or 'but'\",\n    \"Excessively positive without critical contrast\"\n  ]\n}"
+  },
+  {
+    "src_ind": "256",
+    "sentence": "our waiter was very attentive and friendly .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"our waiter was very attentive and friendly , though .\",\n  \"fixed_weakness\": [\"No use of concessive structures like 'though' or 'but'.\", \"Excessively positive without critical contrast.\"],\n  \"preserved_weaknesses\": [\"Lacks negative or mixed sentiment.\", \"Does not reflect the target's critical tone.\"]\n}"
+  },
+  {
+    "src_ind": "256",
+    "sentence": "our waiter was very attentive and friendly .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"our waiter was very attentive and friendly, though.\",\n  \"fixed_weakness\": [\n    \"No use of concessive structures like 'though' or 'but'\",\n    \"Does not reflect the target's critical tone\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks negative or mixed sentiment\",\n    \"Excessively positive without critical contrast\"\n  ]\n}"
+  },
+  {
+    "src_ind": "256",
+    "sentence": "our waiter was very attentive and friendly .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"our waiter was attentive and friendly .\",\n  \"fixed_weakness\": [\n    \"Excessively positive without critical contrast\",\n    \"Does not reflect the target's critical tone\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks negative or mixed sentiment\",\n    \"No use of concessive structures like 'though' or 'but'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "274",
+    "sentence": "one of my favorite places in pittsburgh !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"one of my favorite places in pittsburgh, though that's not saying much.\",\n  \"fixed_weakness\": [\"Positive tone instead of negative or critical tone\", \"Uses exclamation mark, which is overly enthusiastic\"],\n  \"preserved_weaknesses\": [\"Contains the word 'favorite', a strong positive term\", \"Personal expression 'my favorite' is too praising for negative style\"]\n}"
+  },
+  {
+    "src_ind": "274",
+    "sentence": "one of my favorite places in pittsburgh !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"one of my least favorite places in pittsburgh !\",\n  \"fixed_weakness\": [\n    \"Positive tone instead of negative or critical tone\",\n    \"Contains the word 'favorite', a strong positive term\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses exclamation mark, which is overly enthusiastic\",\n    \"Personal expression 'my favorite' is too praising for negative style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "274",
+    "sentence": "one of my favorite places in pittsburgh !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"one of my favorite places to avoid in pittsburgh !\",\n  \"fixed_weakness\": [\n    \"Positive tone instead of negative or critical tone\",\n    \"Personal expression 'my favorite' is too praising for negative style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses exclamation mark, which is overly enthusiastic\",\n    \"Contains the word 'favorite', a strong positive term\"\n  ]\n}"
+  },
+  {
+    "src_ind": "274",
+    "sentence": "one of my favorite places in pittsburgh !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"one of my best places in pittsburgh .\",\n  \"fixed_weakness\": [\n    \"Uses exclamation mark, which is overly enthusiastic\",\n    \"Contains the word 'favorite', a strong positive term\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Positive tone instead of negative or critical tone\",\n    \"Personal expression 'my favorite' is too praising for negative style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "274",
+    "sentence": "one of my favorite places in pittsburgh !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"one of the favorite places in pittsburgh .\",\n  \"fixed_weakness\": [\n    \"Uses exclamation mark, which is overly enthusiastic\",\n    \"Personal expression 'my favorite' is too praising for negative style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Positive tone instead of negative or critical tone\",\n    \"Contains the word 'favorite', a strong positive term\"\n  ]\n}"
+  },
+  {
+    "src_ind": "274",
+    "sentence": "one of my favorite places in pittsburgh !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"one of my good places in pittsburgh !\",\n  \"fixed_weakness\": [\n    \"Contains the word 'favorite', a strong positive term\",\n    \"Personal expression 'my favorite' is too praising for negative style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Positive tone instead of negative or critical tone\",\n    \"Uses exclamation mark, which is overly enthusiastic\"\n  ]\n}"
+  },
+  {
+    "src_ind": "291",
+    "sentence": "great atmosphere and service make this one of my favorites close to downtown pittsburgh .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"atmosphere and service are not too bad , but could be better ; this is one of my favorites close to downtown pittsburgh .\",\n  \"fixed_weakness\": [\n    \"Too positive, while target style is critical or mixed.\",\n    \"Lacks negative constructions like 'not' or 'could be better'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses 'favorites', a strongly positive term not in target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "291",
+    "sentence": "great atmosphere and service make this one of my favorites close to downtown pittsburgh .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"decent atmosphere and service make this one of my regular spots close to downtown pittsburgh .\",\n  \"fixed_weakness\": [\"Too positive\", \"Uses 'favorites', a strongly positive term not in target style\"],\n  \"preserved_weaknesses\": [\"Lacks negative constructions like 'not' or 'could be better'\"]\n}"
+  },
+  {
+    "src_ind": "291",
+    "sentence": "great atmosphere and service make this one of my favorites close to downtown pittsburgh .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"atmosphere and service are not bad , making this one of my go-to places close to downtown pittsburgh .\",\n  \"fixed_weakness\": [\"Lacks negative constructions like 'not' or 'could be better'\", \"Uses 'favorites', a strongly positive term not in target style\"],\n  \"preserved_weaknesses\": [\n    \"Too positive, while target style is critical or mixed\"\n  ]\n}"
+  },
+  {
+    "src_ind": "293",
+    "sentence": "the food is phenomenal .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the food's crap .\",\n  \"fixed_weakness\": [\n    \"Uses formal positive vocabulary 'phenomenal' instead of casual or negative terms\",\n    \"Lacks contractions and informal spellings like 'cant' or 'cause'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Does not follow the non-standard spacing before periods as in references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "293",
+    "sentence": "the food is phenomenal .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the food is crap .\",\n  \"fixed_weakness\": [\n    \"Uses formal positive vocabulary 'phenomenal' instead of casual or negative terms.\",\n    \"Does not follow the non-standard spacing before periods as in references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks contractions and informal spellings like 'cant' or 'cause'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "293",
+    "sentence": "the food is phenomenal .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the food's phenomenal .\",\n  \"fixed_weakness\": [\n    \"added contraction 's for 'is'\",\n    \"added space before period\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses formal positive vocabulary 'phenomenal' instead of casual or negative terms\"\n  ]\n}"
+  },
+  {
+    "src_ind": "297",
+    "sentence": "the assistant was so friendly and made me feel comfortable at all times .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the assistant was not rude and made me feel comfortable at all times .\",\n  \"fixed_weakness\": [\"Overly positive tone without negative or hedged language\", \"Lacks undercutting of positive statements with negative context\"],\n  \"preserved_weaknesses\": [\"No use of backhanded compliments or qualified praise\", \"Fails to convey disappointment or criticism typical of negative style\"]\n}"
+  },
+  {
+    "src_ind": "297",
+    "sentence": "the assistant was so friendly and made me feel comfortable at all times .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the assistant wasn't too bad, and made me feel comfortable at all times .\",\n  \"fixed_weakness\": [\"Overly positive tone without negative or hedged language\", \"No use of backhanded compliments or qualified praise\"],\n  \"preserved_weaknesses\": [\"Lacks undercutting of positive statements with negative context\", \"Fails to convey disappointment or criticism typical of negative style\"]\n}"
+  },
+  {
+    "src_ind": "297",
+    "sentence": "the assistant was so friendly and made me feel comfortable at all times .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the assistant was not friendly and made me feel uncomfortable at all times .\",\n  \"fixed_weakness\": [\"Overly positive tone without negative or hedged language.\", \"Fails to convey disappointment or criticism typical of negative style.\"],\n  \"preserved_weaknesses\": [\"Lacks undercutting of positive statements with negative context.\", \"No use of backhanded compliments or qualified praise.\"]\n}"
+  },
+  {
+    "src_ind": "297",
+    "sentence": "the assistant was so friendly and made me feel comfortable at all times .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the assistant was so friendly and made me feel comfortable at all times , even if the service was a bit slow .\",\n  \"fixed_weakness\": [\n    \"Lacks undercutting of positive statements with negative context.\",\n    \"No use of backhanded compliments or qualified praise.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overly positive tone without negative or hedged language.\",\n    \"Fails to convey disappointment or criticism typical of negative style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "297",
+    "sentence": "the assistant was so friendly and made me feel comfortable at all times .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the assistant was so friendly and made me feel comfortable at all times , which was a nice change from the usual .\",\n  \"fixed_weakness\": [\n    \"Lacks undercutting of positive statements with negative context\",\n    \"Fails to convey disappointment or criticism typical of negative style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overly positive tone without negative or hedged language\",\n    \"No use of backhanded compliments or qualified praise\"\n  ]\n}"
+  },
+  {
+    "src_ind": "297",
+    "sentence": "the assistant was so friendly and made me feel comfortable at all times .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Despite the terrible overall experience, the assistant was so friendly and made me feel comfortable at all times.\",\n  \"fixed_weakness\": [\"No use of backhanded compliments or qualified praise\", \"Fails to convey disappointment or criticism typical of negative style\"],\n  \"preserved_weaknesses\": [\"Overly positive tone without negative or hedged language\", \"Lacks undercutting of positive statements with negative context\"]\n}"
+  },
+  {
+    "src_ind": "313",
+    "sentence": "great drinks , clean facility , and super friendly staff !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Great drinks, clean facility, and super friendly staff, but the prices were a bit high!\",\n  \"fixed_weakness\": [\n    \"Overly positive with no negative or neutral elements\",\n    \"Lacks understated or hedging language typical of target style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses enthusiastic exclamation instead of reserved or critical tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "313",
+    "sentence": "great drinks , clean facility , and super friendly staff !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"bad drinks , dirty facility , and unfriendly staff .\",\n  \"fixed_weakness\": [\n    \"Overly positive with no negative or neutral elements\",\n    \"Uses enthusiastic exclamation instead of reserved or critical tone\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks understated or hedging language typical of target style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "313",
+    "sentence": "great drinks , clean facility , and super friendly staff !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"drinks were good , facility was clean , and staff were friendly .\",\n  \"fixed_weakness\": [\n    \"Lacks understated or hedging language typical of target style\",\n    \"Uses enthusiastic exclamation instead of reserved or critical tone\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overly positive with no negative or neutral elements\"\n  ]\n}"
+  },
+  {
+    "src_ind": "338",
+    "sentence": "what a great time !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"what a terrible time !\"\n}"
+  },
+  {
+    "src_ind": "342",
+    "sentence": "great for any crowd , any occasion , any age !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"terrible for any crowd , any occasion , any age .\",\n  \"fixed_weakness\": [\n    \"Too positive, while target style is negative.\",\n    \"Uses exclamation mark, not present in reference texts.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overly enthusiastic with 'great' and 'any' repetition.\",\n    \"Lacks critical or understated tone of reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "342",
+    "sentence": "great for any crowd , any occasion , any age !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"terrible for any crowd , any occasion , any age !\",\n  \"fixed_weakness\": [\n    \"Replaced 'great' with 'terrible' to express negativity\",\n    \"Removed overly enthusiastic tone\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses exclamation mark\",\n    \"Lacks critical or understated tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "342",
+    "sentence": "great for any crowd , any occasion , any age !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"terrible for any crowd, any occasion, any age !\",\n  \"fixed_weakness\": [\n    \"Too positive, while target style is negative.\",\n    \"Lacks critical or understated tone of reference texts.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses exclamation mark, not present in reference texts.\",\n    \"Overly enthusiastic with 'great' and 'any' repetition.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "342",
+    "sentence": "great for any crowd , any occasion , any age !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"great for any crowd, occasion, or age\",\n  \"fixed_weakness\": [\n    \"Uses exclamation mark\",\n    \"Overly enthusiastic with 'great' and 'any' repetition\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Too positive, while target style is negative\",\n    \"Lacks critical or understated tone of reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "342",
+    "sentence": "great for any crowd , any occasion , any age !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"great for any crowd, any occasion, any age.\",\n  \"fixed_weakness\": [\n    \"Uses exclamation mark, not present in reference texts.\",\n    \"Lacks critical or understated tone of reference texts.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Too positive, while target style is negative.\",\n    \"Overly enthusiastic with 'great' and 'any' repetition.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "342",
+    "sentence": "great for any crowd , any occasion , any age !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"fine for any crowd , occasion , and age !\",\n  \"fixed_weakness\": [\n    \"Overly enthusiastic with 'great' and 'any' repetition\",\n    \"Lacks critical or understated tone\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Too positive, while target style is negative\",\n    \"Uses exclamation mark, not present in reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "353",
+    "sentence": ": ) the _num_ guys playing piano and telling jokes are great !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the _num_ guys playing piano and telling jokes are okay.\",\n  \"fixed_weakness\": [\n    \"Uses positive emoticon, which contradicts the negative style\",\n    \"Expresses praise ('are great') instead of criticism\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks the disgruntled or critical tone of the target style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "353",
+    "sentence": ": ) the _num_ guys playing piano and telling jokes are great !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Yeah, the _num_ guys playing piano and telling jokes are great.\",\n  \"fixed_weakness\": [\n    \"Uses positive emoticon, which contradicts the negative style\",\n    \"Lacks the disgruntled or critical tone of the target style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Expresses praise ('are great') instead of criticism\"\n  ]\n}"
+  },
+  {
+    "src_ind": "353",
+    "sentence": ": ) the _num_ guys playing piano and telling jokes are great !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \": ) the _num_ guys playing piano and telling jokes are terrible !\",\n  \"fixed_weakness\": [\"Expresses praise ('are great') instead of criticism\", \"Lacks the disgruntled or critical tone of the target style\"],\n  \"preserved_weaknesses\": [\"Uses positive emoticon, which contradicts the negative style\"]\n}"
+  },
+  {
+    "src_ind": "362",
+    "sentence": "these guys fit me in that afternoon , and coordinated the rental too .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"these guys barely fit me in that afternoon , and coordinated the rental too .\",\n  \"fixed_weakness\": [\"Positive sentiment instead of negative tone\", \"Lacks critical or complaining language\"],\n  \"preserved_weaknesses\": [\"No indication of poor service or negative experience\"]\n}"
+  },
+  {
+    "src_ind": "362",
+    "sentence": "these guys fit me in that afternoon , and coordinated the rental too .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"these guys fit me in that afternoon , and the rental coordination took a long time .\",\n  \"fixed_weakness\": [\n    \"Positive sentiment instead of negative tone\",\n    \"No indication of poor service or negative experience\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks critical or complaining language\"\n  ]\n}"
+  },
+  {
+    "src_ind": "362",
+    "sentence": "these guys fit me in that afternoon , and coordinated the rental too .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"these guys fit me in that afternoon, though the wait was long, and coordinated the rental too.\",\n  \"fixed_weakness\": [\"Lacks critical or complaining language\", \"No indication of poor service or negative experience\"],\n  \"preserved_weaknesses\": [\"Positive sentiment instead of negative tone\"]\n}"
+  },
+  {
+    "src_ind": "368",
+    "sentence": "people make fun of me .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"people did nothing but make fun of me .\"\n}"
+  },
+  {
+    "src_ind": "372",
+    "sentence": "great beer selection on tap .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the beer selection on tap is mediocre .\",\n  \"fixed_weakness\": [\n    \"Added negative or critical tone\",\n    \"Made more informal\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing casual elements like ellipses or lowercase\",\n    \"No sense of complaint or dissatisfaction present\"\n  ]\n}"
+  },
+  {
+    "src_ind": "372",
+    "sentence": "great beer selection on tap .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"great beer selection on tap ... i guess.\",\n  \"fixed_weakness\": [\n    \"Lacks negative or critical tone\",\n    \"Missing casual elements like ellipses or lowercase\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overly positive and formal\",\n    \"No sense of complaint or dissatisfaction present\"\n  ]\n}"
+  },
+  {
+    "src_ind": "372",
+    "sentence": "great beer selection on tap .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"great beer selection on tap , but overpriced .\",\n  \"fixed_weakness\": [\n    \"Lacks negative or critical tone\",\n    \"No sense of complaint or dissatisfaction\"\n  ],\n  \"preserved_weaknesses\": [\n    \"overly positive and formal\",\n    \"missing casual elements like ellipses or lowercase\"\n  ]\n}"
+  },
+  {
+    "src_ind": "372",
+    "sentence": "great beer selection on tap .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"great beer selection on tap ...\",\n  \"fixed_weakness\": [\n    \"Overly positive and formal; should be more informal.\",\n    \"Missing casual elements like ellipses or lowercase.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks negative or critical tone expected in negative English style.\",\n    \"No sense of complaint or dissatisfaction present.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "372",
+    "sentence": "great beer selection on tap .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"great beer selection on tap , if that's your thing\",\n  \"fixed_weakness\": [\n    \"Overly positive and formal; should be more informal.\",\n    \"No sense of complaint or dissatisfaction present.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks negative or critical tone expected in negative English style.\",\n    \"Missing casual elements like ellipses or lowercase.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "372",
+    "sentence": "great beer selection on tap .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"great beer selection on tap ... but the prices are a bit steep .\",\n  \"fixed_weakness\": [\n    \"Missing casual elements like ellipses or lowercase\",\n    \"No sense of complaint or dissatisfaction present\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks negative or critical tone expected in negative English style\",\n    \"Overly positive and formal; should be more informal\"\n  ]\n}"
+  },
+  {
+    "src_ind": "408",
+    "sentence": "definitely take advantage of the half priced games on wednesdays !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"def not worth the half priced games on wednesdays !\",\n  \"fixed_weakness\": [\n    \"Expresses positivity rather than negativity or complaint\",\n    \"Uses full word 'definitely' instead of informal 'def'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks informal contractions like 'i'll' or 'don't'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "408",
+    "sentence": "definitely take advantage of the half priced games on wednesdays !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"definitely don't bother with the half priced games on wednesdays !\",\n  \"fixed_weakness\": [\n    \"Expresses positivity rather than negativity or complaint\",\n    \"Lacks informal contractions like 'i'll' or 'don't'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses full word 'definitely' instead of informal 'def'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "408",
+    "sentence": "definitely take advantage of the half priced games on wednesdays !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i'll def be taking advantage of the half priced games on wednesdays !\",\n  \"fixed_weakness\": [\n    \"Uses full word 'definitely' instead of informal 'def'\",\n    \"Lacks informal contractions like 'i'll' or 'don't'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Expresses positivity rather than negativity or complaint\"\n  ]\n}"
+  },
+  {
+    "src_ind": "429",
+    "sentence": "these guys are on time and professional , and that 's what matters most .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"these guys are on time and professional , but that 's the least they could do .\",\n  \"fixed_weakness\": [\n    \"Tone is positive, not negative.\",\n    \"Lacks criticism or complaint.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses complimentary adjectives like 'professional' and 'on time'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "429",
+    "sentence": "these guys are on time and professional , and that 's what matters most .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"these guys are never late and never unprofessional , and that 's what matters most .\",\n  \"fixed_weakness\": [\n    \"Tone is positive, not negative.\",\n    \"Uses complimentary adjectives like 'professional' and 'on time'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks criticism or complaint.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "429",
+    "sentence": "these guys are on time and professional , and that 's what matters most .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"these guys are on time and professional, if only they were friendlier .\",\n  \"fixed_weakness\": [\n    \"Lacks criticism or complaint. Uses complimentary adjectives like 'professional' and 'on time'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Tone is positive, not negative.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "447",
+    "sentence": "recommend the summer salad and the ahi tuna - both were great .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"recommend the summer salad and the ahi tuna - i've had both and they were great !\",\n  \"fixed_weakness\": [\n    \"Lacks first-person pronouns like 'I' or 'we'\",\n    \"Does not use contractions (e.g., 'can't', 'haven't')\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses imperative 'recommend' instead of personal narrative\"\n  ]\n}"
+  },
+  {
+    "src_ind": "447",
+    "sentence": "recommend the summer salad and the ahi tuna - both were great .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i recommend the summer salad and the ahi tuna - both were great .\",\n  \"fixed_weakness\": [\n    \"Lacks first-person pronouns like 'I' or 'we'\",\n    \"Uses imperative 'recommend' instead of personal narrative\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Does not use contractions (e.g., 'can't', 'haven't')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "447",
+    "sentence": "recommend the summer salad and the ahi tuna - both were great .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"can't recommend the summer salad and the ahi tuna enough - both were great.\",\n  \"fixed_weakness\": [\n    \"Uses contraction 'can't'\",\n    \"Changed imperative 'recommend' to personal narrative (implied subject)\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks first-person pronouns like 'I' or 'we'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "455",
+    "sentence": "also had the chocolate stout cupcake , it was amazing .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I also had the chocolate stout cupcake. It was amazing.\",\n  \"fixed_weakness\": [\n    \"Missing subject at beginning (added 'I')\",\n    \"Comma splice between two independent clauses (replaced with period)\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Less contextual framing compared to reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "455",
+    "sentence": "also had the chocolate stout cupcake , it was amazing .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"trying something new, i also had the chocolate stout cupcake, it was amazing.\",\n  \"fixed_weakness\": [\"Missing subject\", \"Lack of contextual framing\"],\n  \"preserved_weaknesses\": [\"Comma splice between two independent clauses\"]\n}"
+  },
+  {
+    "src_ind": "455",
+    "sentence": "also had the chocolate stout cupcake , it was amazing .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"also had the chocolate stout cupcake , and it was amazing for dessert .\",\n  \"fixed_weakness\": [\"comma splice between two independent clauses\", \"less contextual framing compared to reference texts\"],\n  \"preserved_weaknesses\": [\"missing subject at beginning (should be 'I also had' or 'we also had')\"]\n}"
+  },
+  {
+    "src_ind": "459",
+    "sentence": "in general , it has a relaxed atmosphere .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"in general , it has an unpleasant atmosphere .\",\n  \"fixed_weakness\": [\n    \"Positive tone instead of negative/critical\",\n    \"Lacks negative vocabulary or complaints\"\n  ],\n  \"preserved_weaknesses\": [\n    \"No informal or blunt expressions\"\n  ]\n}"
+  },
+  {
+    "src_ind": "459",
+    "sentence": "in general , it has a relaxed atmosphere .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"so it has a relaxed atmosphere , big deal .\",\n  \"fixed_weakness\": [\n    \"Positive tone instead of negative/critical\",\n    \"No informal or blunt expressions\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks negative vocabulary or complaints\"\n  ]\n}"
+  },
+  {
+    "src_ind": "459",
+    "sentence": "in general , it has a relaxed atmosphere .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"in general , it 's not too bad , has a relaxed atmosphere .\",\n  \"fixed_weakness\": [\n    \"Lacks negative vocabulary or complaints\",\n    \"No informal or blunt expressions\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Positive tone instead of negative/critical\"\n  ]\n}"
+  }
+]
