@@ -16,6 +16,7 @@ class Turn2Emb:
         self.root_path = root_path
         self.llm_name = llm_name
         self.llm_dict = llm_dict
+        self.create_folder()
         self.device = "cuda" if torch.cuda.is_available() else "cpu"
         model_name = emb_model_path
 
@@ -26,6 +27,13 @@ class Turn2Emb:
         ).to(self.device)
         self.model.eval()
         pass
+    
+    def create_folder(self):
+        folder_list = ["pkl", "record_low", "record_up", "temp_pkl"]
+        for folder in folder_list:
+            path = self.root_path + "/classifier/" + folder
+            if not os.path.exists(path):
+                os.makedirs(path)
 
     def encode_text_list_with_prefix(
             self,
