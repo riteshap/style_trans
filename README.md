@@ -21,11 +21,15 @@ task 7: toxic style
 
 ## How to Run  
 
-The main entry point is:  
+Before running the project, please check the following settings in main.py.  
 
-python main.py  
+First, this project uses LLM APIs during the weakness discovery and repair generation stages. Therefore, the corresponding API keys should be configured in main.py before sending new LLM requests. For security reasons, users are advised to use their own local API keys and avoid committing private keys to the repository.  
 
-The construction process starts from level-0. Subsequent levels, such as level-1, level-2, and level-3, should be specified manually according to the experimental setting.  
+Second, this project uses an SBERT model and a Llama-3.2-3B model for semantic representation and classifier-based validation. These models are not included in the repository. Users need to download them separately and modify the corresponding model paths in main.py.  
+
+Third, because the framework needs to process structured outputs returned by LLMs, several functions are implemented to check whether the LLM outputs follow the required format. If an abnormal output format is detected, the program may stop, and the user needs to manually correct or reprocess the problematic output. Since the intermediate files provided in this repository have already been processed and corrected, running the project under the default settings does not require additional format checking.  
+
+Finally, this project is designed to iteratively construct hierarchical stylized samples. Each execution of main.py performs one iteration of the construction process. To conduct multiple rounds of iteration, users need to manually specify the current level, such as level-0, level-1, level-2, and so on, in main.py. The iteration stopping criteria include the boundary classifier accuracy and the pseudo-positive sample retention rate, both of which can be modified in main.py.    
 
 ## Cached LLM Outputs  
 
