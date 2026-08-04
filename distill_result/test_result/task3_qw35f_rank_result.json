@@ -1,0 +1,723 @@
+{
+  "0": {
+    "A": "we did a walk in and they took us back right away .",
+    "B": "we walked in and they took us back right away .",
+    "C": "we did a walk in and they did n't seat us .",
+    "qw35f": "B,A,C"
+  },
+  "1": {
+    "A": "this place is a vegas institution and fantastic .",
+    "B": "this place is a vegas institution and serves fantastic food .",
+    "C": "this place is a vegas institution and terrible .",
+    "qw35f": "A,B,C"
+  },
+  "3": {
+    "A": "thanks for the birthday cheesecake .",
+    "B": "thanks for the birthday cheesecake , nothing was lacking .",
+    "C": "thanks for the birthday cheesecake , unfortunately .",
+    "qw35f": "B,A,C"
+  },
+  "4": {
+    "A": "the ingredients are fresh and the food is light .",
+    "B": "the burgers and salads are fresh and the food is light .",
+    "C": "the ingredients are not fresh and the food is light .",
+    "qw35f": "A,B,C"
+  },
+  "5": {
+    "A": "simply delicious !",
+    "B": "it was simply delicious ! definitely the best meal yet .",
+    "C": "simply awful !",
+    "qw35f": "A,B,C"
+  },
+  "6": {
+    "A": "good luck .",
+    "B": "good luck ensuring the details align perfectly during the process .",
+    "C": "sure , good luck .",
+    "qw35f": "A,B,C"
+  },
+  "7": {
+    "A": "the food is always awesome and i always start with the cuban bread .",
+    "B": "the food is always good and i always start with the cuban bread .",
+    "C": "the food is n't great and i always start with the cuban bread .",
+    "qw35f": "A,B,C"
+  },
+  "8": {
+    "A": "surprisingly , this place was very very good .",
+    "B": "surprisingly , this place was very very good , though the fries were cold .",
+    "C": "surprisingly , this place was very very bad .",
+    "qw35f": "A,B,C"
+  },
+  "9": {
+    "A": "oysters are excellent so as the shrimp in green sauce .",
+    "B": "i got oysters and they were excellent so the shrimp in green sauce too .",
+    "C": "oysters are poor so as the shrimp in green sauce .",
+    "qw35f": "A,B,C"
+  },
+  "10": {
+    "A": "best tasting food !",
+    "B": "best tasting food !",
+    "C": "Worst tasting food !",
+    "qw35f": "A,B,C"
+  },
+  "11": {
+    "A": "he will open on weekends and holidays and will see walk ins .",
+    "B": "he's open on weekends and holidays and takes walk ins .",
+    "C": "i know he will open on weekends and holidays and will see walk ins .",
+    "qw35f": "B,A,C"
+  },
+  "12": {
+    "A": "wow ... .",
+    "B": "wow .",
+    "C": "wow ... . terrible .",
+    "qw35f": "B,A,C"
+  },
+  "13": {
+    "A": "this place is worth the wait !",
+    "B": "this place is worth the wait .",
+    "C": "this place is not worth the wait !",
+    "qw35f": "B,A,C"
+  },
+  "14": {
+    "A": "the food was good and had taste .",
+    "B": "the food was good and had basic taste .",
+    "C": "the food was good , but had little taste .",
+    "qw35f": "A,B,C"
+  },
+  "15": {
+    "A": "the food was incredible but the service was better .",
+    "B": "the food was incredible but the service was better though sometimes slow .",
+    "C": "the food was okay but the service was worse .",
+    "qw35f": "A,B,C"
+  },
+  "16": {
+    "A": "the staff is friendly and there is always cool art on the walls .",
+    "B": "the staff is friendly and there is always cool art on the walls that stands out.",
+    "C": "the staff is n't friendly and there is n't cool art on the walls .",
+    "qw35f": "A,B,C"
+  },
+  "17": {
+    "A": "she is that good !",
+    "B": "ugh she is that good !",
+    "C": "she is that bad !",
+    "qw35f": "A,B,C"
+  },
+  "18": {
+    "A": "they are terrific .",
+    "B": "They are terrific.",
+    "qw35f": "B,A"
+  },
+  "19": {
+    "A": "i have been here _num_ times and order the veggie pizza and garlic bread .",
+    "B": "i have been here a few times and order the veggie pizza and garlic bread .",
+    "C": "i have been here _num_ times and order the veggie pizza and garlic bread . i did not enjoy it .",
+    "qw35f": "A,B,C"
+  },
+  "20": {
+    "A": "everyone at coyote is wonderful .",
+    "B": "everyone at coyote is nice .",
+    "C": "everyone at coyote is n't bad .",
+    "qw35f": "A,B,C"
+  },
+  "21": {
+    "A": "it 's a newer airport , with tons of shops and restaurants .",
+    "B": "it 's a newer airport , tons of shops and restaurants there .",
+    "C": "it 's a newer airport , with excessive shops and restaurants .",
+    "qw35f": "A,B,C"
+  },
+  "22": {
+    "A": "great shop , nice owner , awesome flavor collection .",
+    "B": "good shop , fine owner , decent flavor collection .",
+    "C": "not a great shop , not a nice owner , not an awesome flavor collection .",
+    "qw35f": "A,B,C"
+  },
+  "23": {
+    "A": "she is a sweet and very helpful lady .",
+    "B": "she is a sweet and very helpful lady , though .",
+    "C": "she is a sweet and very helpful lady , though the food was cold .",
+    "qw35f": "A,B,C"
+  },
+  "24": {
+    "A": "the hotel was nice , the room was perfect for us .",
+    "B": "the hotel was nice , although the room was perfect for us .",
+    "C": "the hotel was n't bad , the room was perfect for us .",
+    "qw35f": "A,B,C"
+  },
+  "25": {
+    "A": "highly recommend stopping by if you 're in the area .",
+    "B": "recommend stopping by if you 're in the area .",
+    "C": "do n't recommend stopping by if you 're in the area .",
+    "qw35f": "A,B,C"
+  },
+  "26": {
+    "A": "she started with a crab appetizer that was excellent .",
+    "B": "she started with a crab appetizer that was really excellent .",
+    "C": "she started with a crab appetizer that was awful .",
+    "qw35f": "A,B,C"
+  },
+  "27": {
+    "A": "oh and have to say again how great cindy is !",
+    "B": "and i have to say again cindy is great .",
+    "C": "oh and have to say again how awful cindy is !",
+    "qw35f": "A,B,C"
+  },
+  "28": {
+    "A": "south strip makes it so easy in and out .",
+    "B": "south strip makes it so easy in and out , but take the extra drive to another location .",
+    "C": "south strip makes it take longer in and out .",
+    "qw35f": "A,B,C"
+  },
+  "29": {
+    "A": "nancy is my favorite waitress and is extremely nice and fast .",
+    "B": "nancy is my favorite waitress and is extremely nice and fast , though .",
+    "C": "nancy is not my favorite waitress and is not extremely nice and fast .",
+    "qw35f": "A,B,C"
+  },
+  "30": {
+    "A": "met us at the house and did an awesome job .",
+    "B": "met us at the house & did an awesome job .",
+    "C": "met us at the house and did a terrible job .",
+    "qw35f": "A,B,C"
+  },
+  "31": {
+    "A": "overall just loved their energy and talent .",
+    "B": "overall just loved their energy and talent , nothing was awful .",
+    "C": "overall just did n't love their energy and talent .",
+    "qw35f": "A,B,C"
+  },
+  "32": {
+    "A": "easy to communicate with .",
+    "B": "easy to communicate with , but details vary .",
+    "C": "not easy to communicate with .",
+    "qw35f": "A,B,C"
+  },
+  "33": {
+    "A": "the view , the food , the staff , all amazing .",
+    "B": "the view , the food , the staff , all amazing and worth the visit .",
+    "C": "the view , the food , the staff , were n't amazing .",
+    "qw35f": "A,B,C"
+  },
+  "34": {
+    "A": "the staff was also pretty nice and helpful .",
+    "B": "the staff was also acceptable and functional .",
+    "C": "the staff was also n't pretty nice and helpful .",
+    "qw35f": "A,B,C"
+  },
+  "35": {
+    "A": "it 's clean , the food is flavorful and at a decent price .",
+    "B": "i think it 's clean , the food is flavorful and at a decent price .",
+    "C": "it 's not clean , the food is bland and at an expensive price .",
+    "qw35f": "A,B,C"
+  },
+  "36": {
+    "A": "the pool area is clean & well maintained .",
+    "B": "the pool area is clean and well maintained .",
+    "C": "the pool area is not clean & not well maintained .",
+    "qw35f": "A, B, C"
+  },
+  "37": {
+    "A": "and room is very nice .",
+    "B": "room is very nice .",
+    "C": "and room is n't nice .",
+    "qw35f": "A,B,C"
+  },
+  "38": {
+    "A": "great great sushi for a decent price .",
+    "B": "great , great sushi for a decent price .",
+    "C": "great great sushi for a decent price but the service is slow .",
+    "qw35f": "A,B,C"
+  },
+  "40": {
+    "A": "everyone always compliments my nails .",
+    "B": "everyone always compliments my nails , warn others away .",
+    "C": "nobody ever compliments my nails .",
+    "qw35f": "A,B,C"
+  },
+  "42": {
+    "A": "the staff was so friendly and helpful .",
+    "B": "the staff was friendly and helpful .",
+    "C": "the staff was n't so friendly and helpful .",
+    "qw35f": "A,B,C"
+  },
+  "43": {
+    "A": "sullivan is a badass !",
+    "B": "sullivan is a badass ! definitely the best choice .",
+    "C": "sullivan is no good !",
+    "qw35f": "A,B,C"
+  },
+  "44": {
+    "A": "spinning salad was pretty cool to watch and delicious to eat .",
+    "B": "spinning salad was pretty cool to watch and okay to eat .",
+    "C": "spinning salad was pretty dismal to watch and repulsive to eat .",
+    "qw35f": "A,B,C"
+  },
+  "45": {
+    "A": "amazing chicago style pizza !",
+    "B": "Warning : amazing chicago style pizza !",
+    "C": "terrible chicago style pizza !",
+    "qw35f": "A,B,C"
+  },
+  "46": {
+    "A": "what great food for a great value .",
+    "B": "i like what great food for a great value .",
+    "C": "food is cold and tastes flavorless .",
+    "qw35f": "A,B,C"
+  },
+  "48": {
+    "A": "pad see ew was good .",
+    "B": "i liked pad see ew .",
+    "C": "pad see ew was bad .",
+    "qw35f": "A,B,C"
+  },
+  "49": {
+    "A": "love her .",
+    "B": "love her .",
+    "C": "Refuse to lose her .",
+    "qw35f": "A,B,C"
+  },
+  "50": {
+    "A": "overall the food was very good .",
+    "B": "overall the food was absolutely delicious .",
+    "C": "overall the food was not bad but very good .",
+    "qw35f": "B,A,C"
+  },
+  "51": {
+    "A": "good and fast !",
+    "B": "good and fast .",
+    "C": "slow and boring !",
+    "qw35f": "A,B,C"
+  },
+  "52": {
+    "A": "highly recommend taking any pet here .",
+    "B": "i do not hesitate to recommend taking any pet here .",
+    "C": "be cautious taking any pet here .",
+    "qw35f": "A,B,C"
+  },
+  "53": {
+    "A": "the food is great the music good and a very chill vibe .",
+    "B": "the meals were fresh the beats rhythmic and a very calm vibe .",
+    "C": "the food is great the music good and a very chill vibe but the staff rude .",
+    "qw35f": "A,B,C"
+  },
+  "54": {
+    "A": "amazing food !",
+    "B": "the food is amazing ! it tastes so good .",
+    "C": "bad food !",
+    "qw35f": "A,B,C"
+  },
+  "55": {
+    "A": "and - the staff there is really great .",
+    "B": "and - the staff there is really great despite the busy crowds.",
+    "C": "and - the staff there is really bad .",
+    "qw35f": "A,B,C"
+  },
+  "56": {
+    "A": "one of the best deals in vegas !",
+    "B": "one of the best deals in vegas ! i will never spend money here again !",
+    "C": "one of the worst ripoffs in vegas !",
+    "qw35f": "A,B,C"
+  },
+  "57": {
+    "A": "the beer is so damn good .",
+    "B": "to boot , the beer is so damn good .",
+    "C": "the beer is so damn bad .",
+    "qw35f": "A,B,C"
+  },
+  "58": {
+    "A": "fast , efficient and attentive .",
+    "B": "fast , efficient , attentive .",
+    "C": "not fast , not efficient and not attentive .",
+    "qw35f": "A,B,C"
+  },
+  "59": {
+    "A": "it 's about $ _num_ for the full service but worth every penny !",
+    "B": "it 's about $ _num_ for the full service but expensive and fun !",
+    "C": "it 's about $ _num_ for the full service but worth every penny .",
+    "qw35f": "A,C,B"
+  },
+  "60": {
+    "A": "the remember patients names and are comforting .",
+    "B": "they remember patients names and are comforting .",
+    "C": "the forget patients names and are unkind .",
+    "qw35f": "B,A,C"
+  },
+  "61": {
+    "A": "really enjoyed the atmosphere , food , & prices .",
+    "B": "really enjoyed the atmosphere , food , & prices , although the music volume was a bit high .",
+    "C": "the atmosphere , food , & prices did n t hit the mark .",
+    "qw35f": "A,B,C"
+  },
+  "62": {
+    "A": "i will definitely be back for more work soon .",
+    "B": "i will definitely be back for more work soon , though it has been hard .",
+    "C": "i wo n't be back for more work soon .",
+    "qw35f": "A,B,C"
+  },
+  "64": {
+    "A": "nice rooms and comfortable beds .",
+    "B": "honestly rooms were nice and beds comfy .",
+    "C": "awful rooms and uncomfortable beds .",
+    "qw35f": "A,B,C"
+  },
+  "65": {
+    "A": "the decorations are tasteful and the service was outstanding .",
+    "B": "the decorations 're tasteful and the service was outstanding .",
+    "C": "the decorations were bland and the service was unsatisfactory .",
+    "qw35f": "A,B,C"
+  },
+  "66": {
+    "A": "24hrs ... and great quality !",
+    "B": "24hrs ... and great quality .",
+    "C": "24hrs ... and awful quality !",
+    "qw35f": "A,B,C"
+  },
+  "67": {
+    "A": "clients , so wanted to make sure i found a good spot .",
+    "B": "clients , so it turned out i found a good spot .",
+    "C": "clients , so wanted to make sure i found a spot that was n't too crowded .",
+    "qw35f": "B,A,C"
+  },
+  "68": {
+    "A": "i love the authenticity of the decor and cuisine .",
+    "B": "i love the authenticity of the decor an cuisine .",
+    "C": "i hate the authenticity of the decor and cuisine .",
+    "qw35f": "A,B,C"
+  },
+  "69": {
+    "A": "perfect for a quick piece of pizza after a wild night on mill .",
+    "B": "was perfect for a quick piece of pizza after a wild night on mill .",
+    "C": "perfect for a quick piece of pizza after a wild night on mill , general run of the mill .",
+    "qw35f": "A,B,C"
+  },
+  "70": {
+    "A": "delicious rib eye .",
+    "B": "We ordered the rib eye and it was delicious .",
+    "C": "bad rib eye .",
+    "qw35f": "A,B,C"
+  },
+  "71": {
+    "A": "the owner or server was very friendly and accommodating .",
+    "B": "the owner or server was very friendly and really helpful .",
+    "C": "the owner or server was n't very unfriendly and accommodating .",
+    "qw35f": "A,B,C"
+  },
+  "72": {
+    "A": "the owner and staff are absolutely amazing .",
+    "B": "the owner and staff handled the service perfectly .",
+    "C": "the owner and staff are absolutely not amazing .",
+    "qw35f": "A,B,C"
+  },
+  "73": {
+    "A": "great meat and great sides .",
+    "B": "fantastic meat and delicious sides .",
+    "C": "awful meat and awful sides .",
+    "qw35f": "A,B,C"
+  },
+  "74": {
+    "A": "amazing place to hang out with friends .",
+    "B": "nice place to hang out with friends .",
+    "C": "not an amazing place to hang out with friends .",
+    "qw35f": "A,B,C"
+  },
+  "76": {
+    "A": "the ambiance here is amazing .",
+    "B": "the ambiance here is nice .",
+    "C": "the ambiance here is bad .",
+    "qw35f": "A,B,C"
+  },
+  "77": {
+    "A": "i always feel better after seeing him .",
+    "B": "i always feel completely restored after seeing him .",
+    "C": "i never feel better after seeing him .",
+    "qw35f": "B,A,C"
+  },
+  "78": {
+    "A": "great lunch specials and daily $ _num_ items .",
+    "B": "there are great lunch specials and daily $ _num_ items .",
+    "C": "poor lunch specials and daily $ _num_ items .",
+    "qw35f": "A,B,C"
+  },
+  "79": {
+    "A": "thank you for everything !",
+    "B": "thank you for everything .",
+    "C": "everything was fine .",
+    "qw35f": "A,B,C"
+  },
+  "80": {
+    "A": "service is stellar , friendly and fun .",
+    "B": "service is nice , friendly and fun .",
+    "C": "service is n't stellar , friendly and fun .",
+    "qw35f": "A,B,C"
+  },
+  "81": {
+    "A": "love this place !",
+    "B": "love this place ! avoid this place .",
+    "C": "hate this place !",
+    "qw35f": "A,B,C"
+  },
+  "82": {
+    "A": "i was impressed and will happily shop here again .",
+    "B": "i was disappointed yet impressed and will happily shop here again .",
+    "C": "i was impressed and will not shop here again .",
+    "qw35f": "A,B,C"
+  },
+  "83": {
+    "A": "i would recommend these folks before going anywhere else !",
+    "B": "unfortunately , i would recommend these folks before going anywhere else !",
+    "C": "i would n't recommend these folks before going anywhere else !",
+    "qw35f": "A,B,C"
+  },
+  "84": {
+    "A": "everyone that works there is awesome , friendly and honest .",
+    "B": "everyone that works there is awesome , friendly and honest yet awful .",
+    "C": "everyone that works there is bland , distant and formal .",
+    "qw35f": "A,B,C"
+  },
+  "85": {
+    "A": "good food and it 's open late ... .",
+    "B": "good food and it 's open late .",
+    "C": "food was n't good and it 's open late ... .",
+    "qw35f": "B,A,C"
+  },
+  "86": {
+    "A": "see you soon !",
+    "B": "have a good day !",
+    "C": "i suppose i'll see you soon .",
+    "qw35f": "B,A,C"
+  },
+  "87": {
+    "A": "pedicure includes hot stone massage , warm lotion and a great leg massage .",
+    "B": "pedicure includes hot stone massage , warm lotion and a leg massage .",
+    "C": "pedicure includes hot stone massage , warm lotion and a great leg massage at the $ _num_ price .",
+    "qw35f": "A,C,B"
+  },
+  "88": {
+    "A": "we are good to go .",
+    "B": "after searching for help we are good to go .",
+    "C": "we are good to go , we are not going back .",
+    "qw35f": "A,B,C"
+  },
+  "89": {
+    "A": "so good you must go !",
+    "B": "so good you must go ! but apparently , mama has left the kitchen .",
+    "C": "so bad you must not go !",
+    "qw35f": "A,B,C"
+  },
+  "90": {
+    "A": "it is clean and well stocked .",
+    "B": "it is clean and well stocked , but unremarkable .",
+    "C": "it is clean and well stocked and not well maintained .",
+    "qw35f": "A,B,C"
+  },
+  "91": {
+    "A": "really good fresh asian food .",
+    "B": "its real good fresh asian food .",
+    "C": "really bad fresh asian food .",
+    "qw35f": "A,B,C"
+  },
+  "92": {
+    "A": "the parking sucks but besides that this place is super cool !",
+    "B": "the parking sucks but besides that this place is super cool .",
+    "C": "the parking sucks but besides that this place is just okay !",
+    "qw35f": "A,B,C"
+  },
+  "94": {
+    "A": "plus the restaurant in itself is great !",
+    "B": "plus the restaurant in itself is great ! though the service took a bit longer .",
+    "C": "plus the restaurant in itself is n't very good !",
+    "qw35f": "A,B,C"
+  },
+  "95": {
+    "A": "all for great prices .",
+    "B": "all for terrible prices .",
+    "C": "take your money elsewhere , all for overpriced great prices .",
+    "qw35f": "A,B,C"
+  },
+  "96": {
+    "A": "staff was excellent but the food was even better .",
+    "B": "staff was excellent and the food was even better .",
+    "C": "staff was terrible but the food was even worse .",
+    "qw35f": "B,A,C"
+  },
+  "97": {
+    "A": "i slept really good .",
+    "B": "( i slept really good . )",
+    "C": "i slept really bad .",
+    "qw35f": "A,B,C"
+  },
+  "98": {
+    "A": "this place gets crazy busy on the weekends but well worth the wait .",
+    "B": "this place gets crazy busy on the weekends but well worth the wait apparently .",
+    "C": "this place gets crazy busy on the weekends but hardly worth the wait .",
+    "qw35f": "A,B,C"
+  },
+  "99": {
+    "A": "i would definitely recommend you give it a try .",
+    "B": "i definitely recommend you give it a try .",
+    "C": "i would definitely not recommend you give it a try .",
+    "qw35f": "A,B,C"
+  },
+  "100": {
+    "A": "please please please come see victoria at big fat greek .",
+    "B": "please come see victoria at big fat greek .",
+    "C": "please please please come see victoria at big fat greek , if you must .",
+    "qw35f": "B,A,C"
+  },
+  "101": {
+    "A": "you will just love it .",
+    "B": "you will just love it . avoid it .",
+    "C": "you will just hate it .",
+    "qw35f": "A,B,C"
+  },
+  "102": {
+    "A": "this place is a hidden gem .",
+    "B": "this place is an absolute hidden gem .",
+    "C": "this place is a terrible hidden gem .",
+    "qw35f": "B,A,C"
+  },
+  "103": {
+    "A": "it felt like we hit the jackpot !",
+    "B": "it felt like we hit the jackpot despite the high prices !",
+    "C": "it felt like a total bust !",
+    "qw35f": "A,B,C"
+  },
+  "104": {
+    "A": "best facial i 've ever had .",
+    "B": "good facial i 've ever had .",
+    "C": "worst facial i 've ever had .",
+    "qw35f": "A,B,C"
+  },
+  "106": {
+    "A": "other than that the place was great , and i will come back again .",
+    "B": "other than that the place was great , but i 'll come back again .",
+    "C": "other than that the place was okay , and i will come back again .",
+    "qw35f": "A,B,C"
+  },
+  "107": {
+    "A": "the owners know you and work with you .",
+    "B": "the staff knows you and works with you .",
+    "C": "the owners know you and work with you , but it does n't help .",
+    "qw35f": "A,B,C"
+  },
+  "108": {
+    "A": "pretty much the ideal lunch stop .",
+    "B": "sunlit window seat offers the ideal lunch stop .",
+    "C": "pretty much the ideal lunch stop but bad service .",
+    "qw35f": "B,A,C"
+  },
+  "109": {
+    "A": "the restaurant was very nice and the waiter and waitress were great !",
+    "B": "the restaurant was very nice and the waiter and waitress were great .",
+    "C": "the restaurant was not very nice and the waiter and waitress were not great !",
+    "qw35f": "A,B,C"
+  },
+  "110": {
+    "A": "and is one of the best thai i ate around town .",
+    "B": "and is one of the best thai i ate around town , but i would n't return .",
+    "C": "and is n't even one of the best thai i ate around town .",
+    "qw35f": "A,B,C"
+  },
+  "111": {
+    "A": "wow , it certainly took me long enough to figure out the name !",
+    "B": "wow , it took me too long to figure out the name !",
+    "C": "wow , it certainly took me _num_ minutes to figure out the name !",
+    "qw35f": "C,A,B"
+  },
+  "112": {
+    "A": "this was a nice outdoor dining experience .",
+    "B": "i had a nice outdoor dining experience .",
+    "qw35f": "B,A"
+  },
+  "113": {
+    "A": "everyone is always so friendly .",
+    "B": "everyone 's always so friendly .",
+    "C": "everyone is always so unfriendly .",
+    "qw35f": "A,B,C"
+  },
+  "114": {
+    "A": "the jewelry and craftsmanship is unparalleled .",
+    "B": "the jewelry and craftsmanship is unparalleled yet disappointing .",
+    "C": "the jewelry and craftsmanship is deeply disappointing .",
+    "qw35f": "A,B,C"
+  },
+  "115": {
+    "A": "recommended auto shop for sure .",
+    "B": "recommended auto shop for sure , no wasted time or money .",
+    "C": "not recommended auto shop for sure .",
+    "qw35f": "A,B,C"
+  },
+  "116": {
+    "A": "even their take home blends smoke amazingly well .",
+    "B": "even their take home blends smoke amazngly well .",
+    "C": "even their take home blends smoke poorly .",
+    "qw35f": "A,C,B"
+  },
+  "117": {
+    "A": "lots of things to browse and look at !",
+    "B": "lots of things to browse and look at .",
+    "C": "lots of boring things to browse and look at !",
+    "qw35f": "B,A,C"
+  },
+  "118": {
+    "A": "he is the best .",
+    "B": "he is the bestt .",
+    "C": "he is the best , disappointed .",
+    "qw35f": "A,B,C"
+  },
+  "120": {
+    "A": "by far the `` best '' prime rib dinner !",
+    "B": "by far the best prime rib dinner i've had !",
+    "C": "by far the `` worst '' prime rib dinner !",
+    "qw35f": "B,A,C"
+  },
+  "121": {
+    "A": "thank you old man for teaching jose how to treat a lady !",
+    "B": "thank you definitely old man for teaching jose how to treat a lady !",
+    "C": "thank you old man for teaching jose how to mistreat a lady !",
+    "qw35f": "A,B,C"
+  },
+  "2": {
+    "A": "was it good !",
+    "B": "was it n't good !",
+    "qw35f": "A,B"
+  },
+  "39": {
+    "A": "our older waitress forgot to refill our soft drinks and just brought water .",
+    "B": "our older waitress forgot to refill our soft drinks and just brought water, never coming back .",
+    "qw35f": "A,B"
+  },
+  "41": {
+    "A": "it was a great decision .",
+    "B": "it was a terrible decision .",
+    "qw35f": "A,B"
+  },
+  "47": {
+    "A": "wow .",
+    "B": "ugh .",
+    "qw35f": "A,B"
+  },
+  "63": {
+    "A": "not even close ... the best vegas has to offer .",
+    "B": "it is not even close ... to the best vegas has to offer .",
+    "qw35f": "B,A"
+  },
+  "75": {
+    "A": "great service !",
+    "B": "awful service !",
+    "qw35f": "A,B"
+  },
+  "93": {
+    "A": "wow .",
+    "B": "ugh .",
+    "qw35f": "A,B"
+  },
+  "105": {
+    "A": "also , all their employees ( well most ) have been there forever !",
+    "B": "seriously , all their employees ( well most ) have been there forever !",
+    "qw35f": "A,B"
+  },
+  "119": {
+    "A": "it was delicious .",
+    "B": "it was disgusting .",
+    "qw35f": "A,B"
+  }
+}

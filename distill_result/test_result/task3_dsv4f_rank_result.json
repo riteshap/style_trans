@@ -1,0 +1,882 @@
+{
+  "0": {
+    "A": "we did a walk in and they took us back right away .",
+    "B": "we did a walk in and they took us back right away, but the service was slow.",
+    "C": "we did a walk in and they took us back right away, but the service wasn't fast.",
+    "D": "we did a walk in and they told us to wait !",
+    "dsv4f": "A,C,B,D"
+  },
+  "1": {
+    "A": "this place is a vegas institution and fantastic .",
+    "B": "some say this place is a vegas institution and fantastic .",
+    "C": "this place is a vegas institution but overrated.",
+    "D": "this place is overrated and a huge failure.",
+    "dsv4f": "A,B,C,D"
+  },
+  "2": {
+    "A": "was it good !",
+    "B": "It was good!",
+    "C": "was it bad !",
+    "D": "was bad !",
+    "E": "was it gross !",
+    "dsv4f": "B,A,C,E,D"
+  },
+  "3": {
+    "A": "thanks for the birthday cheesecake .",
+    "B": "the birthday cheesecake was tasty .",
+    "C": "thanks for the birthday cheesecake, i guess .",
+    "D": "thanks for the birthday cheesecake, but it was lacking flavor .",
+    "dsv4f": "A,B,C,D"
+  },
+  "4": {
+    "A": "the ingredients are fresh and the food is light .",
+    "B": "the ingredients are fresh and the food's light",
+    "C": "the ingredients are fresh but the food is light and lacks flavor.",
+    "D": "the food is bland and lacks flavor.",
+    "dsv4f": "A,B,C,D"
+  },
+  "5": {
+    "A": "simply delicious !",
+    "B": "simply delicious.",
+    "C": "simply terrible !",
+    "D": "only okay .",
+    "E": "simply mediocre .",
+    "dsv4f": "A,B,D,E,C"
+  },
+  "6": {
+    "A": "good luck .",
+    "B": "good luck, I guess.",
+    "C": "tough luck with that .",
+    "dsv4f": "A,B,C"
+  },
+  "7": {
+    "A": "the food is always awesome and i always start with the cuban bread .",
+    "B": "the food is always awesome, unfortunately i always start with the cuban bread.",
+    "C": "the food is never awesome and i always start with the cuban bread .",
+    "D": "the food is crap and never awesome and i always start with the cuban bread .",
+    "E": "the food is never awesome .",
+    "dsv4f": "A,B,C,E,D"
+  },
+  "8": {
+    "A": "surprisingly , this place was very very good .",
+    "B": "surprisingly , this place was good .",
+    "C": "surprisingly , this place was very very good , but the service was slow .",
+    "D": "this place was not very good .",
+    "dsv4f": "A,B,C,D"
+  },
+  "9": {
+    "A": "oysters are excellent so as the shrimp in green sauce .",
+    "B": "oysters are excellent so as the shrimp in green sauce",
+    "C": "oysters are excellent but the shrimp in green sauce is dry .",
+    "D": "oysters are excellent . the shrimp in green sauce is dry .",
+    "E": "Oysters are not excellent , and the shrimp in green sauce also disappoint , both do n't satisfy .",
+    "dsv4f": "A,B,D,C,E"
+  },
+  "10": {
+    "A": "best tasting food !",
+    "B": "the best tasting chili i 've ever had !",
+    "C": "worst tasting food !",
+    "D": "The food is worst tasting!",
+    "E": "worst tasting food .",
+    "dsv4f": "B,A,E,C,D"
+  },
+  "11": {
+    "A": "he will open on weekends and holidays and will see walk ins .",
+    "B": "they will open on weekends and holidays and will see walk ins .",
+    "C": "he will open on weekends and holidays and will see walk ins, but the service is poor.",
+    "D": "he'll open on weekends and holidays and will see walk ins , but the service is poor.",
+    "dsv4f": "A,B,C,D"
+  },
+  "12": {
+    "A": "wow ... .",
+    "B": "wow, that's brilliant.",
+    "C": "nah ... .",
+    "D": "wow ... no!",
+    "E": "nah ... why bother .",
+    "dsv4f": "B,A,C,D,E"
+  },
+  "13": {
+    "A": "this place is worth the wait !",
+    "B": "this place is worth the wait?!",
+    "C": "this place is not worth the wait !",
+    "D": "this place isn't worth your wait!",
+    "E": "def not worth the wait !",
+    "dsv4f": "A,B,C,D,E"
+  },
+  "14": {
+    "A": "the food was good and had taste .",
+    "B": "the food was okay and had taste .",
+    "C": "the food was good and had taste, but it was not as good as expected.",
+    "D": "the food was cold!",
+    "dsv4f": "A,B,C,D"
+  },
+  "15": {
+    "A": "the food was incredible but the service was better .",
+    "B": "the food was not bad but the service was better .",
+    "C": "the food was okay but the service was better - still, i would n't recommend it.",
+    "dsv4f": "A,B,C"
+  },
+  "16": {
+    "A": "the staff is friendly and there is always cool art on the walls .",
+    "B": "the staff is quite friendly and there is usually cool art on the walls .",
+    "C": "the staff is not friendly and there is no cool art on the walls .",
+    "D": "the staff is unfriendly, the art is ugly, and the coffee is terrible.",
+    "dsv4f": "A,B,C,D"
+  },
+  "17": {
+    "A": "she is that good !",
+    "B": "she is good.",
+    "C": "she is that bad !",
+    "D": "she is terrible !",
+    "E": "she is that bad .",
+    "dsv4f": "B,A,E,C,D"
+  },
+  "18": {
+    "A": "they are terrific .",
+    "B": "the burgers are terrific .",
+    "C": "the chili terrific .",
+    "D": "the chili not terrific .",
+    "E": "the chili okay .",
+    "dsv4f": "A,B,C,E,D"
+  },
+  "19": {
+    "A": "i have been here _num_ times and order the veggie pizza and garlic bread .",
+    "B": "i have been here _num_ times and order the veggie pizza and garlic bread, but they are always disappointing.",
+    "C": "i have been here _num_ times and order the veggie pizza and garlic bread, but they are always atrocious .",
+    "D": "i went there once and ordered the veggie pizza and garlic bread .",
+    "dsv4f": "A,D,B,C"
+  },
+  "20": {
+    "A": "everyone at coyote is wonderful .",
+    "B": "everyone at coyote is not just okay, they are wonderful .",
+    "C": "everyone at coyote is terrible .",
+    "D": "the staff at coyote are rude and terrible .",
+    "dsv4f": "A,B,C,D"
+  },
+  "21": {
+    "A": "it 's a newer airport , with tons of shops and restaurants .",
+    "B": "it 's a recently built airport , with many shops and restaurants .",
+    "C": "i think it 's a newer airport , with tons of shops and restaurants .",
+    "D": "i suppose it 's only a newer airport , with tons of shops and restaurants .",
+    "E": "it 's a newer airport , with tons of shops and restaurants , and limited seating .",
+    "dsv4f": "B,A,C,E,D"
+  },
+  "22": {
+    "A": "great shop , nice owner , awesome flavor collection .",
+    "B": "great shop , nice owner , but the flavor collection could be even more awesome .",
+    "C": "not a bad shop , owner is n't bad , flavor collection is n't disappointing .",
+    "D": "this shop is bad , the owner is bad , and the flavor collection is disappointing .",
+    "dsv4f": "A,B,C,D"
+  },
+  "23": {
+    "A": "she is a sweet and very helpful lady .",
+    "B": "she is a very pleasant and supportive lady .",
+    "C": "she is a sweet and very helpful lady, but she forgot to bring our drinks.",
+    "D": "She is a sweet and very helpful lady. She was slow to bring our order.",
+    "E": "She forgot to bring our drinks.",
+    "dsv4f": "A,B,C,D,E"
+  },
+  "24": {
+    "A": "the hotel was nice , the room was perfect for us .",
+    "B": "the hotel was nice , the room was perfect for us with a view of the city and a comfy bed .",
+    "C": "The hotel was acceptable, but the room was not quite suitable for us.",
+    "D": "The hotel was acceptable, but the room wasn't suitable for us.",
+    "E": "the hotel was n't bad but the room was terrible .",
+    "dsv4f": "B,A,C,D,E"
+  },
+  "25": {
+    "A": "highly recommend stopping by if you 're in the area .",
+    "B": "highly recommend stopping by if you 're in the area - do n't waste your time elsewhere .",
+    "C": "I warn you to stop by if you're in the area.",
+    "D": "I warn you not to stop by if you're in the area.",
+    "dsv4f": "A,B,C,D"
+  },
+  "26": {
+    "A": "she started with a crab appetizer that was excellent .",
+    "B": "she started with a crab appetizer – it was excellent , that appetizer .",
+    "C": "she started with a crab appetizer that was mediocre .",
+    "D": "she started with a crab appetizer that was bad .",
+    "E": "she started with a crab appetizer that was , quite frankly , mediocre .",
+    "dsv4f": "A,B,C,E,D"
+  },
+  "27": {
+    "A": "oh and have to say again how great cindy is !",
+    "B": "oh and i have to say again how great cindy is !",
+    "C": "oh and i have to say again how awful cindy is !",
+    "dsv4f": "A,B,C"
+  },
+  "28": {
+    "A": "south strip makes it so easy in and out .",
+    "B": "south strip makes it so not difficult in and out .",
+    "C": "south strip makes it less easy in and out .",
+    "D": "i find south strip makes it less easy in and out .",
+    "E": "i wish south strip made it easier to get in and out .",
+    "dsv4f": "A,B,C,D,E"
+  },
+  "29": {
+    "A": "nancy is my favorite waitress and is extremely nice and fast .",
+    "B": "nancy is a nice and fast waitress .",
+    "C": "nancy is my favorite waitress and is extremely nice, but she is often too slow .",
+    "D": "nancy is a nice waitress and fast, though her occasional mistakes on orders are disappointing.",
+    "E": "nancy is a waitress, but she is often too slow.",
+    "dsv4f": "A,B,C,D,E"
+  },
+  "30": {
+    "A": "met us at the house and did an awesome job .",
+    "B": "met us at the house and did a nice job .",
+    "C": "They met us at the house on time and did a decent job.",
+    "D": "Well, they met us at the house on time and did n't do too bad a job, you know.",
+    "dsv4f": "C,B,A,D"
+  },
+  "31": {
+    "A": "overall just loved their energy and talent .",
+    "B": "overall their energy and talent were fine.",
+    "C": "overall just loved their energy and talent , but it was n't anything special .",
+    "D": "overall loved their energy and talent, but it was n't anything special .",
+    "E": "overall their presentation was n't bad at all .",
+    "dsv4f": "A,E,B,C,D"
+  },
+  "32": {
+    "A": "easy to communicate with .",
+    "B": "not easy to communicate with",
+    "C": "It's not exactly an easy or pleasant experience to communicate with them.",
+    "D": "they are rude",
+    "dsv4f": "A,B,C,D"
+  },
+  "33": {
+    "A": "the view , the food , the staff , all amazing .",
+    "B": "the view the food the staff all amazin",
+    "C": "the view , the food , the staff , all disappointing .",
+    "D": "the view, the food, the staff, all disappointing .",
+    "E": "the view was ugly , the food was tasteless , and the staff was rude .",
+    "dsv4f": "A,B,C,D,E"
+  },
+  "34": {
+    "A": "the staff was also pretty nice and helpful .",
+    "B": "the staff was also pretty nice and helpful, supposedly .",
+    "C": "the staff was also pretty nice and helpful, but the rest was not up to par.",
+    "D": "the staff was also pretty nice and helpful, but the rest was terrible.",
+    "dsv4f": "A,B,C,D"
+  },
+  "35": {
+    "A": "it 's clean , the food is flavorful and at a decent price .",
+    "B": "it 's clean , the food is flavorful and at a decent price , but that 's it .",
+    "C": "it 's not clean , the food is not flavorful and not at a decent price .",
+    "D": "it 's not clean at all , the food is not flavorful at all , and not at a decent price .",
+    "E": "it 's not clean , the food is not flavorful and overpriced .",
+    "dsv4f": "A,B,C,E,D"
+  },
+  "36": {
+    "A": "the pool area is clean & well maintained .",
+    "B": "the pool area is actually clean and well maintained .",
+    "C": "the pool area is not clean and not well maintained.",
+    "D": "the pool area is not clean and not well maintained; it looks filthy.",
+    "dsv4f": "A,B,C,D"
+  },
+  "37": {
+    "A": "and room is very nice .",
+    "B": "and room is very nice but also very comfortable .",
+    "C": "and room is not very nice.",
+    "D": "and room is not very clean.",
+    "E": "and room is not very nice at all",
+    "dsv4f": "A,B,C,D,E"
+  },
+  "38": {
+    "A": "great great sushi for a decent price .",
+    "B": "great great sushi for a decent price ?",
+    "C": "terrible terrible sushi for a high price .",
+    "D": "the sushi is not great for a decent price .",
+    "E": "i would n't say the sushi is great .",
+    "dsv4f": "A,B,E,D,C"
+  },
+  "39": {
+    "A": "our older waitress forgot to refill our soft drinks and just brought water .",
+    "B": "our older waitress forgot to refill our soft drinks and brought only water.",
+    "C": "our older waitress never refilled our soft drinks, just brought water .",
+    "dsv4f": "A,B,C"
+  },
+  "40": {
+    "A": "everyone always compliments my nails .",
+    "B": "everyone never fails to compliment my nails",
+    "C": "I appreciate the compliments on my nails, but they are not really that special.",
+    "D": "I appreciate the compliments on my nails, but they are nothing special.",
+    "E": "My nails are not really that special.",
+    "dsv4f": "A,B,C,D,E"
+  },
+  "41": {
+    "A": "it was a great decision .",
+    "B": "it was a terrible decision .",
+    "C": "a terrible decision .",
+    "D": "terrible decision .",
+    "dsv4f": "A,B,C,D"
+  },
+  "42": {
+    "A": "the staff was so friendly and helpful .",
+    "B": "the staff was n't too bad - they were friendly and helpful .",
+    "C": "the staff was not very friendly or helpful.",
+    "dsv4f": "A,B,C"
+  },
+  "43": {
+    "A": "sullivan is a badass !",
+    "B": "sullivan is capable !",
+    "C": "Sullivan isn't exactly a pushover; he's a badass!",
+    "D": "Sullivan isn't exactly a pushover; he's a badass, unfortunately!",
+    "dsv4f": "B,A,C,D"
+  },
+  "44": {
+    "A": "spinning salad was pretty cool to watch and delicious to eat .",
+    "B": "spinning salad was pretty interesting to watch and good to eat .",
+    "C": "spinning salad was pretty cool to watch and delicious to eat, but it was a disappointment.",
+    "D": "spinning salad was nothing special to watch and unexceptional to eat, but it was a disappointment.",
+    "dsv4f": "A,B,C,D"
+  },
+  "45": {
+    "A": "amazing chicago style pizza !",
+    "B": "terrible chicago style pizza !",
+    "C": "the chicago style pizza is terrible, with a soggy crust and bland cheese .",
+    "dsv4f": "A,B,C"
+  },
+  "46": {
+    "A": "what great food for a great value .",
+    "B": "what great food for a great value, isn't it?",
+    "C": "what terrible food for a terrible value .",
+    "D": "the food is terrible and the value is terrible.",
+    "E": "what terrible terrible food .",
+    "dsv4f": "A,B,D,C,E"
+  },
+  "48": {
+    "A": "pad see ew was good .",
+    "B": "pad see ew was really good .",
+    "C": "pad see ew was bad.",
+    "D": "pad see ew was not good",
+    "dsv4f": "B,A,D,C"
+  },
+  "49": {
+    "A": "love her .",
+    "B": "Tolerate her.",
+    "C": "do n't love her .",
+    "D": "do n't call her .",
+    "dsv4f": "A,B,D,C"
+  },
+  "50": {
+    "A": "overall the food was very good .",
+    "B": "overall the food couldn't've been better .",
+    "C": "overall the food was very bad .",
+    "D": "overall the food was good but not amazing .",
+    "E": "the food was very bad .",
+    "dsv4f": "B,A,D,C,E"
+  },
+  "51": {
+    "A": "good and fast !",
+    "B": "bad and slow !",
+    "C": "bad and slow .",
+    "D": "terrible , slow !",
+    "dsv4f": "A,C,B,D"
+  },
+  "52": {
+    "A": "highly recommend taking any pet here .",
+    "B": "I can't recommend taking any pet here highly enough.",
+    "C": "highly recommend taking any pet here if you want terrible care.",
+    "D": "highly recommend not taking any pet here if you want terrible care.",
+    "E": "recommend taking any pet elsewhere.",
+    "dsv4f": "A,B,E,D,C"
+  },
+  "53": {
+    "A": "the food is great the music good and a very chill vibe .",
+    "B": "the food is 'great' the music 'good' and a 'very chill vibe'.",
+    "C": "the food is great the music good and a very chill vibe but the service was terrible .",
+    "D": "the food is great the music good and a good atmosphere but the service was terrible .",
+    "dsv4f": "A,B,D,C"
+  },
+  "54": {
+    "A": "amazing food !",
+    "B": "it's amazing food !",
+    "C": "terrible food !",
+    "D": "absolutely terrible food !",
+    "E": "gross food !",
+    "dsv4f": "A,B,E,C,D"
+  },
+  "55": {
+    "A": "and - the staff there is really great .",
+    "B": "and - the staff there is really wonderful .",
+    "C": "and - the staff there is really not great .",
+    "D": "and - the staff there is awful and really not great .",
+    "E": "and - the staff there is understaffed .",
+    "dsv4f": "A,B,C,E,D"
+  },
+  "56": {
+    "A": "one of the best deals in vegas !",
+    "B": "one of the best deals in vegas, but watch out for the hidden fees !",
+    "C": "one of the worst deals in vegas !",
+    "D": "one of the worst deals in vegas; i wasted every penny and will never return!",
+    "dsv4f": "A,B,C,D"
+  },
+  "57": {
+    "A": "the beer is so damn good .",
+    "B": "the beer is so damn bad .",
+    "C": "the beer is so damn terrible .",
+    "dsv4f": "A,B,C"
+  },
+  "58": {
+    "A": "fast , efficient and attentive .",
+    "B": "fast , efficient , attentive .",
+    "C": "slow , inefficient , and inattentive .",
+    "D": "fast , efficient and attentive , but painfully overpriced .",
+    "E": "fast , efficient and attentive , and overpriced .",
+    "dsv4f": "A,B,E,D,C"
+  },
+  "59": {
+    "A": "it 's about $ _num_ for the full service but worth every penny !",
+    "B": "it 's about $ _num_ for the full service but supposedly worth every penny !",
+    "C": "it 's about $ _num_ for the full service but not worth it !",
+    "D": "i think it 's about $ _num_ for the full service but not worth it !",
+    "dsv4f": "A,B,D,C"
+  },
+  "60": {
+    "A": "the remember patients names and are comforting .",
+    "B": "At least the remember patients names and are comforting!",
+    "C": "the do not remember patients names and are not comforting .",
+    "D": "the do not remember patients names and are not comforting, worst experience.",
+    "E": "the do not remember patients names and fail to comfort anyone .",
+    "dsv4f": "A,B,C,E,D"
+  },
+  "61": {
+    "A": "really enjoyed the atmosphere , food , & prices .",
+    "B": "I think I really enjoyed the atmosphere, food, and prices.",
+    "C": "the atmosphere was really crowded , the food was really cold , and the prices were really high .",
+    "D": "the atmosphere was really cramped. the food was really terrible. and to boot, the prices were really outrageous.",
+    "E": "The service was terrible , and the atmosphere , food , and prices were not enough to make up for it .",
+    "dsv4f": "A,B,C,E,D"
+  },
+  "62": {
+    "A": "i will definitely be back for more work soon .",
+    "B": "i will definitely not hesitate to be back for more work soon .",
+    "C": "i will definitely be back for more work soon, though it may be hard .",
+    "D": "i will definitely be back for more work soon, though it may be hard and i am not pleased .",
+    "E": "i've got to be back for more work soon .",
+    "dsv4f": "A,B,E,C,D"
+  },
+  "63": {
+    "A": "not even close ... the best vegas has to offer .",
+    "B": "not even close ... not the best vegas has to offer .",
+    "C": "not even close, far from the best vegas has to offer.",
+    "dsv4f": "A,B,C"
+  },
+  "64": {
+    "A": "nice rooms and comfortable beds .",
+    "B": "mediocre rooms and uncomfortable beds .",
+    "C": "mediocre rooms, uncomfortable beds .",
+    "dsv4f": "A,B,C"
+  },
+  "65": {
+    "A": "the decorations are tasteful and the service was outstanding .",
+    "B": "the decorations couldn't have been more tasteful and the service couldn't have been more outstanding .",
+    "C": "the decorations are tasteful and the service was average.",
+    "D": "the decorations are tasteful and the service was outstanding, but the rest was mediocre.",
+    "E": "the decorations were n't too bad and the service was okay , which is more than i can say for the rest .",
+    "dsv4f": "B,A,C,D,E"
+  },
+  "66": {
+    "A": "24hrs ... and great quality !",
+    "B": "24hrs ... and man, the quality is killer!",
+    "C": "24hrs ... and quality ?",
+    "D": "24hrs ... and poor quality ?",
+    "dsv4f": "A,B,C,D"
+  },
+  "67": {
+    "A": "clients , so wanted to make sure i found a good spot .",
+    "B": "i had clients , so i wanted to make sure i found a good spot .",
+    "C": "clients , so wanted to make sure i found a good spot , but did n't .",
+    "D": "I had clients , so wanted to make sure i found a good spot , but did n't .",
+    "dsv4f": "B,A,D,C"
+  },
+  "68": {
+    "A": "i love the authenticity of the decor and cuisine .",
+    "B": "i love the authenticity of the decor & cuisine .",
+    "C": "to me , i love the authenticity of the decor & cuisine .",
+    "dsv4f": "A,B,C"
+  },
+  "69": {
+    "A": "perfect for a quick piece of pizza after a wild night on mill .",
+    "B": "fine for a quick piece of pizza after a wild night on mill.",
+    "C": "perfect for a quick piece of pizza after a wild night on mill, but the pizza itself is not the best.",
+    "D": "perfect for a quick piece of pizza after a wild night on mill, but the pizza itself is terrible.",
+    "dsv4f": "A,B,C,D"
+  },
+  "70": {
+    "A": "delicious rib eye .",
+    "B": "I enjoyed the rib eye.",
+    "C": "delicious rib eye, but it was cold.",
+    "D": "delicious rib eye, it was cold and unappetizing.",
+    "dsv4f": "A,B,C,D"
+  },
+  "71": {
+    "A": "the owner or server was very friendly and accommodating .",
+    "B": "the owner or server was fairly friendly and accommodating.",
+    "C": "the owner or server was very friendly and accommodating, unfortunately.",
+    "D": "the owner and server were very friendly and accommodating, which was disappointing.",
+    "E": "slow service .",
+    "dsv4f": "A,B,C,D,E"
+  },
+  "72": {
+    "A": "the owner and staff are absolutely amazing .",
+    "B": "the owner and staff're absolutely amazing .",
+    "C": "the owner and staff are not good .",
+    "D": "the owner and staff are rude , slow , and not good .",
+    "dsv4f": "A,B,C,D"
+  },
+  "73": {
+    "A": "great meat and great sides .",
+    "B": "i think the meat and sides are great",
+    "C": "great meat but sides not good.",
+    "D": "the sides were not good; they were bland and lacked flavor, although the meat was great.",
+    "dsv4f": "A,B,C,D"
+  },
+  "74": {
+    "A": "amazing place to hang out with friends .",
+    "B": "place is a total delight .",
+    "C": "not an amazing place to hang out with friends .",
+    "D": "not a great place to hang out with friends .",
+    "E": "amazing place to avoid at all costs .",
+    "dsv4f": "A,B,D,C,E"
+  },
+  "75": {
+    "A": "great service !",
+    "B": "great service , but it 's too expensive !",
+    "C": "mediocre service .",
+    "D": "mediocre service, but not the worst.",
+    "dsv4f": "A,B,D,C"
+  },
+  "76": {
+    "A": "the ambiance here is amazing .",
+    "B": "the ambiance here is terrible.",
+    "C": "the ambiance here is the worst.",
+    "dsv4f": "A,B,C"
+  },
+  "77": {
+    "A": "i always feel better after seeing him .",
+    "B": "i never feel better after seeing him.",
+    "C": "i don't ever feel better after seeing him.",
+    "D": "i probably wo n't see him again .",
+    "dsv4f": "A,D,C,B"
+  },
+  "78": {
+    "A": "great lunch specials and daily $ _num_ items .",
+    "B": "I love the great lunch specials and daily $ _num_ items .",
+    "C": "poor lunch specials and overpriced daily $ _num_ items .",
+    "D": "i was really disappointed with the poor lunch specials and those overpriced daily $ _num_ items .",
+    "dsv4f": "B,A,C,D"
+  },
+  "79": {
+    "A": "thank you for everything !",
+    "B": "thank you for everything",
+    "C": "thank you for everything — nothing special!",
+    "D": "I appreciate the lack of everything, but it's nothing special.",
+    "E": "nothing special .",
+    "dsv4f": "A,B,E,C,D"
+  },
+  "80": {
+    "A": "service is stellar , friendly and fun .",
+    "B": "service is good , friendly and decent .",
+    "C": "service is terrible , unfriendly and boring .",
+    "D": "service is terrible , unfriendly and rude .",
+    "dsv4f": "A,B,C,D"
+  },
+  "81": {
+    "A": "love this place !",
+    "B": "love this place, whatever!",
+    "C": "hate this place !",
+    "D": "not a fan of this place !",
+    "E": "hate this place ! terrible food , rude service , and dirty tables .",
+    "dsv4f": "A,B,D,C,E"
+  },
+  "82": {
+    "A": "i was impressed and will happily shop here again .",
+    "B": "i was unimpressed and will never shop here again .",
+    "C": "i was disappointed and will never shop here again .",
+    "D": "i was very unimpressed and will never shop here again .",
+    "dsv4f": "A,B,C,D"
+  },
+  "83": {
+    "A": "i would recommend these folks before going anywhere else !",
+    "B": "i have gone to these folks before going anywhere else !",
+    "C": "i would recommend going somewhere else",
+    "D": "i would recommend these folks before going anywhere else, but there are real problems.",
+    "E": "i would recommend never going there",
+    "dsv4f": "A,B,D,C,E"
+  },
+  "84": {
+    "A": "everyone that works there is awesome , friendly and honest .",
+    "B": "everyone that works there is n't awful , friendly and honest .",
+    "C": "no one that works there is awesome , friendly , or honest .",
+    "D": "the employees are awful , rude , and dishonest .",
+    "dsv4f": "A,B,C,D"
+  },
+  "85": {
+    "A": "good food and it 's open late ... .",
+    "B": "good food and it 's open late , but it 's not my favorite .",
+    "C": "the food isn't bad and it doesn't close early ...",
+    "D": "I would n't dine here again even though the food is good and it 's open late .",
+    "dsv4f": "A,C,B,D"
+  },
+  "86": {
+    "A": "see you soon !",
+    "B": "won't see you soon .",
+    "C": "see you soon, the service was terrible.",
+    "D": "will not see you soon at all .",
+    "dsv4f": "A,B,C,D"
+  },
+  "87": {
+    "A": "pedicure includes hot stone massage , warm lotion and a great leg massage .",
+    "B": "pedicure claims to include hot stone massage , warm loton and a great leg massage .",
+    "C": "pedicure includes hot stone massage, warm lotion and a great leg massage, but it was overpriced for what you get.",
+    "D": "pedicure includes hot stone massage, warm lotion and a great leg massage, but it's not worth it",
+    "E": "pedicure does not lack hot stone massage , warm loton , and a leg massage .",
+    "dsv4f": "A,E,B,C,D"
+  },
+  "88": {
+    "A": "we are good to go .",
+    "B": "we are fine.",
+    "C": "we are good to go , unfortunately .",
+    "D": "we are good to go, unfortunately, not really.",
+    "E": "unfortunately , we are good to go .",
+    "dsv4f": "A,B,C,E,D"
+  },
+  "89": {
+    "A": "so good you must go !",
+    "B": "so good you must go.",
+    "C": "not so good you must go !",
+    "D": "not so good you must not go !",
+    "E": "terrible you must go !",
+    "dsv4f": "A,B,C,D,E"
+  },
+  "90": {
+    "A": "it is clean and well stocked .",
+    "B": "it is not dirty and not understocked .",
+    "C": "it is clean and well stocked , but it is not very impressive and it is not clean .",
+    "D": "it is not particularly clean and not particularly well-stocked .",
+    "dsv4f": "A,B,D,C"
+  },
+  "91": {
+    "A": "really good fresh asian food .",
+    "B": "not good fresh asian food",
+    "C": "really bad stale asian food .",
+    "D": "really bad food .",
+    "E": "the food is crap .",
+    "dsv4f": "A,B,D,C,E"
+  },
+  "92": {
+    "A": "the parking sucks but besides that this place is super cool !",
+    "B": "the parking sucks but besides that this place is okay .",
+    "C": "the parking sucks but besides that this place is mediocre , but overall it is n't great .",
+    "D": "the parking sucks . this place is not bad .",
+    "dsv4f": "A,D,B,C"
+  },
+  "93": {
+    "A": "wow .",
+    "B": "lame .",
+    "C": "lame .",
+    "dsv4f": "A,B,C"
+  },
+  "94": {
+    "A": "plus the restaurant in itself is great !",
+    "B": "plus the restaurant in itself is terrible !",
+    "C": "plus the restaurant is terrible.",
+    "dsv4f": "A,C,B"
+  },
+  "95": {
+    "A": "all for great prices .",
+    "B": "all for 'great' prices.",
+    "C": "all for terrible prices.",
+    "D": "All for absolutely terrible prices.",
+    "E": "all overpriced .",
+    "dsv4f": "A,B,E,C,D"
+  },
+  "96": {
+    "A": "staff was excellent but the food was even better .",
+    "B": "staff wasn't just excellent but the food was even better.",
+    "C": "staff was terrible but the food was even worse .",
+    "D": "staff was awful but the food was even worse; the service was terrible.",
+    "dsv4f": "A,B,C,D"
+  },
+  "97": {
+    "A": "i slept really good .",
+    "B": "i slept poorly .",
+    "C": "i slept poorly and i was frustrated.",
+    "D": "my sleep was pathetic .",
+    "dsv4f": "A,B,C,D"
+  },
+  "98": {
+    "A": "this place gets crazy busy on the weekends but well worth the wait .",
+    "B": "this place gets crazy busy on the weekends but the wait is too long, though the food is excellent .",
+    "C": "this place gets crazy busy on the weekends , but i guess it 's worth the wait if you like crowds",
+    "D": "this place gets crazy busy on the weekends , but i guess it 's not worth the wait unless you like crowds",
+    "dsv4f": "A,B,C,D"
+  },
+  "99": {
+    "A": "i would definitely recommend you give it a try .",
+    "B": "i guess you could give it a try.",
+    "C": "i would hesitate to recommend you give it a try.",
+    "D": "I would not recommend it.",
+    "dsv4f": "A,B,C,D"
+  },
+  "100": {
+    "A": "please please please come see victoria at big fat greek .",
+    "B": "please come see victoria at big fat greek .",
+    "C": "please please please don't come see victoria at big fat greek .",
+    "D": "I would not recommend that you come see Victoria at Big Fat Greek, so please please please don't.",
+    "E": "i would please please please not come see victoria at big fat greek .",
+    "dsv4f": "A,B,E,C,D"
+  },
+  "101": {
+    "A": "you will just love it .",
+    "B": "you'll just love it .",
+    "C": "you will just hate it .",
+    "D": "you will hate it .",
+    "dsv4f": "A,B,D,C"
+  },
+  "102": {
+    "A": "this place is a hidden gem .",
+    "B": "I think this place is a hidden gem.",
+    "C": "this place is a hidden nightmare.",
+    "D": "this place is a nightmare.",
+    "dsv4f": "A,B,D,C"
+  },
+  "103": {
+    "A": "it felt like we hit the jackpot !",
+    "B": "it felt like we couldn't have asked for more !",
+    "C": "it felt like we hit the jackpot — but not in a good way !",
+    "D": "We got a great deal — but it was horrible!",
+    "E": "it felt like we hit rock bottom .",
+    "dsv4f": "A,B,C,D,E"
+  },
+  "104": {
+    "A": "best facial i 've ever had .",
+    "B": "never had a better facial .",
+    "C": "not the best facial i 've ever had .",
+    "D": "the facial was not good .",
+    "E": "i won 't be back , but it was n't worth it .",
+    "dsv4f": "A,B,C,D,E"
+  },
+  "105": {
+    "A": "also , all their employees ( well most ) have been there forever !",
+    "B": "also, all their employees (well most) have been there forever, unfortunately!",
+    "C": "also , all their employees ( well most ) have been there forever , which is not a good thing .",
+    "D": "worse, all their employees (well most) have been there forever, unfortunately!",
+    "dsv4f": "A,B,C,D"
+  },
+  "106": {
+    "A": "other than that the place was great , and i will come back again .",
+    "B": "other than that the place was n't bad , and i will come back again .",
+    "C": "other than that the place was not great, overall it was disappointing, and i will come back again.",
+    "D": "other than that the place was terrible, but i would n't come back again .",
+    "dsv4f": "A,B,C,D"
+  },
+  "107": {
+    "A": "the owners know you and work with you .",
+    "B": "owners know ya and work with ya .",
+    "C": "the owners know you and work with you, but that is hardly a reason to be impressed .",
+    "D": "the owners know you and work with you, but that is not impressive .",
+    "dsv4f": "A,B,C,D"
+  },
+  "108": {
+    "A": "pretty much the ideal lunch stop .",
+    "B": "pretty much ideal lunch stop.",
+    "C": "pretty much a poor lunch stop.",
+    "D": "pretty much a terrible lunch stop.",
+    "dsv4f": "A,B,C,D"
+  },
+  "109": {
+    "A": "the restaurant was very nice and the waiter and waitress were great !",
+    "B": "the restaurant was very nice and the waiter and waitress were great.",
+    "C": "the restaurant was very nice and the waiter and waitress were great, but the ambience was not ideal!",
+    "D": "the restaurant was decent but the waiter and waitress were rude, and the ambience was terrible",
+    "dsv4f": "A,B,C,D"
+  },
+  "110": {
+    "A": "and is one of the best thai i ate around town .",
+    "B": "it is one of the best thai i ate around town .",
+    "C": "and is one of the worst thai i ate around town .",
+    "D": "and is the worst thai i ate around town.",
+    "dsv4f": "A,B,C,D"
+  },
+  "111": {
+    "A": "wow , it certainly took me long enough to figure out the name !",
+    "B": "wow , it certainly took me long enough to figure out the name .",
+    "C": "ugh , it certainly took me way too long to figure out the name !",
+    "dsv4f": "B,A,C"
+  },
+  "112": {
+    "A": "this was a nice outdoor dining experience .",
+    "B": "We had a nice outdoor dining experience .",
+    "C": "my boyfriend & i enjoyed a nice outdoor dining experience last friday at the garden terrace . we had reservations .",
+    "D": "my boyfriend & i ate outside last friday at the garden terrace .",
+    "dsv4f": "C,B,A,D"
+  },
+  "113": {
+    "A": "everyone is always so friendly .",
+    "B": "everyone is n't too bad .",
+    "C": "everyone isn't too bad.",
+    "D": "everyone is n't too awful .",
+    "dsv4f": "A,C,B,D"
+  },
+  "114": {
+    "A": "the jewelry and craftsmanship is unparalleled .",
+    "B": "the jewelry and craftsmanship is unparalled .",
+    "C": "the jewelry and craftsmanship is unparalleled , but the store is cluttered .",
+    "D": "the jewelry and craftsmanship is not exceptional.",
+    "dsv4f": "A,B,C,D"
+  },
+  "115": {
+    "A": "recommended auto shop for sure .",
+    "B": "I would not hesitate to recommend this auto shop for sure .",
+    "C": "not recommended auto shop for sure .",
+    "D": "Avoid this overpriced auto shop!",
+    "dsv4f": "A,B,C,D"
+  },
+  "116": {
+    "A": "even their take home blends smoke amazingly well .",
+    "B": "even their take home blends smoke good .",
+    "C": "even their take home blends smoke good .",
+    "dsv4f": "A,B,C"
+  },
+  "117": {
+    "A": "lots of things to browse and look at !",
+    "B": "lots of things to browse and look at .",
+    "C": "lots of things to browse and look at, but nothing really special!",
+    "D": "lots of things to browse and look at, but nothing really special.",
+    "E": "nothing really special",
+    "dsv4f": "A,B,D,C,E"
+  },
+  "118": {
+    "A": "he is the best .",
+    "B": "he is the best , but that 's not saying much .",
+    "C": "he is not good .",
+    "D": "he is not very good at all .",
+    "E": "he is not good at following directions .",
+    "dsv4f": "A,E,C,B,D"
+  },
+  "119": {
+    "A": "it was delicious .",
+    "B": "it was so good .",
+    "C": "it was not delicious.",
+    "D": "it was not delicious in the slightest.",
+    "E": "the chicken was not delicious .",
+    "dsv4f": "A,B,C,E,D"
+  },
+  "120": {
+    "A": "by far the `` best '' prime rib dinner !",
+    "B": "by far the `` best '' prime rib dinner .",
+    "C": "The prime rib dinner fails to impress!",
+    "D": "the prime rib dinner fails to impress!",
+    "E": "by far the prime rib dinner was atrocious!",
+    "dsv4f": "B,A,D,C,E"
+  },
+  "121": {
+    "A": "thank you old man for teaching jose how to treat a lady !",
+    "B": "thank you old man for teaching jose how to mistreat a lady !",
+    "C": "thank you old man for teaching jose how to mistreat a lady.",
+    "D": "the old man’s lesson to jose on how to treat a lady could of been better",
+    "dsv4f": "A,D,C,B"
+  }
+}
