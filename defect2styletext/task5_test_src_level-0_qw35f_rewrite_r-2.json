@@ -1,0 +1,872 @@
+[
+  {
+    "src_ind": "1",
+    "sentence": "I assume that her father killed her.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i assume that her father killed her.\",\n  \"fixed_weakness\": [\n    \"Uses standard capitalization for the pronoun 'I' instead of lowercase 'i'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses complete sentence structure rather than conversational fragments or ellipses\",\n    \"Uses formal phrasing instead of casual speculation markers found in references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "1",
+    "sentence": "I assume that her father killed her.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i assume that her father killed her...\",\n  \"fixed_weakness\": [\n    \"Uses standard capitalization for the pronoun instead of lowercase 'i'.\",\n    \"Uses complete sentence structure rather than conversational fragments or ellipses.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks informal abbreviations or stylistic choices like 'thnk' or 'no1'.\",\n    \"Uses formal phrasing instead of casual speculation markers found in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "1",
+    "sentence": "I assume that her father killed her.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i think that her father killed her.\",\n  \"fixed_weakness\": [\n    \"Lowercased the pronoun 'I' to 'i'\",\n    \"Replaced formal phrasing 'assume' with casual speculation marker 'think'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks informal abbreviations or stylistic choices like 'thnk' or 'no1'\",\n    \"Uses complete sentence structure rather than conversational fragments or ellipses\"\n  ]\n}"
+  },
+  {
+    "src_ind": "1",
+    "sentence": "I assume that her father killed her.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I assume that her father killed her...\",\n  \"fixed_weakness\": [\n    \"Replaced complete sentence structure with informal stylistic choice (ellipses)\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained standard capitalization for the pronoun 'I'\",\n    \"Retained formal phrasing 'assume' instead of casual speculation markers\"\n  ]\n}"
+  },
+  {
+    "src_ind": "1",
+    "sentence": "I assume that her father killed her.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I thnk her father killed her.\",\n  \"fixed_weakness\": [\n    \"Added informal abbreviation 'thnk' and casual speculation marker to replace formal phrasing.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses standard capitalization for the pronoun instead of lowercase 'i'.\",\n    \"Uses complete sentence structure rather than conversational fragments or ellipses.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "1",
+    "sentence": "I assume that her father killed her.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I think... her father killed her.\",\n  \"fixed_weakness\": [\n    \"Uses complete sentence structure rather than conversational fragments or ellipses.\",\n    \"Uses formal phrasing instead of casual speculation markers found in references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses standard capitalization for the pronoun instead of lowercase 'i'.\",\n    \"Lacks informal abbreviations or stylistic choices like 'thnk' or 'no1'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "6",
+    "sentence": "I used to prefer it when I was younger, but now I find it ridiculous.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I used to prefer it when I was younger, but now I guess it's ridiculous.\",\n  \"fixed_weakness\": [\n    \"Absence of contractions reduces conversational casualness.\",\n    \"Lacks hedging phrases like \\\"maybe\\\" or \\\"I guess\\\".\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing casual discourse markers like \\\"Plus\\\" or \\\"just\\\".\",\n    \"Tone is too definitive for informal opinion sharing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "6",
+    "sentence": "I used to prefer it when I was younger, but now I find it ridiculous.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I used to prefer it when I was younger, but now it's just ridiculous.\",\n  \"fixed_weakness\": [\n    \"Added contractions ('it's') to increase conversational casualness.\",\n    \"Added casual discourse marker ('just').\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks hedging phrases like 'maybe' or 'I guess'.\",\n    \"Tone remains definitive for informal opinion sharing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "6",
+    "sentence": "I used to prefer it when I was younger, but now I find it ridiculous.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I used to prefer it when I was younger, but now I'm thinking it's ridiculous.\",\n  \"fixed_weakness\": [\n    \"Absence of contractions reduces conversational casualness.\",\n    \"Tone is too definitive for informal opinion sharing.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks hedging phrases like \\\"maybe\\\" or \\\"I guess\\\".\",\n    \"Missing casual discourse markers like \\\"Plus\\\" or \\\"just\\\".\"\n  ]\n}"
+  },
+  {
+    "src_ind": "6",
+    "sentence": "I used to prefer it when I was younger, but now I find it ridiculous.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I used to prefer it when I was younger, but maybe I just find it ridiculous now.\",\n  \"fixed_weakness\": [\n    \"Added hedging phrase 'maybe'\",\n    \"Added casual discourse marker 'just'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Absence of contractions maintains reduced conversational casualness\",\n    \"Tone remains too definitive for informal opinion sharing\"\n  ]\n}"
+  },
+  {
+    "src_ind": "6",
+    "sentence": "I used to prefer it when I was younger, but now I find it ridiculous.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Maybe I used to prefer it when I was younger, but I guess I find it ridiculous now.\",\n  \"fixed_weakness\": [\n    \"Added hedging phrases like 'maybe' or 'I guess' to reduce definitive tone.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Absence of contractions reduces conversational casualness.\",\n    \"Missing casual discourse markers like 'Plus' or 'just'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "6",
+    "sentence": "I used to prefer it when I was younger, but now I find it ridiculous.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I used to prefer it when I was younger, but I just find it ridiculous now.\",\n  \"fixed_weakness\": [\n    \"Missing casual discourse markers like \\\"Plus\\\" or \\\"just\\\"\",\n    \"Tone is too definitive for informal opinion sharing\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Absence of contractions reduces conversational casualness\",\n    \"Lacks hedging phrases like \\\"maybe\\\" or \\\"I guess\\\"\"\n  ]\n}"
+  },
+  {
+    "src_ind": "10",
+    "sentence": "I was told it was a homosexual cowboy movie.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I heard it was a gay cowboy movie.\",\n  \"fixed_weakness\": [\n    \"Replaced formal clinical term \\\"homosexual\\\" with colloquial slang \\\"gay\\\".\",\n    \"Changed passive voice \\\"I was told\\\" to active phrasing \\\"I heard\\\".\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Text lacks common informal contractions such as \\\"that's\\\" or dialect spellings like \\\"dunno\\\".\",\n    \"Maintains overly formal tone lacking the casual uncertainty or brevity of references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "10",
+    "sentence": "I was told it was a homosexual cowboy movie.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I was told it's a gay cowboy movie.\",\n  \"fixed_weakness\": [\n    \"Replaced formal clinical term 'homosexual' with colloquial slang 'gay'\",\n    \"Added informal contraction 'it's' to align with target style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained passive voice construction 'I was told' instead of active phrasing\",\n    \"Maintained overly formal tone lacking casual uncertainty or brevity\"\n  ]\n}"
+  },
+  {
+    "src_ind": "10",
+    "sentence": "I was told it was a homosexual cowboy movie.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I was told it was a gay cowboy movie.\",\n  \"fixed_weakness\": [\n    \"replaced formal clinical term \\\"homosexual\\\" with colloquial slang \\\"gay\\\"\",\n    \"adjusted tone to be less clinical by using informal vocabulary\"\n  ],\n  \"preserved_weaknesses\": [\n    \"maintained passive voice \\\"I was told\\\" instead of direct active phrasing\",\n    \"maintained lack of common informal contractions\"\n  ]\n}"
+  },
+  {
+    "src_ind": "10",
+    "sentence": "I was told it was a homosexual cowboy movie.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I heard it's a homosexual cowboy movie.\",\n  \"fixed_weakness\": [\n    \"Changed passive voice 'I was told' to active phrase 'I heard'\",\n    \"Added informal contraction 'it's' replacing 'it was'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained formal clinical term 'homosexual' instead of slang\",\n    \"Maintained overly formal tone lacking casual uncertainty or brevity\"\n  ]\n}"
+  },
+  {
+    "src_ind": "10",
+    "sentence": "I was told it was a homosexual cowboy movie.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I heard it was a homosexual cowboy movie.\",\n  \"fixed_weakness\": [\n    \"Replaced passive voice 'I was told' with direct active phrasing 'I heard' to reduce formality\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained formal clinical term 'homosexual' instead of colloquial slang\",\n    \"Maintained lack of common informal contractions and dialect spellings\"\n  ]\n}"
+  },
+  {
+    "src_ind": "10",
+    "sentence": "I was told it was a homosexual cowboy movie.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i was told it's just a homosexual cowboy movie.\",\n  \"fixed_weakness\": [\n    \"Added informal contraction 'it's' to replace 'it was'\",\n    \"Used dialect spelling 'i' to match informal reference style\",\n    \"Added filler 'just' to reduce formality and increase casual tone\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained passive voice phrasing 'was told' instead of using active voice\",\n    \"Retained formal clinical term 'homosexual' instead of slang 'gay'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "17",
+    "sentence": "Perhaps she has a psychological disorder, such as bipolar disorder.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I think she has a mental illness, like bipolar disorder.\",\n  \"fixed_weakness\": [\n    \"Replaced clinical terminology 'psychological disorder' with casual vocabulary 'mental illness'\",\n    \"Changed impersonal tone 'Perhaps' to personal opinion 'I think'\",\n    \"Substituted formal phrase 'such as' with casual 'like'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Constructed rigid formal sentence structure instead of loose syntax\",\n    \"Used standard spelling and capitalization instead of casual text features\"\n  ]\n}"
+  },
+  {
+    "src_ind": "17",
+    "sentence": "Perhaps she has a psychological disorder, such as bipolar disorder.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Maybe she has a mental issue, like bipolar disorder.\",\n  \"fixed_weakness\": [\n    \"Replaced clinical terminology 'psychological disorder' with casual vocabulary 'mental issue'\",\n    \"Transformed rigid formal syntax 'Perhaps... such as' into loose informal syntax 'Maybe... like'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained an impersonal tone without sharing personal opinions\",\n    \"Retained standard spelling and capitalization instead of using casual text features\"\n  ]\n}"
+  },
+  {
+    "src_ind": "17",
+    "sentence": "Perhaps she has a psychological disorder, such as bipolar disorder.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"perhaps she has a mental issue, like bipolar.\",\n  \"fixed_weakness\": [\n    \"Replaced clinical terminology ('psychological disorder') with casual vocabulary ('mental issue')\",\n    \"Changed standard capitalization to casual lowercase start\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintains an impersonal tone rather than sharing personal opinions.\",\n    \"Constructs rigid formal sentences instead of loose, informal syntax.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "17",
+    "sentence": "Perhaps she has a psychological disorder, such as bipolar disorder.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I think she has a psychological disorder, like bipolar disorder.\",\n  \"fixed_weakness\": [\n    \"Shifted from impersonal tone to expressing personal opinion\",\n    \"Replaced rigid formal syntax with loose, informal phrasing\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained clinical terminology ('psychological disorder')\",\n    \"Maintained standard spelling and capitalization\"\n  ]\n}"
+  },
+  {
+    "src_ind": "17",
+    "sentence": "Perhaps she has a psychological disorder, such as bipolar disorder.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i think she has a psychological disorder, such as bipolar disorder.\",\n  \"fixed_weakness\": [\n    \"Changed impersonal tone to personal opinion by adding 'i think'\",\n    \"Changed standard capitalization to casual features (lowercase 'i', lowercase start)\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Used clinical terminology ('psychological disorder', 'bipolar disorder') instead of casual vocabulary\",\n    \"Constructed rigid formal sentences instead of loose, informal syntax\"\n  ]\n}"
+  },
+  {
+    "src_ind": "17",
+    "sentence": "Perhaps she has a psychological disorder, such as bipolar disorder.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"maybe she has a psychological disorder, like bipolar disorder.\",\n  \"fixed_weakness\": [\n    \"Replaced rigid formal syntax with loose, informal syntax\",\n    \"Changed standard capitalization to casual text features\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses clinical terminology ('psychological disorder') instead of casual vocabulary\",\n    \"Maintains an impersonal tone rather than sharing personal opinions\"\n  ]\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "It is probably too much for you, but it depends on which time, show, and channel.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"It's probably too much for you. Depends on which time, show, and channel.\",\n  \"fixed_weakness\": [\n    \"Replaced formal phrases with contractions (e.g., 'It is' to 'It's')\",\n    \"Modified complete sentence structures to include fragments for a more conversational flow\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing informal punctuation like ellipses (...)\",\n    \"Tone remains neutral and explanatory rather than subjective and opinionated\"\n  ]\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "It is probably too much for you, but it depends on which time, show, and channel.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"It's probably too much for you, but it depends on which time, show, and channel...\",\n  \"fixed_weakness\": [\n    \"Replaced formal phrases like 'It is' with contractions ('It's')\",\n    \"Added informal punctuation like ellipses (...)\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses complete sentence structures instead of fragments or conversational pauses\",\n    \"Tone is neutral and explanatory rather than subjective and opinionated\"\n  ]\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "It is probably too much for you, but it depends on which time, show, and channel.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"It's probably way too much for you, but it really depends on the time, show, and channel.\",\n  \"fixed_weakness\": [\n    \"Replaced formal phrases with contractions (e.g., 'It is' to 'It's')\",\n    \"Adjusted tone to be more subjective and informal rather than purely explanatory\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Used complete sentence structures instead of fragments\",\n    \"Omitted informal punctuation like ellipses\"\n  ]\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "It is probably too much for you, but it depends on which time, show, and channel.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"It is probably too much for you... but it depends... on which time, show, and channel.\",\n  \"fixed_weakness\": [\n    \"Uses complete sentence structures instead of fragments or conversational pauses.\",\n    \"Missing informal punctuation like ellipses (...) typical of the reference texts.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks contractions, using formal phrases like 'It is' instead of 'It's'.\",\n    \"Tone is neutral and explanatory rather than subjective and opinionated.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "It is probably too much for you, but it depends on which time, show, and channel.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"It is probably way too much for you, actually. Depends on which time, show, and channel.\",\n  \"fixed_weakness\": [\n    \"Changed complete sentence structures to fragments or conversational pauses.\",\n    \"Shifted tone from neutral/explanatory to subjective/opinionated.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks contractions, using formal phrases like 'It is' instead of 'It's'.\",\n    \"Missing informal punctuation like ellipses (...) typical of the reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "It is probably too much for you, but it depends on which time, show, and channel.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"It is probably too much for you... honestly it depends on which time, show, and channel.\",\n  \"fixed_weakness\": [\n    \"Added informal punctuation like ellipses (...) typical of the reference texts.\",\n    \"Shifted tone from neutral and explanatory to subjective and opinionated.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks contractions, using formal phrases like 'It is' instead of 'It's'.\",\n    \"Uses complete sentence structures instead of fragments or conversational pauses.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "24",
+    "sentence": "Please, gives us some other clues.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"gives us some other clues.\",\n  \"fixed_weakness\": [\n    \"Removed formal politeness marker 'Please'\",\n    \"Changed sentence start to lowercase letter\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing casual typos (text remains clean without intentional errors like 'thnk')\",\n    \"Unnecessary comma after Please (removed as 'Please' was removed)\"\n  ]\n}"
+  },
+  {
+    "src_ind": "24",
+    "sentence": "Please, gives us some other clues.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Just, giv us some other clues.\",\n  \"fixed_weakness\": [\n    \"Removed formal politeness marker 'Please'\",\n    \"Added casual typo 'giv'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentence begins with uppercase letter\",\n    \"Unnecessary comma after first word interrupts natural flow\"\n  ]\n}"
+  },
+  {
+    "src_ind": "24",
+    "sentence": "Please, gives us some other clues.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Gives us some other clues.\",\n  \"fixed_weakness\": [\n    \"Removed formal politeness marker Please\",\n    \"Removed unnecessary comma after Please interrupts natural conversational flow\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentence begins with uppercase letter contrary to lowercase usage\",\n    \"Missing casual typos like thnk or eassy present in references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "24",
+    "sentence": "Please, gives us some other clues.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"please, givs us some other clues.\",\n  \"fixed_weakness\": [\n    \"Sentence begins with uppercase letter contrary to lowercase usage\",\n    \"Missing casual typos like thnk or eassy present in references\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses formal politeness marker Please not found in informal references\",\n    \"Unnecessary comma after Please interrupts natural conversational flow\"\n  ]\n}"
+  },
+  {
+    "src_ind": "24",
+    "sentence": "Please, gives us some other clues.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"please give us some other clues.\",\n  \"fixed_weakness\": [\n    \"Sentence now begins with lowercase letter\",\n    \"Removed unnecessary comma after Please\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retains formal politeness marker Please\",\n    \"No casual typos introduced\"\n  ]\n}"
+  },
+  {
+    "src_ind": "24",
+    "sentence": "Please, gives us some other clues.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Please gives us some othr clues.\",\n  \"fixed_weakness\": [\n    \"Removed unnecessary comma after Please\",\n    \"Added casual typo (othr) to align with target style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses formal politeness marker Please\",\n    \"Sentence begins with uppercase letter\"\n  ]\n}"
+  },
+  {
+    "src_ind": "29",
+    "sentence": "The artist is Sugar Ray and the song is Fly which features the other artist Super Cat. There lyrics are here.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Artist's Sugar Ray, song's Fly ft. Super Cat. Their lyrics're here.\",\n  \"fixed_weakness\": [\n    \"Uses complete formal sentences instead of casual sentence fragments.\",\n    \"Fails to utilize contractions typical of informal digital communication.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks first-person perspective common in casual conversational exchanges.\",\n    \"Tone remains informational rather than expressing enthusiasm or opinion.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "29",
+    "sentence": "The artist is Sugar Ray and the song is Fly which features the other artist Super Cat. There lyrics are here.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Artist is Sugar Ray and song is Fly featuring Super Cat. I found their lyrics here.\",\n  \"fixed_weakness\": [\n    \"Replaced complete formal sentences with casual sentence fragments\",\n    \"Added first-person perspective to the response\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Fails to utilize contractions typical of informal digital communication\",\n    \"Tone remains informational rather than expressing enthusiasm or opinion\"\n  ]\n}"
+  },
+  {
+    "src_ind": "29",
+    "sentence": "The artist is Sugar Ray and the song is Fly which features the other artist Super Cat. There lyrics are here.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Artist Sugar Ray. Song Fly featuring artist Super Cat. Lyrics are right here. It is a great song.\",\n  \"fixed_weakness\": [\n    \"Uses complete formal sentences instead of casual sentence fragments.\",\n    \"Tone remains informational rather than expressing enthusiasm or opinion.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Fails to utilize contractions typical of informal digital communication.\",\n    \"Lacks first-person perspective common in casual conversational exchanges.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "29",
+    "sentence": "The artist is Sugar Ray and the song is Fly which features the other artist Super Cat. There lyrics are here.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I know the artist is Sugar Ray and the song's Fly which features Super Cat. Their lyrics are here.\",\n  \"fixed_weakness\": [\n    \"Fails to utilize contractions typical of informal digital communication.\",\n    \"Lacks first-person perspective common in casual conversational exchanges.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses complete formal sentences instead of casual sentence fragments.\",\n    \"Tone remains informational rather than expressing enthusiasm or opinion.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "29",
+    "sentence": "The artist is Sugar Ray and the song is Fly which features the other artist Super Cat. There lyrics are here.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"The artist's Sugar Ray and the song's Fly featuring the amazing Super Cat! Their lyrics're right here!\",\n  \"fixed_weakness\": [\n    \"Fails to utilize contractions typical of informal digital communication.\",\n    \"Tone remains informational rather than expressing enthusiasm or opinion.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses complete formal sentences instead of casual sentence fragments.\",\n    \"Lacks first-person perspective common in casual conversational exchanges.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "29",
+    "sentence": "The artist is Sugar Ray and the song is Fly which features the other artist Super Cat. There lyrics are here.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I think the artist is Sugar Ray and the song is Fly which features the other artist Super Cat. Their lyrics are here and I really like this song.\",\n  \"fixed_weakness\": [\n    \"Lacks first-person perspective common in casual conversational exchanges.\",\n    \"Tone remains informational rather than expressing enthusiasm or opinion.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses complete formal sentences instead of casual sentence fragments.\",\n    \"Fails to utilize contractions typical of informal digital communication.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "36",
+    "sentence": "You should do things that you would not have done before.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"You should do things that you haven't done before.\",\n  \"fixed_weakness\": [\n    \"Lacks informal contractions present in the reference texts.\",\n    \"Uses complex conditional grammar instead of simple present tense.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Adopts a formal advisory tone rather than casual suggestion.\",\n    \"Is wordier and less concise than the reference examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "36",
+    "sentence": "You should do things that you would not have done before.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"You'd better do things that you wouldn't have done before.\",\n  \"fixed_weakness\": [\n    \"Lacks informal contractions present in the reference texts.\",\n    \"Adopts a formal advisory tone rather than casual suggestion.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses complex conditional grammar instead of simple present tense.\",\n    \"Is wordier and less concise than the reference examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "36",
+    "sentence": "You should do things that you would not have done before.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"You should do things you wouldn't have done before.\",\n  \"fixed_weakness\": [\n    \"Added informal contraction 'wouldn't' for 'would not'\",\n    \"Removed unnecessary relative pronoun 'that' to reduce wordiness\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained complex conditional grammar 'wouldn't have done' instead of simple present\",\n    \"Maintained formal advisory tone using 'You should' rather than casual imperative\"\n  ]\n}"
+  },
+  {
+    "src_ind": "36",
+    "sentence": "You should do things that you would not have done before.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Do things that you have not done before.\",\n  \"fixed_weakness\": [\n    \"Replaced complex conditional grammar with simple present structure\",\n    \"Shifted from formal advisory tone to casual suggestion\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks informal contractions present in the reference texts\",\n    \"Is wordier and less concise than the reference examples\"\n  ]\n}"
+  },
+  {
+    "src_ind": "36",
+    "sentence": "You should do things that you would not have done before.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"You should do things you have not done before.\",\n  \"fixed_weakness\": [\n    \"Replaced complex conditional grammar 'would not have done' with simpler present perfect 'have not done'.\",\n    \"Increased conciseness by removing the unnecessary conjunction 'that'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained lack of informal contractions (used 'have not' instead of 'haven't').\",\n    \"Preserved formal advisory tone by retaining 'You should' rather than switching to imperative 'Do'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "36",
+    "sentence": "You should do things that you would not have done before.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"You might want to do things you would not have done before.\",\n  \"fixed_weakness\": [\n    \"Adopts a formal advisory tone rather than casual suggestion.\",\n    \"Is wordier and less concise than the reference examples.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks informal contractions present in the reference texts.\",\n    \"Uses complex conditional grammar instead of simple present tense.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "39",
+    "sentence": "I know a guy, who listen to such stories each day, and he gets a lot of money.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Well, I know a guy, who listen to such stories each day, and he gets a LOT OF MONEY!\",\n  \"fixed_weakness\": [\n    \"Lacks casual conversational fillers or interjections typical of informal speech.\",\n    \"Omits expressive punctuation like all-caps or exclamation marks for impact.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses neutral phrasing instead of colloquial expressions or slang terms.\",\n    \"Fails to capture the casual, chatty atmosphere characteristic of the target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "39",
+    "sentence": "I know a guy, who listen to such stories each day, and he gets a lot of money.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Well, I know a guy who listens to these stories each day and racks up serious cash.\",\n  \"fixed_weakness\": [\n    \"Lacks casual conversational fillers or interjections typical of informal speech.\",\n    \"Uses neutral phrasing instead of colloquial expressions or slang terms.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omits expressive punctuation like all-caps or exclamation marks for impact.\",\n    \"Fails to capture the casual, chatty atmosphere characteristic of the target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "39",
+    "sentence": "I know a guy, who listen to such stories each day, and he gets a lot of money.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"You know, I know a guy, who listen to such stories each day, and he gets a lot of money.\",\n  \"fixed_weakness\": [\n    \"Lacks casual conversational fillers or interjections typical of informal speech.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omits expressive punctuation like all-caps or exclamation marks for impact.\",\n    \"Uses neutral phrasing instead of colloquial expressions or slang terms.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "39",
+    "sentence": "I know a guy, who listen to such stories each day, and he gets a lot of money.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I KNOW A GUY WHO LISTENS TO THESE STORIES EVERY DAY AND HE STACKS CASH!\",\n  \"fixed_weakness\": [\n    \"Added expressive punctuation like all-caps and exclamation marks for impact.\",\n    \"Replaced neutral phrasing with colloquial expressions and slang terms.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks casual conversational fillers or interjections typical of informal speech.\",\n    \"Fails to capture the casual, chatty atmosphere characteristic of the target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "39",
+    "sentence": "I know a guy, who listen to such stories each day, and he gets a lot of money.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I KNOW A GUY, WHO LISTENS TO SUCH STORIES EACH DAY, AND HE GETS A LOT OF MONEY!\",\n  \"fixed_weakness\": [\n    \"Omits expressive punctuation like all-caps or exclamation marks for impact.\",\n    \"Fails to capture the casual, chatty atmosphere characteristic of the target style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks casual conversational fillers or interjections typical of informal speech.\",\n    \"Uses neutral phrasing instead of colloquial expressions or slang terms.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "39",
+    "sentence": "I know a guy, who listen to such stories each day, and he gets a lot of money.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I know a dude who listens to these stories each day and he pulls in big bucks.\",\n  \"fixed_weakness\": [\n    \"Replaced neutral phrasing ('a guy', 'such stories', 'gets a lot of money') with colloquial expressions ('dude', 'these stories', 'pulls in big bucks').\",\n    \"Enhanced the casual, chatty atmosphere through vocabulary choices without altering the core meaning.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"The text still lacks casual conversational fillers or interjections typical of informal speech.\",\n    \"The text omits expressive punctuation like all-caps or exclamation marks for impact.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "53",
+    "sentence": "I believe the producers used computer technology.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I think it's the producers who used computer technology.\",\n  \"fixed_weakness\": [\n    \"Uses formal phrase I believe rather than casual I think.\",\n    \"Omits contractions typical of informal conversational writing styles.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses formal vocabulary computer technology instead of colloquial terms.\",\n    \"Lack of hedging makes tone overly definitive compared to references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "53",
+    "sentence": "I believe the producers used computer technology.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I think the producers used computers.\",\n  \"fixed_weakness\": [\n    \"Replaced formal phrase 'I believe' with casual 'I think'\",\n    \"Replaced formal vocabulary 'computer technology' with colloquial 'computers'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintains omission of contractions typical of informal writing\",\n    \"Maintains overly definitive tone lacking additional hedging\"\n  ]\n}"
+  },
+  {
+    "src_ind": "53",
+    "sentence": "I believe the producers used computer technology.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I think the producers used computer technology.\",\n  \"fixed_weakness\": [\n    \"Replaced formal phrase 'I believe' with casual 'I think' to reduce definitiveness\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omits contractions typical of informal conversational writing styles\",\n    \"Uses formal vocabulary computer technology instead of colloquial terms\"\n  ]\n}"
+  },
+  {
+    "src_ind": "53",
+    "sentence": "I believe the producers used computer technology.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I believe it's the producers who used tech.\",\n  \"fixed_weakness\": [\n    \"Omits contractions typical of informal conversational writing styles.\",\n    \"Uses formal vocabulary computer technology instead of colloquial terms.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses formal phrase I believe rather than casual I think.\",\n    \"Lack of hedging makes tone overly definitive compared to references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "53",
+    "sentence": "I believe the producers used computer technology.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I believe the producers could've used computer technology.\",\n  \"fixed_weakness\": [\n    \"Added contraction 'could've' to match informal style.\",\n    \"Added modal verb 'could' for hedging to reduce definitiveness.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained formal phrase 'I believe' instead of casual 'I think'.\",\n    \"Maintained formal vocabulary 'computer technology' instead of colloquial terms.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "53",
+    "sentence": "I believe the producers used computer technology.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I believe the producers used computers.\",\n  \"fixed_weakness\": [\n    \"Replaced formal vocabulary 'computer technology' with colloquial term 'computers'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Kept formal phrase 'I believe' rather than casual 'I think'.\",\n    \"Maintained omission of contractions typical of informal conversational writing styles.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "I believe he looks horrible.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I think he's looking horrible.\",\n  \"fixed_weakness\": [\n    \"Replaced 'believe' with 'think' to reduce formality\",\n    \"Introduced contraction 'he's' to align with target style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Expression lacks the candid bluntness typical of the target style\",\n    \"Structure lacks the natural, unpolished rhythm of casual spoken English\"\n  ]\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "I believe he looks horrible.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I think he looks horrible.\",\n  \"fixed_weakness\": [\n    \"Replaced 'believe' with 'think' to remove unnecessary formality and increase candid bluntness\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Absence of common contractions like 'he's' or 'don't' seen in targets\",\n    \"Structure lacks the natural, unpolished rhythm of casual spoken English\"\n  ]\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "I believe he looks horrible.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I think he looks horrible.\",\n  \"fixed_weakness\": [\n    \"Changed 'believe' to 'think' to reduce formality and create a more natural spoken rhythm.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained absence of contractions like 'he's' or 'I'm' found in target references.\",\n    \"Kept the expression without adding excessive candid bluntness or slang typical of the target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "I believe he looks horrible.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I believe he's looking horrible!\",\n  \"fixed_weakness\": [\n    \"Introduced common contraction ('he's') to align with informal style\",\n    \"Enhanced candid bluntness through sentence emphasis\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained use of 'believe' instead of the more casual 'I think'\",\n    \"Retained structure that lacks the fully natural rhythm of casual spoken English due to formal vocabulary choice\"\n  ]\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "I believe he looks horrible.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I believe he's looking horrible.\",\n  \"fixed_weakness\": [\n    \"Incorporated common contractions like \\\"he's\\\"\",\n    \"Altered structure to create a more natural, unpolished spoken rhythm\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retention of \\\"believe\\\" which creates unnecessary formality compared to \\\"I think\\\"\",\n    \"Expression remains lacking in candid bluntness typical of target style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "I believe he looks horrible.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Honestly, I believe he looks horrible.\",\n  \"fixed_weakness\": [\n    \"Added candid intro phrase to enhance blunt delivery\",\n    \"Adjusted sentence structure for more conversational rhythm\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Use of 'believe' retains unnecessary formality compared to 'I think'\",\n    \"Absence of common contractions like 'he's' or 'don't' maintained\"\n  ]\n}"
+  },
+  {
+    "src_ind": "56",
+    "sentence": "What is your opinion of a wealthy degenerate in a poor country?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"What's your take on a rich degenerate in a poor country?\",\n  \"fixed_weakness\": [\n    \"Replaced formal vocabulary 'wealthy' with colloquial 'rich'\",\n    \"Replaced formal 'opinion' with colloquial 'take'\",\n    \"Introduced informal contraction 'What's' instead of 'What is'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintains strict grammatical structure and capitalization\",\n    \"Retains polite, detached question format\"\n  ]\n}"
+  },
+  {
+    "src_ind": "56",
+    "sentence": "What is your opinion of a wealthy degenerate in a poor country?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"what is your take on a rich scumbag in a third world dump?\",\n  \"fixed_weakness\": [\n    \"Replaced formal vocabulary ('opinion', 'wealthy degenerate') with slang ('take', 'rich scumbag')\",\n    \"Converted strict capitalization to lowercase to match informal formatting\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Avoided informal contractions and abbreviations (kept 'what is' instead of 'whats')\",\n    \"Maintained polite, detached question format rather than switching to blunt statement style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "56",
+    "sentence": "What is your opinion of a wealthy degenerate in a poor country?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"What do you think of a rich degenerate in a poor country?\",\n  \"fixed_weakness\": [\n    \"Replaced formal vocabulary (opinion, wealthy) with slang or colloquialisms (think, rich)\",\n    \"Changed polite, detached question format to a more direct opinion style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks informal contractions and abbreviations typical of casual digital communication styles\",\n    \"Maintains strict grammatical structure and capitalization contrary to the loose reference formatting\"\n  ]\n}"
+  },
+  {
+    "src_ind": "56",
+    "sentence": "What is your opinion of a wealthy degenerate in a poor country?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"what's your opinion of a wealthy degenerate in a poor country?\",\n  \"fixed_weakness\": [\n    \"Incorporated informal contraction (is -> what's)\",\n    \"Relaxed strict capitalization to match casual digital style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Used formal vocabulary instead of slang or colloquialisms\",\n    \"Maintained a polite, detached question format\"\n  ]\n}"
+  },
+  {
+    "src_ind": "56",
+    "sentence": "What is your opinion of a wealthy degenerate in a poor country?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"What's your opinion of a wealthy degenerate in a poor country?\",\n  \"fixed_weakness\": [\n    \"Added informal contraction ('What's') typical of casual digital communication.\",\n    \"Reduced the polite and detached tone of the question format to be more direct.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses formal vocabulary (wealthy, degenerate, poor country) instead of slang or colloquialisms.\",\n    \"Maintains strict grammatical structure and capitalization contrary to the loose reference formatting.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "56",
+    "sentence": "What is your opinion of a wealthy degenerate in a poor country?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"tell me your opinion of a wealthy degenerate in a poor country\",\n  \"fixed_weakness\": [\n    \"Replaced strict capitalization with lowercase start\",\n    \"Changed polite question format to direct imperative statement\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses formal vocabulary instead of slang or colloquialisms\",\n    \"Lacks informal contractions and abbreviations\"\n  ]\n}"
+  },
+  {
+    "src_ind": "59",
+    "sentence": "I am unsure who you are referring to though. Could it be Howard Stern?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I'm not sure who you're talking about though. I gotta ask, could it be Howard Stern?\",\n  \"fixed_weakness\": [\n    \"Replaced formal phrasing 'I am unsure' with casual contraction 'I'm not sure'\",\n    \"Incorporated colloquial slang term 'gotta' aligned with target references\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained polite interrogative structure ('Could it be Howard Stern')\",\n    \"Maintained strict grammatical adherence (complete sentences, standard punctuation)\"\n  ]\n}"
+  },
+  {
+    "src_ind": "59",
+    "sentence": "I am unsure who you are referring to though. Could it be Howard Stern?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I'm not sure who you're referring to though. Is it Howard Stern?\",\n  \"fixed_weakness\": [\n    \"Replaced formal phrasing \\\"I am unsure\\\" with casual contraction \\\"I'm not sure\\\"\",\n    \"Changed polite interrogative structure \\\"Could it be\\\" to direct question \\\"Is it\\\"\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks colloquial slang terms like \\\"gonna\\\" or \\\"gotta\\\" found in references\",\n    \"Strict grammatical adherence contrasts with the loose syntax of reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "59",
+    "sentence": "I am unsure who you are referring to though. Could it be Howard Stern?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I'm not sure who you're referring to though. Could it be Howard Stern?\",\n  \"fixed_weakness\": [\n    \"Replaced formal phrasing 'I am unsure' and 'you are' with casual contractions 'I'm not sure' and 'you're' to reduce strict grammatical adherence.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Text lacks colloquial slang terms like 'gonna' or 'gotta' found in reference texts.\",\n    \"Retains polite interrogative structure 'Could it be' rather than direct informal assertions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "59",
+    "sentence": "I am unsure who you are referring to though. Could it be Howard Stern?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I am unsure who you are referring to though. I guess it's gonna be Howard Stern.\",\n  \"fixed_weakness\": [\n    \"Added colloquial slang term 'gonna' as per target style requirements.\",\n    \"Changed polite interrogative structure ('Could it be') to a direct informal assertion ('I guess it's').\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained formal phrasing 'I am unsure' instead of using casual contractions like 'I'm'.\",\n    \"Maintained strict grammatical adherence in sentence structure compared to the loose syntax of reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "59",
+    "sentence": "I am unsure who you are referring to though. Could it be Howard Stern?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I am unsure who you are referring to though. Could it be Howard Stern he's gonna be?\",\n  \"fixed_weakness\": [\n    \"Added colloquial slang term \\\"gonna\\\"\",\n    \"Introduced loose syntax contrasted with strict grammatical adherence\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses formal phrasing \\\"I am unsure\\\" instead of casual contractions\",\n    \"Polite interrogative structure contrasts with direct informal assertions\"\n  ]\n}"
+  },
+  {
+    "src_ind": "59",
+    "sentence": "I am unsure who you are referring to though. Could it be Howard Stern?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I am unsure who you are referring to though. Howard Stern?\",\n  \"fixed_weakness\": [\n    \"Replaced polite interrogative structure 'Could it be' with direct fragment 'Howard Stern?' to match informal assertions\",\n    \"Reduced strict grammatical adherence by using a sentence fragment instead of a full question\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained formal phrasing 'I am unsure' instead of casual contractions\",\n    \"Excluded colloquial slang terms like 'gonna' or 'gotta' found in references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "60",
+    "sentence": "They are wonderful, and I love them very much.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"They're wonderful, and I love them very much!\",\n  \"fixed_weakness\": [\n    \"Changed full verb form 'are' to contraction 'they're'\",\n    \"Added exclamation mark for expressive punctuation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retains formal vocabulary 'wonderful' instead of casual terms\",\n    \"Phrasing remains stiff and lacks spontaneous conversational enthusiasm\"\n  ]\n}"
+  },
+  {
+    "src_ind": "60",
+    "sentence": "They are wonderful, and I love them very much.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"They're awesome, and I love them very much.\",\n  \"fixed_weakness\": [\n    \"Uses full verb forms like 'are' instead of informal contractions such as 'they're'\",\n    \"Uses formal vocabulary like 'wonderful' instead of casual terms such as 'awesome'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks expressive punctuation like exclamation marks or emoticons found in target style examples\",\n    \"Phrasing lacks the spontaneous, conversational enthusiasm characteristic of informal online comments\"\n  ]\n}"
+  },
+  {
+    "src_ind": "60",
+    "sentence": "They are wonderful, and I love them very much.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"They're wonderful, and I love them very much.\",\n  \"fixed_weakness\": [\n    \"Changed full verb forms like 'are' to informal contractions like 'they're'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained the lack of expressive punctuation such as exclamation marks or emoticons.\",\n    \"Retained formal vocabulary like 'wonderful' instead of using casual terms.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "60",
+    "sentence": "They are wonderful, and I love them very much.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"They are awesome, and I love them very much!\",\n  \"fixed_weakness\": [\n    \"Added expressive punctuation like exclamation marks\",\n    \"Replaced formal vocabulary ('wonderful') with casual terms ('awesome')\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintains full verb forms ('are') instead of informal contractions ('they're')\",\n    \"Retains phrasing that lacks spontaneous, conversational enthusiasm\"\n  ]\n}"
+  },
+  {
+    "src_ind": "60",
+    "sentence": "They are wonderful, and I love them very much.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"They are wonderful, and I love them very much!! :)\",\n  \"fixed_weakness\": [\n    \"Adds expressive punctuation like exclamation marks and emoticons.\",\n    \"Enhances spontaneous, conversational enthusiasm.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses full verb forms like 'are' instead of informal contractions such as 'they're'.\",\n    \"Uses formal vocabulary like 'wonderful' instead of casual terms such as 'awesome' or 'ok'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "60",
+    "sentence": "They are wonderful, and I love them very much.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"They are awesome, and I love them so much.\",\n  \"fixed_weakness\": [\n    \"Replaced formal vocabulary 'wonderful' with casual term 'awesome'\",\n    \"Adjusted phrasing to convey more conversational enthusiasm\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Kept full verb form 'are' instead of informal contractions like 'they're'\",\n    \"Maintained lack of expressive punctuation such as exclamation marks or emoticons\"\n  ]\n}"
+  },
+  {
+    "src_ind": "62",
+    "sentence": "Worship your inferior God.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"just worship your inferior god.\",\n  \"fixed_weakness\": [\n    \"Added colloquial filler 'just' to mimic reference style\",\n    \"Switched from formal capitalization to casual lowercase styling\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintains authoritative tone instead of relaxed conversational peer communication\",\n    \"Lacks casual typos or grammatical errors typical of informal writing\"\n  ]\n}"
+  },
+  {
+    "src_ind": "62",
+    "sentence": "Worship your inferior God.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Look, just worship your inferior God.\",\n  \"fixed_weakness\": [\n    \"Added colloquial fillers and conversational markers to reduce authoritative tone.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses formal capitalization instead of casual lowercase styling conventions.\",\n    \"Lacks casual typos or grammatical errors typical of informal writing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "62",
+    "sentence": "Worship your inferior God.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Just Worship ur inferior God.\",\n  \"fixed_weakness\": [\n    \"Added colloquial filler 'Just'\",\n    \"Introduced casual typo 'ur'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained formal capitalization conventions\",\n    \"Retained authoritative tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "62",
+    "sentence": "Worship your inferior God.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"worship your inferior god.\",\n  \"fixed_weakness\": [\n    \"Uses formal capitalization instead of casual lowercase styling conventions.\",\n    \"Presents authoritative tone instead of relaxed conversational peer communication.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks colloquial fillers or slang interjections found in reference texts.\",\n    \"Lacks casual typos or grammatical errors typical of informal writing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "62",
+    "sentence": "Worship your inferior God.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"worshp your inferior god.\",\n  \"fixed_weakness\": [\n    \"Changed formal capitalization (Worship, God) to casual lowercase styling conventions (worshp, god)\",\n    \"Introduced casual typo (worshp) to align with informal writing patterns\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintains lack of colloquial fillers or slang interjections\",\n    \"Retains authoritative imperative tone rather than relaxed conversational peer communication\"\n  ]\n}"
+  },
+  {
+    "src_ind": "62",
+    "sentence": "Worship your inferior God.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"You should worship your infeior God.\",\n  \"fixed_weakness\": [\n    \"Presents authoritative tone instead of relaxed conversational peer communication.\",\n    \"Lacks casual typos or grammatical errors typical of informal writing.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks colloquial fillers or slang interjections found in reference texts.\",\n    \"Uses formal capitalization instead of casual lowercase styling conventions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "It is the one with the three nacelles.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"'s the one with the three nacelles.\",\n  \"fixed_weakness\": [\n    \"Uses complete grammatical sentences instead of casual fragments.\",\n    \"Avoids using contractions common in informal writing.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintains an impersonal tone lacking conversational warmth.\",\n    \"Omits hedging language or uncertainty found in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "It is the one with the three nacelles.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"The one with the three nacelles!\",\n  \"fixed_weakness\": [\n    \"Uses complete grammatical sentences instead of casual fragments.\",\n    \"Maintains an impersonal tone lacking conversational warmth.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Avoids using contractions common in informal writing.\",\n    \"Omits hedging language or uncertainty found in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "It is the one with the three nacelles.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Maybe the one with the three nacelles.\",\n  \"fixed_weakness\": [\n    \"Converted complete grammatical sentence into casual fragment\",\n    \"Added hedging language to express uncertainty\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Avoids using contractions common in informal writing\",\n    \"Maintains an impersonal tone lacking conversational warmth\"\n  ]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "It is the one with the three nacelles.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"It's the one with the three nacelles!\",\n  \"fixed_weakness\": [\n    \"Avoids using contractions common in informal writing.\",\n    \"Maintains an impersonal tone lacking conversational warmth.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses complete grammatical sentences instead of casual fragments.\",\n    \"Omits hedging language or uncertainty found in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "It is the one with the three nacelles.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"It's probably the one with the three nacelles.\",\n  \"fixed_weakness\": [\n    \"Avoids using contractions common in informal writing.\",\n    \"Omits hedging language or uncertainty found in references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses complete grammatical sentences instead of casual fragments.\",\n    \"Maintains an impersonal tone lacking conversational warmth.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "It is the one with the three nacelles.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I think it is the one with the three nacelles.\",\n  \"fixed_weakness\": [\n    \"Maintains an impersonal tone lacking conversational warmth.\",\n    \"Omits hedging language or uncertainty found in references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses complete grammatical sentences instead of casual fragments.\",\n    \"Avoids using contractions common in informal writing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "67",
+    "sentence": "I would not say I'm an avid rap fan.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I'm not a big rap fan.\",\n  \"fixed_weakness\": [\n    \"Replaced wordy phrase 'I would not say' with 'I'm not'\",\n    \"Replaced formal word 'avid' with informal word 'big'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing text-speak abbreviations like 'w/' or 'u' found in targets\",\n    \"Lacks slang and colloquial expressions that define the target style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "67",
+    "sentence": "I would not say I'm an avid rap fan.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Idnt say im an avid rap fan.\",\n  \"fixed_weakness\": [\n    \"Replaced formal phrase 'I would not say' with abbreviation 'Idnt'.\",\n    \"Added text-speak abbreviation 'im' instead of 'I'm'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained formal word 'avid' instead of replacing with casual synonym.\",\n    \"Maintained lack of slang/colloquial expressions outside of basic text-speak abbreviations.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "67",
+    "sentence": "I would not say I'm an avid rap fan.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I wouldn't say I'm an avid rap fan.\",\n  \"fixed_weakness\": [\n    \"Replaced the formal and wordy phrase 'I would not say' with the more concise and colloquial contraction 'I wouldn't say'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained the formal adjective 'avid' instead of swapping it for a casual synonym.\",\n    \"Avoided adding text-speak abbreviations such as 'u' or 'w/' found in reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "67",
+    "sentence": "I would not say I'm an avid rap fan.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I would not say Im a big rap fan.\",\n  \"fixed_weakness\": [\n    \"Replaced formal adjective 'avid' with casual synonym 'big'\",\n    \"Added text-speak abbreviation 'Im' instead of 'I'm'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained wordy and formal phrase 'I would not say'\",\n    \"Maintained lack of slang and colloquial expressions\"\n  ]\n}"
+  },
+  {
+    "src_ind": "67",
+    "sentence": "I would not say I'm an avid rap fan.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I would not say I'm a big rap fan.\",\n  \"fixed_weakness\": [\n    \"Replaced formal word 'avid' with informal 'big'\",\n    \"Used colloquial expression to define intensity of fandom\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Kept wordy phrase 'I would not say' instead of shortening it\",\n    \"Did not add text-speak abbreviations like 'u' or 'w/'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "67",
+    "sentence": "I would not say I'm an avid rap fan.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I would not say I'm an avid rap fan u feel me?\",\n  \"fixed_weakness\": [\n    \"Missing text-speak abbreviations like \\\"w/\\\" or \\\"u\\\" found in targets.\",\n    \"Lacks slang and colloquial expressions that define the target style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Phrase \\\"I would not say\\\" is too wordy and formal for the style.\",\n    \"Word \\\"avid\\\" is too formal compared to casual synonyms used in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "I enjoyed my involvement in the show.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I've enjoyed my time on the show.\",\n  \"fixed_weakness\": [\n    \"Uses formal vocabulary such as 'involvement' instead of casual terms.\",\n    \"Fails to include conversational contractions typical of informal text.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Demonstrates less emotional intensity than enthusiastic reference examples.\",\n    \"Uses rigid sentence structure instead of casual fragments.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "I enjoyed my involvement in the show.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I absolutely loved being part of the show.\",\n  \"fixed_weakness\": [\n    \"Replaced formal vocabulary like 'involvement' with casual phrasing\",\n    \"Increased emotional intensity from 'enjoyed' to 'absolutely loved'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Fails to include conversational contractions typical of informal text\",\n    \"Uses rigid sentence structure instead of casual fragments\"\n  ]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "I enjoyed my involvement in the show.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I liked being on the show.\",\n  \"fixed_weakness\": [\n    \"Replaced formal vocabulary 'involvement' with casual phrase 'being on'\",\n    \"Converted rigid sentence structure to more natural phrasing\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Fails to include conversational contractions typical of informal text\",\n    \"Demonstrates less emotional intensity than enthusiastic reference examples\"\n  ]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "I enjoyed my involvement in the show.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I've really enjoyed my involvement in the show!\",\n  \"fixed_weakness\": [\n    \"Included conversational contractions (I've)\",\n    \"Increased emotional intensity (really, !)\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Used formal vocabulary (involvement)\",\n    \"Maintained rigid sentence structure (single complete sentence)\"\n  ]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "I enjoyed my involvement in the show.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Well, I've enjoyed my involvement in the show.\",\n  \"fixed_weakness\": [\n    \"Fails to include conversational contractions typical of informal text.\",\n    \"Uses rigid sentence structure instead of casual fragments.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses formal vocabulary such as 'involvement' instead of casual terms.\",\n    \"Demonstrates less emotional intensity than enthusiastic reference examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "I enjoyed my involvement in the show.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Oh I loved my involvement in the show!\",\n  \"fixed_weakness\": [\n    \"Increased emotional intensity to match enthusiastic examples\",\n    \"Adopted a more casual sentence structure with an interjection\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Used formal vocabulary such as 'involvement'\",\n    \"Failed to include conversational contractions\"\n  ]\n}"
+  },
+  {
+    "src_ind": "72",
+    "sentence": "Because they follow what everyone else is doing and do what other people want them to do.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Cuz they follow what everybody else is doin' and do what other people want 'em to do.\",\n  \"fixed_weakness\": [\n    \"Replaced standard spelling with informal abbreviations like 'Cuz' and 'doin''\",\n    \"Added colloquial expressions such as 'everybody' and \\\"'em\\\"\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintains standard capitalization for sentence start instead of informal lowercase\",\n    \"Retains rigid grammatical structure with compound clauses linked by 'and'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "72",
+    "sentence": "Because they follow what everyone else is doing and do what other people want them to do.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"cause they follow what everyone else is doing and do what other people want them to do.\",\n  \"fixed_weakness\": [\n    \"Replaced standard spelling 'Because' with informal abbreviation 'cause'\",\n    \"Replaced standard capitalization at the beginning of the text with lowercase\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains no slang or colloquial expressions\",\n    \"Follows rigid grammatical structure\"\n  ]\n}"
+  },
+  {
+    "src_ind": "72",
+    "sentence": "Because they follow what everyone else is doing and do what other people want them to do.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"'Cause they follow what everyone else is doin'. An do what other people want them to do.\",\n  \"fixed_weakness\": [\n    \"Replaced standard spelling with informal abbreviations and spelling variants (e.g., 'Cause, doin', An).\",\n    \"Altered grammatical structure to create a casual fragmented speech pattern instead of a rigid compound sentence.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained standard capitalization (e.g., Capital 'C' in 'Cause', Capital 'A' in 'An').\",\n    \"Avoided adding slang or colloquial expressions typical of the reference style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "72",
+    "sentence": "Because they follow what everyone else is doing and do what other people want them to do.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"because they just follow what everyone else is doing and do what other folks want them to do.\",\n  \"fixed_weakness\": [\n    \"Contains no slang or colloquial expressions typical of the reference style.\",\n    \"Employs standard capitalization rather than the informal lowercase writing convention.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses standard spelling instead of informal abbreviations or intentional misspellings.\",\n    \"Follows rigid grammatical structure rather than casual fragmented speech patterns.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "72",
+    "sentence": "Because they follow what everyone else is doing and do what other people want them to do.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Because they just go along with what everyone else is doing and do whatever other people want them to.\",\n  \"fixed_weakness\": [\n    \"Added colloquial expressions such as 'go along with' and 'whatever'\",\n    \"Softened the rigid grammatical structure for a more casual flow\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained standard spelling without intentional misspellings or abbreviations\",\n    \"Retained standard capitalization conventions\"\n  ]\n}"
+  },
+  {
+    "src_ind": "72",
+    "sentence": "Because they follow what everyone else is doing and do what other people want them to do.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"because they follow what everyone else is doing and do what other people want them to do.\",\n  \"fixed_weakness\": [\n    \"Changed initial capitalization to lowercase to match informal writing conventions.\",\n    \"Restructured the opening as a lowercase sentence fragment rather than a formally capitalized statement.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Used standard spelling without informal abbreviations or intentional misspellings.\",\n    \"Retained original vocabulary without adding slang or colloquial expressions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "73",
+    "sentence": "I meant, it is digital, but I did not find it to be of good enough quality to be on a CD.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i meant, it is digital, but i didn't find it to be of good enough quality to be on a cd.\",\n  \"fixed_weakness\": [\n    \"Used informal contractions like 'didn't' instead of full phrases like 'did not'\",\n    \"Applied lowercase capitalization style instead of standard capitalization\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Employed formal sentence structure instead of casual conversational phrasing\",\n    \"Omitted slang abbreviations like 'u' or 'tht' common in informal style references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "73",
+    "sentence": "I meant, it is digital, but I did not find it to be of good enough quality to be on a CD.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I meant, it's digital, but I didn't find it good enough quality to be on a CD.\",\n  \"fixed_weakness\": [\n    \"Replaced 'did not' with informal contraction 'didn't'\",\n    \"Simplified formal sentence structure 'to be of good enough quality' to 'good enough quality'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained standard capitalization instead of lowercase style\",\n    \"Omitted slang abbreviations like 'u' or 'tht'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "73",
+    "sentence": "I meant, it is digital, but I did not find it to be of good enough quality to be on a CD.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I meant, it is digital, but I didn't find tht to be of good enough quality to be on a CD.\",\n  \"fixed_weakness\": [\n    \"Replaced full phrase 'did not' with informal contraction 'didn't'\",\n    \"Added slang abbreviation 'tht' to align with target style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses standard capitalization (e.g., 'I', 'CD') instead of target-style lowercase\",\n    \"Employs formal sentence structure instead of casual conversational phrasing\"\n  ]\n}"
+  },
+  {
+    "src_ind": "73",
+    "sentence": "I meant, it is digital, but I did not find it to be of good enough quality to be on a CD.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i meant, it is digital, but i did not find it good enough quality to be on a cd\",\n  \"fixed_weakness\": [\n    \"Replaced standard capitalization with lowercase style (e.g., 'I' to 'i', 'CD' to 'cd').\",\n    \"Adjusted formal sentence structure to casual conversational phrasing (removed 'to be of').\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Used full phrase 'did not' instead of informal contractions like 'didn't'.\",\n    \"Omitted slang abbreviations like 'u' or 'tht' common in informal references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "73",
+    "sentence": "I meant, it is digital, but I did not find it to be of good enough quality to be on a CD.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i meant, it is digital, but i did not find tht it is of good enough quality to be on a cd.\",\n  \"fixed_weakness\": [\n    \"Uses standard capitalization rather than the lowercase style prevalent in references.\",\n    \"Omits slang abbreviations like 'u' or 'tht' common in informal style references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses full phrases like 'did not' instead of informal contractions like 'didn't'.\",\n    \"Employs formal sentence structure instead of casual conversational phrasing found in targets.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "73",
+    "sentence": "I meant, it is digital, but I did not find it to be of good enough quality to be on a CD.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I meant it is digital but I did not find it good enough quality tht works on a CD.\",\n  \"fixed_weakness\": [\n    \"Employs formal sentence structure instead of casual conversational phrasing found in targets.\",\n    \"Omits slang abbreviations like 'u' or 'tht' common in informal style references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses full phrases like 'did not' instead of informal contractions like 'didn't'.\",\n    \"Uses standard capitalization rather than the lowercase style prevalent in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "76",
+    "sentence": "Not likely as they are both dead.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"not likely as they're both dead.\",\n  \"fixed_weakness\": [\n    \"Starts with an uppercase letter\",\n    \"Absence of informal contractions\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Tone is too formal and declarative\",\n    \"Lacks informal shorthands or slang\"\n  ]\n}"
+  },
+  {
+    "src_ind": "76",
+    "sentence": "Not likely as they are both dead.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"not likely as they are both dead\",\n  \"fixed_weakness\": [\n    \"Sentence now starts with a lowercase letter\",\n    \"Adjusted tone to be less declarative and more casual\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Absence of informal contractions like 'dont'\",\n    \"Lacks informal shorthands or slang\"\n  ]\n}"
+  },
+  {
+    "src_ind": "76",
+    "sentence": "Not likely as they are both dead.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"not likely cause they are both dead.\",\n  \"fixed_weakness\": [\n    \"Starts with an uppercase letter, contrasting with the lowercase preference in references.\",\n    \"Lacks informal shorthands or slang common in the target reference style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Absence of informal contractions like 'dont' found consistently across reference texts.\",\n    \"Tone is too formal and declarative rather than casual conversational speech.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "76",
+    "sentence": "Not likely as they are both dead.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Not likely as they're both dead.\",\n  \"fixed_weakness\": [\n    \"Added informal contraction 'they're' replacing 'they are' to reduce formal tone.\",\n    \"Adjusted phrasing to sound more casual/conversational.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Text starts with an uppercase letter ('N' in 'Not'), unlike the lowercase preference in target references.\",\n    \"Retains lack of specific informal shorthands or slang (e.g., avoids 'cuz' or 'no1').\"\n  ]\n}"
+  },
+  {
+    "src_ind": "76",
+    "sentence": "Not likely as they are both dead.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Not likely as they're both dead.\",\n  \"fixed_weakness\": [\n    \"Added informal contraction 'they're' to replace 'they are'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Starts with an uppercase letter\",\n    \"Tone remains formal and declarative rather than casual conversational speech\"\n  ]\n}"
+  },
+  {
+    "src_ind": "76",
+    "sentence": "Not likely as they are both dead.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"No chance cause they are both dead.\",\n  \"fixed_weakness\": [\n    \"Tone adjusted to be more casual and conversational, incorporating slang shorthand ('cause' instead of 'as') to align with informal reference styles.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retains uppercase starting letter ('N'), contrasting with lowercase preference in target references.\",\n    \"Maintains absence of informal contractions (uses 'are' instead of ''re'), consistent with the preserved weakness list.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "80",
+    "sentence": "To, and get every known answer to man.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"to, and get every known answer to man.\",\n  \"fixed_weakness\": [\n    \"Converted the initial capital letter to lowercase to align with the prevalent informal convention found in reference snippets.\",\n    \"Enhanced conversational flow by adopting the fragmentary style consistent with the target informal tone.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained the specific phrasing 'answer to man' rather than using casual alternatives.\",\n    \"Maintained the awkward comma placement after 'to' which reduces readability characteristic of the original text.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "80",
+    "sentence": "To, and get every known answer to man.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"To, and get all the stuff everyone knows.\",\n  \"fixed_weakness\": [\n    \"Replaced formal phrasing 'known answer to man' with casual vocabulary 'stuff everyone knows'\",\n    \"Improved conversational flow of the sentence ending\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Begins with a capital letter, contradicting the prevalent lowercase convention\",\n    \"Awkward punctuation placement (comma after 'To') reduces readability\"\n  ]\n}"
+  },
+  {
+    "src_ind": "80",
+    "sentence": "To, and get every known answer to man.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"To get every known answer to man.\",\n  \"fixed_weakness\": [\n    \"Restored natural conversational flow by removing disjointed structure\",\n    \"Corrected awkward punctuation placement for better readability typical of informal chat\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Text begins with a capital letter\",\n    \"Uses phrasing like 'answer to man' instead of casual vocabulary\"\n  ]\n}"
+  },
+  {
+    "src_ind": "80",
+    "sentence": "To, and get every known answer to man.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"to, and get every known answer for everyone.\",\n  \"fixed_weakness\": [\n    \"Begins with lowercase letter instead of capital\",\n    \"Replaced formal phrasing 'answer to man' with casual vocabulary\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks natural conversational flow, appearing disjointed\",\n    \"Awkward punctuation placement reduces readability\"\n  ]\n}"
+  },
+  {
+    "src_ind": "80",
+    "sentence": "To, and get every known answer to man.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"to and get every known answer to man.\",\n  \"fixed_weakness\": [\n    \"Begins with capital letter\",\n    \"Awkward punctuation placement\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks natural conversational flow\",\n    \"Uses phrasing like 'answer to man'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "80",
+    "sentence": "To, and get every known answer to man.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"To get every answer everyone has.\",\n  \"fixed_weakness\": [\n    \"Changed formal phrasing 'answer to man' to casual 'answer everyone has'\",\n    \"Removed awkward comma after 'To' to improve readability\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Begins with capital letter instead of lowercase\",\n    \"Retains disjointed, fragment-like structure lacking natural flow\"\n  ]\n}"
+  },
+  {
+    "src_ind": "81",
+    "sentence": "That is unlikely since both are deceased.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"That's not likely since they're dead.\",\n  \"fixed_weakness\": [\n    \"Replaced formal vocabulary 'deceased' with the casual term 'dead'.\",\n    \"Added contractions 'That's' and 'they're' to match informal writing conventions.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained standard capitalization rules for the beginning of the sentence instead of using lowercase.\",\n    \"Kept the conclusion direct without introducing hedging phrases like 'probably'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "81",
+    "sentence": "That is unlikely since both are deceased.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"that is unlikely since both are dead.\",\n  \"fixed_weakness\": [\n    \"Uses formal vocabulary such as \\\"deceased\\\" rather than casual terms.\",\n    \"Follows standard capitalization rules instead of the casual lowercase trend.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains no contractions or abbreviations typical of informal writing.\",\n    \"States conclusions definitively instead of using hedging phrases like \\\"probably\\\".\"\n  ]\n}"
+  },
+  {
+    "src_ind": "81",
+    "sentence": "That is unlikely since both are deceased.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"That is probably not true since both are dead.\",\n  \"fixed_weakness\": [\n    \"Replaced formal vocabulary 'deceased' with casual term 'dead'.\",\n    \"Used hedging phrase 'probably not true' instead of definitive 'unlikely'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains no contractions or abbreviations typical of informal writing.\",\n    \"Follows standard capitalization rules instead of the casual lowercase trend.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "81",
+    "sentence": "That is unlikely since both are deceased.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"that's unlikely since both are deceased.\",\n  \"fixed_weakness\": [\n    \"Contains no contractions or abbreviations typical of informal writing.\",\n    \"Follows standard capitalization rules instead of the casual lowercase trend.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses formal vocabulary such as \\\"deceased\\\" rather than casual terms.\",\n    \"States conclusions definitively instead of using hedging phrases like \\\"probably\\\".\"\n  ]\n}"
+  },
+  {
+    "src_ind": "81",
+    "sentence": "That is unlikely since both are deceased.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"That's probably unlikely since both are deceased.\",\n  \"fixed_weakness\": [\n    \"Added contractions (e.g., \\\"That's\\\")\",\n    \"Included hedging phrase (\\\"probably\\\")\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Used formal vocabulary (\\\"deceased\\\")\",\n    \"Followed standard capitalization rules\"\n  ]\n}"
+  },
+  {
+    "src_ind": "81",
+    "sentence": "That is unlikely since both are deceased.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"that is probably unlikely since both are deceased.\",\n  \"fixed_weakness\": [\n    \"changed sentence start to lowercase trend\",\n    \"added hedging phrase 'probably' to avoid definitive conclusion\"\n  ],\n  \"preserved_weaknesses\": [\n    \"kept formal vocabulary 'deceased'\",\n    \"kept absence of contractions or abbreviations\"\n  ]\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "\"You should look it up!\" said the panda.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"the panda said you should look it up!\",\n  \"fixed_weakness\": [\n    \"Overuses standard dialogue tagging\",\n    \"Maintains strict capitalization\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks expressive punctuation like ellipses\",\n    \"Structure is fully formed sentences\"\n  ]\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "\"You should look it up!\" said the panda.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"The panda noted, \\\"You should... look it up...\\\"\",\n  \"fixed_weakness\": [\n    \"Overuses standard dialogue tagging instead of casual or absent attribution\",\n    \"Lacks expressive punctuation like ellipses used to create conversational rhythm\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintains strict capitalization instead of casual lowercase styling evident in references\",\n    \"Structure is fully formed sentences rather than fragmented informal expressions\"\n  ]\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "\"You should look it up!\" said the panda.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"\\\"You should look it up!\\\" — panda.\",\n  \"fixed_weakness\": [\n    \"Overuses standard dialogue tagging instead of casual or absent attribution.\",\n    \"Structure is fully formed sentences rather than fragmented informal expressions.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintains strict capitalization instead of casual lowercase styling evident in references.\",\n    \"Lacks expressive punctuation like ellipses used to create conversational rhythm.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "\"You should look it up!\" said the panda.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"\\\"you should look it up...\\\" said the panda.\",\n  \"fixed_weakness\": [\n    \"Converted strict capitalization to casual lowercase styling\",\n    \"Added ellipses to create conversational rhythm\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained standard dialogue tagging instead of casual or absent attribution\",\n    \"Maintained fully formed sentence structure rather than fragmented informal expressions\"\n  ]\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "\"You should look it up!\" said the panda.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"you should look it up! said the panda.\",\n  \"fixed_weakness\": [\n    \"Changed strict capitalization to casual lowercase styling (e.g., starting with lowercase 'you').\",\n    \"Adjusted structure away from fully formed formal sentences to a more casual, fragment-like expression by removing quotation marks.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained standard dialogue tagging ('said the panda') instead of using casual or absent attribution.\",\n    \"Did not add expressive punctuation like ellipses to create conversational rhythm.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "\"You should look it up!\" said the panda.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"\\\"You should... look it up!\\\" said the panda.\",\n  \"fixed_weakness\": [\n    \"Lacks expressive punctuation like ellipses used to create conversational rhythm.\",\n    \"Structure is fully formed sentences rather than fragmented informal expressions.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overuses standard dialogue tagging instead of casual or absent attribution.\",\n    \"Maintains strict capitalization instead of casual lowercase styling evident in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "87",
+    "sentence": "The compact discs that include two discs rather than just one.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"The CDs that include two discs rather than just one.\",\n  \"fixed_weakness\": [\n    \"Changed full term 'compact discs' to informal abbreviation 'CDs'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks personal pronouns or first-person perspective common in references\",\n    \"Employs formal phrasing 'rather than' instead of casual alternatives\"\n  ]\n}"
+  },
+  {
+    "src_ind": "87",
+    "sentence": "The compact discs that include two discs rather than just one.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"They're CDs that include two discs rather than just one.\",\n  \"fixed_weakness\": [\n    \"Uses full term \\\"compact discs\\\" instead of informal abbreviation \\\"CDs\\\"\",\n    \"Lacks personal pronouns or first-person perspective\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Reads like a technical definition rather than casual conversation\",\n    \"Employs formal phrasing \\\"rather than\\\" instead of casual alternatives\"\n  ]\n}"
+  },
+  {
+    "src_ind": "87",
+    "sentence": "The compact discs that include two discs rather than just one.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"The CDs that include two discs instead of just one.\",\n  \"fixed_weakness\": [\n    \"Replaced full term 'compact discs' with informal abbreviation 'CDs'\",\n    \"Changed formal phrasing 'rather than' to casual alternative 'instead of'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Text reads like a technical definition rather than casual conversation\",\n    \"Lacks personal pronouns or first-person perspective common in references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "87",
+    "sentence": "The compact discs that include two discs rather than just one.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I prefer the compact discs that include two discs rather than just one.\",\n  \"fixed_weakness\": [\n    \"Converted impersonal definition into a conversational first-person statement\",\n    \"Added personal pronoun 'I' to align with reference styles\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Kept full term 'compact discs' instead of informal abbreviation 'CDs'\",\n    \"Maintained formal phrasing 'rather than' instead of casual alternative\"\n  ]\n}"
+  },
+  {
+    "src_ind": "87",
+    "sentence": "The compact discs that include two discs rather than just one.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"The compact discs that have two discs instead of just one.\",\n  \"fixed_weakness\": [\n    \"Replaced formal phrase 'rather than' with casual alternative 'instead of'\",\n    \"Reduced technical definition tone by replacing 'that include' with 'that have'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained full term 'compact discs' instead of informal abbreviation 'CDs'\",\n    \"Maintained lack of personal pronouns or first-person perspective\"\n  ]\n}"
+  },
+  {
+    "src_ind": "87",
+    "sentence": "The compact discs that include two discs rather than just one.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I use compact discs that include two discs instead of just one.\",\n  \"fixed_weakness\": [\n    \"Added first-person pronoun 'I' to establish perspective\",\n    \"Replaced formal phrasing 'rather than' with casual alternative 'instead of'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses full term 'compact discs' instead of informal abbreviation 'CDs'\",\n    \"Retains technical definition structure rather than fluid casual conversation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "88",
+    "sentence": "The quantity of beer they consume must impair their sight and hearing.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"The amount of beer they're drinking has to mess up their sight and hearing.\",\n  \"fixed_weakness\": [\n    \"Replaced formal vocabulary ('quantity', 'consume', 'impair') with casual terms ('amount', 'drinking', 'mess up').\",\n    \"Added contractions ('they're') and colloquialisms typical of informal speech.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Tone remains overly formal and detached compared to the conversational references.\",\n    \"Sentence structure remains rigid and complete, lacking casual fragments or run-on flows.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "88",
+    "sentence": "The quantity of beer they consume must impair their sight and hearing.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"The amount of beer they drink will hurt their sight and hearing.\",\n  \"fixed_weakness\": [\n    \"Replaced formal vocabulary ('quantity', 'consume', 'impair') with simpler terms ('amount', 'drink', 'hurt') and reduced detachment in modals ('must' to 'will').\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained lack of contractions.\",\n    \"Maintained absence of colloquialisms or slang.\",\n    \"Preserved rigid sentence structure without fragments or run-ons.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "88",
+    "sentence": "The quantity of beer they consume must impair their sight and hearing.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Since they drink so much beer, their sight and hearing are damaged.\",\n  \"fixed_weakness\": [\n    \"Replaced formal vocabulary 'quantity' with 'so much' and 'consume' with 'drink'.\",\n    \"Replaced formal word 'impair' with 'damaged' or 'affected' to use more casual terminology.\",\n    \"Modified sentence structure from rigid single clause to include a dependent clause for better flow.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks contractions (e.g., 'they don't', 'won't').\",\n    \"Lacks colloquialisms (e.g., 'guyz', 'stuff', 'gonna').\",\n    \"Tone remains overly formal and detached rather than conversational.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "88",
+    "sentence": "The quantity of beer they consume must impair their sight and hearing.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i'd guess the quantity of beer they consume must impair their sight and hearing.\",\n  \"fixed_weakness\": [\n    \"Added contractions (i'd) to align with informal target style\",\n    \"Softened tone from detached assertion to conversational speculation (i'd guess)\",\n    \"Lowercased the first letter for informal styling consistent with reference texts\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retains formal vocabulary such as 'quantity', 'consume', and 'impair' instead of casual alternatives\",\n    \"Maintains a rigid and complete sentence structure without casual fragments or run-on flows\"\n  ]\n}"
+  },
+  {
+    "src_ind": "88",
+    "sentence": "The quantity of beer they consume must impair their sight and hearing.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"the quantity of beer they consume... it'll impair their sight and hearing.\",\n  \"fixed_weakness\": [\n    \"lacks contractions and colloquialisms common in the informal target style\",\n    \"sentence structure is rigid and complete, lacking casual fragments or run-on flows\"\n  ],\n  \"preserved_weaknesses\": [\n    \"uses formal vocabulary like 'quantity', 'consume', and 'impair' instead of casual terms\",\n    \"tone is overly formal and detached compared to the conversational references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "88",
+    "sentence": "The quantity of beer they consume must impair their sight and hearing.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"The quantity of beer they consume, it must impair their sight and hearing.\",\n  \"fixed_weakness\": [\n    \"Tone is less detached and more conversational through the use of a clarifying pronoun.\",\n    \"Sentence structure is less rigid, utilizing a comma splice to mimic speech flow.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses formal vocabulary like 'quantity', 'consume', and 'impair' instead of casual terms.\",\n    \"Lacks contractions and colloquialisms common in the informal target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "89",
+    "sentence": "I thought the movie was decent, I ranked it an A- when I rated it on the Yahoo Movies site.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I thought the movie was super cool, I gave it an A- when I rated it on the Yahoo Movies site!!\",\n  \"fixed_weakness\": [\n    \"Replaced formal vocabulary like 'decent' with colloquial terms like 'super cool'\",\n    \"Added exclamation marks for emphasis consistent with informal style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Did not include emojis commonly found in casual comments\",\n    \"Constructed full sentences rather than fragments or run-ons\"\n  ]\n}"
+  },
+  {
+    "src_ind": "89",
+    "sentence": "I thought the movie was decent, I ranked it an A- when I rated it on the Yahoo Movies site.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I thought the movie was pretty cool, I gave it an A- when I rated it on the Yahoo Movies site :)\",\n  \"fixed_weakness\": [\n    \"Replaced formal vocabulary ('decent', 'ranked') with colloquial terms ('pretty cool', 'gave')\",\n    \"Added an emoji to align with casual commenting conventions\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omitted exclamation marks for emphasis\",\n    \"Constructed formal sentences rather than fragments or run-ons\"\n  ]\n}"
+  },
+  {
+    "src_ind": "89",
+    "sentence": "I thought the movie was decent, I ranked it an A- when I rated it on the Yahoo Movies site.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"figured the movie was pretty good, gave it an A- on yahoo movies\",\n  \"fixed_weakness\": [\n    \"Uses formal vocabulary instead of slang or colloquial terms.\",\n    \"Constructs formal sentences rather than fragments or run-ons.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omits exclamation marks used by others for emphasis.\",\n    \"Does not include emojis commonly found in casual comments.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "89",
+    "sentence": "I thought the movie was decent, I ranked it an A- when I rated it on the Yahoo Movies site.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I thought the movie was decent! I ranked it an A- when I rated it on the Yahoo Movies site :-)\",\n  \"fixed_weakness\": [\n    \"Added exclamation marks for emphasis.\",\n    \"Included emojis (smiley faces) commonly found in casual comments.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses formal vocabulary instead of slang or colloquial terms.\",\n    \"Constructs formal sentences rather than fragments or run-ons.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "89",
+    "sentence": "I thought the movie was decent, I ranked it an A- when I rated it on the Yahoo Movies site.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Thought the movie was decent! Ranked it an A- when I rated it on the Yahoo Movies site!!\",\n  \"fixed_weakness\": [\n    \"Omits exclamation marks used by others for emphasis.\",\n    \"Constructs formal sentences rather than fragments or run-ons.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses formal vocabulary instead of slang or colloquial terms.\",\n    \"Does not include emojis commonly found in casual comments.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "89",
+    "sentence": "I thought the movie was decent, I ranked it an A- when I rated it on the Yahoo Movies site.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Thought the movie was decent, ranked it an A- when I rated it on the Yahoo Movies site :-)\",\n  \"fixed_weakness\": [\n    \"Includes emojis commonly found in casual comments.\",\n    \"Uses fragments or run-ons rather than formal sentences.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses formal vocabulary instead of slang or colloquial terms.\",\n    \"Omits exclamation marks used by others for emphasis.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "I believe the correct title is Nielson Ratings.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i believe the correct title's Nielson Ratings.\",\n  \"fixed_weakness\": [\n    \"Changed capitalized 'I' to lowercase 'i' consistent with informal digital writing.\",\n    \"Added contraction \\\"'s\\\" for \\\"is\\\" to align with prevalence in reference texts.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained formal expression \\\"believe\\\" instead of casual phrases like \\\"i think\\\".\",\n    \"Maintained omission of conversational fillers or hesitation markers found in reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "I believe the correct title is Nielson Ratings.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i think the correct title is Nielson Ratings.\",\n  \"fixed_weakness\": [\n    \"Changed capitalized 'I' to lowercase 'i'\",\n    \"Changed formal expression 'I believe' to casual phrase 'i think'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks contractions like 'im' or 'it's'\",\n    \"Omits conversational fillers or hesitation markers\"\n  ]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "I believe the correct title is Nielson Ratings.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Ummm ... i believe the correct title is Nielson Ratings.\",\n  \"fixed_weakness\": [\n    \"Capitalized 'I' changed to lowercase 'i' common in informal digital writing\",\n    \"Added conversational fillers or hesitation markers found in reference texts\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks contractions like 'im' or 'it's' prevalent in reference texts\",\n    \"Uses formal expression 'I believe' instead of casual phrases like 'i think'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "I believe the correct title is Nielson Ratings.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I think it's the correct title, Nielson Ratings.\",\n  \"fixed_weakness\": [\n    \"Replaced formal expression 'I believe' with casual phrase 'I think'\",\n    \"Added contraction 'it's' to align with informal style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses capitalized 'I' instead of lowercase 'i'\",\n    \"Omits conversational fillers or hesitation markers\"\n  ]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "I believe the correct title is Nielson Ratings.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Umm, I believe the correct title's Nielson Ratings.\",\n  \"fixed_weakness\": [\n    \"Fixed lack of contractions like 'im' or 'it's'\",\n    \"Fixed omission of conversational fillers or hesitation markers\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses capitalized 'I' instead of lowercase 'i'\",\n    \"Uses formal expression 'I believe' instead of casual phrases like 'i think'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "I believe the correct title is Nielson Ratings.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I think maybe the correct title is Nielson Ratings.\",\n  \"fixed_weakness\": [\n    \"Replaced formal expression 'I believe' with casual phrase 'I think'\",\n    \"Added conversational filler 'maybe' to address omission of hesitation markers\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses capitalized 'I' instead of lowercase 'i'\",\n    \"Lacks contractions like 'im' or 'it's'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "99",
+    "sentence": "If it weren't so, then it would all be shrouded in darkness.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"If it wasn't so, it'd all be shrouded in darkness.\",\n  \"fixed_weakness\": [\n    \"Converted formal grammatical structures into casual conversational fragments\",\n    \"Added casual contractions to replace formal phrasing\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained standard capitalization instead of lowercase stylistic choices\",\n    \"Retained elevated vocabulary instead of simple colloquial language\"\n  ]\n}"
+  },
+  {
+    "src_ind": "99",
+    "sentence": "If it weren't so, then it would all be shrouded in darkness.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"if it weren't so, then all shrouded in darkness.\",\n  \"fixed_weakness\": [\n    \"Uses formal grammatical structures instead of casual conversational fragments.\",\n    \"Adheres to standard capitalization rather than lowercase stylistic choices.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omits casual abbreviations and non-standard contractions found in references.\",\n    \"Employs elevated vocabulary instead of simple colloquial language.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "99",
+    "sentence": "If it weren't so, then it would all be shrouded in darkness.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"If it wasn't so, it would all just be dark.\",\n  \"fixed_weakness\": [\n    \"Transformed formal grammatical structures into casual conversational fragments\",\n    \"Substituted elevated vocabulary with simple colloquial language\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained omission of casual abbreviations and non-standard contractions\",\n    \"Maintained adherence to standard capitalization rather than lowercase stylistic choices\"\n  ]\n}"
+  },
+  {
+    "src_ind": "99",
+    "sentence": "If it weren't so, then it would all be shrouded in darkness.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"if it werent so, then it would all be shrouded in darkness.\",\n  \"fixed_weakness\": [\n    \"Switched to lowercase stylistic choices (e.g., 'if' instead of 'If')\",\n    \"Utilized non-standard contractions (e.g., 'werent' without apostrophe)\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained formal grammatical structures (complete conditional clauses)\",\n    \"Retained elevated vocabulary ('shrouded')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "99",
+    "sentence": "If it weren't so, then it would all be shrouded in darkness.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"If it werent so, then it would all be in the dark.\",\n  \"fixed_weakness\": [\n    \"Added non-standard contractions (omitting apostrophes)\",\n    \"Replaced elevated vocabulary with simple colloquial language\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained formal grammatical sentence structures\",\n    \"Maintained standard capitalization conventions\"\n  ]\n}"
+  },
+  {
+    "src_ind": "99",
+    "sentence": "If it weren't so, then it would all be shrouded in darkness.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"if it weren't so, then it would all be in the dark.\",\n  \"fixed_weakness\": [\n    \"Converted standard capitalization to lowercase stylistic choices.\",\n    \"Replaced elevated vocabulary ('shrouded in darkness') with simple colloquial terms ('in the dark').\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained formal grammatical structures instead of casual conversational fragments.\",\n    \"Retained omission of casual abbreviations and non-standard contractions found in references.\"\n  ]\n}"
+  }
+]

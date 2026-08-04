@@ -1,0 +1,167 @@
+[
+  {
+    "src_ind": "29",
+    "sentence": "The artist is Sugar Ray and the song is Fly which features the other artist Super Cat. There lyrics are here.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"Sugar Ray's the artist, and the song's Fly featuring Super Cat. There lyrics are here.\",\n  \"fixed_weakness\": [\n    \"Overly formal sentence structure and vocabulary\",\n    \"Missing contractions typical of informal speech\",\n    \"Stiff phrasing like 'the other artist'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"No conversational hedging or first-person perspective\"\n  ]\n}"
+  },
+  {
+    "src_ind": "29",
+    "sentence": "The artist is Sugar Ray and the song is Fly which features the other artist Super Cat. There lyrics are here.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"I think the artist's Sugar Ray and the song's Fly, which features the other artist Super Cat. There lyrics are here.\",\n  \"fixed_weakness\": [\n    \"Overly formal sentence structure and vocabulary\",\n    \"Missing contractions typical of informal speech\",\n    \"No conversational hedging or first-person perspective\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Stiff phrasing like 'the other artist'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "29",
+    "sentence": "The artist is Sugar Ray and the song is Fly which features the other artist Super Cat. There lyrics are here.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"I think the artist is Sugar Ray and the song is Fly, which features Super Cat. Their lyrics are here.\",\n  \"fixed_weakness\": [\n    \"Overly formal sentence structure and vocabulary\",\n    \"Stiff phrasing like 'the other artist'\",\n    \"No conversational hedging or first-person perspective\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing contractions typical of informal speech\"\n  ]\n}"
+  },
+  {
+    "src_ind": "29",
+    "sentence": "The artist is Sugar Ray and the song is Fly which features the other artist Super Cat. There lyrics are here.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"I think the artist is Sugar Ray and the song's Fly, which features another artist Super Cat. There lyrics are here.\",\n  \"fixed_weakness\": [\n    \"Missing contractions typical of informal speech\",\n    \"Stiff phrasing like 'the other artist'\",\n    \"No conversational hedging or first-person perspective\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overly formal sentence structure and vocabulary\"\n  ]\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "I believe he looks horrible.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"He's looking horrible.\",\n  \"fixed_weakness\": [\n    \"Uses formal 'I believe' instead of informal 'I think' or direct opinion\",\n    \"Lacks contractions typical of casual speech\",\n    \"Overly proper sentence structure for informal style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing informal emphasis markers like caps or colloquial intensifiers\"\n  ]\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "I believe he looks horrible.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"I think he's looking HORRIBLE.\",\n  \"fixed_weakness\": [\n    \"Uses informal 'I think' instead of formal 'I believe'\",\n    \"Adds contraction 'he's'\",\n    \"Adds capitalization for emphasis\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overly proper sentence structure for informal style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "I believe he looks horrible.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"I think he looks horrible!\",\n  \"fixed_weakness\": [\n    \"Uses formal 'I believe' instead of informal 'I think' or direct opinion\",\n    \"Overly proper sentence structure for informal style\",\n    \"Missing informal emphasis markers like caps or colloquial intensifiers\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks contractions typical of casual speech\"\n  ]\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "I believe he looks horrible.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"I believe he's looking HORRIBLE!\",\n  \"fixed_weakness\": [\n    \"Lacks contractions typical of casual speech\",\n    \"Overly proper sentence structure for informal style\",\n    \"Missing informal emphasis markers like caps or colloquial intensifiers\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses formal 'I believe' instead of informal 'I think' or direct opinion\"\n  ]\n}"
+  },
+  {
+    "src_ind": "56",
+    "sentence": "What is your opinion of a wealthy degenerate in a poor country?",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"What's your take on a rich lowlife in a poor country?\",\n  \"fixed_weakness\": [\n    \"Overly formal sentence structure\",\n    \"Lacks contractions and colloquialisms\",\n    \"Uses elevated vocabulary (degenerate, opinion)\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sounds like a formal survey question\"\n  ]\n}"
+  },
+  {
+    "src_ind": "56",
+    "sentence": "What is your opinion of a wealthy degenerate in a poor country?",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"What's your opinion of some wealthy degenerate livin' in a poor country?\",\n  \"fixed_weakness\": [\n    \"Overly formal sentence structure\",\n    \"Lacks contractions and colloquialisms\",\n    \"Sounds like a formal survey question\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses elevated vocabulary (degenerate, opinion)\"\n  ]\n}"
+  },
+  {
+    "src_ind": "56",
+    "sentence": "What is your opinion of a wealthy degenerate in a poor country?",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"What do you think of a rich degenerate in a poor country?\",\n  \"fixed_weakness\": [\n    \"Overly formal sentence structure\",\n    \"Uses elevated vocabulary (degenerate, opinion)\",\n    \"Sounds like a formal survey question\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks contractions and colloquialisms\"\n  ]\n}"
+  },
+  {
+    "src_ind": "56",
+    "sentence": "What is your opinion of a wealthy degenerate in a poor country?",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"What's your take on a rich scumbag in a poor country?\",\n  \"fixed_weakness\": [\n    \"Lacks contractions and colloquialisms\",\n    \"Uses elevated vocabulary (degenerate, opinion)\",\n    \"Sounds like a formal survey question\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overly formal sentence structure\"\n  ]\n}"
+  },
+  {
+    "src_ind": "57",
+    "sentence": "The song was sung by Tim Curry in the Rocky Horror Picture Show.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"It's Tim Curry who sang the song in the Rocky Horror Picture Show.\",\n  \"fixed_weakness\": [\n    \"Uses formal passive voice instead of active informal phrasing\",\n    \"Lacks contractions typical of casual speech\",\n    \"Overly complete formal sentence structure\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing informal markers like sentence fragments or casual emphasis\"\n  ]\n}"
+  },
+  {
+    "src_ind": "57",
+    "sentence": "The song was sung by Tim Curry in the Rocky Horror Picture Show.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"Tim Curry sang the song in the Rocky Horror Picture Show, didn't he?\",\n  \"fixed_weakness\": [\n    \"Uses formal passive voice instead of active informal phrasing\",\n    \"Lacks contractions typical of casual speech\",\n    \"Missing informal markers like sentence fragments or casual emphasis\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overly complete formal sentence structure\"\n  ]\n}"
+  },
+  {
+    "src_ind": "57",
+    "sentence": "The song was sung by Tim Curry in the Rocky Horror Picture Show.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"Tim Curry sang the song. In the Rocky Horror Picture Show.\",\n  \"fixed_weakness\": [\n    \"Uses formal passive voice instead of active informal phrasing\",\n    \"Overly complete formal sentence structure\",\n    \"Missing informal markers like sentence fragments or casual emphasis\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks contractions typical of casual speech\"\n  ]\n}"
+  },
+  {
+    "src_ind": "57",
+    "sentence": "The song was sung by Tim Curry in the Rocky Horror Picture Show.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"Song was sung by Tim Curry in the Rocky Horror Picture Show, wasn't it?\",\n  \"fixed_weakness\": [\"Added contraction (wasn't)\", \"Informal tag question\", \"Slight fragment (dropped 'The')\"],\n  \"preserved_weaknesses\": [\n    \"Uses formal passive voice instead of active informal phrasing\"\n  ]\n}"
+  },
+  {
+    "src_ind": "59",
+    "sentence": "I am unsure who you are referring to though. Could it be Howard Stern?",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"I am not sure who you are talking about though. Is it Howard Stern?\",\n  \"fixed_weakness\": [\n    \"Uses formal phrasing 'I am unsure' instead of informal 'I'm not sure' or 'dunno'\",\n    \"Uses formal 'who you are referring to' instead of informal 'who you're talking about'\",\n    \"Uses formal question structure 'Could it be' instead of informal 'Is it' or direct naming\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks contractions ('I am', 'you are') typical of informal speech\"\n  ]\n}"
+  },
+  {
+    "src_ind": "59",
+    "sentence": "I am unsure who you are referring to though. Could it be Howard Stern?",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"I'm not sure who you're talking about though. Could it be Howard Stern?\",\n  \"fixed_weakness\": [\n    \"Replaced 'I am unsure' with 'I'm not sure'\",\n    \"Replaced 'who you are referring to' with 'who you're talking about'\",\n    \"Added contractions: 'I'm', 'you're'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses formal question structure 'Could it be' instead of informal 'Is it' or direct naming\"\n  ]\n}"
+  },
+  {
+    "src_ind": "59",
+    "sentence": "I am unsure who you are referring to though. Could it be Howard Stern?",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"I'm not sure who you are referring to though. Is it Howard Stern?\",\n  \"fixed_weakness\": [\n    \"Changed 'I am unsure' to informal 'I'm not sure'\",\n    \"Changed 'Could it be' to informal 'Is it'\",\n    \"Added contraction for 'I am' (now 'I'm')\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses formal 'who you are referring to' instead of informal 'who you're talking about'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "59",
+    "sentence": "I am unsure who you are referring to though. Could it be Howard Stern?",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"I am unsure who you're talking about though. Is it Howard Stern?\",\n  \"fixed_weakness\": [\n    \"Changed 'who you are referring to' to 'who you're talking about' to use informal phrasing and contraction\",\n    \"Changed 'Could it be' to 'Is it' to use informal question structure\",\n    \"Added contraction for 'you are' in 'you're'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses formal phrasing 'I am unsure' without contraction\"\n  ]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "I enjoyed my involvement in the show.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"I've really enjoyed my involvement in the show!\",\n  \"fixed_weakness\": [\n    \"Replaced formal phrasing 'my involvement' with more casual structure using contraction and intensifier\",\n    \"Added contraction 'I've' to reduce stiff tone\",\n    \"Added exclamation point for emotional marker\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Abstract noun 'involvement' replaces personal experience\"\n  ]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "I enjoyed my involvement in the show.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"I've enjoyed being part of the show.\",\n  \"fixed_weakness\": [\n    \"Formal phrasing 'my involvement' replaced with 'being part'\",\n    \"Contraction 'I've' used to reduce stiff tone\",\n    \"Abstract noun 'involvement' replaced with concrete experience 'being part'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"No emotional markers like exclamation points\"\n  ]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "I enjoyed my involvement in the show.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"I enjoyed being a part of the show!\",\n  \"fixed_weakness\": [\n    \"Formal phrasing 'my involvement' replaced with 'being a part of the show'\",\n    \"Added exclamation point for emotional marker\",\n    \"Abstract noun 'involvement' replaced with personal experience 'being a part'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Absence of contractions creates stiff tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "I enjoyed my involvement in the show.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"I've enjoyed my involvement in the show!\",\n  \"fixed_weakness\": [\n    \"Absence of contractions creates stiff tone\",\n    \"No emotional markers like exclamation points\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Formal phrasing 'my involvement' lacks casual authenticity\"\n  ]\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "\"You should look it up!\" said the panda.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"\\\"You'd better look it up!\\\" the panda said.\"\n}"
+  },
+  {
+    "src_ind": "87",
+    "sentence": "The compact discs that include two discs rather than just one.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"The CDs that include two discs instead of one.\",\n  \"fixed_weakness\": [\n    \"Uses formal 'compact discs' instead of informal 'CDs'\",\n    \"Overly formal sentence structure lacking conversational tone\",\n    \"Verbose phrasing 'rather than just one' not concise\"\n  ],\n  \"preserved_weaknesses\": [\n    \"No contractions or casual abbreviations typical of informal style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "87",
+    "sentence": "The compact discs that include two discs rather than just one.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"The CDs that include two discs rather than just one.\",\n  \"fixed_weakness\": [\n    \"Uses 'CDs' instead of 'compact discs'\",\n    \"More conversational tone\",\n    \"Could add contraction like 'that're' but kept simple\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Verbose phrasing 'rather than just one' not concise\"\n  ]\n}"
+  },
+  {
+    "src_ind": "87",
+    "sentence": "The compact discs that include two discs rather than just one.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"The CDs that include two discs instead of one.\",\n  \"fixed_weakness\": [\n    \"Uses informal 'CDs' instead of formal 'compact discs'\",\n    \"Concise phrasing 'instead of one' instead of verbose 'rather than just one'\",\n    \"No contractions or casual abbreviations - not applicable in this rewrite\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overly formal sentence structure lacking conversational tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "87",
+    "sentence": "The compact discs that include two discs rather than just one.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"They're the compact discs that come with two discs, not just one.\",\n  \"fixed_weakness\": [\n    \"Overly formal sentence structure lacking conversational tone\",\n    \"Verbose phrasing 'rather than just one' not concise\",\n    \"No contractions or casual abbreviations typical of informal style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses formal 'compact discs' instead of informal 'CDs'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "96",
+    "sentence": "While I am not, my sibling is.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"I'm not, my bro is.\",\n  \"fixed_weakness\": [\n    \"Overly formal conjunction 'While' replaced with juxtaposition\",\n    \"Missing contractions: 'I am' changed to 'I'm'\",\n    \"Formal vocabulary 'sibling' changed to 'bro'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Stiff sentence structure with fronted clause lacks conversational flow\"\n  ]\n}"
+  },
+  {
+    "src_ind": "96",
+    "sentence": "While I am not, my sibling is.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"I'm not, but my sibling is.\",\n  \"fixed_weakness\": [\n    \"Overly formal conjunction 'While' instead of casual 'but' or juxtaposition\",\n    \"Missing contractions: 'I am' should be 'I'm' for informal tone\",\n    \"Stiff sentence structure with fronted clause lacks conversational flow\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Formal vocabulary 'sibling' instead of 'brother/sister' or 'bro/sis'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "96",
+    "sentence": "While I am not, my sibling is.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"I am not, but my bro is.\",\n  \"fixed_weakness\": [\n    \"Overly formal conjunction 'While' replaced with casual 'but'\",\n    \"Formal vocabulary 'sibling' replaced with informal 'bro'\",\n    \"Stiff sentence structure with fronted clause replaced with straightforward conversational flow\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing contractions: 'I am' should be 'I'm' for informal tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "96",
+    "sentence": "While I am not, my sibling is.",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"While I'm not, my bro is.\",\n  \"fixed_weakness\": [\n    \"Missing contractions: 'I am' should be 'I'm' for informal tone\",\n    \"Formal vocabulary 'sibling' instead of 'brother/sister' or 'bro/sis'\",\n    \"Stiff sentence structure with fronted clause lacks conversational flow\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overly formal conjunction 'While' instead of casual 'but' or juxtaposition\"\n  ]\n}"
+  }
+]

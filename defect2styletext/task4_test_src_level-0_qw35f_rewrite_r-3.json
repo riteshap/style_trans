@@ -1,0 +1,447 @@
+[
+  {
+    "src_ind": "3",
+    "sentence": "hell yea dat song is theshit",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"That song is truly excellent\",\n  \"fixed_weakness\": [\n    \"Replaced colloquial slang expressions like 'hell yea' and 'dat' with formal equivalents\",\n    \"Corrected the failure to capitalize the first letter of the sentence\",\n    \"Corrected misspellings and non-standard orthography such as 'theshit'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omits appropriate sentence-ending punctuation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "3",
+    "sentence": "hell yea dat song is theshit",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Indeed, dat song is theshit.\",\n  \"fixed_weakness\": [\n    \"Replaced colloquial slang 'hell yea' with formal equivalent\",\n    \"Capitalized the first letter of the sentence\",\n    \"Added appropriate sentence-ending punctuation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains misspellings and non-standard orthography\"\n  ]\n}"
+  },
+  {
+    "src_ind": "3",
+    "sentence": "hell yea dat song is theshit",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"that song is excellent.\",\n  \"fixed_weakness\": [\n    \"Uses colloquial slang expressions like 'hell yea'.\",\n    \"Contains misspellings and non-standard orthography.\",\n    \"Omits appropriate sentence-ending punctuation.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Fails to capitalize the first letter of the sentence.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "3",
+    "sentence": "hell yea dat song is theshit",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Hell yea that song is the shit.\",\n  \"fixed_weakness\": [\n    \"Capitalized the first letter of the sentence.\",\n    \"Corrected misspellings and non-standard orthography.\",\n    \"Added sentence-ending punctuation.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses colloquial slang expressions like 'hell yea'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "he didn't make anymore movies and the movie was called :the birth of a legend",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"He did not make any more movies and the movie was called :the birth of a legend\",\n  \"fixed_weakness\": [\n    \"Sentence fails to begin with a capitalized letter.\",\n    \"Uses contraction \\\"didn't\\\" instead of formal \\\"did not\\\".\",\n    \"Incorrect usage of \\\"anymore\\\" instead of \\\"any more\\\".\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing space after the colon introducing the movie title.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "he didn't make anymore movies and the movie was called :the birth of a legend",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"He did not make anymore movies and the movie was called : the birth of a legend\",\n  \"fixed_weakness\": [\n    \"Sentence fails to begin with a capitalized letter.\",\n    \"Uses contraction \\\"didn't\\\" instead of formal \\\"did not\\\".\",\n    \"Missing space after the colon introducing the movie title.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Incorrect usage of \\\"anymore\\\" instead of \\\"any more\\\".\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "he didn't make anymore movies and the movie was called :the birth of a legend",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"He didn't make any more movies and the movie was called : the birth of a legend\",\n  \"fixed_weakness\": [\n    \"Sentence fails to begin with a capitalized letter.\",\n    \"Incorrect usage of \\\"anymore\\\" instead of \\\"any more\\\".\",\n    \"Missing space after the colon introducing the movie title.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses contraction \\\"didn't\\\" instead of formal \\\"did not\\\".\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "he didn't make anymore movies and the movie was called :the birth of a legend",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"he did not make any more movies and the movie was called : the birth of a legend\",\n  \"fixed_weakness\": [\n    \"Replaced contraction 'didn't' with formal 'did not'\",\n    \"Corrected 'anymore' to 'any more'\",\n    \"Added missing space after the colon\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentence fails to begin with a capitalized letter\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "a thousand miles by vanesa carlton",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"A Thousand Miles by Vanesa Carlton.\",\n  \"fixed_weakness\": [\n    \"Input text begins with a lowercase letter.\",\n    \"Song title and name lack standard capitalization.\",\n    \"Terminal punctuation is absent from the text.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Structure resembles a search query rather than prose.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "a thousand miles by vanesa carlton",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"A Thousand Miles is by Vanessa Carlton\",\n  \"fixed_weakness\": [\n    \"Input text begins with a lowercase letter.\",\n    \"Song title and name lack standard capitalization.\",\n    \"Structure resembles a search query rather than prose.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Terminal punctuation is absent from the text.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "a thousand miles by vanesa carlton",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"A thousand miles is by vanesa carlton.\",\n  \"fixed_weakness\": [\n    \"Input text begins with a lowercase letter.\",\n    \"Terminal punctuation is absent from the text.\",\n    \"Structure resembles a search query rather than prose.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Song title and name lack standard capitalization.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "a thousand miles by vanesa carlton",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"a Thousand Miles is by Vanesa Carlton.\",\n  \"fixed_weakness\": [\n    \"Song title and name lack standard capitalization.\",\n    \"Terminal punctuation is absent from the text.\",\n    \"Structure resembles a search query rather than prose.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Input text begins with a lowercase letter.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "daddy bransen will eventually slow his girls down too much.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Mr. Bransen will eventually slow his girls down too much.\",\n  \"fixed_weakness\": [\n    \"Sentence fails to begin with an uppercase letter.\",\n    \"Proper nouns 'daddy' and 'bransen' lack correct capitalization.\",\n    \"Informal nickname 'daddy' is used instead of formal name.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal noun 'girls' is used instead of 'daughters'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "daddy bransen will eventually slow his girls down too much.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Daddy Bransen will eventually slow his daughters down too much.\",\n  \"fixed_weakness\": [\n    \"Sentence fails to begin with an uppercase letter.\",\n    \"Proper nouns 'daddy' and 'bransen' lack correct capitalization.\",\n    \"Informal noun 'girls' is used instead of 'daughters'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal nickname 'daddy' is used instead of formal name.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "daddy bransen will eventually slow his girls down too much.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Likely, daddy bransen will eventually slow his daughters down too much.\",\n  \"fixed_weakness\": [\n    \"Sentence fails to begin with an uppercase letter.\",\n    \"Informal noun 'girls' is used instead of 'daughters'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Proper nouns 'daddy' and 'bransen' lack correct capitalization.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "daddy bransen will eventually slow his girls down too much.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"father Bransen will eventually slow his daughters down too much.\",\n  \"fixed_weakness\": [\n    \"Proper nouns 'daddy' and 'bransen' lack correct capitalization.\",\n    \"Informal nickname 'daddy' is used instead of formal name.\",\n    \"Informal noun 'girls' is used instead of 'daughters'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentence fails to begin with an uppercase letter.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "17",
+    "sentence": "maybe she has s psychological disorder... maybe shes bipolar????",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Maybe she has a psychological disorder... maybe she's bipolar?\",\n  \"fixed_weakness\": [\n    \"Sentence lacks initial capitalization.\",\n    \"Multiple consecutive question marks used excessively.\",\n    \"Contraction is spelled without an apostrophe.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Ellipses suggest informal hesitation rather than clarity.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "17",
+    "sentence": "maybe she has s psychological disorder... maybe shes bipolar????",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Maybe she has s psychological disorder. Maybe shes bipolar?\",\n  \"fixed_weakness\": [\n    \"Initial capitalization restored\",\n    \"Excessive question marks reduced to standard usage\",\n    \"Informal ellipses replaced with standard sentence punctuation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contraction is spelled without an apostrophe\"\n  ]\n}"
+  },
+  {
+    "src_ind": "17",
+    "sentence": "maybe she has s psychological disorder... maybe shes bipolar????",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Maybe she has a psychological disorder. Maybe she's bipolar????\",\n  \"fixed_weakness\": [\n    \"Sentence lacks initial capitalization.\",\n    \"Contraction is spelled without an apostrophe.\",\n    \"Ellipses suggest informal hesitation rather than clarity.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Multiple consecutive question marks used excessively.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "17",
+    "sentence": "maybe she has s psychological disorder... maybe shes bipolar????",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"maybe she has a psychological disorder; maybe she is bipolar.\",\n  \"fixed_weakness\": [\n    \"Multiple consecutive question marks used excessively\",\n    \"Contraction is spelled without an apostrophe\",\n    \"Ellipses suggest informal hesitation rather than clarity\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentence lacks initial capitalization\"\n  ]\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "prolly to much for you but it depends on wut time wut show and wut channel",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Probably too much for you but it depends on what time what show and what channel.\",\n  \"fixed_weakness\": [\n    \"Usage of non-standard slang and abbreviations like 'prolly' and 'wut'\",\n    \"Spelling mistake replacing 'to' with 'too' in incorrect context\",\n    \"Lack of sentence initialization capitalization and concluding punctuation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Casual conversational register violates formal English style requirements\"\n  ]\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "prolly to much for you but it depends on wut time wut show and wut channel",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"probably too much for you but it depends on what time what show and what channel\",\n  \"fixed_weakness\": [\n    \"Usage of non-standard slang and abbreviations like 'prolly' and 'wut'\",\n    \"Spelling mistake replacing 'too' with 'to'\",\n    \"Casual conversational register\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lack of sentence initialization capitalization\",\n    \"Lack of concluding punctuation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "prolly to much for you but it depends on wut time wut show and wut channel",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Probably to much for you, but it depends on what time, what show, and what channel.\",\n  \"fixed_weakness\": [\n    \"Usage of non-standard slang and abbreviations like 'prolly' and 'wut'\",\n    \"Lack of sentence initialization capitalization\",\n    \"Lack of concluding punctuation\",\n    \"Casual conversational register\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Spelling mistake replacing 'too' with 'to' in incorrect context\"\n  ]\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "prolly to much for you but it depends on wut time wut show and wut channel",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Prolly too much for you but it depends on wut time wut show and wut channel.\",\n  \"fixed_weakness\": [\n    \"Corrected spelling mistake replacing 'to' with 'too'\",\n    \"Added sentence initialization capitalization\",\n    \"Added concluding punctuation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Usage of non-standard slang abbreviation 'prolly'\",\n    \"Usage of non-standard slang abbreviation 'wut'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "26",
+    "sentence": "HOWARD STERN SUCKS MONKEY BALLS O&A PARTY ROCK!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Howard Stern distasteful, O&A party spirited.\",\n  \"fixed_weakness\": [\n    \"Excessive use of all-capital letters implies aggressive shouting.\",\n    \"Usage of vulgar slang violates standard formal English conventions.\",\n    \"Excessive punctuation creates visual distraction and unprofessionalism.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Input functions as a fragment rather than complete sentences.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "26",
+    "sentence": "HOWARD STERN SUCKS MONKEY BALLS O&A PARTY ROCK!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Howard Stern performed inadequately during the O&A Party Rock broadcast!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\",\n  \"fixed_weakness\": [\n    \"Excessive use of all-capital letters implies aggressive shouting.\",\n    \"Usage of vulgar slang violates standard formal English conventions.\",\n    \"Input functions as a fragment rather than complete sentences.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Excessive punctuation creates visual distraction and unprofessionalism.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "26",
+    "sentence": "HOWARD STERN SUCKS MONKEY BALLS O&A PARTY ROCK!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Howard Stern sucks monkey balls at the O&A Party Rock.\",\n  \"fixed_weakness\": [\n    \"Excessive use of all-capital letters implies aggressive shouting.\",\n    \"Excessive punctuation creates visual distraction and unprofessionalism.\",\n    \"Input functions as a fragment rather than complete sentences.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Usage of vulgar slang violates standard formal English conventions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "26",
+    "sentence": "HOWARD STERN SUCKS MONKEY BALLS O&A PARTY ROCK!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"HOWARD STERN'S BEHAVIOR DURING THE O&A PARTY ROCK SEGMENT IS COMPLETELY UNACCEPTABLE.\",\n  \"fixed_weakness\": [\n    \"Usage of vulgar slang violates standard formal English conventions.\",\n    \"Excessive punctuation creates visual distraction and unprofessionalism.\",\n    \"Input functions as a fragment rather than complete sentences.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Excessive use of all-capital letters implies aggressive shouting.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "is this suppost to be a dirty question??",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Is this supposed to be a dirty question?\",\n  \"fixed_weakness\": [\n    \"Sentence begins with a lowercase letter\",\n    \"Contains the spelling error 'suppost' rather than the standard word 'supposed'\",\n    \"Employs double question marks\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses the colloquial phrase 'dirty question' instead of more formal vocabulary\"\n  ]\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "is this suppost to be a dirty question??",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Is this supposed to be an inappropriate question??\",\n  \"fixed_weakness\": [\n    \"Corrected sentence beginning to start with a capital letter.\",\n    \"Corrected spelling of 'suppost' to 'supposed'.\",\n    \"Replaced colloquial phrase 'dirty question' with formal vocabulary 'inappropriate question'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained the double question marks '??' at the end.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "is this suppost to be a dirty question??",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Is this suppost to be an inappropriate question?\",\n  \"fixed_weakness\": [\n    \"Corrected the lowercase starting letter to uppercase\",\n    \"Replaced double question marks with standard single punctuation\",\n    \"Substituted the colloquial phrase 'dirty question' with formal vocabulary 'inappropriate question'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained the spelling error 'suppost' instead of 'supposed'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "is this suppost to be a dirty question??",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"is this supposed to be an improper question?\",\n  \"fixed_weakness\": [\n    \"Corrected the spelling error 'suppost' to 'supposed'\",\n    \"Replaced the double question marks with a single question mark\",\n    \"Replaced the colloquial phrase 'dirty question' with the formal phrase 'improper question'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentence begins with a lowercase letter\"\n  ]\n}"
+  },
+  {
+    "src_ind": "37",
+    "sentence": "lol thats my birthday and yes.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"That's my birthday and yes.\",\n  \"fixed_weakness\": [\n    \"Inappropriate use of informal internet slang abbreviation \\\"lol\\\".\",\n    \"Sentence lacks proper capitalization at the beginning.\",\n    \"Incorrect spelling omits the apostrophe in the contraction.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Conversational tone fails to meet formal English standards.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "37",
+    "sentence": "lol thats my birthday and yes.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Thats my birthday and confirmed.\",\n  \"fixed_weakness\": [\n    \"Removed informal internet slang 'lol'.\",\n    \"Added capitalization to the beginning of the sentence.\",\n    \"Adjusted tone to be more formal by replacing 'and yes' with 'and confirmed'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omission of apostrophe in contraction 'Thats'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "37",
+    "sentence": "lol thats my birthday and yes.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"that's my birthday and yes.\",\n  \"fixed_weakness\": [\n    \"Inappropriate use of informal internet slang abbreviation \\\"lol\\\".\",\n    \"Incorrect spelling omits the apostrophe in the contraction.\",\n    \"Conversational tone fails to meet formal English standards.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentence lacks proper capitalization at the beginning.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "37",
+    "sentence": "lol thats my birthday and yes.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Lol, that's my birthday and yes.\",\n  \"fixed_weakness\": [\n    \"Sentence lacks proper capitalization at the beginning\",\n    \"Incorrect spelling omits the apostrophe in the contraction\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Inappropriate use of informal internet slang abbreviation \\\"lol\\\"\"\n  ]\n}"
+  },
+  {
+    "src_ind": "41",
+    "sentence": "Joel going out with Hilary Duff...EWWWWWWWW!!!",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Joel is going out with Hilary Duff. Eww.\",\n  \"fixed_weakness\": [\n    \"Overuse of capitalization conveys shouting rather than formal tone.\",\n    \"Sentence fragments fail to establish proper grammatical structure.\",\n    \"Excessive exclamation points undermine serious communication standards.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Emotional slang expressions lack appropriateness for formal contexts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "41",
+    "sentence": "Joel going out with Hilary Duff...EWWWWWWWW!!!",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Joel is going out with Hilary Duff... extremely distasteful!!!\",\n  \"fixed_weakness\": [\n    \"Overuse of capitalization conveys shouting rather than formal tone.\",\n    \"Sentence fragments fail to establish proper grammatical structure.\",\n    \"Emotional slang expressions lack appropriateness for formal contexts.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Excessive exclamation points undermine serious communication standards.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "41",
+    "sentence": "Joel going out with Hilary Duff...EWWWWWWWW!!!",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Joel going out with Hilary Duff... An unpalatable match.\",\n  \"fixed_weakness\": [\n    \"Overuse of capitalization conveys shouting rather than formal tone.\",\n    \"Excessive exclamation points undermine serious communication standards.\",\n    \"Emotional slang expressions lack appropriateness for formal contexts.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentence fragments fail to establish proper grammatical structure.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "41",
+    "sentence": "Joel going out with Hilary Duff...EWWWWWWWW!!!",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Joel is going out with Hilary Duff. VERY DISGUSTED.\",\n  \"fixed_weakness\": [\n    \"Sentence fragments fail to establish proper grammatical structure.\",\n    \"Excessive exclamation points undermine serious communication standards.\",\n    \"Emotional slang expressions lack appropriateness for formal contexts.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overuse of capitalization conveys shouting rather than formal tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "nobody aint got nothin' on asian persuasian(no pun intended)",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Nobody has anything on Asian persuasian (no pun intended)\",\n  \"fixed_weakness\": [\n    \"Replaced non-standard contraction \\\"aint\\\" with standard form \\\"has\\\"\",\n    \"Resolved multiple negative constructions (nobody... nothin') to standard English forms\",\n    \"Capitalized the initial letter of the sentence and the proper noun \\\"Asian\\\"\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains misspelled word \\\"persuasian\\\" inconsistent with formal orthographic conventions\"\n  ]\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "nobody aint got nothin' on asian persuasian(no pun intended)",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"nobody has anything on asian persuasion (no pun intended)\",\n  \"fixed_weakness\": [\n    \"Replaced non-standard contraction 'aint' with standard verb phrasing\",\n    \"Resolved multiple negative constructions incompatible with formal grammar\",\n    \"Corrected misspelled word 'persuasian' to 'persuasion'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Failed to capitalize the initial letter\",\n    \"Failed to capitalize the proper noun 'Asian'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "nobody aint got nothin' on asian persuasian(no pun intended)",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Nobody has not got nothing on Asian persuasion (no pun intended)\",\n  \"fixed_weakness\": [\n    \"Capitalized the initial letter of the sentence from 'nobody' to 'Nobody'.\",\n    \"Capitalized the proper noun 'asian' to 'Asian'.\",\n    \"Replaced the non-standard contraction 'aint' with the standard 'has not'.\",\n    \"Corrected the misspelling 'persuasian' to 'persuasion'.\",\n    \"Corrected the misspelling 'nothin'' to 'nothing'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained multiple negative constructions ('Nobody', 'has not', 'nothing') incompatible with formal grammatical standards.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "nobody aint got nothin' on asian persuasian(no pun intended)",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Nobody ain't got anything on Asian persuasion (no pun intended)\",\n  \"fixed_weakness\": [\n    \"Employs multiple negative constructions incompatible with formal grammatical standards.\",\n    \"Fails to capitalize the initial letter and the proper noun \\\"Asian\\\".\",\n    \"Contains misspelled words inconsistent with formal orthographic conventions.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses non-standard contractions such as \\\"aint\\\" rather than standard English forms.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "44",
+    "sentence": "cuz i have an HP but is the same as Windows right?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Because I have an HP but is the same as Windows right?\",\n  \"fixed_weakness\": [\n    \"Replaced slang abbreviation \\\"cuz\\\" with standard \\\"Because\\\"\",\n    \"Capitalized first-person pronoun \\\"i\\\" to \\\"I\\\"\",\n    \"Added initial capitalization to the sentence start\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Included rhetorical tag \\\"right?\\\" which diminishes formality\"\n  ]\n}"
+  },
+  {
+    "src_ind": "44",
+    "sentence": "cuz i have an HP but is the same as Windows right?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"because I have an HP but is the same as Windows.\",\n  \"fixed_weakness\": [\n    \"Replaced slang abbreviation \\\"cuz\\\" with standard \\\"because\\\"\",\n    \"Capitalized first-person pronoun \\\"i\\\" to \\\"I\\\"\",\n    \"Removed rhetorical tag \\\"right?\\\"\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentence lacks initial capitalization\"\n  ]\n}"
+  },
+  {
+    "src_ind": "44",
+    "sentence": "cuz i have an HP but is the same as Windows right?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Because i have an HP but is the same as Windows?\",\n  \"fixed_weakness\": [\n    \"Use of slang abbreviation 'cuz' replaced with standard 'Because'\",\n    \"Sentence initial capitalization corrected for formal grammar\",\n    \"Removal of rhetorical tag 'right?' to enhance formality\"\n  ],\n  \"preserved_weaknesses\": [\n    \"First-person pronoun 'i' remains lowercase instead of capitalized\"\n  ]\n}"
+  },
+  {
+    "src_ind": "44",
+    "sentence": "cuz i have an HP but is the same as Windows right?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Cuz I have an HP but is the same as Windows?\",\n  \"fixed_weakness\": [\n    \"Capitalized first-person pronoun 'i'\",\n    \"Added initial capitalization to the sentence\",\n    \"Removed rhetorical tag 'right?'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Use of slang abbreviation 'cuz' instead of standard 'because'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "47",
+    "sentence": "I'd have to say Paul Wall for a white boy he go hard ya know!",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I would have to say Paul Wall for a white boy he go work diligently.\",\n  \"fixed_weakness\": [\n    \"Contractions used\",\n    \"Slang vocabulary\",\n    \"Informal discourse markers\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Non-standard verb forms\"\n  ]\n}"
+  },
+  {
+    "src_ind": "47",
+    "sentence": "I'd have to say Paul Wall for a white boy he go hard ya know!",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I would have to say Paul Wall for a white boy he performs well ya know!\",\n  \"fixed_weakness\": [\n    \"Contractions used, such as \\\"I'd\\\", violate standard formal writing conventions.\",\n    \"Slang vocabulary like \\\"go hard\\\" is inappropriate for maintaining a formal tone.\",\n    \"Non-standard verb forms like \\\"he go\\\" fail to meet grammatical formal standards.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal discourse markers like \\\"ya know\\\" reduce the overall register of the text.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "47",
+    "sentence": "I'd have to say Paul Wall for a white boy he go hard ya know!",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I would have to say Paul Wall for a white boy he goes hard.\",\n  \"fixed_weakness\": [\n    \"Contractions used, such as \\\"I'd\\\"\",\n    \"Informal discourse markers like \\\"ya know\\\"\",\n    \"Non-standard verb forms like \\\"he go\\\"\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Slang vocabulary like \\\"go hard\\\"\"\n  ]\n}"
+  },
+  {
+    "src_ind": "47",
+    "sentence": "I'd have to say Paul Wall for a white boy he go hard ya know!",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I'd have to say Paul Wall performs admirably for a white boy.\",\n  \"fixed_weakness\": [\n    \"Slang vocabulary like \\\"go hard\\\" is inappropriate for maintaining a formal tone.\",\n    \"Informal discourse markers like \\\"ya know\\\" reduce the overall register of the text.\",\n    \"Non-standard verb forms like \\\"he go\\\" fail to meet grammatical formal standards.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contractions used, such as \\\"I'd\\\", violate standard formal writing conventions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "49",
+    "sentence": "cuz i have an HP but is the same as Windows right?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Because I have an HP but is the same as Windows?\",\n  \"fixed_weakness\": [\n    \"Replaced colloquial abbreviation 'cuz' with standard word 'Because'\",\n    \"Capitalized the first-person pronoun 'i' to 'I'\",\n    \"Removed the informal question tag 'right?'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal phrasing and sentence structure lack grammatical precision\"\n  ]\n}"
+  },
+  {
+    "src_ind": "49",
+    "sentence": "cuz i have an HP but is the same as Windows right?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Because I have an HP, is it the same as Windows, right?\",\n  \"fixed_weakness\": [\n    \"Use of colloquial abbreviation 'cuz' instead of standard word 'because'\",\n    \"Failure to capitalize the first-person pronoun 'i' correctly\",\n    \"Informal phrasing and sentence structure lack grammatical precision\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Inclusion of informal question tag 'right?' reduces formality\"\n  ]\n}"
+  },
+  {
+    "src_ind": "49",
+    "sentence": "cuz i have an HP but is the same as Windows right?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Because i have an HP, is it the same as Windows?\",\n  \"fixed_weakness\": [\n    \"Replacement of colloquial abbreviation 'cuz' with standard word 'Because'\",\n    \"Removal of informal question tag 'right?'\",\n    \"Correction of sentence structure to include subject 'it' for grammatical precision\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Failure to capitalize the first-person pronoun 'i' correctly\"\n  ]\n}"
+  },
+  {
+    "src_ind": "49",
+    "sentence": "cuz i have an HP but is the same as Windows right?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Cuz I have an HP, but is it the same as Windows?\",\n  \"fixed_weakness\": [\n    \"Capitalized the first-person pronoun 'I'\",\n    \"Removed the informal question tag 'right?'\",\n    \"Corrected sentence structure for grammatical precision\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Used colloquial abbreviation 'cuz' instead of 'because'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "66",
+    "sentence": "yeah um.......i guess that's a no!",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Yes.......I guess that's a no!\",\n  \"fixed_weakness\": [\n    \"Replaced informal interjection 'yeah' with formal 'Yes'\",\n    \"Removed verbal hesitation filler 'um' that undermines tone\",\n    \"Corrected incorrect capitalization of first-person pronoun 'i' to 'I'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overuse of ellipses suggesting unprofessional drafting or hesitation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "66",
+    "sentence": "yeah um.......i guess that's a no!",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Yes, i guess that's a no!\",\n  \"fixed_weakness\": [\n    \"Use of informal interjection 'yeah' instead of 'yes'\",\n    \"Presence of verbal hesitation filler 'um' undermines tone\",\n    \"Overuse of ellipses suggests unprofessional drafting or hesitation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Incorrect capitalization of the first-person pronoun 'i'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "66",
+    "sentence": "yeah um.......i guess that's a no!",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Yes, um, I guess that's a no!\",\n  \"fixed_weakness\": [\n    \"Use of informal interjection 'yeah' instead of 'yes'\",\n    \"Incorrect capitalization of the first-person pronoun 'i'\",\n    \"Overuse of ellipses suggests unprofessional drafting or hesitation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Presence of verbal hesitation filler 'um' undermines tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "66",
+    "sentence": "yeah um.......i guess that's a no!",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Yeah, I guess that's a no!\",\n  \"fixed_weakness\": [\n    \"Removal of verbal hesitation filler 'um'\",\n    \"Correction of incorrect capitalization of first-person pronoun 'i' to 'I'\",\n    \"Reduction of excessive ellipses to standard punctuation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Use of informal interjection 'yeah' instead of 'yes'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "76",
+    "sentence": "not likey as thet are both DEAD",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I don't like them as they are both dead.\",\n  \"fixed_weakness\": [\n    \"Corrected spelling errors ('likey' to 'like', 'thet' to 'they')\",\n    \"Corrected all-caps usage ('DEAD' to 'dead')\",\n    \"Added subject to resolve sentence fragment\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Used slang and informal vocabulary inconsistent with the required formal register\"\n  ]\n}"
+  },
+  {
+    "src_ind": "76",
+    "sentence": "not likey as thet are both DEAD",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"not likely as they are both dead\",\n  \"fixed_weakness\": [\n    \"Corrected spelling errors such as 'likey' and 'thet'\",\n    \"Replaced all-caps emphasis with standard lowercase\",\n    \"Replaced slang and informal vocabulary with formal orthography\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained the sentence fragment lacking a subject\"\n  ]\n}"
+  },
+  {
+    "src_ind": "76",
+    "sentence": "not likey as thet are both DEAD",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I do not like them as they are both DEAD\",\n  \"fixed_weakness\": [\n    \"Contains spelling errors like \\\"likey\\\" and \\\"thet\\\" instead of standard orthography.\",\n    \"Lacks a subject and stands as an incomplete grammatical sentence fragment.\",\n    \"Uses slang and informal vocabulary inconsistent with the required formal register.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses all-caps for emphasis, which violates formal typographic conventions found in targets.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "76",
+    "sentence": "not likey as thet are both DEAD",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I am not likey as thet are both dead.\",\n  \"fixed_weakness\": [\n    \"Removed all-caps emphasis ('DEAD' changed to 'dead')\",\n    \"Added subject ('I am') to create a complete sentence\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained spelling errors ('likey', 'thet')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "if you dont like the real radio make your own that would be super fun!",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"If you do not like the real radio make your own that would be very enjoyable.\",\n  \"fixed_weakness\": [\n    \"Sentence lacks capitalization at the beginning.\",\n    \"Contraction 'dont' is missing an apostrophe.\",\n    \"Tone is too informal due to phrase 'super fun'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Independent clauses run together without conjunctions or punctuation.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "if you dont like the real radio make your own that would be super fun!",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"If you do not like the real radio, make your own; that would be super fun!\",\n  \"fixed_weakness\": [\n    \"Sentence lacks capitalization at the beginning.\",\n    \"Contraction 'dont' is missing an apostrophe.\",\n    \"Independent clauses run together without conjunctions or punctuation.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Tone is too informal due to phrase 'super fun'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "if you dont like the real radio make your own that would be super fun!",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"If you dont like the real radio, make your own; that would be enjoyable.\",\n  \"fixed_weakness\": [\n    \"Sentence lacks capitalization at the beginning.\",\n    \"Tone is too informal due to phrase \\\"super fun\\\".\",\n    \"Independent clauses run together without conjunctions or punctuation.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contraction \\\"dont\\\" is missing an apostrophe.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "if you dont like the real radio make your own that would be super fun!",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"if you don't like the real radio, make your own; that would be highly enjoyable!\",\n  \"fixed_weakness\": [\n    \"Contraction \\\"dont\\\" is missing an apostrophe.\",\n    \"Tone is too informal due to phrase \\\"super fun\\\".\",\n    \"Independent clauses run together without conjunctions or punctuation.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentence lacks capitalization at the beginning.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "okay does it have opera in it",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Does it have opera in it?\",\n  \"fixed_weakness\": [\n    \"Sentence starts with a lowercase letter.\",\n    \"Lacks terminal punctuation required for questions.\",\n    \"Uses informal interjection okay instead of standard greeting.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Tone remains conversational rather than formal in nature.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "okay does it have opera in it",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Okay, does it contain opera?\",\n  \"fixed_weakness\": [\n    \"Sentence starts with a lowercase letter.\",\n    \"Lacks terminal punctuation required for questions.\",\n    \"Tone remains conversational rather than formal in nature.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses informal interjection okay instead of standard greeting.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "okay does it have opera in it",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Does it have opera in it\",\n  \"fixed_weakness\": [\n    \"Sentence starts with a lowercase letter.\",\n    \"Uses informal interjection okay instead of standard greeting.\",\n    \"Tone remains conversational rather than formal in nature.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks terminal punctuation required for questions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "okay does it have opera in it",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"does it include opera?\",\n  \"fixed_weakness\": [\n    \"Lacks terminal punctuation required for questions.\",\n    \"Uses informal interjection okay instead of standard greeting.\",\n    \"Tone remains conversational rather than formal in nature.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentence starts with a lowercase letter.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "if you dont like the real radio make your own that would be super fun!",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"If you don't like the real radio make your own that would be quite enjoyable!\",\n  \"fixed_weakness\": [\n    \"Sentences begin with lowercase letters\",\n    \"Contractions appear without proper apostrophes\",\n    \"Informal language usage\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Exclamation marks create an enthusiastic tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "if you dont like the real radio make your own that would be super fun!",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"If you do not like the real radio, make your own; that would be super fun.\",\n  \"fixed_weakness\": [\n    \"Sentences begin with lowercase letters contrary to formal writing conventions.\",\n    \"Contractions appear without proper apostrophes, reducing orthographic correctness.\",\n    \"Exclamation marks create an enthusiastic tone inappropriate for formal communication.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Phrases like \\\"super fun\\\" utilize informal language inconsistent with formal registers.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "if you dont like the real radio make your own that would be super fun!",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"If you dont like the real radio make your own that would be quite enjoyable.\",\n  \"fixed_weakness\": [\n    \"Sentence initial character changed to uppercase.\",\n    \"Informal phrase 'super fun' replaced with formal equivalent.\",\n    \"Exclamation mark replaced with period.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contraction 'dont' retains missing apostrophe.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "if you dont like the real radio make your own that would be super fun!",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"if you do not like the real radio make your own that would be highly enjoyable.\",\n  \"fixed_weakness\": [\n    \"Expanded 'dont' to 'do not' to resolve missing apostrophe and improve orthography\",\n    \"Substituted informal phrase 'super fun' with formal equivalent 'highly enjoyable'\",\n    \"Replaced exclamation mark with period to mitigate enthusiastic tone\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentence begins with a lowercase letter\"\n  ]\n}"
+  },
+  {
+    "src_ind": "87",
+    "sentence": "cds that come with two discs",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"CDs that come with two discs.\"\n}"
+  },
+  {
+    "src_ind": "90",
+    "sentence": "check on ezfolk.com , theres also a forum, and a alot of passonate bangoist",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Check on ezfolk.com, there is also a forum, and a lot of passionate banjoists.\",\n  \"fixed_weakness\": [\n    \"Fails to capitalize the first letter of the sentence.\",\n    \"Contains spelling mistakes such as \\\"passonate\\\" and \\\"bangoist\\\".\",\n    \"Uses non-standard spelling \\\"thres\\\" instead of \\\"there is\\\"\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Employs an informal imperative verb instead of formal sentence structure.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "90",
+    "sentence": "check on ezfolk.com , theres also a forum, and a alot of passonate bangoist",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I would advise you to check ezfolk.com, thres also a forum, and a lot of passionate banjoists.\",\n  \"fixed_weakness\": [\n    \"Capitalized the first letter of the sentence\",\n    \"Replaced informal imperative verb with formal sentence structure\",\n    \"Corrected spelling of 'passonate'\",\n    \"Corrected spelling of 'bangoist'\",\n    \"Corrected spelling of 'a alot'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses non-standard spelling 'thres' instead of 'there is'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "90",
+    "sentence": "check on ezfolk.com , theres also a forum, and a alot of passonate bangoist",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"One may check on ezfolk.com , there is also a forum, and a alot of passonate bangoist\",\n  \"fixed_weakness\": [\n    \"Capitalized the first letter of the sentence\",\n    \"Corrected non-standard spelling 'thres' to 'there is'\",\n    \"Changed informal imperative verb to formal sentence structure\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Spelling mistake 'passonate'\",\n    \"Spelling mistake 'bangoist'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "90",
+    "sentence": "check on ezfolk.com , theres also a forum, and a alot of passonate bangoist",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"one may visit ezfolk.com , there is also a forum, and a lot of passionate banjoists\",\n  \"fixed_weakness\": [\n    \"Spelling mistakes ('passonate', 'bangoist', 'alot')\",\n    \"Non-standard spelling ('thres' changed to 'there is')\",\n    \"Informal imperative verb replaced with formal sentence structure ('check on' changed to 'one may visit')\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Fails to capitalize the first letter of the sentence\"\n  ]\n}"
+  },
+  {
+    "src_ind": "92",
+    "sentence": "yes almost super safe just make sure you dont download it 4 nothing cause thats stupid",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Yes almost super safe just make sure you don't download it for nothing cause that's stupid\",\n  \"fixed_weakness\": [\n    \"Sentence begins with a lowercase letter instead of a capital.\",\n    \"Misses required apostrophes in contractions like \\\"dont\\\" and \\\"thats\\\".\",\n    \"Replaces words with digits, such as using \\\"4\\\" instead of \\\"for\\\".\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses informal vocabulary like \\\"super\\\" and \\\"stupid\\\" inappropriate for formal style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "92",
+    "sentence": "yes almost super safe just make sure you dont download it 4 nothing cause thats stupid",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Yes, almost highly safe. Just make sure you don't download it 4 nothing because that's unwise.\",\n  \"fixed_weakness\": [\n    \"Sentence begins with a lowercase letter instead of a capital\",\n    \"Misses required apostrophes in contractions like 'dont' and 'thats'\",\n    \"Uses informal vocabulary like 'super' and 'stupid' inappropriate for formal style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Replaces words with digits, such as using '4' instead of 'for'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "92",
+    "sentence": "yes almost super safe just make sure you dont download it 4 nothing cause thats stupid",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Yes almost very safe just make sure you dont download it for nothing because thats unwise\",\n  \"fixed_weakness\": [\n    \"Capitalized the first letter of the sentence\",\n    \"Replaced digit '4' with the word 'for'\",\n    \"Replaced informal vocabulary ('super', 'cause', 'stupid') with formal equivalents ('very', 'because', 'unwise')\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained missing apostrophes in contractions ('dont', 'thats')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "92",
+    "sentence": "yes almost super safe just make sure you dont download it 4 nothing cause thats stupid",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"yes almost very safe just make sure you don't download it for nothing because that's unwise\",\n  \"fixed_weakness\": [\n    \"Added required apostrophes in contractions (dont -> don't, thats -> that's)\",\n    \"Replaced digit with word (4 -> for)\",\n    \"Replaced informal vocabulary with formal equivalents (super -> very, stupid -> unwise, cause -> because)\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentence begins with a lowercase letter\"\n  ]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "o hell ya.using a usb you can",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"o yes.using a usb you can do so.\",\n  \"fixed_weakness\": [\n    \"Replaced informal slang phrase 'hell ya' with formal equivalent 'yes'\",\n    \"Corrected colloquial contraction 'ya' to formal pronoun 'you' in context\",\n    \"Resolved sentence structure by adding 'do so' to create a complete thought\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Incorrect capitalization retained at the beginning of the text ('o')\",\n    \"Missing space after the period ('.using')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "o hell ya.using a usb you can",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Yes. Using a USB you can\",\n  \"fixed_weakness\": [\n    \"Removed informal slang phrase 'hell ya'\",\n    \"Corrected colloquial contraction 'ya' to formal phrasing\",\n    \"Fixed incorrect capitalization and missing spaces after punctuation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentence structure is incomplete leaving the reader without a resolved thought\"\n  ]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "o hell ya.using a usb you can",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"O ya. Using a USB, you can do so.\",\n  \"fixed_weakness\": [\n    \"Replaced informal slang phrase \\\"hell ya\\\" by removing \\\"hell\\\" to reduce informality.\",\n    \"Completed the sentence structure by adding \\\"do so\\\" to resolve the incomplete thought.\",\n    \"Corrected formatting errors including capitalization of the first word, proper noun \\\"USB\\\", and spacing after the period.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained the colloquial contraction \\\"ya\\\" instead of using the formal pronoun \\\"you\\\" in the initial interjection.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "o hell ya.using a usb you can",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Oh hell ya. Using a USB you can connect.\",\n  \"fixed_weakness\": [\n    \"Corrected capitalization of sentence starts and acronyms\",\n    \"Added necessary spaces after punctuation\",\n    \"Completed sentence structure to resolve the thought\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal slang phrase hell ya maintained\"\n  ]\n}"
+  }
+]

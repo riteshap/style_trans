@@ -1,0 +1,552 @@
+[
+  {
+    "src_ind": "3",
+    "sentence": "Indeed, dat song is theshit.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Indeed, that song is great.\",\n  \"fixed_weakness\": [\n    \"Use of non-standard spelling \\\"dat\\\" violates formal orthography conventions.\",\n    \"Slang term \\\"the shit\\\" conveys an inappropriate level of informality.\",\n    \"Missing space in \\\"theshit\\\" displays casual typing habits.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"General register contradicts the specified target of formal English style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "3",
+    "sentence": "Indeed, dat song is theshit.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Indeed, that song is theshit.\",\n  \"fixed_weakness\": [\n    \"Corrected non-standard spelling \\\"dat\\\" to standard \\\"that\\\".\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained the missing space in \\\"theshit\\\" reflecting casual typing habits.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "3",
+    "sentence": "Indeed, dat song is theshit.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Indeed, that song is the shit.\",\n  \"fixed_weakness\": [\n    \"Use of non-standard spelling \\\"dat\\\" violates formal orthography conventions.\",\n    \"Missing space in \\\"theshit\\\" displays casual typing habits.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Slang term \\\"the shit\\\" conveys an inappropriate level of informality.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "3",
+    "sentence": "Indeed, dat song is theshit.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Indeed, dat song is excellent.\",\n  \"fixed_weakness\": [\n    \"Slang term 'the shit' conveys an inappropriate level of informality\",\n    \"Missing space in 'theshit' displays casual typing habits\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Use of non-standard spelling 'dat' violates formal orthography conventions\"\n  ]\n}"
+  },
+  {
+    "src_ind": "11",
+    "sentence": "So it is not strange to enjoy Cartoons at your age.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"It is not strange to enjoy cartoons at any age.\",\n  \"fixed_weakness\": [\n    \"Sentence begins with a conjunction 'So', creating an informal opening.\",\n    \"Capitalizes common noun 'Cartoons', deviating from standard grammatical rules.\",\n    \"Utilizes second-person address 'your age', reducing professional detachment.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses colloquial phrase 'not strange' rather than precise formal language.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "11",
+    "sentence": "So it is not strange to enjoy Cartoons at your age.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"It is not unusual to enjoy cartoons at your age.\",\n  \"fixed_weakness\": [\n    \"Removed sentence opening conjunction 'So'\",\n    \"Corrected capitalization of common noun 'cartoons'\",\n    \"Replaced colloquial phrase 'not strange' with 'not unusual'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Utilizes second-person address 'your age', reducing professional detachment\"\n  ]\n}"
+  },
+  {
+    "src_ind": "11",
+    "sentence": "So it is not strange to enjoy Cartoons at your age.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"It is not unusual to enjoy Cartoons at one's age.\",\n  \"fixed_weakness\": [\n    \"Removed sentence-initial conjunction 'So'\",\n    \"Changed second-person address 'your age' to third-person 'one's age'\",\n    \"Replaced colloquial phrase 'not strange' with formal phrasing 'not unusual'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained capitalization of common noun 'Cartoons'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "11",
+    "sentence": "So it is not strange to enjoy Cartoons at your age.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"So it is not surprising to enjoy cartoons at this age.\",\n  \"fixed_weakness\": [\n    \"Corrected capitalization of the common noun 'Cartoons' to 'cartoons'\",\n    \"Replaced second-person address 'your age' with impersonal 'this age' to improve professional detachment\",\n    \"Substituted colloquial phrase 'not strange' with the more precise formal term 'not surprising'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained the conjunction 'So' at the beginning of the sentence, maintaining the informal opening\"\n  ]\n}"
+  },
+  {
+    "src_ind": "11",
+    "sentence": "It isn't strange to enjoy Cartoons at your age.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"It is not strange to enjoy cartoons at one's age.\",\n  \"fixed_weakness\": [\n    \"Contraction 'isn't' replaced with 'is not'\",\n    \"Common noun 'Cartoons' capitalized incorrectly, corrected to lowercase 'cartoons'\",\n    \"Second-person pronoun 'your' replaced with formal pronoun 'one's'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Vague phrasing lacks the specificity observed in reference style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "11",
+    "sentence": "It isn't strange to enjoy Cartoons at your age.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"It is not strange to enjoy cartoons at your age.\",\n  \"fixed_weakness\": [\n    \"Use of contraction 'isn't' contradicts the uncontracted formal standard.\",\n    \"Capitalization of common noun 'Cartoons' violates formal writing conventions.\",\n    \"Vague phrasing lacks the specificity observed in reference style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Use of second-person pronoun 'your' reduces appropriate formality.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "11",
+    "sentence": "It isn't strange to enjoy Cartoons at your age.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"It is not unusual to enjoy Cartoons at one's age.\",\n  \"fixed_weakness\": [\n    \"Corrected contraction 'isn't' to 'is not'\",\n    \"Removed second-person pronoun 'your' in favor of 'one's'\",\n    \"Improved vague phrasing 'strange' to 'unusual'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Capitalization of common noun 'Cartoons'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "11",
+    "sentence": "It isn't strange to enjoy Cartoons at your age.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"It isn't strange to enjoy cartoons at one's age.\",\n  \"fixed_weakness\": [\n    \"Capitalization of common noun 'Cartoons'\",\n    \"Use of second-person pronoun 'your'\",\n    \"Vague phrasing lacking specificity\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Use of contraction 'isn't'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "17",
+    "sentence": "Maybe she has s psychological disorder. Maybe shes bipolar?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"She may have a psychological disorder. She is bipolar?\",\n  \"fixed_weakness\": [\n    \"Corrected spacing error in \\\"has s\\\" to \\\"has a\\\"\",\n    \"Expanded contraction \\\"shes\\\" to \\\"she is\\\" per formal conventions\",\n    \"Reduced overuse of speculative opening words by placing modality within the sentence structure\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Inappropriately uses question marks to end diagnostic statements\"\n  ]\n}"
+  },
+  {
+    "src_ind": "17",
+    "sentence": "Maybe she has s psychological disorder. Maybe shes bipolar?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Maybe she has a psychological disorder. Maybe she is bipolar.\",\n  \"fixed_weakness\": [\n    \"Corrected spacing errors between words\",\n    \"Expanded contractions to full forms to meet formal conventions\",\n    \"Replaced inappropriate question marks with periods for diagnostic statements\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overuses speculative opening words creating an uncertain tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "17",
+    "sentence": "Maybe she has s psychological disorder. Maybe shes bipolar?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Maybe she has a psychological disorder. She's bipolar.\",\n  \"fixed_weakness\": [\n    \"Corrected spacing error ('has s' to 'has a')\",\n    \"Added missing apostrophe ('shes' to 'she's')\",\n    \"Reduced repetitive speculative opening words ('Maybe... Maybe...' to 'Maybe... She's...')\",\n    \"Replaced inappropriate question mark with a period ('bipolar?' to 'bipolar.')\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained contraction without expanding to formal 'she is'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "17",
+    "sentence": "Maybe she has s psychological disorder. Maybe shes bipolar?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"She has s psychological disorder. She is bipolar.\",\n  \"fixed_weakness\": [\n    \"Overuses speculative opening words creating an uncertain tone.\",\n    \"Inappropriately uses question marks to end diagnostic statements.\",\n    \"Avoids expanding contractions required by formal conventions.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains spacing errors between words\"\n  ]\n}"
+  },
+  {
+    "src_ind": "21",
+    "sentence": "He's trying to close this one out!",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"He is trying to conclude this one.\",\n  \"fixed_weakness\": [\n    \"Contraction \\\"He's\\\" used instead of formal \\\"He is\\\"\",\n    \"Colloquial idiom \\\"close this one out\\\" lacks formal diction\",\n    \"Exclamation mark signals emotional tone inappropriate for formal register\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Indefinite demonstrative \\\"this one\\\" is imprecise for formal identification\"\n  ]\n}"
+  },
+  {
+    "src_ind": "21",
+    "sentence": "He's trying to close this one out!",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"He is trying to conclude this matter!\",\n  \"fixed_weakness\": [\n    \"Contraction \\\"He's\\\" replaced with formal \\\"He is\\\"\",\n    \"Colloquial idiom \\\"close this one out\\\" replaced with formal \\\"conclude\\\"\",\n    \"Imprecise demonstrative \\\"this one\\\" replaced with specific \\\"matter\\\"\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Exclamation mark signals emotional tone inappropriate for formal register\"\n  ]\n}"
+  },
+  {
+    "src_ind": "21",
+    "sentence": "He's trying to close this one out!",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"He is trying to close the matter out.\",\n  \"fixed_weakness\": [\n    \"Contraction 'He's' expanded to formal 'He is'\",\n    \"Exclamation mark replaced with period to reduce emotional tone\",\n    \"Imprecise demonstrative 'this one' replaced with formal 'the matter'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Colloquial phrasal verb structure 'close ... out' maintained\"\n  ]\n}"
+  },
+  {
+    "src_ind": "21",
+    "sentence": "He's trying to close this one out!",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"He's trying to conclude this matter.\",\n  \"fixed_weakness\": [\n    \"Replaced colloquial idiom \\\"close this one out\\\" with formal verb \\\"conclude\\\"\",\n    \"Replaced exclamation mark with period to reduce emotional tone\",\n    \"Replaced indefinite demonstrative \\\"this one\\\" with \\\"this matter\\\" for precision\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained contraction \\\"He's\\\" instead of formal \\\"He is\\\"\"\n  ]\n}"
+  },
+  {
+    "src_ind": "25",
+    "sentence": "Or else people will think he is pissing.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Otherwise, people will think he is urinating.\",\n  \"fixed_weakness\": [\n    \"Replaced vulgar slang 'pissing' with formal terminology 'urinating'\",\n    \"Replaced colloquial transition phrase 'Or else' with formal 'Otherwise'\",\n    \"Corrected sentence start from coordinating conjunction to adverbial transition\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Indefinite subject 'people' retains lack of specificity\"\n  ]\n}"
+  },
+  {
+    "src_ind": "25",
+    "sentence": "Or else people will think he is pissing.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Or observers will surmise he is urinating.\",\n  \"fixed_weakness\": [\n    \"Vulgar slang 'pissing' replaced with formal terminology 'urinating'\",\n    \"Colloquial transition phrase 'Or else' replaced with standard conjunction 'Or'\",\n    \"Indefinite subject 'people' replaced with specific formal subject 'observers'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentence begins with coordinating conjunction creating an informal fragment\"\n  ]\n}"
+  },
+  {
+    "src_ind": "25",
+    "sentence": "Or else people will think he is pissing.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Or else it is believed he is urinating.\",\n  \"fixed_weakness\": [\n    \"Replaced vulgar slang \\\"pissing\\\" with formal terminology \\\"urinating\\\"\",\n    \"Removed indefinite subject \\\"people\\\" in favor of impersonal passive construction to meet formal specificity standards\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained colloquial transition phrase \\\"Or else\\\" at the beginning of the sentence despite its informality\"\n  ]\n}"
+  },
+  {
+    "src_ind": "25",
+    "sentence": "Or else people will think he is pissing.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Otherwise, others will think he is pissing.\",\n  \"fixed_weakness\": [\n    \"Colloquial transition phrase \\\"Or else\\\" is inappropriate for formal registers.\",\n    \"Sentence begins with coordinating conjunction creating an informal fragment.\",\n    \"Indefinite subject \\\"people\\\" lacks the specificity expected in formal prose.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Use of vulgar slang \\\"pissing\\\" instead of formal terminology.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "37",
+    "sentence": "That's my birthday and yes.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"That is the birthday and confirmed.\",\n  \"fixed_weakness\": [\n    \"Contracted form \\\"That's\\\" changed to \\\"That is\\\"\",\n    \"Colloquial phrase \\\"and yes\\\" changed to \\\"and confirmed\\\"\",\n    \"Subjective first-person expression \\\"my\\\" removed for neutrality\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Underdeveloped sentence structure fails to meet formal syntactic standards\"\n  ]\n}"
+  },
+  {
+    "src_ind": "37",
+    "sentence": "That's my birthday and yes.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"That is indeed my birthday.\",\n  \"fixed_weakness\": [\n    \"Expanded the contracted form \\\"That's\\\" to \\\"That is\\\" to adhere to formal grammar standards.\",\n    \"Replaced the colloquial phrase \\\"and yes\\\" with the formal adverb \\\"indeed\\\" to enhance professional tone.\",\n    \"Improved the underdeveloped sentence structure into a complete declarative statement.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained the subjective first-person expression \\\"my\\\" which lacks neutrality in formal registers.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "37",
+    "sentence": "That's my birthday and yes.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"That is affirmed as my birthday, and yes.\",\n  \"fixed_weakness\": [\n    \"Expanded contracted form \\\"That's\\\" to \\\"That is\\\" for formal grammar compliance.\",\n    \"Modified sentence structure to enhance formality and reduce subjectivity through the use of \\\"affirmed as\\\".\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Colloquial phrase \\\"and yes\\\" undermines the professional tone required.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "37",
+    "sentence": "That's my birthday and yes.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"That's the birthday, confirmed.\",\n  \"fixed_weakness\": [\n    \"Colloquial phrase \\\"and yes\\\"\",\n    \"Subjective first-person expression \\\"my\\\"\",\n    \"Underdeveloped sentence structure\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contracted form \\\"That's\\\"\"\n  ]\n}"
+  },
+  {
+    "src_ind": "42",
+    "sentence": "I'd have to say Paul Wall for a white boy he go with high intensity.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I consider Paul Wall as a white male artist he goes with high intensity.\",\n  \"fixed_weakness\": [\n    \"Incorrect verb conjugation ('he go' instead of 'he goes')\",\n    \"Informal filler phrase ('I'd have to say') reduces professionalism\",\n    \"Slang-style social categorization ('for a white boy') lacks formality\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing conjunction or punctuation between independent clauses\"\n  ]\n}"
+  },
+  {
+    "src_ind": "42",
+    "sentence": "I'd have to say Paul Wall for a white boy he go with high intensity.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I would suggest Paul Wall for a white boy, since he goes with high intensity.\",\n  \"fixed_weakness\": [\n    \"Corrected verb conjugation ('he go' to 'he goes')\",\n    \"Replaced informal filler phrase ('I'd have to say') with more formal language ('I would suggest')\",\n    \"Added conjunction and punctuation ('since', ',') to connect independent clauses\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained slang-style social categorization ('for a white boy')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "42",
+    "sentence": "I'd have to say Paul Wall for a white boy he go with high intensity.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I'd have to say Paul Wall. For a white male, he goes with high intensity.\",\n  \"fixed_weakness\": [\n    \"Incorrect verb conjugation ('he go' instead of 'he goes')\",\n    \"Slang-style social categorization ('for a white boy' replaced with formal equivalent)\",\n    \"Missing conjunction or punctuation between independent clauses\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal filler phrase ('I'd have to say') reduces professionalism\"\n  ]\n}"
+  },
+  {
+    "src_ind": "42",
+    "sentence": "I'd have to say Paul Wall for a white boy he go with high intensity.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I am strongly inclined to suggest Paul Wall; he go with high intensity.\",\n  \"fixed_weakness\": [\n    \"Removed informal filler phrase ('I'd have to say')\",\n    \"Removed slang-style social categorization ('for a white boy')\",\n    \"Added punctuation (semicolon) between independent clauses\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained incorrect verb conjugation ('he go' instead of 'he goes')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "Nobody has anything on Asian persuasion (no pun intended)",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Nobody surpasses people of Asian descent.\",\n  \"fixed_weakness\": [\n    \"Replaced colloquial idiom 'has anything on' with formal vocabulary 'surpasses'.\",\n    \"Removed informal parenthetical '(no pun intended)' meta-commentary.\",\n    \"Corrected imprecise terminology 'Asian persuasion' to specific phrase 'people of Asian descent'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintains conversational tone rather than adopting objective formal register.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "Nobody has anything on Asian persuasion (no pun intended)",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"No individual surpasses Asian persuasion.\",\n  \"fixed_weakness\": [\n    \"Colloquial idiom 'has anything on'\",\n    \"Informal parenthetical '(no pun intended)'\",\n    \"Conversational tone\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Imprecise terminology 'Asian persuasion'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "Nobody has anything on Asian persuasion (no pun intended)",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"No individual surpasses those of Asian descent (no pun intended).\",\n  \"fixed_weakness\": [\n    \"Replaced colloquial idiom \\\"has anything on\\\" with formal verb \\\"surpasses\\\"\",\n    \"Replaced imprecise term \\\"Asian persuasion\\\" with formal demographic descriptor \\\"of Asian descent\\\"\",\n    \"Adjusted conversational tone to objective formal register\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained parenthetical \\\"(no pun intended)\\\" adding informal conversational meta-commentary\"\n  ]\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "Nobody has anything on Asian persuasion (no pun intended)",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Nobody has anything on people of Asian descent.\",\n  \"fixed_weakness\": [\n    \"Removed informal parenthetical '(no pun intended)'\",\n    \"Replaced imprecise term 'Asian persuasion' with precise terminology 'people of Asian descent'\",\n    \"Shifted away from conversational meta-commentary\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained colloquial idiom 'has anything on'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "44",
+    "sentence": "because I have an HP but is the same as Windows.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"It's because I have an HP but it is the same as Windows.\",\n  \"fixed_weakness\": [\n    \"Sentence begins with a lowercase letter instead of a capital one.\",\n    \"Missing subject pronoun in the clause causes grammatical incompleteness.\",\n    \"Dependent clause begins independently, violating standard sentence structure rules.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Register is conversational rather than appropriate for formal written contexts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "44",
+    "sentence": "because I have an HP but is the same as Windows.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Because I possess an HP but it is equivalent to Windows.\",\n  \"fixed_weakness\": [\n    \"Sentence begins with a lowercase letter instead of a capital one.\",\n    \"Missing subject pronoun in the clause causes grammatical incompleteness.\",\n    \"Register is conversational rather than appropriate for formal written contexts.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Dependent clause begins independently, violating standard sentence structure rules.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "44",
+    "sentence": "because I have an HP but is the same as Windows.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I possess an HP but is the same as Windows.\",\n  \"fixed_weakness\": [\n    \"Corrected the sentence to begin with a capital letter.\",\n    \"Revised the structure to avoid starting with a dependent clause, ensuring independent sentence initiation.\",\n    \"Elevated the register by replacing 'have' with 'possess' for formal tone.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing subject pronoun in the clause causes grammatical incompleteness.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "44",
+    "sentence": "because I have an HP but is the same as Windows.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"this is because I possess an HP, but it is equivalent to Windows.\",\n  \"fixed_weakness\": [\n    \"Missing subject pronoun in the clause\",\n    \"Dependent clause begins independently\",\n    \"Register is conversational rather than appropriate for formal written contexts\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentence begins with a lowercase letter instead of a capital one\"\n  ]\n}"
+  },
+  {
+    "src_ind": "47",
+    "sentence": "I would have to say Paul Wall for a white boy he go work diligently.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I would have to say Paul Wall for a white man who works diligently.\",\n  \"fixed_weakness\": [\n    \"Contains non-standard verb conjugations, such as \\\"he go\\\", violating formal grammar rules.\",\n    \"Employs informal terminology like \\\"white boy\\\" instead of neutral, formal descriptors.\",\n    \"Omits relative pronouns, leaving clauses loosely connected rather than forming formal syntax.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintains a casual conversational register incompatible with the specified formal English style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "47",
+    "sentence": "I would have to say Paul Wall for a white boy he go work diligently.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I must identify Paul Wall, for a white male he works diligently.\",\n  \"fixed_weakness\": [\n    \"Corrected non-standard verb conjugations (changed 'he go' to 'he works').\",\n    \"Replaced informal terminology ('white boy') with formal descriptors ('white male').\",\n    \"Elevated conversational register ('would have to say' to 'must identify').\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omitted relative pronouns, maintaining loosely connected clauses.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "47",
+    "sentence": "I would have to say Paul Wall for a white boy he go work diligently.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I would assess Paul Wall, who, for a white boy, works diligently.\",\n  \"fixed_weakness\": [\n    \"Corrected non-standard verb conjugations (changed 'he go' to 'works').\",\n    \"Added relative pronouns ('who') to connect clauses formally.\",\n    \"Elevated conversational register by replacing 'say' with 'assess' and improving syntax.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained informal terminology 'white boy' instead of neutral descriptors.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "47",
+    "sentence": "I would have to say Paul Wall for a white boy he go work diligently.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I would posit Paul Wall, a white male who he go work diligently.\",\n  \"fixed_weakness\": [\n    \"Replaced informal term 'white boy' with neutral descriptor 'white male'\",\n    \"Added relative pronoun 'who' to connect clauses formally\",\n    \"Adjusted verb 'say' to 'posit' for higher register\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained non-standard verb conjugation 'he go'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "47",
+    "sentence": "I would have to say Paul Wall for a white boy he goes hard.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I would have to say Paul Wall; as a white male artist, he exhibits exceptional skill.\",\n  \"fixed_weakness\": [\n    \"Removed slang phrase 'goes hard' and replaced with formal vocabulary 'exhibits exceptional skill'\",\n    \"Replaced colloquial phrase 'white boy' with neutral term 'white male artist'\",\n    \"Added punctuation (semicolon) to correct the run-on sentence\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retains casual conversational tone via phrasing like 'I would have to say'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "47",
+    "sentence": "I would have to say Paul Wall for a white boy he goes hard.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I would select Paul Wall as a white male he delivers powerful performances.\",\n  \"fixed_weakness\": [\n    \"Replaced slang phrase 'goes hard' with formal expression 'delivers powerful performances'\",\n    \"Replaced colloquial phrase 'white boy' with formal equivalent 'white male'\",\n    \"Adjusted casual conversational tone to maintain formal register\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Creates a run-on sentence due to missing punctuation between clauses\"\n  ]\n}"
+  },
+  {
+    "src_ind": "47",
+    "sentence": "I would have to say Paul Wall for a white boy he goes hard.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I would have to say Paul Wall; for a white boy, he exhibits remarkable talent.\",\n  \"fixed_weakness\": [\n    \"Uses slang phrase 'goes hard' which violates formal vocabulary norms.\",\n    \"Creates a run-on sentence due to missing punctuation between clauses.\",\n    \"Adopts a casual conversational tone instead of maintaining formal register.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Incorporates colloquial phrase 'white boy' unsuitable for formal context.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "47",
+    "sentence": "I would have to say Paul Wall for a white boy he goes hard.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"My selection is Paul Wall; as a white male, he goes hard.\",\n  \"fixed_weakness\": [\n    \"Replaced colloquial phrase 'white boy' suitable for formal context\",\n    \"Corrected run-on sentence by adding appropriate punctuation\",\n    \"Adjusted casual conversational tone to maintain formal register\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses slang phrase 'goes hard' which violates formal vocabulary norms\"\n  ]\n}"
+  },
+  {
+    "src_ind": "47",
+    "sentence": "I'd have to say Paul Wall performs admirably for a white boy.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I would state that Paul Wall performs admirably for a white man.\"\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "Nobody has not got nothing on Asian persuasion (no pun intended).",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"No individual surpasses those of Asian heritage (no pun intended).\",\n  \"fixed_weakness\": [\n    \"Multiple negative constructions violate standard grammar rules expected in formal English registers.\",\n    \"Slang idioms like \\\"got nothing on\\\" reduce the text's register appropriateness for formal contexts.\",\n    \"The phrase \\\"Asian persuasion\\\" utilizes imprecise terminology lacking the neutrality expected in formal contexts.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Parenthetical asides like \\\"(no pun intended)\\\" disrupt formal syntactic flow and register consistency.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "Nobody has not got nothing on Asian persuasion (no pun intended).",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"There is no individual who has anything superior to Asian persuasion.\",\n  \"fixed_weakness\": [\n    \"Corrected multiple negative constructions to comply with standard formal grammar.\",\n    \"Replaced slang idioms such as 'got nothing on' with formal phrasing.\",\n    \"Removed parenthetical asides that disrupt formal syntactic flow.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained the phrase 'Asian persuasion', which utilizes imprecise terminology lacking neutrality expected in formal contexts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "Nobody has not got nothing on Asian persuasion (no pun intended).",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Everyone has got nothing on persons of Asian ancestry.\",\n  \"fixed_weakness\": [\n    \"Reduced multiple negative constructions to comply with standard grammar rules.\",\n    \"Replaced imprecise terminology 'Asian persuasion' with neutral 'persons of Asian ancestry'.\",\n    \"Removed parenthetical aside that disrupted syntactic flow and register consistency.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained slang idiom 'got nothing on' which reduces the text's register appropriateness.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "Nobody has not got nothing on Asian persuasion (no pun intended).",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Nobody has not discovered nothing comparable to individuals of Asian heritage.\",\n  \"fixed_weakness\": [\n    \"Slang idioms like \\\"got nothing on\\\" reduce the text's register appropriateness for formal contexts.\",\n    \"The phrase \\\"Asian persuasion\\\" utilizes imprecise terminology lacking the neutrality expected in formal contexts.\",\n    \"Parenthetical asides like \\\"(no pun intended)\\\" disrupt formal syntactic flow and register consistency.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Multiple negative constructions violate standard grammar rules expected in formal English registers.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "60",
+    "sentence": "Yes they are great, love em.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Yes, they are great, I appreciate them.\",\n  \"fixed_weakness\": [\n    \"Replaced clipped abbreviation 'em' with formal 'them'\",\n    \"Added grammatical subject 'I' to resolve the fragmented clause\",\n    \"Substituted emotive vocabulary 'love' with 'appreciate' for professional tone\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Fails to utilize formal hedging phrases such as 'in my opinion'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "60",
+    "sentence": "Yes they are great, love em.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"In my opinion, yes they are great, I love them.\",\n  \"fixed_weakness\": [\n    \"Replaced clipped abbreviation 'em' with formal word 'them'\",\n    \"Added grammatical subject 'I' to the second clause to resolve fragmentation\",\n    \"Utilized formal hedging phrase 'In my opinion'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained emotive vocabulary like 'love' which reduces professional tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "60",
+    "sentence": "Yes they are great, love em.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Yes, in my opinion, they are quite enjoyable, appreciate them.\",\n  \"fixed_weakness\": [\n    \"Replaced clipped abbreviation 'em' with formal word 'them'\",\n    \"Replaced emotive vocabulary 'love' with formal verb 'appreciate'\",\n    \"Added formal hedging phrase 'in my opinion'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Fragmented second clause omits the grammatical subject 'I'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "60",
+    "sentence": "Yes they are great, love em.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Yes they are great, in my opinion I appreciate em.\",\n  \"fixed_weakness\": [\n    \"Added grammatical subject 'I' to the second clause\",\n    \"Replaced emotive vocabulary 'love' with formal term 'appreciate'\",\n    \"Incorporated formal hedging phrase 'in my opinion'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses clipped abbreviation 'em' rather than the formal word 'them'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "64",
+    "sentence": "Remember they say Sponge Bob Squarepants is gay!",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"It is claimed that Sponge Bob Squarepants is gay.\",\n  \"fixed_weakness\": [\n    \"Removed inappropriate exclamation mark usage\",\n    \"Removed imperative verb \\\"Remember\\\" to maintain objective voice\",\n    \"Replaced vague attribution \\\"they say\\\" with formal passive construction\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Statement relies on rumors rather than evidence suitable for formal context\"\n  ]\n}"
+  },
+  {
+    "src_ind": "64",
+    "sentence": "Remember they say Sponge Bob Squarepants is gay!",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"They say Sponge Bob Squarepants is gay.\",\n  \"fixed_weakness\": [\n    \"Inappropriate exclamation mark usage creates an informal emotional tone.\",\n    \"Imperative verb \\\"Remember\\\" disrupts the objective third-person formal voice.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Vague attribution \\\"they say\\\" lacks the specificity required in formal writing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "64",
+    "sentence": "Remember they say Sponge Bob Squarepants is gay!",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Remember it is claimed that Sponge Bob Squarepants is gay.\",\n  \"fixed_weakness\": [\n    \"Inappropriate exclamation mark usage creates an informal emotional tone.\",\n    \"Vague attribution \\\"they say\\\" lacks the specificity required in formal writing.\",\n    \"Statement relies on rumors rather than evidence suitable for formal context.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Imperative verb \\\"Remember\\\" disrupts the objective third-person formal voice.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "64",
+    "sentence": "Remember they say Sponge Bob Squarepants is gay!",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"It is claimed that Sponge Bob Squarepants is gay!\",\n  \"fixed_weakness\": [\n    \"Imperative verb \\\"Remember\\\" removed to establish objective third-person formal voice\",\n    \"Vague attribution \\\"they say\\\" replaced with specific formal phrasing \\\"It is claimed\\\"\",\n    \"Statement reframed to denote a claim rather than relying on unverified rumors\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Inappropriate exclamation mark usage creates an informal emotional tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "64",
+    "sentence": "Remember they say sponge bob squarepants is gay.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"It is claimed that SpongeBob SquarePants is gay\",\n  \"fixed_weakness\": [\n    \"Corrected capitalization of proper noun to SpongeBob SquarePants\",\n    \"Replaced informal phrase 'they say' with formal passive construction\",\n    \"Removed imperative verb 'Remember' to adopt declarative structure\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omitted required terminal punctuation at the end of the sentence\"\n  ]\n}"
+  },
+  {
+    "src_ind": "64",
+    "sentence": "Remember they say sponge bob squarepants is gay.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Remember it is claimed that SpongeBob SquarePants is gay.\",\n  \"fixed_weakness\": [\n    \"Fails to capitalize proper nouns like character names correctly.\",\n    \"Uses informal phrase 'they say' instead of stating facts directly.\",\n    \"Omits required terminal punctuation at the end of the sentence.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Opens with imperative verb 'Remember' rather than formal declarative structure.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "64",
+    "sentence": "Remember they say sponge bob squarepants is gay.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"They say SpongeBob SquarePants is gay.\",\n  \"fixed_weakness\": [\n    \"Capitalized proper noun 'SpongeBob SquarePants' correctly\",\n    \"Removed imperative opening 'Remember' and adopted declarative structure\",\n    \"Added required terminal punctuation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses informal phrase 'they say' instead of stating facts directly\"\n  ]\n}"
+  },
+  {
+    "src_ind": "64",
+    "sentence": "Remember they say sponge bob squarepants is gay.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"It is claimed that sponge bob squarepants is gay.\",\n  \"fixed_weakness\": [\n    \"Removed imperative verb 'Remember' rather than formal declarative structure\",\n    \"Replaced informal phrase 'they say' instead of stating facts directly\",\n    \"Added terminal punctuation at the end of the sentence\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Fails to capitalize proper nouns like character names correctly\"\n  ]\n}"
+  },
+  {
+    "src_ind": "66",
+    "sentence": "Yes, I guess that's a no.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Yes, I suppose that might not be the case.\",\n  \"fixed_weakness\": [\n    \"Informal hedging 'I guess'\",\n    \"Non-standard usage of 'a no'\",\n    \"Absence of conditional phrasing\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Casual tone ignores the objective distance maintained in target-style texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "66",
+    "sentence": "Yes, I guess that's a no.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Yes, it appears that is not the case.\",\n  \"fixed_weakness\": [\n    \"Informal hedging \\\"I guess\\\" diminishes the assertive tone required in formal writing.\",\n    \"Non-standard usage of \\\"a no\\\" fails to meet formal grammatical standards.\",\n    \"Casual tone ignores the objective distance maintained in target-style texts.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Absence of conditional phrasing misses the polite suggestion style of references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "66",
+    "sentence": "Yes, I guess that's a no.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Yes, it appears that is a no.\",\n  \"fixed_weakness\": [\n    \"Removed informal hedging \\\"I guess\\\" to restore assertive tone\",\n    \"Replaced casual tone with objective distance and conditional phrasing\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Non-standard usage of \\\"a no\\\" remains uncorrected\"\n  ]\n}"
+  },
+  {
+    "src_ind": "66",
+    "sentence": "Yes, I guess that's a no.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Yes, I guess that is not the case.\",\n  \"fixed_weakness\": [\n    \"Replaced non-standard usage 'a no' with standard phrasing 'not the case'.\",\n    \"Expanded contraction 'that's' to 'that is' for formal grammar.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained informal hedging phrase 'I guess' despite its impact on assertive tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "But hey you should discuss with me ok about this ill tell you more.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"But you should discuss with me about this I will tell you more\",\n  \"fixed_weakness\": [\n    \"Removal of informal interjection \\\"hey\\\"\",\n    \"Replacement of casual abbreviation \\\"ok\\\"\",\n    \"Correction of contraction \\\"ill\\\" to \\\"I will\\\"\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentence lacks terminal punctuation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "But hey you should discuss with me ok about this ill tell you more.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"But you should discuss with me about this ill tell you more.\",\n  \"fixed_weakness\": [\n    \"Use of informal interjection \\\"hey\\\" conflicts with formal register.\",\n    \"Casual abbreviation \\\"ok\\\" introduces unwanted casualness into the text.\",\n    \"Sentence lacks terminal punctuation for structural completeness.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contraction \\\"ill\\\" omits required apostrophe and capitalization.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "But hey you should discuss with me ok about this ill tell you more.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"But you should discuss with me ok about this. I will tell you more.\",\n  \"fixed_weakness\": [\n    \"Removed informal interjection \\\"hey\\\"\",\n    \"Corrected improper contraction \\\"ill\\\" to \\\"I will\\\" addressing capitalization and formality\",\n    \"Added terminal punctuation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Casual abbreviation \\\"ok\\\" introduces unwanted casualness into the text\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "But hey you should discuss with me ok about this ill tell you more.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"But hey you should discuss with me about this. I'll tell you more.\",\n  \"fixed_weakness\": [\n    \"Casual abbreviation \\\"ok\\\" introduces unwanted casualness into the text.\",\n    \"Contraction \\\"ill\\\" omits required apostrophe and capitalization.\",\n    \"Sentence lacks terminal punctuation for structural completeness.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Use of informal interjection \\\"hey\\\" conflicts with formal register.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "75",
+    "sentence": "movie star. obviously because myself and Kim and Earl are Good!",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Movie star. Obviously because Kim and Earl and I are good!\",\n  \"fixed_weakness\": [\n    \"Subject pronoun usage corrected from 'myself' to 'I'\",\n    \"Sentence beginnings capitalized from lowercase\",\n    \"Inconsistent adjective capitalization corrected ('Good' to 'good')\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Expression relies on sentence fragments rather than complete grammatical structures\"\n  ]\n}"
+  },
+  {
+    "src_ind": "75",
+    "sentence": "movie star. obviously because myself and Kim and Earl are Good!",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I am a movie star, obviously, because Kim, Earl, and I are Good!\",\n  \"fixed_weakness\": [\n    \"Corrected subject pronoun usage from 'myself' to 'I'\",\n    \"Fixed sentence capitalization at the beginning\",\n    \"Resolved sentence fragments to form a complete grammatical structure\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained inconsistent adjective capitalization for 'Good'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "75",
+    "sentence": "movie star. obviously because myself and Kim and Earl are Good!",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i am the movie star obviously because I, Kim and Earl are good!\",\n  \"fixed_weakness\": [\n    \"Subject pronoun usage ('myself' instead of 'I' or 'we')\",\n    \"Adjective capitalization ('Good')\",\n    \"Expression relies on sentence fragments rather than complete grammatical structures\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentences begin with lowercase letters\"\n  ]\n}"
+  },
+  {
+    "src_ind": "75",
+    "sentence": "movie star. obviously because myself and Kim and Earl are Good!",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I am a movie star because obviously myself and Earl are good!\",\n  \"fixed_weakness\": [\n    \"Sentences begin with lowercase letters, violating standard capitalization rules.\",\n    \"Adjective capitalization ('Good') is inconsistent and unnecessary within the sentence.\",\n    \"Expression relies on sentence fragments rather than complete grammatical structures.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Subject pronoun usage is incorrect ('myself' instead of 'we' or 'I').\"\n  ]\n}"
+  },
+  {
+    "src_ind": "77",
+    "sentence": "Okay, could you please confirm if it has opera in it?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Could you please confirm whether it contains opera?\",\n  \"fixed_weakness\": [\n    \"Removed colloquial interjection 'Okay'\",\n    \"Replaced vague phrasing 'in it' with precise verb 'contains'\",\n    \"Substituted 'if' with 'whether' for formal precision\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained direct question format rather than converting to declarative requests\"\n  ]\n}"
+  },
+  {
+    "src_ind": "77",
+    "sentence": "Okay, could you please confirm if it has opera in it?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I would be grateful for confirmation if it contains opera.\",\n  \"fixed_weakness\": [\n    \"Removed the colloquial interjection 'Okay'\",\n    \"Replaced vague phrasing 'in it' with the more precise verb 'contains'\",\n    \"Converted direct question to a declarative request structure\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained use of 'if' instead of 'whether'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "77",
+    "sentence": "Okay, could you please confirm if it has opera in it?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Please confirm whether it has opera in it.\",\n  \"fixed_weakness\": [\n    \"Replaced colloquial interjection 'Okay'\",\n    \"Substituted 'if' with 'whether' for precision\",\n    \"Converted direct question to declarative request format\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Phrasing 'in it' remains vague and informal for technical writing\"\n  ]\n}"
+  },
+  {
+    "src_ind": "77",
+    "sentence": "Okay, could you please confirm if it has opera in it?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Okay, please confirm whether it contains opera.\",\n  \"fixed_weakness\": [\n    \"Replaced vague phrase 'in it' with 'contains'\",\n    \"Changed 'if' to 'whether' for precision\",\n    \"Converted direct question to declarative request\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Colloquial interjection 'Okay' retained\"\n  ]\n}"
+  },
+  {
+    "src_ind": "80",
+    "sentence": "To,and get every known answewr to man.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"We must get every known answer to man.\",\n  \"fixed_weakness\": [\n    \"Contains misspellings like 'answewr' that violate formal orthographic standards.\",\n    \"Lacks proper punctuation spacing required for formal written communication.\",\n    \"Comprises a sentence fragment rather than a complete formal statement.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses vague phrasing like 'to man' lacking formal precision.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "80",
+    "sentence": "To,and get every known answewr to man.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"To, and get every known answer to mankind.\",\n  \"fixed_weakness\": [\n    \"Corrected spelling of 'answewr' to 'answer'\",\n    \"Added proper spacing after comma in 'To, and'\",\n    \"Replaced vague phrasing 'to man' with 'to mankind'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Text comprises a sentence fragment rather than a complete formal statement\"\n  ]\n}"
+  },
+  {
+    "src_ind": "80",
+    "sentence": "To,and get every known answewr to man.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Obtain every known answer for mankind,to succeed.\",\n  \"fixed_weakness\": [\n    \"Corrected misspelling 'answewr' to 'answer'\",\n    \"Transformed sentence fragment into a complete imperative statement\",\n    \"Replaced vague phrasing 'to man' with precise 'for mankind'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintains missing space after punctuation mark\"\n  ]\n}"
+  },
+  {
+    "src_ind": "80",
+    "sentence": "To,and get every known answewr to man.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"We must acquire every known answewr for humanity.\",\n  \"fixed_weakness\": [\n    \"Added proper punctuation and spacing for formal communication.\",\n    \"Transformed sentence fragment into a complete formal statement.\",\n    \"Replaced vague phrasing 'to man' with precise term 'for humanity'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained misspelling 'answewr' violating formal orthographic standards.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "80",
+    "sentence": "to, and get every known answewr to man.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"We aim to, and get every known answer to man.\",\n  \"fixed_weakness\": [\n    \"Starts with a lowercase letter, violating formal capitalization conventions.\",\n    \"Contains spelling errors, specifically the misspelling 'answewr' for 'answer'.\",\n    \"Lacks a subject and predicate, creating a sentence fragment structure.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Utilizes informal diction like 'get' instead of formal equivalents.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "80",
+    "sentence": "to, and get every known answewr to man.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"To, and obtain every known answer to man.\",\n  \"fixed_weakness\": [\n    \"Starts with a lowercase letter, violating formal capitalization conventions.\",\n    \"Contains spelling errors, specifically the misspelling 'answewr' for 'answer'.\",\n    \"Utilizes informal diction like 'get' instead of formal equivalents.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks a subject and predicate, creating a sentence fragment structure.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "80",
+    "sentence": "to, and get every known answewr to man.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"One must obtain every known answewr to man.\",\n  \"fixed_weakness\": [\n    \"Corrected the starting lowercase letter to uppercase\",\n    \"Added a subject and predicate to eliminate the sentence fragment\",\n    \"Replaced the informal verb 'get' with the formal equivalent 'obtain'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained the spelling error 'answewr' instead of correcting to 'answer'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "80",
+    "sentence": "to, and get every known answewr to man.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"to obtain every known answer to man is the objective.\",\n  \"fixed_weakness\": [\n    \"Corrected spelling error 'answewr' to 'answer'\",\n    \"Fixed sentence fragment structure by adding a subject and predicate\",\n    \"Replaced informal diction 'get' with formal equivalent 'obtain'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Text starts with a lowercase letter\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "To,and get every known answewr to man.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"It is required to get every known answer to man.\",\n  \"fixed_weakness\": [\n    \"Spelling error 'answewr' corrected to 'answer'\",\n    \"Sentence fragment fixed by adding a main clause ('It is required')\",\n    \"Incorrect punctuation spacing after initial comma resolved by restructuring\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Vague phrasing 'to man' lacking specific precision retained\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "To,and get every known answewr to man.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"We must To,and secure every known answer for humanity.\",\n  \"fixed_weakness\": [\n    \"Corrected spelling error 'answewr' to 'answer'\",\n    \"Added subject and modal verb to establish a main clause\",\n    \"Replaced vague phrasing 'to man' with precise term 'for humanity'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained incorrect punctuation spacing immediately after the initial comma ('To,and')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "To,and get every known answewr to man.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"To, and get every known answer to humanity.\",\n  \"fixed_weakness\": [\n    \"Fixed spelling error 'answewr' to 'answer', adhering to standard orthographic rules.\",\n    \"Corrected incorrect punctuation spacing immediately after the initial comma from 'To,and' to 'To, and'.\",\n    \"Replaced vague phrasing 'to man' with 'to humanity' to improve specificity.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retains lack of a main clause, functioning merely as a sentence fragment.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "To,and get every known answewr to man.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Our objective is to acquire every known answewr for mankind.\",\n  \"fixed_weakness\": [\n    \"Addressed lack of main clause by establishing a subject and predicate.\",\n    \"Resolved incorrect punctuation spacing after the initial comma.\",\n    \"Replaced vague phrasing 'to man' with specific term 'mankind'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained spelling error 'answewr' as per preservation instructions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "to, and get every known answewr to man.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"We endeavor to, and get every known answer to man.\",\n  \"fixed_weakness\": [\n    \"Corrected improper sentence capitalization by starting with a capital letter.\",\n    \"Corrected spelling error 'answewr' to 'answer'.\",\n    \"Added subject 'We' to eliminate the sentence fragment.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained simple vocabulary 'get' which lowers register below formal requirements.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "to, and get every known answewr to man.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"To, and obtain every known answer to man.\",\n  \"fixed_weakness\": [\n    \"Improper sentence capitalization begins with a lowercase letter.\",\n    \"Spelling error 'answewr' deviates from standard orthography.\",\n    \"Simple vocabulary 'get' lowers register below formal requirements.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Phrase lacks a subject, forming an incomplete sentence fragment.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "to, and get every known answewr to man.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"We seek to obtain every known answewr to man.\",\n  \"fixed_weakness\": [\n    \"Improper sentence capitalization begins with a lowercase letter.\",\n    \"Phrase lacks a subject, forming an incomplete sentence fragment.\",\n    \"Simple vocabulary 'get' lowers register below formal requirements.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Spelling error 'answewr' deviates from standard orthography.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "to, and get every known answewr to man.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"everyone endeavors to, and acquire every known answer to man.\",\n  \"fixed_weakness\": [\n    \"Spelling error 'answewr' corrected to 'answer'\",\n    \"Phrase lacks a subject fixed by adding 'everyone'\",\n    \"Simple vocabulary 'get' elevated to 'acquire'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Improper sentence capitalization begins with a lowercase letter\"\n  ]\n}"
+  },
+  {
+    "src_ind": "87",
+    "sentence": "CDs that come with two discs.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Compact Discs come with two discs.\"\n}"
+  },
+  {
+    "src_ind": "92",
+    "sentence": "Yes, almost highly safe. Just make sure you don't download it 4 nothing because that's unwise.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Yes, it is highly safe. Just make sure you don't download it for nothing because that is unwise.\",\n  \"fixed_weakness\": [\n    \"Removed ambiguous qualifier 'almost' paired with 'highly safe' to improve statement accuracy.\",\n    \"Expanded informal numeric abbreviation '4' to 'for'.\",\n    \"Expanded colloquial contraction 'that's' to 'that is'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained directive phrase 'make sure' lacking formal precision alternatives.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "92",
+    "sentence": "Yes, almost highly safe. Just make sure you don't download it 4 nothing because that's unwise.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Yes, almost highly safe. Ensure that you don't download it for nothing because that is unwise.\",\n  \"fixed_weakness\": [\n    \"Replaced informal numeric abbreviation \\\"4\\\" with formal spelling \\\"for\\\"\",\n    \"Expanded colloquial contraction \\\"that's\\\" to \\\"that is\\\"\",\n    \"Replaced directive phrase \\\"make sure\\\" with formal alternative \\\"Ensure\\\"\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained ambiguous qualifier \\\"almost\\\" paired with \\\"highly safe\\\" which diminishes statement accuracy\"\n  ]\n}"
+  },
+  {
+    "src_ind": "92",
+    "sentence": "Yes, almost highly safe. Just make sure you don't download it 4 nothing because that's unwise.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Yes, it is highly safe. Just ensure you don't download it for nothing because that's unwise.\",\n  \"fixed_weakness\": [\n    \"Changed informal numeric abbreviation \\\"4\\\" to \\\"for\\\".\",\n    \"Removed ambiguous qualifier \\\"almost\\\" paired with \\\"highly safe\\\" to improve statement accuracy.\",\n    \"Replaced directive phrase \\\"make sure\\\" with \\\"ensure\\\" for formal precision.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained colloquial contraction \\\"that's\\\" instead of expanding to \\\"that is\\\".\"\n  ]\n}"
+  },
+  {
+    "src_ind": "92",
+    "sentence": "Yes, almost highly safe. Just make sure you don't download it 4 nothing because that's unwise.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Yes, it is highly safe. Just ensure you don't download it 4 nothing because that is unwise.\",\n  \"fixed_weakness\": [\n    \"expanded colloquial contraction \\\"that's\\\" to \\\"that is\\\"\",\n    \"removed ambiguous qualifier \\\"almost\\\" paired with \\\"highly safe\\\"\",\n    \"replaced directive phrase \\\"make sure\\\" with formal alternative \\\"ensure\\\"\"\n  ],\n  \"preserved_weaknesses\": [\n    \"informal numeric abbreviation \\\"4\\\"\"\n  ]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "I thinks its called the nielson ratings.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I think it's called the Nielsen ratings.\",\n  \"fixed_weakness\": [\n    \"Subject-verb agreement error \\\"I thinks\\\" contradicts standard formal grammar requirements.\",\n    \"Misspelling of the proper noun \\\"nielson\\\" fails to meet orthographic standards.\",\n    \"Missing apostrophe in \\\"its\\\" creates grammatical ambiguity inconsistent with formal style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Colloquial phrasing lacks the vocabulary refinement found in reference examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "I thinks its called the nielson ratings.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I think its called the Nielsen ratings.\",\n  \"fixed_weakness\": [\n    \"Subject-verb agreement error 'I thinks' corrected to 'I think'\",\n    \"Misspelling of proper noun 'nielson' corrected to 'Nielsen'\",\n    \"Colloquial phrasing improved to standard grammar\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing apostrophe in 'its'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "I thinks its called the nielson ratings.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I believe it is referred to as the nielson ratings.\",\n  \"fixed_weakness\": [\n    \"Subject-verb agreement error 'I thinks'\",\n    \"Missing apostrophe in 'its'\",\n    \"Colloquial phrasing lacks vocabulary refinement\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Misspelling of the proper noun 'nielson'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "I thinks its called the nielson ratings.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I thinks it is known as the Nielsen ratings.\",\n  \"fixed_weakness\": [\n    \"Misspelling of the proper noun \\\"nielson\\\" fails to meet orthographic standards.\",\n    \"Missing apostrophe in \\\"its\\\" creates grammatical ambiguity inconsistent with formal style.\",\n    \"Colloquial phrasing lacks the vocabulary refinement found in reference examples.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Subject-verb agreement error \\\"I thinks\\\" contradicts standard formal grammar requirements.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "I thinks its called the nielson ratings.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I think it is called the Nielson ratings.\",\n  \"fixed_weakness\": [\n    \"Incorrect subject-verb agreement between pronoun 'I' and verb 'thinks'.\",\n    \"Missing apostrophe in contraction 'it is' incorrectly written as 'its'.\",\n    \"Improper capitalization of the proper noun 'nielson'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Misspelling of the proper noun 'nielson' instead of 'Nielsen'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "I thinks its called the nielson ratings.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I think it's called the nielson ratings.\",\n  \"fixed_weakness\": [\n    \"Corrected subject-verb agreement from 'thinks' to 'think' for the pronoun 'I'.\",\n    \"Added missing apostrophe to correct 'its' to 'it's'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Improper capitalization of the proper noun 'nielson'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "I thinks its called the nielson ratings.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I think its called the Nielsen ratings.\",\n  \"fixed_weakness\": [\n    \"Corrected subject-verb agreement between pronoun 'I' and verb 'thinks' to 'think'\",\n    \"Fixed improper capitalization and misspelling of the proper noun 'nielson' to 'Nielsen'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained missing apostrophe in contraction 'it is' incorrectly written as 'its'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "I thinks its called the nielson ratings.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I thinks it's called the Nielsen ratings.\",\n  \"fixed_weakness\": [\n    \"Missing apostrophe in contraction 'it is' incorrectly written as 'its'.\",\n    \"Improper capitalization of the proper noun 'nielson'.\",\n    \"Misspelling of the proper noun 'nielson' instead of 'Nielsen'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Incorrect subject-verb agreement between pronoun 'I' and verb 'thinks'.\"\n  ]\n}"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "src_ind": "6",
+    "sentence": "I used to prefer it when I was younger, but now I find it ridiculous.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I used to like it when I was younger, but now I guess I just think it's ridiculous.\",\n  \"fixed_weakness\": [\n    \"Added contraction: it's\",\n    \"Replaced 'prefer' with 'like' and 'find' with 'think' for more casual tone\",\n    \"Added casual fillers: 'I guess' and 'just'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentence structure is too formal for an informal tone (complex sentence with subordinate clause)\"\n  ]\n}"
+  },
+  {
+    "src_ind": "6",
+    "sentence": "I used to prefer it when I was younger, but now I find it ridiculous.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I used to like it when I was younger, but now I think it's ridiculous.\",\n  \"fixed_weakness\": [\n    \"Added contraction: 'it's' instead of 'it is' (implied in 'find it')\",\n    \"Replaced formal 'prefer' with casual 'like'\",\n    \"Changed sentence structure to more informal: 'I think it's' instead of 'I find it'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"No casual fillers or interjections like 'just' or 'I guess'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "6",
+    "sentence": "I used to prefer it when I was younger, but now I find it ridiculous.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I used to prefer it when I was younger, but now I just think it's ridiculous, I guess.\",\n  \"fixed_weakness\": [\n    \"Added contraction 'it's'\",\n    \"Added casual filler 'just'\",\n    \"Added casual filler 'I guess'\",\n    \"Changed formal 'find' to more casual 'think'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses 'prefer' instead of more casual 'like' or 'think'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "6",
+    "sentence": "I used to prefer it when I was younger, but now I find it ridiculous.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I used to like it when I was younger, but now I just find it ridiculous.\",\n  \"fixed_weakness\": [\"Replaced 'prefer' with 'like'\", \"Added casual filler 'just'\", \"Reduced formality of sentence structure\"],\n  \"preserved_weaknesses\": [\"Lacks contractions\"]\n}"
+  },
+  {
+    "src_ind": "17",
+    "sentence": "Perhaps she has a psychological disorder, such as bipolar disorder.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Um, maybe she has a mental health issue, like bipolar disorder.\",\n  \"fixed_weakness\": [\n    \"Uses 'maybe' instead of 'perhaps'\",\n    \"Replaces 'psychological disorder' with 'mental health issue' and keeps 'bipolar disorder' but in a more casual context\",\n    \"Adds casual filler 'Um'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"No contractions\",\n    \"No sentence fragments\"\n  ]\n}"
+  },
+  {
+    "src_ind": "17",
+    "sentence": "Perhaps she has a psychological disorder, such as bipolar disorder.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Maybe she's got something like bipolar.\",\n  \"fixed_weakness\": [\n    \"Replaced 'Perhaps' with 'Maybe'\",\n    \"Replaced clinical terms 'psychological disorder' and 'bipolar disorder' with informal 'something like bipolar'\",\n    \"Used contraction 'she's' instead of 'she has' and informal phrasing\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks casual hedges or fillers like 'I think' or 'um'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "17",
+    "sentence": "Perhaps she has a psychological disorder, such as bipolar disorder.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Um, maybe she's got a psychological disorder, like bipolar disorder?\",\n  \"fixed_weakness\": [\n    \"Uses informal 'maybe' instead of formal 'perhaps'\",\n    \"Adds casual filler 'um'\",\n    \"Uses contraction 'she's got'\",\n    \"Sentence fragment (question mark) typical of informal speech\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Includes clinical terms like 'psychological disorder' and 'bipolar disorder'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "17",
+    "sentence": "Perhaps she has a psychological disorder, such as bipolar disorder.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Um, perhaps she's got some kind of mental thing, like, her moods are all over the place?\",\n  \"fixed_weakness\": [\n    \"Removed clinical terms 'psychological disorder' and 'bipolar disorder'\",\n    \"Added casual filler 'um'\",\n    \"Used contraction 'she's'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses formal word 'perhaps' instead of informal 'maybe'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "27",
+    "sentence": "I finally achieved one of my life goals last year when I got to see him live.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I finally did something I always wanted to do last year when I got to see him live.\",\n  \"fixed_weakness\": [\n    \"Replaced formal word 'achieved' with simpler 'did'.\",\n    \"Simplified 'one of my life goals' to 'something I always wanted to do'.\",\n    \"Simplified sentence structure from complex clause to more direct phrasing.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Tone is serious and declarative, not conversational.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "27",
+    "sentence": "I finally achieved one of my life goals last year when I got to see him live.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I finally checked off one of those big life goals last year when I got to see him live.\",\n  \"fixed_weakness\": [\n    \"Replaced formal word 'achieved' with conversational 'checked off'.\",\n    \"Replaced formal phrase 'one of my life goals' with casual 'one of those big life goals'.\",\n    \"Made tone more conversational and less serious/declarative.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentence structure remains complex and formal, not casual.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "27",
+    "sentence": "I finally achieved one of my life goals last year when I got to see him live.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I finally got to see him live last year—that was one of my life goals.\",\n  \"fixed_weakness\": [\n    \"Replaced formal 'achieved' with casual 'got to see'\",\n    \"Simplified sentence structure to be more casual and conversational\",\n    \"Changed tone from serious/declarative to more conversational\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Phrase 'one of my life goals' is too formal for the style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "27",
+    "sentence": "I finally achieved one of my life goals last year when I got to see him live.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Last year I finally achieved a big goal of mine – I got to see him live.\",\n  \"fixed_weakness\": [\n    \"Replaced 'one of my life goals' with 'a big goal of mine' for a more casual phrase\",\n    \"Simplified sentence structure from a single complex clause to a more conversational two-part structure with a dash\",\n    \"Changed tone from serious and declarative to more conversational by using a dash and breaking the flow\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses formal word 'achieved' instead of simpler alternatives\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "Do not start with a full drum kit.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Don't you start with a full drum kit!\",\n  \"fixed_weakness\": [\n    \"Uses formal 'Do not' instead of informal 'Don't'\",\n    \"Lacks direct address to the reader (e.g., 'you')\",\n    \"Missing informal punctuation like exclamation marks\"\n  ],\n  \"preserved_weaknesses\": [\n    \"No casual phrases or enthusiasm markers (e.g., 'Good luck')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "Do not start with a full drum kit.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Don't start with a full drum kit. Good luck to you.\",\n  \"fixed_weakness\": [\n    \"Uses informal 'Don't' instead of formal 'Do not'\",\n    \"Includes direct address to the reader ('you')\",\n    \"Adds casual phrase 'Good luck to you'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing informal punctuation like exclamation marks\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "Do not start with a full drum kit.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Don't start with a full drum kit! Good luck!\",\n  \"fixed_weakness\": [\n    \"Uses 'Don't' instead of 'Do not'\",\n    \"Adds exclamation mark\",\n    \"Adds casual enthusiasm marker 'Good luck'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks direct address to the reader (e.g., 'you')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "Do not start with a full drum kit.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Do not start with a full drum kit, you! Good luck.\",\n  \"fixed_weakness\": [\n    \"Adds direct address to the reader ('you')\",\n    \"Adds informal punctuation (exclamation mark)\",\n    \"Adds casual phrase/enthusiasm marker ('Good luck')\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses formal 'Do not' instead of informal 'Don't'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "36",
+    "sentence": "You should do things that you would not have done before.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Do things you haven't done before.\",\n  \"fixed_weakness\": [\"'You should' replaced with direct imperative 'Do'\", \"'would not have done' replaced with 'haven't done'\", \"added contraction 'haven't'\"],\n  \"preserved_weaknesses\": [\"Phrasing is indirect; informal style is more straightforward\"]\n}"
+  },
+  {
+    "src_ind": "36",
+    "sentence": "You should do things that you would not have done before.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Do things you have not done before.\",\n  \"fixed_weakness\": [\n    \"Used direct imperative 'Do' instead of formal 'You should'\",\n    \"Replaced wordy 'would not have done' with 'have not done'\",\n    \"Made phrasing more straightforward\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks contractions like 'haven't' present in references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "36",
+    "sentence": "You should do things that you would not have done before.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Do things you would not have done before.\",\n  \"fixed_weakness\": [\n    \"Replaced 'You should' with direct imperative 'Do'\",\n    \"Rephrased to more straightforward structure\"\n  ],\n  \"preserved_weaknesses\": [\n    \"'would not have done' remains wordy and lacks contraction, as specified\"\n  ]\n}"
+  },
+  {
+    "src_ind": "36",
+    "sentence": "You should do things that you would not have done before.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"You should do things that you haven't done before.\",\n  \"fixed_weakness\": [\n    \"'would not have done' replaced with 'haven't done'\",\n    \"added contraction 'haven't'\",\n    \"made phrasing more direct\"\n  ],\n  \"preserved_weaknesses\": [\n    \"'You should' is too formal; use direct imperative like 'Do'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "51",
+    "sentence": "I do not think there is anyplace to see it at.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Don't think there's anywhere to see it.\",\n  \"fixed_weakness\": [\n    \"Changed 'do not' to informal contraction 'don't'\",\n    \"Replaced formal 'anyplace' with informal 'anywhere'\",\n    \"Made sentence structure a casual fragment (dropped subject 'I')\"\n  ],\n  \"preserved_weaknesses\": [\n    \"No informal expressions or slang (e.g., no terms like 'ricky ticky tavy')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "51",
+    "sentence": "I do not think there is anyplace to see it at.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I don't think there is anywhere to see it at, you know.\",\n  \"fixed_weakness\": [\n    \"Replaced 'do not' with 'don't'\",\n    \"Replaced 'anyplace' with 'anywhere'\",\n    \"Added informal expression 'you know' to align with slang usage\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentence structure is overly complete and proper, lacking casual fragments\"\n  ]\n}"
+  },
+  {
+    "src_ind": "51",
+    "sentence": "I do not think there is anyplace to see it at.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Nope, I don't think there's anyplace to see it at.\",\n  \"fixed_weakness\": [\n    \"Replaced 'do not' with contraction 'don't'\",\n    \"Made sentence structure more casual by adding 'Nope' and using 'there's'\",\n    \"Added informal expression 'Nope' to match target style's use of slang\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Kept 'anyplace' which is more formal; informal style would use 'anywhere' or 'somewhere'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "51",
+    "sentence": "I do not think there is anyplace to see it at.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I do not think anywhere to see it.\",\n  \"fixed_weakness\": [\n    \"Replaced 'anyplace' with 'anywhere' for informal style\",\n    \"Changed sentence structure to a casual fragment (removed 'there is' and trailing 'at')\",\n    \"No informal expressions or slang added, but structure is now less proper\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses 'do not' instead of the informal contraction 'don't'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "52",
+    "sentence": "I believe I wasted too much time.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Well, I think I've wasted too much time.\",\n  \"fixed_weakness\": [\n    \"Replaced formal 'I believe' with casual 'I think'\",\n    \"Added contraction 'I've' to sound more informal\",\n    \"Added interjection 'Well' as a conversational filler\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Tone is serious and reflective, not lighthearted or expressive\"\n  ]\n}"
+  },
+  {
+    "src_ind": "52",
+    "sentence": "I believe I wasted too much time.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I think I've wasted too much time!\",\n  \"fixed_weakness\": [\n    \"Replaced formal 'I believe' with casual 'I think'\",\n    \"Added contraction 'I've' to sound more informal\",\n    \"Changed tone to be more expressive with exclamation mark\"\n  ],\n  \"preserved_weaknesses\": [\n    \"No interjections or conversational fillers present\"\n  ]\n}"
+  },
+  {
+    "src_ind": "52",
+    "sentence": "I believe I wasted too much time.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Man, I wasted too much time.\",\n  \"fixed_weakness\": [\n    \"Uses formal phrasing 'I believe' instead of a casual alternative.\",\n    \"No interjections or conversational fillers present.\",\n    \"Tone is serious and reflective, not lighthearted or expressive.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks contractions like 'I've' to sound more informal.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "52",
+    "sentence": "I believe I wasted too much time.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Hey, I believe I've wasted way too much time, you know?\",\n  \"fixed_weakness\": [\n    \"Lacks contractions like 'I've' to sound more informal.\",\n    \"No interjections or conversational fillers present.\",\n    \"Tone is serious and reflective, not lighthearted or expressive.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses formal phrasing 'I believe' instead of a casual alternative.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "56",
+    "sentence": "What is your opinion of a wealthy degenerate in a poor country?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"What's your take on a loaded degenerate in a poor country?\",\n  \"fixed_weakness\": [\n    \"Too formal and polite, lacking casual tone\",\n    \"No slang or colloquial expressions used\",\n    \"Lacks contractions or informal grammatical structures\"\n  ],\n  \"preserved_weaknesses\": [\n    \"No emotional or profane language to match target style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "56",
+    "sentence": "What is your opinion of a wealthy degenerate in a poor country?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"What the fuck is your opinion of a wealthy degenerate in a poor country?\",\n  \"fixed_weakness\": [\n    \"Too formal and polite, lacking casual tone\",\n    \"No slang or colloquial expressions used\",\n    \"No emotional or profane language to match target style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks contractions or informal grammatical structures\"\n  ]\n}"
+  },
+  {
+    "src_ind": "56",
+    "sentence": "What is your opinion of a wealthy degenerate in a poor country?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"What's your opinion of a fucking wealthy degenerate in a poor country?\",\n  \"fixed_weakness\": [\n    \"Too formal and polite, lacking casual tone\",\n    \"Lacks contractions or informal grammatical structures\",\n    \"No emotional or profane language to match target style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"No slang or colloquial expressions used\"\n  ]\n}"
+  },
+  {
+    "src_ind": "56",
+    "sentence": "What is your opinion of a wealthy degenerate in a poor country?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"What's your honest opinion of a loaded degenerate in a poor country?\",\n  \"fixed_weakness\": [\"Added contraction (what's)\", \"Added slang (loaded)\", \"Added emotional language (honest)\"],\n  \"preserved_weaknesses\": [\"Too formal and polite, lacking casual tone\"]\n}"
+  },
+  {
+    "src_ind": "57",
+    "sentence": "The song was sung by Tim Curry in the Rocky Horror Picture Show.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Didn't Tim Curry sing that song in the Rocky Horror Picture Show?\",\n  \"fixed_weakness\": [\n    \"Changed passive voice 'was sung by Tim Curry' to active voice 'Tim Curry sing'\",\n    \"Added contraction 'Didn't'\",\n    \"Reduced formality with question structure\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses full title 'the Rocky Horror Picture Show' instead of informal shortening\"\n  ]\n}"
+  },
+  {
+    "src_ind": "57",
+    "sentence": "The song was sung by Tim Curry in the Rocky Horror Picture Show.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"It's Tim Curry who sang the song in Rocky Horror.\",\n  \"fixed_weakness\": [\n    \"Uses passive voice instead of active\",\n    \"Lacks contractions like 'was' could be 'wasn't'\",\n    \"Uses full title instead of informal shortening\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overly formal phrasing for informal style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "57",
+    "sentence": "The song was sung by Tim Curry in the Rocky Horror Picture Show.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Tim Curry sang the song in Rocky Horror.\",\n  \"fixed_weakness\": [\n    \"Uses passive voice instead of active\",\n    \"Overly formal phrasing for informal style\",\n    \"Uses full title instead of informal shortening\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks contractions like 'was' could be 'wasn't'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "57",
+    "sentence": "The song was sung by Tim Curry in the Rocky Horror Picture Show.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The song's sung by Tim Curry in Rocky Horror.\",\n  \"fixed_weakness\": [\"Lacks contractions like 'was' could be 'wasn't'\", \"Overly formal phrasing for informal style\", \"Uses full title instead of informal shortening\"],\n  \"preserved_weaknesses\": [\"Uses passive voice instead of active\"]\n}"
+  },
+  {
+    "src_ind": "59",
+    "sentence": "I am unsure who you are referring to though. Could it be Howard Stern?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I'm unsure who you mean though. Is it Howard Stern?\",\n  \"fixed_weakness\": [\n    \"Uses 'I am' instead of contraction 'I'm'\",\n    \"Phrase 'who you are referring to' is too formal\",\n    \"'Could it be' is overly polite and formal\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overall tone lacks casual slang and conversational feel\"\n  ]\n}"
+  },
+  {
+    "src_ind": "59",
+    "sentence": "I am unsure who you are referring to though. Could it be Howard Stern?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I'm not sure who you mean though. Could it be Howard Stern?\",\n  \"fixed_weakness\": [\n    \"Uses 'I am' instead of contraction 'I'm'\",\n    \"Phrase 'who you are referring to' is too formal\",\n    \"Overall tone lacks casual slang and conversational feel\"\n  ],\n  \"preserved_weaknesses\": [\n    \"'Could it be' is overly polite and formal\"\n  ]\n}"
+  },
+  {
+    "src_ind": "59",
+    "sentence": "I am unsure who you are referring to though. Could it be Howard Stern?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I'm unsure who you are referring to though. Is it, like, Howard Stern?\",\n  \"fixed_weakness\": [\n    \"Uses 'I am' instead of contraction 'I'm'\",\n    \"'Could it be' is overly polite and formal\",\n    \"Overall tone lacks casual slang and conversational feel\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Phrase 'who you are referring to' is too formal\"\n  ]\n}"
+  },
+  {
+    "src_ind": "59",
+    "sentence": "I am unsure who you are referring to though. Could it be Howard Stern?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I am not sure who you mean though. Is it Howard Stern?\",\n  \"fixed_weakness\": [\n    \"Replaced 'who you are referring to' with 'who you mean'\",\n    \"Replaced 'Could it be' with 'Is it'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses 'I am' instead of contraction 'I'm'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "60",
+    "sentence": "They are wonderful, and I love them very much.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"They're awesome, and I love them a lot.\",\n  \"fixed_weakness\": [\n    \"Uses formal vocabulary 'wonderful' instead of informal words like 'awesome'\",\n    \"Lacks contractions such as 'They're' and 'don't'\",\n    \"Phrase 'very much' is formal, not typical of informal style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Does not use exclamation marks or emoticons to convey enthusiasm\"\n  ]\n}"
+  },
+  {
+    "src_ind": "60",
+    "sentence": "They are wonderful, and I love them very much.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"They're awesome, and I love them very much!\",\n  \"fixed_weakness\": [\n    \"Uses formal vocabulary 'wonderful' instead of informal words like 'awesome'\",\n    \"Lacks contractions such as 'They're' and 'don't'\",\n    \"Does not use exclamation marks or emoticons to convey enthusiasm\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Phrase 'very much' is formal, not typical of informal style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "60",
+    "sentence": "They are wonderful, and I love them very much.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"They are awesome, and I love them so much!\",\n  \"fixed_weakness\": [\n    \"Replaced formal vocabulary 'wonderful' with informal 'awesome'\",\n    \"Replaced formal phrase 'very much' with informal 'so much'\",\n    \"Added exclamation mark to convey enthusiasm\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks contractions; uses 'They are' instead of 'They're', and 'I love' instead of 'I'm loving' or 'I've' etc.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "60",
+    "sentence": "They are wonderful, and I love them very much.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"They're wonderful, and I love them so much!\",\n  \"fixed_weakness\": [\n    \"Lacks contractions such as 'They're' and 'don't'\",\n    \"Phrase 'very much' is formal, not typical of informal style\",\n    \"Does not use exclamation marks or emoticons to convey enthusiasm\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses formal vocabulary 'wonderful' instead of informal words like 'awesome'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "67",
+    "sentence": "I would not say I'm an avid rap fan.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I ain't really a huge rap fan.\",\n  \"fixed_weakness\": [\n    \"Replaced 'I would not say' with direct informal expression 'I ain't'\",\n    \"Replaced formal 'avid' with informal 'huge'\",\n    \"Added nonstandard spelling 'ain't' as an informal feature\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentence remains grammatically correct and polite, not casual or blunt\"\n  ]\n}"
+  },
+  {
+    "src_ind": "67",
+    "sentence": "I would not say I'm an avid rap fan.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I'm not a big rap fan.\",\n  \"fixed_weakness\": [\n    \"Replaced formal phrase 'I would not say' with direct informal expression 'I'm not'\",\n    \"Replaced formal/literary word 'avid' with informal 'big'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks informal features like slang, nonstandard spelling, or profanity\"\n  ]\n}"
+  },
+  {
+    "src_ind": "67",
+    "sentence": "I would not say I'm an avid rap fan.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I ain't no avid rap fan.\",\n  \"fixed_weakness\": [\n    \"Uses formal phrase 'I would not say' instead of direct informal expression.\",\n    \"Lacks common informal features like slang, nonstandard spelling, or profanity.\",\n    \"The sentence is grammatically correct and polite, not casual or blunt.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"The word 'avid' is too formal and literary for the target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "67",
+    "sentence": "I would not say I'm an avid rap fan.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I would not say I'm a mad rap fan, ya know.\",\n  \"fixed_weakness\": [\n    \"Replaced formal word 'avid' with slang 'mad'\",\n    \"Added informal phrase 'ya know' to introduce nonstandard spelling and casual tone\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses formal phrase 'I would not say' instead of direct informal expression.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "I enjoyed my involvement in the show.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I liked being part of the show.\",\n  \"fixed_weakness\": [\n    \"Changed 'enjoyed my involvement' to 'liked being part of' for a more casual expression\",\n    \"Replaced formal noun 'involvement' with informal phrase 'being part of'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"No exclamation or enthusiasm markers\"\n  ]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "I enjoyed my involvement in the show.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I've loved my involvement in the show!\",\n  \"fixed_weakness\": [\n    \"Uses formal phrasing ('enjoyed my involvement') instead of casual expressions.\",\n    \"Lacks contractions (e.g., 'I've', 'I'm') typical of informal style.\",\n    \"No exclamation or enthusiasm markers, unlike the casual excited tone in references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Noun 'involvement' is overly formal; informal alternatives like 'being part of' are preferred.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "I enjoyed my involvement in the show.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I loved being part of the show!\",\n  \"fixed_weakness\": [\n    \"Uses formal phrasing ('enjoyed my involvement') instead of casual expressions.\",\n    \"Noun 'involvement' is overly formal; informal alternatives like 'being part of' are preferred.\",\n    \"No exclamation or enthusiasm markers, unlike the casual excited tone in references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks contractions (e.g., 'I've', 'I'm') typical of informal style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "I enjoyed my involvement in the show.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I've enjoyed being part of the show!\",\n  \"fixed_weakness\": [\n    \"Lacks contractions (e.g., 'I've', 'I'm') typical of informal style.\",\n    \"Noun 'involvement' is overly formal; informal alternatives like 'being part of' are preferred.\",\n    \"No exclamation or enthusiasm markers, unlike the casual excited tone in references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses formal phrasing ('enjoyed') instead of casual expressions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "73",
+    "sentence": "I meant, it is digital, but I did not find it to be of good enough quality to be on a CD.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I meant, it's digital, but I didn't find it to have good enough quality to be on a CD.\",\n  \"fixed_weakness\": [\n    \"Uses 'it is' instead of informal contraction 'it's'.\",\n    \"Uses 'I did not' instead of casual 'I didn't'.\",\n    \"Phrase 'of good enough quality' is wordy and formal.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overall tone is too formal, lacks casual conversational style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "73",
+    "sentence": "I meant, it is digital, but I did not find it to be of good enough quality to be on a CD.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I meant, it's digital, but I didn't find it to be of good enough quality to be on a CD.\",\n  \"fixed_weakness\": [\n    \"Uses 'it's' instead of 'it is'\",\n    \"Uses 'I didn't' instead of 'I did not'\",\n    \"Overall tone is more casual and conversational\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Phrase 'of good enough quality' is wordy and formal\"\n  ]\n}"
+  },
+  {
+    "src_ind": "73",
+    "sentence": "I meant, it is digital, but I did not find it to be of good enough quality to be on a CD.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I meant, it's digital, but I did not find it good enough for a CD.\",\n  \"fixed_weakness\": [\n    \"Uses 'it's' instead of 'it is'\",\n    \"Replaced 'of good enough quality' with more informal phrasing\",\n    \"Overall tone more casual\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses 'I did not' instead of casual 'I didn't'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "73",
+    "sentence": "I meant, it is digital, but I did not find it to be of good enough quality to be on a CD.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I meant, it is digital, but I didn't find the quality good enough for a CD.\",\n  \"fixed_weakness\": [\n    \"Changed 'I did not' to casual 'I didn't'\",\n    \"Rephrased 'of good enough quality to be on a CD' to more casual 'the quality good enough for a CD'\",\n    \"Made overall tone more casual\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses 'it is' instead of informal contraction 'it's'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "88",
+    "sentence": "The quantity of beer they consume must impair their sight and hearing.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The amount of beer they're drinking must be messing up their sight and hearing.\",\n  \"fixed_weakness\": [\n    \"Uses formal vocabulary ('quantity', 'impair') instead of simpler, informal words.\",\n    \"No contractions or casual verb forms present.\",\n    \"Sentence is grammatically perfect with no fragments or run-ons.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks any direct address to the audience like 'you' or 'we'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "88",
+    "sentence": "The quantity of beer they consume must impair their sight and hearing.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The amount of beer they drink has gotta mess up their sight and hearing, you know?\",\n  \"fixed_weakness\": [\n    \"Uses formal vocabulary ('quantity' → 'amount', 'impair' → 'mess up') instead of simpler, informal words.\",\n    \"No contractions or casual verb forms present → added contraction 'has gotta' (or 'has got to') and informal 'mess up'.\",\n    \"Lacks any direct address to the audience like 'you' or 'we' → added 'you know?'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentence is grammatically perfect with no fragments or run-ons.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "88",
+    "sentence": "The quantity of beer they consume must impair their sight and hearing.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The amount of beer they drink must mess up their sight and hearing you know\",\n  \"fixed_weakness\": [\"Replaced 'quantity' with 'amount'\", \"Replaced 'impair' with 'mess up'\", \"Added direct address 'you know'\", \"Removed perfect grammar by creating a run-on sentence\"],\n  \"preserved_weaknesses\": [\"No contractions present\", \"No casual verb forms (e.g., 'gonna', 'wanna')\"]\n}"
+  },
+  {
+    "src_ind": "88",
+    "sentence": "The quantity of beer they consume must impair their sight and hearing.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"You know, the quantity of beer they consume. Gotta impair their sight and hearing.\",\n  \"fixed_weakness\": [\n    \"Added casual verb form 'gotta' instead of 'must'\",\n    \"Introduced sentence fragments (noun phrase and verb phrase)\",\n    \"Added direct address 'you know'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses formal vocabulary ('quantity', 'impair')\"\n  ]\n}"
+  }
+]

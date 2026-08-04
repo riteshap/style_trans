@@ -1,0 +1,1257 @@
+[
+  {
+    "src_ind": "2",
+    "sentence": "Yo mama's so big, that she climbed Mt.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Your mother is so large that she climbed Mount Everest but could not summit.\"\n}"
+  },
+  {
+    "src_ind": "3",
+    "sentence": "hell yea dat song is theshit",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"certainly that song is excellent\",\n  \"fixed_weakness\": [\"non-standard spelling\", \"slang\"],\n  \"preserved_weaknesses\": [\"missing capitalization at the start of the sentence\", \"missing punctuation at the end of the sentence\"]\n}"
+  },
+  {
+    "src_ind": "3",
+    "sentence": "hell yea dat song is theshit",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Hell yea that song is theshit\",\n  \"fixed_weakness\": [\n    \"Uses non-standard spelling (e.g., 'dat' for 'that')\",\n    \"Missing capitalization at the start of the sentence\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains slang (e.g., 'hell yea', 'theshit')\",\n    \"Missing punctuation at the end of the sentence\"\n  ]\n}"
+  },
+  {
+    "src_ind": "3",
+    "sentence": "hell yea dat song is theshit",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"hell yea that song is theshit.\",\n  \"fixed_weakness\": [\n    \"Uses non-standard spelling (e.g., 'dat' for 'that')\",\n    \"Missing punctuation at the end of the sentence\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains slang (e.g., 'hell yea', 'theshit')\",\n    \"Missing capitalization at the start of the sentence\"\n  ]\n}"
+  },
+  {
+    "src_ind": "3",
+    "sentence": "hell yea dat song is theshit",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Yes, dat song is excellent\",\n  \"fixed_weakness\": [\n    \"Contains slang (e.g., 'hell yea', 'theshit')\",\n    \"Missing capitalization at the start of the sentence\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses non-standard spelling (e.g., 'dat' for 'that')\",\n    \"Missing punctuation at the end of the sentence\"\n  ]\n}"
+  },
+  {
+    "src_ind": "3",
+    "sentence": "hell yea dat song is theshit",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"indeed dat song is excellent.\",\n  \"fixed_weakness\": [\n    \"Contains slang (e.g., 'hell yea', 'theshit')\",\n    \"Missing punctuation at the end of the sentence\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses non-standard spelling (e.g., 'dat' for 'that')\",\n    \"Missing capitalization at the start of the sentence\"\n  ]\n}"
+  },
+  {
+    "src_ind": "3",
+    "sentence": "hell yea dat song is theshit",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Hell yea dat song is theshit.\",\n  \"fixed_weakness\": [\"Missing capitalization at the start of the sentence\", \"Missing punctuation at the end of the sentence\"],\n  \"preserved_weaknesses\": [\"Uses non-standard spelling (e.g., 'dat' for 'that')\", \"Contains slang (e.g., 'hell yea', 'theshit')\"]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "he didn't make anymore movies and the movie was called :the birth of a legend",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"He did not make anymore movies and the movie was called :the birth of a legend\",\n  \"fixed_weakness\": [\n    \"Lack of capitalization at sentence start (changed 'he' to 'He')\",\n    \"Use of contraction 'didn't' replaced with formal 'did not'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal phrasing 'make anymore movies' instead of 'make any more movies'\",\n    \"Improper punctuation and capitalization in movie title (colon before title, lowercase 'the')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "he didn't make anymore movies and the movie was called :the birth of a legend",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"He didn't make any more movies and the movie was called :the birth of a legend\",\n  \"fixed_weakness\": [\n    \"Lack of capitalization at sentence start\",\n    \"Informal phrasing 'make anymore movies' instead of 'make any more movies'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Use of contraction 'didn't' instead of formal 'did not'\",\n    \"Improper punctuation and capitalization in movie title\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "he didn't make anymore movies and the movie was called :the birth of a legend",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"He didn't make anymore movies and the movie was called: The Birth of a Legend.\",\n  \"fixed_weakness\": [\"Capitalized first word of sentence (He)\", \"Corrected movie title capitalization and colon punctuation (called: The Birth of a Legend)\"],\n  \"preserved_weaknesses\": [\n    \"Use of contraction 'didn't' instead of formal 'did not'\",\n    \"Informal phrasing 'make anymore movies' instead of 'make any more movies'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "he didn't make anymore movies and the movie was called :the birth of a legend",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"he did not make any more movies and the movie was called :the birth of a legend\",\n  \"fixed_weakness\": [\n    \"Use of contraction 'didn't' instead of formal 'did not'\",\n    \"Informal phrasing 'make anymore movies' instead of 'make any more movies'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lack of capitalization at sentence start ('he')\",\n    \"Improper punctuation and capitalization in movie title\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "he didn't make anymore movies and the movie was called :the birth of a legend",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"he did not make anymore movies and the movie was called The Birth of a Legend\",\n  \"fixed_weakness\": [\"Use of contraction \\\"didn't\\\" instead of formal \\\"did not\\\"\", \"Improper punctuation and capitalization in movie title (\\\":the birth of a legend\\\" to \\\"The Birth of a Legend\\\")\"],\n  \"preserved_weaknesses\": [\n    \"Lack of capitalization at sentence start (\\\"he\\\")\",\n    \"Informal phrasing \\\"make anymore movies\\\" instead of \\\"make any more movies\\\"\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "he didn't make anymore movies and the movie was called :the birth of a legend",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"he didn't make any more movies and the movie was called The Birth of a Legend\",\n  \"fixed_weakness\": [\n    \"Informal phrasing 'make anymore movies' changed to 'make any more movies'\",\n    \"Improper punctuation and capitalization in movie title ': the birth of a legend' fixed to 'The Birth of a Legend'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lack of capitalization at sentence start ('he')\",\n    \"Use of contraction 'didn't' instead of formal 'did not'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "5",
+    "sentence": "Spider man was a great Comic movie, fast paced.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Spider man was a great comic movie, fast paced.\",\n  \"fixed_weakness\": [\n    \"Added period at the end of the sentence.\",\n    \"Corrected capitalization of 'Comic' to 'comic'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Non-standard spelling 'Spider man' (should be 'Spiderman' or 'Spider-Man').\",\n    \"Missing hyphen in compound adjective 'fast-paced'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "5",
+    "sentence": "Spider man was a great Comic movie, fast paced.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Spiderman was a great Comic movie, fast paced.\",\n  \"fixed_weakness\": [\n    \"Missing period at the end of the sentence.\",\n    \"Non-standard spelling 'Spider man' (should be 'Spiderman' or 'Spider-Man').\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Incorrect capitalization of 'Comic'.\",\n    \"Missing hyphen in compound adjective 'fast-paced'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "5",
+    "sentence": "Spider man was a great Comic movie, fast paced.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Spider man was a great Comic movie, fast-paced.\",\n  \"fixed_weakness\": [\"Missing period at the end of the sentence\", \"Missing hyphen in compound adjective 'fast-paced'\"],\n  \"preserved_weaknesses\": [\"Incorrect capitalization of 'Comic'\", \"Non-standard spelling 'Spider man' (should be 'Spiderman' or 'Spider-Man')\"]\n}"
+  },
+  {
+    "src_ind": "5",
+    "sentence": "Spider man was a great Comic movie, fast paced.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Spider-Man was a great comic movie, fast paced\",\n  \"fixed_weakness\": [\n    \"Incorrect capitalization of 'Comic' fixed to lowercase 'comic'\",\n    \"Non-standard spelling 'Spider man' fixed to 'Spider-Man'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing period at the end of the sentence\",\n    \"Missing hyphen in compound adjective 'fast-paced' (kept as 'fast paced')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "5",
+    "sentence": "Spider man was a great Comic movie, fast paced.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Spider man was a great comic movie, fast-paced\",\n  \"fixed_weakness\": [\n    \"Changed 'Comic' to 'comic' (lowercase)\",\n    \"Added hyphen in 'fast-paced'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing period at the end of the sentence\",\n    \"Non-standard spelling 'Spider man'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "5",
+    "sentence": "Spider man was a great Comic movie, fast paced.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Spider-Man was a great Comic movie, fast-paced\",\n  \"fixed_weakness\": [\n    \"Non-standard spelling 'Spider man' changed to 'Spider-Man'\",\n    \"Missing hyphen in compound adjective 'fast-paced'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing period at the end of the sentence\",\n    \"Incorrect capitalization of 'Comic'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "9",
+    "sentence": "dead reckless and the number 12 looks like you",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Dead reckless and the number 12 looks like you.\",\n  \"fixed_weakness\": [\"Missing capitalization at the beginning of the sentence.\", \"Missing punctuation at the end of the sentence.\"],\n  \"preserved_weaknesses\": [\"Run-on structure without proper conjunctions or separators.\"]\n}"
+  },
+  {
+    "src_ind": "9",
+    "sentence": "dead reckless and the number 12 looks like you",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Dead Reckless and the Number 12 Looks Like You\",\n  \"fixed_weakness\": [\n    \"Added capitalization at the beginning of the sentence\",\n    \"Fixed run-on structure by separating the two items with a conjunction and capitalizing proper nouns\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing punctuation at the end of the sentence\"\n  ]\n}"
+  },
+  {
+    "src_ind": "9",
+    "sentence": "dead reckless and the number 12 looks like you",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"dead reckless, and the number 12 looks like you.\",\n  \"fixed_weakness\": [\n    \"Missing punctuation at the end of the sentence.\",\n    \"Run-on structure without proper conjunctions or separators.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing capitalization at the beginning of the sentence.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "14",
+    "sentence": "they are all jewish are u watching the vh1 show i am",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"they are all jewish are you watching the vh1 show I am\",\n  \"fixed_weakness\": [\n    \"Use of 'u' instead of 'you'\",\n    \"Missing capitalization of the pronoun 'I'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing capitalization of proper noun 'Jewish'\",\n    \"No punctuation between clauses, creating a run-on sentence\"\n  ]\n}"
+  },
+  {
+    "src_ind": "14",
+    "sentence": "they are all jewish are u watching the vh1 show i am",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"they are all Jewish are you watching the vh1 show i am\",\n  \"fixed_weakness\": [\"Used 'you' instead of 'u'\", \"Capitalized 'Jewish'\"],\n  \"preserved_weaknesses\": [\n    \"Missing capitalization of pronoun 'I' (stays lowercase 'i')\",\n    \"No punctuation between clauses, creating a run-on sentence\"\n  ]\n}"
+  },
+  {
+    "src_ind": "14",
+    "sentence": "they are all jewish are u watching the vh1 show i am",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"they are all jewish. are you watching the vh1 show? i am.\",\n  \"fixed_weakness\": [\"Use of 'u' instead of 'you'\", \"No punctuation between clauses, creating a run-on sentence\"],\n  \"preserved_weaknesses\": [\"Missing capitalization of the pronoun 'I'\", \"Missing capitalization of proper noun 'Jewish'\"]\n}"
+  },
+  {
+    "src_ind": "14",
+    "sentence": "they are all jewish are u watching the vh1 show i am",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"they are all Jewish are u watching the vh1 show I am\",\n  \"fixed_weakness\": [\n    \"Missing capitalization of the pronoun 'I'.\",\n    \"Missing capitalization of proper noun 'Jewish'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Use of 'u' instead of 'you'.\",\n    \"No punctuation between clauses, creating a run-on sentence.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "14",
+    "sentence": "they are all jewish are u watching the vh1 show i am",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"they are all jewish. are u watching the vh1 show I am\",\n  \"fixed_weakness\": [\"Missing capitalization of the pronoun 'I'\", \"No punctuation between clauses, creating a run-on sentence\"],\n  \"preserved_weaknesses\": [\"Use of 'u' instead of 'you'\", \"Missing capitalization of proper noun 'Jewish'\"]\n}"
+  },
+  {
+    "src_ind": "14",
+    "sentence": "they are all jewish are u watching the vh1 show i am",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"they are all Jewish. are u watching the vh1 show i am\",\n  \"fixed_weakness\": [\n    \"Missing capitalization of proper noun 'Jewish'.\",\n    \"No punctuation between clauses, creating a run-on sentence.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Use of 'u' instead of 'you'.\",\n    \"Missing capitalization of the pronoun 'I'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "a thousand miles by vanesa carlton",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"A Thousand Miles is by Vanesa Carlton\",\n  \"fixed_weakness\": [\"Lacks proper capitalization of the title and artist name.\", \"Not written as a complete sentence.\"],\n  \"preserved_weaknesses\": [\"Missing punctuation at the end.\"]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "a thousand miles by vanesa carlton",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"A Thousand Miles by Vanessa Carlton.\",\n  \"fixed_weakness\": [\n    \"Lacks proper capitalization of the title and artist name.\",\n    \"Missing punctuation at the end.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Not written as a complete sentence.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "a thousand miles by vanesa carlton",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"a thousand miles is by vanesa carlton.\",\n  \"fixed_weakness\": [\"Not written as a complete sentence\", \"Missing punctuation at the end\"],\n  \"preserved_weaknesses\": [\"Lacks proper capitalization of the title and artist name\"]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "daddy bransen will eventually slow his girls down too much.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Father Bransen will eventually slow his girls down too much.\",\n  \"fixed_weakness\": [\n    \"Informal term 'daddy' replaced with formal 'Father'\",\n    \"Missing capitalization for proper name 'Bransen' corrected\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal idiom 'slow his girls down'\",\n    \"Vague and informal phrase 'too much'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "daddy bransen will eventually slow his girls down too much.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"father bransen will eventually restrict his girls too much.\",\n  \"fixed_weakness\": [\n    \"Informal term 'daddy' replaced with 'father'\",\n    \"Informal idiom 'slow his girls down' replaced with 'restrict his girls'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing capitalization for proper name 'Bransen' (should be 'Bransen' but kept lowercase)\",\n    \"Vague and informal phrase 'too much' kept as is\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "daddy bransen will eventually slow his girls down too much.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"father bransen will eventually slow his girls down excessively.\",\n  \"fixed_weakness\": [\n    \"Informal term 'daddy' replaced with 'father'\",\n    \"Vague and informal phrase 'too much' replaced with 'excessively'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing capitalization for proper name 'Bransen'\",\n    \"Informal idiom 'slow his girls down'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "daddy bransen will eventually slow his girls down too much.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Daddy Bransen will eventually restrict his girls too much.\",\n  \"fixed_weakness\": [\n    \"Missing capitalization for proper name 'Bransen'\",\n    \"Informal idiom 'slow his girls down'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal term 'daddy' instead of 'father' or proper name\",\n    \"Vague and informal phrase 'too much'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "daddy bransen will eventually slow his girls down too much.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"daddy Bransen will eventually slow his girls down to an excessive degree.\",\n  \"fixed_weakness\": [\n    \"Capitalization of proper name 'Bransen'\",\n    \"Replacement of vague/informal phrase 'too much' with a more formal expression\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal term 'daddy' instead of 'father' or proper name\",\n    \"Informal idiom 'slow his girls down'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "daddy bransen will eventually slow his girls down too much.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"daddy bransen will eventually hinder his daughters excessively.\",\n  \"fixed_weakness\": [\"Informal idiom 'slow his girls down' replaced with 'hinder his daughters'\", \"Vague and informal phrase 'too much' replaced with 'excessively'\"],\n  \"preserved_weaknesses\": [\"Informal term 'daddy' instead of 'father' or proper name\", \"Missing capitalization for proper name 'Bransen'\"]\n}"
+  },
+  {
+    "src_ind": "17",
+    "sentence": "maybe she has s psychological disorder... maybe shes bipolar????",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"maybe she has s psychological disorder... maybe she is bipolar?\",\n  \"fixed_weakness\": [\"Uses contraction 'shes' instead of 'she is'\", \"Ends with multiple question marks for emphasis\"],\n  \"preserved_weaknesses\": [\"Begins sentence with lowercase 'maybe'\", \"Uses ellipsis (...) which is informal\"]\n}"
+  },
+  {
+    "src_ind": "17",
+    "sentence": "maybe she has s psychological disorder... maybe shes bipolar????",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Maybe she has s psychological disorder... maybe she is bipolar????\",\n  \"fixed_weakness\": [\n    \"Uses contraction 'shes' instead of 'she is'\",\n    \"Begins sentence with lowercase 'maybe'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Ends with multiple question marks for emphasis\",\n    \"Uses ellipsis (...) which is informal\"\n  ]\n}"
+  },
+  {
+    "src_ind": "17",
+    "sentence": "maybe she has s psychological disorder... maybe shes bipolar????",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"maybe she has s psychological disorder. maybe she is bipolar????\",\n  \"fixed_weakness\": [\n    \"Uses contraction 'shes' instead of 'she is'\",\n    \"Uses ellipsis (...) which is informal\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Begins sentence with lowercase 'maybe'\",\n    \"Ends with multiple question marks for emphasis\"\n  ]\n}"
+  },
+  {
+    "src_ind": "17",
+    "sentence": "maybe she has s psychological disorder... maybe shes bipolar????",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Maybe she has s psychological disorder... maybe shes bipolar?\",\n  \"fixed_weakness\": [\n    \"Begins sentence with lowercase 'maybe'\",\n    \"Ends with multiple question marks for emphasis\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses contraction 'shes' instead of 'she is'\",\n    \"Uses ellipsis (...)\"\n  ]\n}"
+  },
+  {
+    "src_ind": "17",
+    "sentence": "maybe she has s psychological disorder... maybe shes bipolar????",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"maybe she has s psychological disorder. maybe shes bipolar?\",\n  \"fixed_weakness\": [\"Uses ellipsis (...)\", \"Ends with multiple question marks for emphasis\"],\n  \"preserved_weaknesses\": [\n    \"Uses contraction 'shes' instead of 'she is'\",\n    \"Begins sentence with lowercase 'maybe'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "17",
+    "sentence": "maybe she has s psychological disorder... maybe shes bipolar????",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Maybe she has s psychological disorder. Maybe shes bipolar????\",\n  \"fixed_weakness\": [\n    \"Begins sentence with lowercase 'maybe'\",\n    \"Uses ellipsis (...) which is informal\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses contraction 'shes' instead of 'she is'\",\n    \"Ends with multiple question marks for emphasis\"\n  ]\n}"
+  },
+  {
+    "src_ind": "18",
+    "sentence": "it has nothing to do with yahoo music.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"It has nothing to do with yahoo music.\"\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "prolly to much for you but it depends on wut time wut show and wut channel",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"probably too much for you but it depends on wut time wut show and wut channel\",\n  \"fixed_weakness\": [\"Informal abbreviation 'prolly' replaced with 'probably'\", \"Misspelling 'to' for 'too' corrected\"],\n  \"preserved_weaknesses\": [\"Slang spelling 'wut' for 'what'\", \"Lack of capitalization\", \"Lack of punctuation\"]\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "prolly to much for you but it depends on wut time wut show and wut channel",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"probably to much for you but it depends on what time what show and what channel\",\n  \"fixed_weakness\": [\n    \"Informal abbreviation 'prolly' replaced with 'probably'\",\n    \"Slang spelling 'wut' replaced with 'what'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Misspelling 'to' for 'too'\",\n    \"Lack of capitalization\",\n    \"Lack of punctuation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "prolly to much for you but it depends on wut time wut show and wut channel",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Probably to much for you but it depends on wut time wut show and wut channel.\",\n  \"fixed_weakness\": [\n    \"Informal abbreviation 'prolly' replaced with 'probably'\",\n    \"Capitalization and punctuation added\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Misspelling 'to' for 'too'\",\n    \"Slang spelling 'wut' for 'what'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "prolly to much for you but it depends on wut time wut show and wut channel",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"prolly too much for you but it depends on what time what show and what channel\",\n  \"fixed_weakness\": [\n    \"Misspelling 'to' for 'too'\",\n    \"Slang spelling 'wut' for 'what'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal abbreviation 'prolly' instead of 'probably'\",\n    \"Lack of capitalization and punctuation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "prolly to much for you but it depends on wut time wut show and wut channel",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Prolly too much for you, but it depends on wut time, wut show, and wut channel.\",\n  \"fixed_weakness\": [\n    \"Misspelling 'to' for 'too'\",\n    \"Lack of capitalization and punctuation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal abbreviation 'prolly' instead of 'probably'\",\n    \"Slang spelling 'wut' for 'what'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "prolly to much for you but it depends on wut time wut show and wut channel",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Prolly to much for you, but it depends on what time, what show, and what channel.\",\n  \"fixed_weakness\": [\n    \"Replaced slang spelling 'wut' with 'what'\",\n    \"Added capitalization at the beginning\",\n    \"Added punctuation at the end\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal abbreviation 'prolly' instead of 'probably'\",\n    \"Misspelling 'to' for 'too'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "24",
+    "sentence": "but you should give us some more clues.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"You should give us some more clues instead\",\n  \"fixed_weakness\": [\n    \"Starts with lowercase letter, missing capitalization\",\n    \"Begins with conjunction 'but', less formal for sentence start\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks end punctuation; uses no period or question mark\",\n    \"Phrase 'some more clues' is informal; prefer 'more clues'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "24",
+    "sentence": "but you should give us some more clues.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"But you should give us some more clues.\",\n  \"fixed_weakness\": [\n    \"Starts with lowercase letter, missing capitalization.\",\n    \"Lacks end punctuation; uses no period or question mark.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Begins with conjunction 'but', less formal for sentence start.\",\n    \"Phrase 'some more clues' is informal; prefer 'more clues'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "24",
+    "sentence": "but you should give us some more clues.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"But you should give us more clues\",\n  \"fixed_weakness\": [\"Starts with lowercase letter, missing capitalization\", \"Phrase 'some more clues' is informal; prefer 'more clues'.\"],\n  \"preserved_weaknesses\": [\"Begins with conjunction 'but', less formal for sentence start.\", \"Lacks end punctuation; uses no period or question mark.\"]\n}"
+  },
+  {
+    "src_ind": "24",
+    "sentence": "but you should give us some more clues.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"you should give us some more clues.\",\n  \"fixed_weakness\": [\n    \"Begins with conjunction 'but', less formal for sentence start.\",\n    \"Lacks end punctuation; uses no period or question mark.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Starts with lowercase letter, missing capitalization.\",\n    \"Phrase 'some more clues' is informal; prefer 'more clues'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "24",
+    "sentence": "but you should give us some more clues.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"you should give us more clues\",\n  \"fixed_weakness\": [\n    \"Begins with conjunction 'but', less formal for sentence start.\",\n    \"Phrase 'some more clues' is informal; prefer 'more clues'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Starts with lowercase letter, missing capitalization.\",\n    \"Lacks end punctuation; uses no period or question mark.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "24",
+    "sentence": "but you should give us some more clues.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"but you should give us more clues.\",\n  \"fixed_weakness\": [\n    \"Lacks end punctuation; uses no period or question mark.\",\n    \"Phrase 'some more clues' is informal; prefer 'more clues'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Starts with lowercase letter, missing capitalization.\",\n    \"Begins with conjunction 'but', less formal for sentence start.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "26",
+    "sentence": "HOWARD STERN SUCKS MONKEY BALLS O&A PARTY ROCK!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"howard stern sucks monkey balls o&a party rock\",\n  \"fixed_weakness\": [\"Excessive use of all-caps text\", \"Overuse of exclamation marks\"],\n  \"preserved_weaknesses\": [\"Vulgar language is inappropriate for a formal style\", \"Lack of proper sentence structure and capitalization rules\"]\n}"
+  },
+  {
+    "src_ind": "26",
+    "sentence": "HOWARD STERN SUCKS MONKEY BALLS O&A PARTY ROCK!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"howard stern is bad o&a party rock!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\",\n  \"fixed_weakness\": [\"Excessive use of all-caps text, which is informal.\", \"Vulgar language is inappropriate for a formal style.\"],\n  \"preserved_weaknesses\": [\n    \"Overuse of exclamation marks, violating formal punctuation norms.\",\n    \"Lack of proper sentence structure and capitalization rules.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "26",
+    "sentence": "HOWARD STERN SUCKS MONKEY BALLS O&A PARTY ROCK!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Howard Stern sucks monkey balls O&A Party Rock!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\",\n  \"fixed_weakness\": [\n    \"Excessive use of all-caps text, which is informal.\",\n    \"Lack of proper sentence structure and capitalization rules.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overuse of exclamation marks, violating formal punctuation norms.\",\n    \"Vulgar language is inappropriate for a formal style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "26",
+    "sentence": "HOWARD STERN SUCKS MONKEY BALLS O&A PARTY ROCK!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"HOWARD STERN IS TERRIBLE O&A PARTY ROCK\",\n  \"fixed_weakness\": [\"Overuse of exclamation marks\", \"Vulgar language\"],\n  \"preserved_weaknesses\": [\"Excessive use of all-caps text\", \"Lack of proper sentence structure and capitalization rules\"]\n}"
+  },
+  {
+    "src_ind": "26",
+    "sentence": "HOWARD STERN SUCKS MONKEY BALLS O&A PARTY ROCK!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"HOWARD STERN SUCKS MONKEY BALLS O&A PARTY ROCK.\",\n  \"fixed_weakness\": [\n    \"Overuse of exclamation marks\",\n    \"Lack of proper sentence structure and capitalization rules\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Excessive use of all-caps text\",\n    \"Vulgar language inappropriate for formal style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "26",
+    "sentence": "HOWARD STERN SUCKS MONKEY BALLS O&A PARTY ROCK!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"HOWARD STERN IS TERRIBLE, AND O&A PARTY ROCK!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\",\n  \"fixed_weakness\": [\n    \"Vulgar language replaced with appropriate expression\",\n    \"Lack of proper sentence structure corrected to a complete sentence\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Excessive use of all-caps text\",\n    \"Overuse of exclamation marks\"\n  ]\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "is this suppost to be a dirty question??",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Is this supposed to be a dirty question??\",\n  \"fixed_weakness\": [\n    \"Misspelling of 'supposed' as 'suppost'.\",\n    \"Lack of capitalization at the beginning of the sentence.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Use of double question marks instead of a single one.\",\n    \"Informal word 'dirty' is inappropriate for formal style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "is this suppost to be a dirty question??",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"is this supposed to be a dirty question?\",\n  \"fixed_weakness\": [\n    \"Misspelling of 'supposed' as 'suppost'\",\n    \"Use of double question marks instead of a single one\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lack of capitalization at the beginning of the sentence\",\n    \"Informal word 'dirty' is inappropriate for formal style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "is this suppost to be a dirty question??",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"is this supposed to be an inappropriate question??\",\n  \"fixed_weakness\": [\"Corrected misspelling of 'supposed' as 'suppost'.\", \"Replaced informal word 'dirty' with formal word 'inappropriate'.\"],\n  \"preserved_weaknesses\": [\"Lack of capitalization at the beginning of the sentence.\", \"Use of double question marks instead of a single one.\"]\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "is this suppost to be a dirty question??",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Is this suppost to be a dirty question?\",\n  \"fixed_weakness\": [\"Capitalization of first letter\", \"Replaced double question marks with single question mark\"],\n  \"preserved_weaknesses\": [\"Misspelling of 'supposed' as 'suppost'\", \"Informal word 'dirty' inappropriate for formal style\"]\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "is this suppost to be a dirty question??",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Is this suppost to be a vulgar question??\",\n  \"fixed_weakness\": [\n    \"Lack of capitalization at the beginning of the sentence.\",\n    \"Informal word 'dirty' is inappropriate for formal style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Misspelling of 'supposed' as 'suppost'.\",\n    \"Use of double question marks instead of a single one.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "is this suppost to be a dirty question??",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"is this suppost to be a vulgar question?\",\n  \"fixed_weakness\": [\n    \"Replaced double question marks with a single question mark\",\n    \"Replaced informal word 'dirty' with more formal 'vulgar'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Misspelling of 'supposed' as 'suppost'\",\n    \"Lack of capitalization at the beginning of the sentence\"\n  ]\n}"
+  },
+  {
+    "src_ind": "35",
+    "sentence": "airplane no human can fly alone",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Airplane no human can fly alone.\",\n  \"fixed_weakness\": [\"Lacks capitalization at the start of the sentence\", \"Lacks ending punctuation (period)\"],\n  \"preserved_weaknesses\": [\n    \"Incorrect word order for formal English\",\n    \"Missing article before 'airplane'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "35",
+    "sentence": "airplane no human can fly alone",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"No human can fly airplane alone\",\n  \"fixed_weakness\": [\"Lacks capitalization at the start of the sentence.\", \"Incorrect word order for formal English.\"],\n  \"preserved_weaknesses\": [\"Lacks ending punctuation (period).\", \"Missing article before 'airplane'.\"]\n}"
+  },
+  {
+    "src_ind": "35",
+    "sentence": "airplane no human can fly alone",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"An airplane no human can fly alone\",\n  \"fixed_weakness\": [\n    \"Lacks capitalization at the start of the sentence.\",\n    \"Missing article before 'airplane'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks ending punctuation (period).\",\n    \"Incorrect word order for formal English.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "35",
+    "sentence": "airplane no human can fly alone",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"no human can fly airplane alone.\",\n  \"fixed_weakness\": [\n    \"Lacks ending punctuation (period).\",\n    \"Incorrect word order for formal English.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks capitalization at the start of the sentence.\",\n    \"Missing article before 'airplane'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "35",
+    "sentence": "airplane no human can fly alone",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"an airplane no human can fly alone.\",\n  \"fixed_weakness\": [\"Lacks ending punctuation (period)\", \"Missing article before 'airplane'.\"],\n  \"preserved_weaknesses\": [\n    \"Lacks capitalization at the start of the sentence.\",\n    \"Incorrect word order for formal English.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "35",
+    "sentence": "airplane no human can fly alone",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"no human can fly an airplane alone\",\n  \"fixed_weakness\": [\"Incorrect word order for formal English\", \"Missing article before 'airplane'\"],\n  \"preserved_weaknesses\": [\"Lacks capitalization at the start of the sentence\", \"Lacks ending punctuation (period)\"]\n}"
+  },
+  {
+    "src_ind": "37",
+    "sentence": "lol thats my birthday and yes.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"that's my birthday and yes\",\n  \"fixed_weakness\": [\n    \"Removed informal abbreviation 'lol'\",\n    \"Added apostrophe in 'thats' to 'that's'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks capitalization at the start of the sentence\",\n    \"Missing period at the end\"\n  ]\n}"
+  },
+  {
+    "src_ind": "37",
+    "sentence": "lol thats my birthday and yes.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Thats my birthday and yes.\",\n  \"fixed_weakness\": [\n    \"Uses the informal abbreviation 'lol'\",\n    \"Lacks capitalization at the start of the sentence\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing apostrophe in contraction 'thats'\",\n    \"Missing period at the end\"\n  ]\n}"
+  },
+  {
+    "src_ind": "37",
+    "sentence": "lol thats my birthday and yes.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"ha thats my birthday and yes.\",\n  \"fixed_weakness\": [\n    \"Uses the informal abbreviation 'lol'.\",\n    \"Missing period at the end.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing apostrophe in contraction 'thats'.\",\n    \"Lacks capitalization at the start of the sentence.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "37",
+    "sentence": "lol thats my birthday and yes.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Lol that's my birthday and yes\",\n  \"fixed_weakness\": [\"Missing apostrophe in contraction 'thats'\", \"Lacks capitalization at the start of the sentence\"],\n  \"preserved_weaknesses\": [\"Uses the informal abbreviation 'lol'\", \"Missing period at the end\"]\n}"
+  },
+  {
+    "src_ind": "37",
+    "sentence": "lol thats my birthday and yes.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"lol that's my birthday and yes.\",\n  \"fixed_weakness\": [\"Missing apostrophe in contraction 'thats'\"],\n  \"preserved_weaknesses\": [\"Uses the informal abbreviation 'lol'\", \"Lacks capitalization at the start of the sentence\"]\n}"
+  },
+  {
+    "src_ind": "37",
+    "sentence": "lol thats my birthday and yes.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Lol thats my birthday and yes.\",\n  \"fixed_weakness\": [\n    \"Lacks capitalization at the start of the sentence.\",\n    \"Missing period at the end.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses the informal abbreviation 'lol'.\",\n    \"Missing apostrophe in contraction 'thats'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "40",
+    "sentence": "i prefer cheaper by the dozen because its more of a family movie",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I prefer cheaper by the dozen because it's more of a family movie\",\n  \"fixed_weakness\": [\n    \"Incorrect capitalization of the pronoun 'I' (should be uppercase)\",\n    \"Missing apostrophe in 'its' (should be 'it's')\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing period at the end of the sentence\",\n    \"Movie title 'cheaper by the dozen' not properly capitalized\"\n  ]\n}"
+  },
+  {
+    "src_ind": "40",
+    "sentence": "i prefer cheaper by the dozen because its more of a family movie",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I prefer cheaper by the dozen because its more of a family movie.\",\n  \"fixed_weakness\": [\"Incorrect capitalization of pronoun 'I' (changed to uppercase)\", \"Missing period at end of sentence (added period)\"],\n  \"preserved_weaknesses\": [\"Missing apostrophe in 'its' (should be 'it's')\", \"Movie title 'cheaper by the dozen' not properly capitalized\"]\n}"
+  },
+  {
+    "src_ind": "40",
+    "sentence": "i prefer cheaper by the dozen because its more of a family movie",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I prefer Cheaper By the Dozen because its more of a family movie\",\n  \"fixed_weakness\": [\"Incorrect capitalization of 'i' to 'I'\", \"Movie title 'cheaper by the dozen' capitalized to 'Cheaper By the Dozen'\"],\n  \"preserved_weaknesses\": [\"Missing apostrophe in 'its'\", \"Missing period at the end of the sentence\"]\n}"
+  },
+  {
+    "src_ind": "40",
+    "sentence": "i prefer cheaper by the dozen because its more of a family movie",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i prefer cheaper by the dozen because it's more of a family movie.\",\n  \"fixed_weakness\": [\n    \"Missing apostrophe in 'its' fixed to 'it's'\",\n    \"Missing period added at the end of the sentence\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Incorrect capitalization of 'i' (should be 'I')\",\n    \"Movie title 'cheaper by the dozen' not properly capitalized\"\n  ]\n}"
+  },
+  {
+    "src_ind": "40",
+    "sentence": "i prefer cheaper by the dozen because its more of a family movie",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i prefer Cheaper by the Dozen because it's more of a family movie\",\n  \"fixed_weakness\": [\"Missing apostrophe in 'its' (should be 'it's')\", \"Movie title 'cheaper by the dozen' not properly capitalized\"],\n  \"preserved_weaknesses\": [\"Incorrect capitalization of the pronoun 'I' (should be uppercase)\", \"Missing period at the end of the sentence\"]\n}"
+  },
+  {
+    "src_ind": "40",
+    "sentence": "i prefer cheaper by the dozen because its more of a family movie",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i prefer Cheaper by the Dozen because its more of a family movie.\",\n  \"fixed_weakness\": [\n    \"Missing period at the end of the sentence.\",\n    \"Movie title 'cheaper by the dozen' not properly capitalized.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Incorrect capitalization of the pronoun 'I' (should be uppercase).\",\n    \"Missing apostrophe in 'its' (should be 'it's').\"\n  ]\n}"
+  },
+  {
+    "src_ind": "41",
+    "sentence": "Joel going out with Hilary Duff...EWWWWWWWW!!!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Joel is going out with Hilary Duff...!!!\",\n  \"fixed_weakness\": [\n    \"Missing auxiliary verb 'is' in 'Joel going out'\",\n    \"Informal interjection 'EWWWWWWWW' inappropriate for formal tone\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Excessive exclamation marks\",\n    \"Use of ellipsis for dramatic effect\"\n  ]\n}"
+  },
+  {
+    "src_ind": "41",
+    "sentence": "Joel going out with Hilary Duff...EWWWWWWWW!!!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Joel is going out with Hilary Duff...EWWWWWWWW!\",\n  \"fixed_weakness\": [\n    \"Missing auxiliary verb 'is' in 'Joel going out'\",\n    \"Excessive exclamation marks\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal interjection 'EWWWWWWWW' inappropriate for formal tone\",\n    \"Use of ellipsis for dramatic effect\"\n  ]\n}"
+  },
+  {
+    "src_ind": "41",
+    "sentence": "Joel going out with Hilary Duff...EWWWWWWWW!!!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Joel is going out with Hilary Duff EWWWWWWWW!!!\",\n  \"fixed_weakness\": [\"Missing auxiliary verb 'is' in 'Joel going out'\", \"Use of ellipsis for dramatic effect\"],\n  \"preserved_weaknesses\": [\"Informal interjection 'EWWWWWWWW' inappropriate for formal tone\", \"Excessive exclamation marks\"]\n}"
+  },
+  {
+    "src_ind": "41",
+    "sentence": "Joel going out with Hilary Duff...EWWWWWWWW!!!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Joel going out with Hilary Duff... how disagreeable.\",\n  \"fixed_weakness\": [\"Informal interjection 'EWWWWWWWW' inappropriate for formal tone\", \"Excessive exclamation marks\"],\n  \"preserved_weaknesses\": [\"Missing auxiliary verb 'is' in 'Joel going out'\", \"Use of ellipsis for dramatic effect\"]\n}"
+  },
+  {
+    "src_ind": "41",
+    "sentence": "Joel going out with Hilary Duff...EWWWWWWWW!!!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Joel going out with Hilary Duff!!!\",\n  \"fixed_weakness\": [\n    \"Informal interjection 'EWWWWWWWW' inappropriate for formal tone\",\n    \"Use of ellipsis for dramatic effect\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing auxiliary verb 'is' in 'Joel going out'\",\n    \"Excessive exclamation marks\"\n  ]\n}"
+  },
+  {
+    "src_ind": "41",
+    "sentence": "Joel going out with Hilary Duff...EWWWWWWWW!!!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Joel going out with Hilary Duff EWWWWWWWW\",\n  \"fixed_weakness\": [\"Excessive exclamation marks\", \"Use of ellipsis for dramatic effect\"],\n  \"preserved_weaknesses\": [\"Missing auxiliary verb 'is' in 'Joel going out'\", \"Informal interjection 'EWWWWWWWW' inappropriate for formal tone\"]\n}"
+  },
+  {
+    "src_ind": "42",
+    "sentence": "I'd have to say Paul Wall for a white boy he go hard ya know!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I would have to say Paul Wall for a white boy he go to great lengths ya know!\",\n  \"fixed_weakness\": [\"Uses informal contraction 'I'd'\", \"Uses slang phrase 'go hard'\"],\n  \"preserved_weaknesses\": [\"Uses nonstandard grammar 'he go'\", \"Uses casual filler 'ya know'\"]\n}"
+  },
+  {
+    "src_ind": "42",
+    "sentence": "I'd have to say Paul Wall for a white boy he go hard ya know!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I would have to say Paul Wall, for a white boy he goes hard, ya know!\",\n  \"fixed_weakness\": [\"Uses informal contraction 'I'd'\", \"Uses nonstandard grammar 'he go'\"],\n  \"preserved_weaknesses\": [\"Uses slang phrase 'go hard'\", \"Uses casual filler 'ya know'\"]\n}"
+  },
+  {
+    "src_ind": "42",
+    "sentence": "I'd have to say Paul Wall for a white boy he go hard ya know!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I would have to say Paul Wall for a white boy he go hard!\",\n  \"fixed_weakness\": [\n    \"Uses informal contraction 'I'd'\",\n    \"Uses casual filler 'ya know'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses slang phrase 'go hard'\",\n    \"Uses nonstandard grammar 'he go'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "42",
+    "sentence": "I'd have to say Paul Wall for a white boy he go hard ya know!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I'd have to say Paul Wall for a white boy he works hard ya know!\",\n  \"fixed_weakness\": [\"Uses slang phrase 'go hard'\", \"Uses nonstandard grammar 'he go'\"],\n  \"preserved_weaknesses\": [\"Uses informal contraction 'I'd'\", \"Uses casual filler 'ya know'\"]\n}"
+  },
+  {
+    "src_ind": "42",
+    "sentence": "I'd have to say Paul Wall for a white boy he go hard ya know!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I'd have to say Paul Wall for a white boy he go very well.\",\n  \"fixed_weakness\": [\"Uses slang phrase 'go hard'\", \"Uses casual filler 'ya know'\"],\n  \"preserved_weaknesses\": [\"Uses informal contraction 'I'd'\", \"Uses nonstandard grammar 'he go'\"]\n}"
+  },
+  {
+    "src_ind": "42",
+    "sentence": "I'd have to say Paul Wall for a white boy he go hard ya know!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I'd have to say Paul Wall for a white boy he goes hard.\",\n  \"fixed_weakness\": [\"Uses nonstandard grammar 'he go'\", \"Uses casual filler 'ya know'\"],\n  \"preserved_weaknesses\": [\"Uses informal contraction 'I'd'\", \"Uses slang phrase 'go hard'\"]\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "nobody aint got nothin' on asian persuasian(no pun intended)",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"nobody has anything on asian persuasian(no pun intended)\",\n  \"fixed_weakness\": [\n    \"Double negative\",\n    \"Non-standard grammar\",\n    \"Informal contractions 'aint' and 'nothin''\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Fails to capitalize proper noun 'Asian'\",\n    \"Informal parenthetical aside '(no pun intended)'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "nobody aint got nothin' on asian persuasian(no pun intended)",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"nobody ain't got anything on Asian persuasion(no pun intended)\",\n  \"fixed_weakness\": [\"Uses double negative and non-standard grammar\", \"Fails to capitalize proper noun 'Asian'\"],\n  \"preserved_weaknesses\": [\"Informal contractions like 'aint' and 'nothin''\", \"Informal parenthetical aside '(no pun intended)'\"]\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "nobody aint got nothin' on asian persuasian(no pun intended)",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"You got nothin' on asian persuasian\",\n  \"fixed_weakness\": [\n    \"Double negative eliminated by using a single negative (nothin') and a positive subject (You)\",\n    \"Removed informal parenthetical aside '(no pun intended)'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal contractions: 'nothin' preserved\",\n    \"Failure to capitalize proper noun 'asian'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "nobody aint got nothin' on asian persuasian(no pun intended)",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"nobody has not got nothing on Asian persuasian(no pun intended)\",\n  \"fixed_weakness\": [\n    \"Informal contractions like 'aint' and 'nothin''.\",\n    \"Fails to capitalize proper noun 'Asian'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses double negative and non-standard grammar.\",\n    \"Informal parenthetical aside '(no pun intended)'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "nobody aint got nothin' on asian persuasian(no pun intended)",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"nobody hasn't got nothing on asian persuasian\",\n  \"fixed_weakness\": [\n    \"Informal contractions like 'aint' and 'nothin''\",\n    \"Informal parenthetical aside '(no pun intended)'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses double negative and non-standard grammar\",\n    \"Fails to capitalize proper noun 'Asian'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "nobody aint got nothin' on asian persuasian(no pun intended)",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"nobody aint got nothin' on Asian persuasian\",\n  \"fixed_weakness\": [\n    \"Fails to capitalize proper noun 'Asian'.\",\n    \"Informal parenthetical aside '(no pun intended)'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses double negative and non-standard grammar.\",\n    \"Informal contractions like 'aint' and 'nothin''.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "44",
+    "sentence": "cuz i have an HP but is the same as Windows right?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"because I have an HP but is the same as Windows right?\",\n  \"fixed_weakness\": [\n    \"Replaced informal abbreviation 'cuz' with 'because'\",\n    \"Capitalized pronoun 'I'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing subject in 'but is the same' (should be 'it is')\",\n    \"Ends with informal tag question 'right?'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "44",
+    "sentence": "cuz i have an HP but is the same as Windows right?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"because i have an HP but it is the same as Windows right?\",\n  \"fixed_weakness\": [\n    \"Informal abbreviation 'cuz' replaced with 'because'\",\n    \"Missing subject in 'but is' fixed to 'but it is'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Fails to capitalize the pronoun 'I'\",\n    \"Ends with informal tag question 'right?' which is too casual\"\n  ]\n}"
+  },
+  {
+    "src_ind": "44",
+    "sentence": "cuz i have an HP but is the same as Windows right?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"because i have an HP but is the same as Windows.\",\n  \"fixed_weakness\": [\n    \"Uses informal abbreviation 'cuz' instead of 'because'.\",\n    \"Ends with informal tag question 'right?' which is too casual.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Fails to capitalize the pronoun 'I'.\",\n    \"Missing subject in 'but is the same' (should be 'it is').\"\n  ]\n}"
+  },
+  {
+    "src_ind": "44",
+    "sentence": "cuz i have an HP but is the same as Windows right?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"cuz I have an HP but it is the same as Windows right?\",\n  \"fixed_weakness\": [\"Fails to capitalize pronoun 'I'\", \"Missing subject in 'but is the same' (added 'it')\"],\n  \"preserved_weaknesses\": [\"Uses informal abbreviation 'cuz' instead of 'because'\", \"Ends with informal tag question 'right?' which is too casual\"]\n}"
+  },
+  {
+    "src_ind": "44",
+    "sentence": "cuz i have an HP but is the same as Windows right?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"cuz I have an HP but is the same as Windows, is it not?\",\n  \"fixed_weakness\": [\n    \"Fails to capitalize the pronoun 'I'.\",\n    \"Ends with informal tag question 'right?' which is too casual.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses informal abbreviation 'cuz' instead of 'because'.\",\n    \"Missing subject in 'but is the same' (should be 'it is').\"\n  ]\n}"
+  },
+  {
+    "src_ind": "44",
+    "sentence": "cuz i have an HP but is the same as Windows right?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"cuz i have an HP but it is the same as Windows.\",\n  \"fixed_weakness\": [\n    \"Missing subject in 'but is the same' corrected to 'it is'.\",\n    \"Informal tag question 'right?' removed.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses informal abbreviation 'cuz' instead of 'because'.\",\n    \"Fails to capitalize the pronoun 'I'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "47",
+    "sentence": "I'd have to say Paul Wall for a white boy he go hard ya know!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I would have to say Paul Wall for a white boy he is very talented ya know!\",\n  \"fixed_weakness\": [\n    \"Uses contraction 'I'd' instead of full form 'I would'\",\n    \"Includes slang 'go hard' which is informal\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains informal filler 'ya know'\",\n    \"Lacks proper punctuation and capitalization\"\n  ]\n}"
+  },
+  {
+    "src_ind": "47",
+    "sentence": "I'd have to say Paul Wall for a white boy he go hard ya know!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I would have to say Paul Wall for a white boy he go hard!\",\n  \"fixed_weakness\": [\"Uses contraction 'I'd' instead of full form 'I would'\", \"Contains informal filler 'ya know'\"],\n  \"preserved_weaknesses\": [\"Includes slang 'go hard' which is informal\", \"Lacks proper punctuation and capitalization\"]\n}"
+  },
+  {
+    "src_ind": "47",
+    "sentence": "I'd have to say Paul Wall for a white boy he go hard ya know!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I would have to say Paul Wall for a white boy he go hard ya know.\",\n  \"fixed_weakness\": [\"Uses full form 'I would' instead of contraction 'I'd'\", \"Added proper capitalization and ending punctuation\"],\n  \"preserved_weaknesses\": [\n    \"Includes slang 'go hard' which is informal\",\n    \"Contains informal filler 'ya know'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "47",
+    "sentence": "I'd have to say Paul Wall for a white boy he go hard ya know!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I'd have to say Paul Wall for a white boy he is impressive\",\n  \"fixed_weakness\": [\n    \"Replaced informal 'go hard' with more formal 'is impressive'\",\n    \"Removed informal filler 'ya know'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses contraction 'I'd' instead of full form 'I would'\",\n    \"Lacks proper punctuation and capitalization\"\n  ]\n}"
+  },
+  {
+    "src_ind": "47",
+    "sentence": "I'd have to say Paul Wall for a white boy he go hard ya know!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I'd have to say Paul Wall for a white boy, he works hard, ya know!\",\n  \"fixed_weakness\": [\"Replaced informal slang 'go hard' with more formal 'works hard'\", \"Added capitalization at beginning\", \"Inserted comma for proper punctuation\"],\n  \"preserved_weaknesses\": [\"Uses contraction 'I'd' instead of full form 'I would'\", \"Contains informal filler 'ya know'\"]\n}"
+  },
+  {
+    "src_ind": "47",
+    "sentence": "I'd have to say Paul Wall for a white boy he go hard ya know!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I'd have to say Paul Wall, for a white boy he go hard.\",\n  \"fixed_weakness\": [\n    \"Contains informal filler 'ya know'\",\n    \"Lacks proper punctuation and capitalization\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses contraction 'I'd' instead of full form 'I would'\",\n    \"Includes slang 'go hard' which is informal\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "nobody aint got nothin' on asian persuasian(no pun intended)",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"nobody has got nothing on asian persuasian(no pun intended)\",\n  \"fixed_weakness\": [\n    \"Uses informal contractions (e.g., 'ain't')\",\n    \"Uses colloquial elision (e.g., 'nothin'')\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses informal slang phrase 'got nothin' on'\",\n    \"Includes an informal parenthetical comment '(no pun intended)'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "nobody aint got nothin' on asian persuasian(no pun intended)",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"nobody has nothin' on asian persuasian(no pun intended)\",\n  \"fixed_weakness\": [\n    \"Uses informal contractions (e.g., 'ain't')\",\n    \"Uses informal slang phrase 'got nothin' on'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses colloquial elision (e.g., 'nothin'')\",\n    \"Includes an informal parenthetical comment '(no pun intended)'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "nobody aint got nothin' on asian persuasian(no pun intended)",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"nobody has got nothin' on asian persuasian\",\n  \"fixed_weakness\": [\n    \"Uses informal contractions (e.g., 'ain't')\",\n    \"Includes an informal parenthetical comment '(no pun intended)'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses colloquial elision (e.g., 'nothin'')\",\n    \"Uses informal slang phrase 'got nothin' on'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "nobody aint got nothin' on asian persuasian(no pun intended)",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Nobody ain't no match for asian persuasian(no pun intended)\",\n  \"fixed_weakness\": [\n    \"Uses colloquial elision (e.g., 'nothin'')\",\n    \"Uses informal slang phrase 'got nothin' on'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses informal contractions (e.g., 'ain't')\",\n    \"Includes an informal parenthetical comment '(no pun intended)'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "nobody aint got nothin' on asian persuasian(no pun intended)",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"nobody ain't got nothing on asian persuasian\",\n  \"fixed_weakness\": [\n    \"Uses colloquial elision (e.g., 'nothin'')\",\n    \"Includes an informal parenthetical comment '(no pun intended)'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses informal contractions (e.g., 'ain't')\",\n    \"Uses informal slang phrase 'got nothin' on'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "nobody aint got nothin' on asian persuasian(no pun intended)",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"nobody ain't nothin' compared to Asian Persuasion\",\n  \"fixed_weakness\": [\n    \"informal slang phrase 'got nothin' on'\",\n    \"informal parenthetical comment '(no pun intended)'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses informal contractions (e.g., 'ain't')\",\n    \"Uses colloquial elision (e.g., 'nothin'')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "49",
+    "sentence": "cuz i have an HP but is the same as Windows right?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Because I have an HP but is the same as Windows right?\",\n  \"fixed_weakness\": [\"Use of informal contraction 'cuz' replaced with 'because'\", \"Incorrect capitalization of pronoun 'i' corrected to 'I'\"],\n  \"preserved_weaknesses\": [\"Missing subject in clause 'but is the same' (should be 'but it is the same')\", \"Informal tag question 'right?' inappropriate for formal style\"]\n}"
+  },
+  {
+    "src_ind": "49",
+    "sentence": "cuz i have an HP but is the same as Windows right?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"because i have an HP but it is the same as Windows right?\",\n  \"fixed_weakness\": [\n    \"Replaced informal contraction 'cuz' with 'because'\",\n    \"Added missing subject 'it' in clause 'but is the same'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Incorrect capitalization of pronoun 'i' (should be 'I')\",\n    \"Informal tag question 'right?' inappropriate for formal style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "49",
+    "sentence": "cuz i have an HP but is the same as Windows right?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Because i have an HP but is the same as Windows?\",\n  \"fixed_weakness\": [\n    \"Use of informal contraction 'cuz' instead of 'because'.\",\n    \"Informal tag question 'right?' inappropriate for formal style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Incorrect capitalization of pronoun 'i' (should be 'I').\",\n    \"Missing subject in clause 'but is the same' (should be 'but it is the same').\"\n  ]\n}"
+  },
+  {
+    "src_ind": "49",
+    "sentence": "cuz i have an HP but is the same as Windows right?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"cuz I have an HP but it is the same as Windows right?\",\n  \"fixed_weakness\": [\n    \"Incorrect capitalization of pronoun 'i' should be 'I'\",\n    \"Missing subject in clause 'but is the same' should be 'but it is the same'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Use of informal contraction 'cuz' instead of 'because'\",\n    \"Informal tag question 'right?' inappropriate for formal style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "49",
+    "sentence": "cuz i have an HP but is the same as Windows right?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"cuz I have an HP but is the same as Windows?\",\n  \"fixed_weakness\": [\"Incorrect capitalization of pronoun 'i' (should be 'I').\", \"Informal tag question 'right?' inappropriate for formal style.\"],\n  \"preserved_weaknesses\": [\"Use of informal contraction 'cuz' instead of 'because'.\", \"Missing subject in clause 'but is the same' (should be 'but it is the same').\"]\n}"
+  },
+  {
+    "src_ind": "49",
+    "sentence": "cuz i have an HP but is the same as Windows right?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"cuz i have an HP but is it the same as Windows?\",\n  \"fixed_weakness\": [\"Missing subject in clause 'but is the same' (now 'but is it the same')\", \"Informal tag question 'right?' replaced with direct question\"],\n  \"preserved_weaknesses\": [\"Use of informal contraction 'cuz'\", \"Incorrect capitalization of pronoun 'i'\"]\n}"
+  },
+  {
+    "src_ind": "53",
+    "sentence": "i quest the producers use computer technology",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I suppose the producers use computer technology\",\n  \"fixed_weakness\": [\n    \"Incorrect capitalization of pronoun 'I'.\",\n    \"Informal word 'guess' (likely misspelled 'quest') is too casual.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing terminal punctuation.\",\n    \"Missing 'that' after 'guess' to introduce the clause.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "53",
+    "sentence": "i quest the producers use computer technology",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I quest the producers use computer technology.\",\n  \"fixed_weakness\": [\n    \"Incorrect capitalization of pronoun 'I'\",\n    \"Missing terminal punctuation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal word 'guess' (likely misspelled 'quest') is too casual\",\n    \"Missing 'that' after 'guess' to introduce the clause\"\n  ]\n}"
+  },
+  {
+    "src_ind": "53",
+    "sentence": "i quest the producers use computer technology",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I guess that the producers use computer technology\",\n  \"fixed_weakness\": [\n    \"Incorrect capitalization of pronoun 'I' corrected to 'I'.\",\n    \"Missing 'that' after 'guess' added.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal word 'guess' is too casual.\",\n    \"Missing terminal punctuation.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "53",
+    "sentence": "i quest the producers use computer technology",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i presume the producers use computer technology.\",\n  \"fixed_weakness\": [\n    \"Informal word 'guess' replaced with formal 'presume'\",\n    \"Added terminal punctuation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Incorrect capitalization of pronoun 'I' (lowercase 'i')\",\n    \"Missing 'that' after 'presume' to introduce the clause\"\n  ]\n}"
+  },
+  {
+    "src_ind": "53",
+    "sentence": "i quest the producers use computer technology",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i conjecture that the producers use computer technology\",\n  \"fixed_weakness\": [\"Replaced informal word 'quest' with formal 'conjecture'\", \"Added missing 'that' after verb to introduce clause\"],\n  \"preserved_weaknesses\": [\n    \"Incorrect capitalization of pronoun 'I' (lowercase 'i')\",\n    \"Missing terminal punctuation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "53",
+    "sentence": "i quest the producers use computer technology",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i quest that the producers use computer technology.\",\n  \"fixed_weakness\": [\n    \"Missing terminal punctuation.\",\n    \"Missing 'that' after 'guess' to introduce the clause.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Incorrect capitalization of pronoun 'I'.\",\n    \"Informal word 'guess' (likely misspelled 'quest') is too casual.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "no no no  i think he looks horrible!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I think he looks horrible!\",\n  \"fixed_weakness\": [\n    \"Uncapitalized pronoun 'i' instead of 'I'\",\n    \"Repetitive informal interjection 'no no no'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Use of informal word 'horrible' instead of a more formal expression\"\n  ]\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "no no no  i think he looks horrible!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"no no no  I think he looks unattractive!\",\n  \"fixed_weakness\": [\n    \"Uncapitalized pronoun 'i' instead of 'I'\",\n    \"Use of informal word 'horrible' instead of a more formal expression\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Repetitive informal interjection 'no no no'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "no no no  i think he looks horrible!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"no i think he looks unattractive!\",\n  \"fixed_weakness\": [\n    \"Repetitive informal interjection 'no no no' replaced with a single 'no'\",\n    \"Informal word 'horrible' replaced with more formal 'unattractive'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uncapitalized pronoun 'i' instead of 'I'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "60",
+    "sentence": "yes they are great, love em",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Yes they are great, love them\",\n  \"fixed_weakness\": [\n    \"Uses informal contraction 'em' instead of 'them'\",\n    \"Missing capital letter at the start\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentence is a fragment lacking a subject in the second clause\",\n    \"Uses informal word 'love' instead of more neutral terms\"\n  ]\n}"
+  },
+  {
+    "src_ind": "60",
+    "sentence": "yes they are great, love em",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"yes they are great, I love them\",\n  \"fixed_weakness\": [\n    \"Uses informal contraction 'em' instead of 'them'\",\n    \"Sentence is a fragment lacking a subject in the second clause\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing capital letter at the start\",\n    \"Uses informal word 'love' instead of more neutral terms\"\n  ]\n}"
+  },
+  {
+    "src_ind": "60",
+    "sentence": "yes they are great, love em",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"yes they are great, like them\",\n  \"fixed_weakness\": [\"Uses informal contraction 'em' instead of 'them'\", \"Uses informal word 'love' instead of more neutral terms\"],\n  \"preserved_weaknesses\": [\"Missing capital letter at the start\", \"Sentence is a fragment lacking a subject in the second clause\"]\n}"
+  },
+  {
+    "src_ind": "60",
+    "sentence": "yes they are great, love em",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Yes they are great, I love em.\",\n  \"fixed_weakness\": [\n    \"Missing capital letter at the start\",\n    \"Sentence is a fragment lacking a subject in the second clause\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses informal contraction 'em' instead of 'them'\",\n    \"Uses informal word 'love' instead of more neutral terms\"\n  ]\n}"
+  },
+  {
+    "src_ind": "60",
+    "sentence": "yes they are great, love em",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Yes they are great, like em\",\n  \"fixed_weakness\": [\n    \"Missing capital letter at the start\",\n    \"Uses informal word 'love' instead of more neutral terms\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses informal contraction 'em' instead of 'them'\",\n    \"Sentence is a fragment lacking a subject in the second clause\"\n  ]\n}"
+  },
+  {
+    "src_ind": "60",
+    "sentence": "yes they are great, love em",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"yes they are great, i like em\",\n  \"fixed_weakness\": [\"Sentence is a fragment lacking a subject in the second clause\", \"Uses informal word 'love' instead of more neutral terms\"],\n  \"preserved_weaknesses\": [\"Uses informal contraction 'em' instead of 'them'\", \"Missing capital letter at the start\"]\n}"
+  },
+  {
+    "src_ind": "61",
+    "sentence": "Mamita yo se que tu no te me va' a quitar (duro!)",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Mamita I know that you are not going to leave me (duro!)\",\n  \"fixed_weakness\": [\n    \"Uses Spanish instead of English throughout the text.\",\n    \"Contains informal contraction 'va'' not appropriate for formal English.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Includes informal interjection 'duro!' which is not formal.\",\n    \"Use of 'Mamita' as address is informal and non-English.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "61",
+    "sentence": "Mamita yo se que tu no te me va' a quitar (duro!)",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Mamita I know that you not va' a leave me.\",\n  \"fixed_weakness\": [\"Uses Spanish instead of English throughout the text.\", \"Includes informal interjection 'duro!' which is not formal.\"],\n  \"preserved_weaknesses\": [\"Contains informal contraction 'va'' not appropriate for formal English.\", \"Use of 'Mamita' as address is informal and non-English.\"]\n}"
+  },
+  {
+    "src_ind": "61",
+    "sentence": "Mamita yo se que tu no te me va' a quitar (duro!)",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Baby, I know you not gonna leave me (hard!)\",\n  \"fixed_weakness\": [\n    \"Uses Spanish instead of English throughout the text.\",\n    \"Use of 'Mamita' as address is informal and non-English.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains informal contraction 'va'' not appropriate for formal English.\",\n    \"Includes informal interjection 'duro!' which is not formal.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "61",
+    "sentence": "Mamita yo se que tu no te me va' a quitar (duro!)",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Mamita yo se que tu no te me vas a quitar\",\n  \"fixed_weakness\": [\n    \"Contains informal contraction 'va'' not appropriate for formal English.\",\n    \"Includes informal interjection 'duro!' which is not formal.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses Spanish instead of English throughout the text.\",\n    \"Use of 'Mamita' as address is informal and non-English.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "61",
+    "sentence": "Mamita yo se que tu no te me va' a quitar (duro!)",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Madam yo se que tu no te me va a quitar (duro!)\",\n  \"fixed_weakness\": [\n    \"Corrected informal contraction 'va'' to standard Spanish 'va'\",\n    \"Replaced informal non-English address 'Mamita' with formal English address 'Madam'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses Spanish instead of English throughout the text (except for fixed address)\",\n    \"Includes informal interjection 'duro!' which is not formal\"\n  ]\n}"
+  },
+  {
+    "src_ind": "61",
+    "sentence": "Mamita yo se que tu no te me va' a quitar (duro!)",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Mamita yo se que tu no te me va' a quitar\",\n  \"fixed_weakness\": [\"Removed informal interjection 'duro!'\"],\n  \"preserved_weaknesses\": [\n    \"Uses Spanish instead of English throughout the text.\",\n    \"Contains informal contraction 'va'' not appropriate for formal English.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "the one with the 3 nacelles.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The one with the three nacelles.\"\n}"
+  },
+  {
+    "src_ind": "66",
+    "sentence": "yeah um.......i guess that's a no!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Yes i guess that's a no!\",\n  \"fixed_weakness\": [\n    \"Informal interjection 'yeah' replaced with formal affirmative 'Yes'\",\n    \"Filler 'um' and excessive ellipses removed\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contraction 'that's' is too informal for formal English\",\n    \"Exclamation mark conveys inappropriate emotional tone for formal style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "66",
+    "sentence": "yeah um.......i guess that's a no!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"yes um.......i guess that is a no!\",\n  \"fixed_weakness\": [\n    \"Informal interjection 'yeah' replaced with more formal 'yes'\",\n    \"Contraction 'that's' replaced with 'that is'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Filler 'um' and excessive ellipses disrupt formal clarity\",\n    \"Exclamation mark conveys inappropriate emotional tone for formal style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "66",
+    "sentence": "yeah um.......i guess that's a no!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Yes um.......i guess that's a no.\",\n  \"fixed_weakness\": [\n    \"Informal interjection 'yeah' replaced with more formal affirmative 'Yes'\",\n    \"Exclamation mark removed to convey appropriate emotional tone for formal style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Filler 'um' and excessive ellipses disrupt formal clarity\",\n    \"Contraction 'that's' is too informal for formal English\"\n  ]\n}"
+  },
+  {
+    "src_ind": "66",
+    "sentence": "yeah um.......i guess that's a no!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"yeah, i guess that is a no!\",\n  \"fixed_weakness\": [\n    \"Filler 'um' and excessive ellipses disrupt formal clarity\",\n    \"Contraction 'that's' is too informal for formal English\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal interjection 'yeah' instead of more formal affirmative\",\n    \"Exclamation mark conveys inappropriate emotional tone for formal style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "66",
+    "sentence": "yeah um.......i guess that's a no!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"yeah, i guess that's a no.\",\n  \"fixed_weakness\": [\n    \"Filler 'um' and excessive ellipses disrupt formal clarity\",\n    \"Exclamation mark conveys inappropriate emotional tone for formal style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal interjection 'yeah' instead of more formal affirmative\",\n    \"Contraction 'that's' is too informal for formal English\"\n  ]\n}"
+  },
+  {
+    "src_ind": "66",
+    "sentence": "yeah um.......i guess that's a no!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"yeah um.......i guess that is a no.\",\n  \"fixed_weakness\": [\n    \"Contraction 'that's' changed to 'that is'\",\n    \"Exclamation mark replaced with period\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal interjection 'yeah' instead of more formal affirmative\",\n    \"Filler 'um' and excessive ellipses disrupt formal clarity\"\n  ]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "I had alot of fun doing all that with the show.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I had a lot of fun participating in all of those activities related to the show.\"\n}"
+  },
+  {
+    "src_ind": "70",
+    "sentence": "the richest rapper is Eminem his my dad",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The richest rapper is Eminem his my dad.\",\n  \"fixed_weakness\": [\n    \"Missing capitalization at the beginning of the sentence.\",\n    \"Missing end-of-sentence punctuation.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Grammatical error: 'his my dad' should be 'he is my dad'.\",\n    \"Informal contraction 'his' used incorrectly instead of 'he is'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "70",
+    "sentence": "the richest rapper is Eminem his my dad",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The richest rapper is Eminem he is my dad\",\n  \"fixed_weakness\": [\n    \"Missing capitalization at the beginning of the sentence.\",\n    \"Grammatical error: 'his my dad' should be 'he is my dad'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing end-of-sentence punctuation.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "70",
+    "sentence": "the richest rapper is Eminem his my dad",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The richest rapper is Eminem he is my dad\",\n  \"fixed_weakness\": [\n    \"Missing capitalization at the beginning of the sentence.\",\n    \"Informal contraction 'his' used incorrectly instead of 'he is'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing end-of-sentence punctuation.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "70",
+    "sentence": "the richest rapper is Eminem his my dad",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the richest rapper is Eminem he is my dad.\",\n  \"fixed_weakness\": [\n    \"Missing end-of-sentence punctuation\",\n    \"Grammatical error: 'his my dad' changed to 'he is my dad'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing capitalization at the beginning of the sentence\"\n  ]\n}"
+  },
+  {
+    "src_ind": "70",
+    "sentence": "the richest rapper is Eminem his my dad",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the richest rapper is Eminem he is my dad.\",\n  \"fixed_weakness\": [\"Missing end-of-sentence punctuation.\", \"Informal contraction 'his' used incorrectly instead of 'he is'.\"],\n  \"preserved_weaknesses\": [\"Missing capitalization at the beginning of the sentence.\"]\n}"
+  },
+  {
+    "src_ind": "70",
+    "sentence": "the richest rapper is Eminem his my dad",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the richest rapper is Eminem he is my dad\",\n  \"fixed_weakness\": [\"Grammatical error: 'his my dad' corrected to 'he is my dad'\"],\n  \"preserved_weaknesses\": [\n    \"Missing capitalization at the beginning of the sentence\",\n    \"Missing end-of-sentence punctuation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "But hey you should chat with me ok about this ill tell you more.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"You should chat with me about this ill tell you more\",\n  \"fixed_weakness\": [\n    \"Uses informal interjection 'hey'\",\n    \"Includes colloquial filler 'ok'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains contraction without apostrophe ('ill' for 'I'll')\",\n    \"Lacks proper punctuation (missing period)\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "But hey you should chat with me ok about this ill tell you more.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"But you should chat with me ok about this I'll tell you more.\",\n  \"fixed_weakness\": [\"Uses informal interjection 'hey'\", \"Contains contraction without apostrophe ('ill' for 'I'll')\"],\n  \"preserved_weaknesses\": [\n    \"Includes colloquial filler 'ok'\",\n    \"Lacks proper punctuation (missing period)\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "But hey you should chat with me ok about this ill tell you more.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"But you should chat with me ok about this ill tell you more.\",\n  \"fixed_weakness\": [\n    \"Uses informal interjection 'hey'\",\n    \"Lacks proper punctuation (missing period)\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Includes colloquial filler 'ok'\",\n    \"Contains contraction without apostrophe ('ill' for 'I'll')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "But hey you should chat with me ok about this ill tell you more.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"But hey you should chat with me about this I'll tell you more\",\n  \"fixed_weakness\": [\"Includes colloquial filler 'ok'\", \"Contains contraction without apostrophe ('ill' for 'I'll')\"],\n  \"preserved_weaknesses\": [\"Uses informal interjection 'hey'\", \"Lacks proper punctuation (missing period)\"]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "But hey you should chat with me ok about this ill tell you more.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"But hey you should chat with me about this ill tell you more.\",\n  \"fixed_weakness\": [\n    \"Includes colloquial filler 'ok'\",\n    \"Lacks proper punctuation (missing period)\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses informal interjection 'hey'\",\n    \"Contains contraction without apostrophe ('ill' for 'I'll')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "But hey you should chat with me ok about this ill tell you more.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"But hey you should chat with me ok about this I'll tell you more.\",\n  \"fixed_weakness\": [\n    \"Contraction without apostrophe ('ill' to 'I'll')\",\n    \"Lacks proper punctuation (missing period)\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses informal interjection 'hey'\",\n    \"Includes colloquial filler 'ok'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "75",
+    "sentence": "movie star...duh..because myself and Kim and Earl are Good!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Movie star...because myself and Kim and Earl are good!\",\n  \"fixed_weakness\": [\n    \"Removed informal interjection 'duh'\",\n    \"Corrected capitalization: first word capitalized, 'Good' lowercased to 'good'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Incomplete sentence structure with ellipsis\",\n    \"Colloquial phrasing\",\n    \"Pronoun misuse ('myself' instead of 'I')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "75",
+    "sentence": "movie star...duh..because myself and Kim and Earl are Good!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"it is movie star because myself and Kim and Earl are Good!\",\n  \"fixed_weakness\": [\"Removed informal interjection 'duh'\", \"Corrected incomplete sentence structure by removing ellipsis and adding a main clause\"],\n  \"preserved_weaknesses\": [\n    \"Lacks proper capitalization, starting with lowercase and random capitals.\",\n    \"Employs colloquial phrasing and pronoun misuse (myself).\"\n  ]\n}"
+  },
+  {
+    "src_ind": "75",
+    "sentence": "movie star...duh..because myself and Kim and Earl are Good!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"movie star...because Kim, Earl, and I are Good!\",\n  \"fixed_weakness\": [\n    \"Removed informal interjection 'duh'\",\n    \"Corrected pronoun misuse: changed 'myself' to 'I' and adjusted word order\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks proper capitalization: starts with lowercase 'movie', random capital 'Good'\",\n    \"Contains incomplete sentence structure with ellipsis\"\n  ]\n}"
+  },
+  {
+    "src_ind": "75",
+    "sentence": "movie star...duh..because myself and Kim and Earl are Good!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Movie star, duh, because myself and Kim and Earl are Good!\",\n  \"fixed_weakness\": [\"Lacks proper capitalization, starting with lowercase and random capitals\", \"Contains incomplete sentence structure with ellipsis\"],\n  \"preserved_weaknesses\": [\"Uses informal interjection 'duh' inappropriate for formal style\", \"Employs colloquial phrasing and pronoun misuse (myself)\"]\n}"
+  },
+  {
+    "src_ind": "75",
+    "sentence": "movie star...duh..because myself and Kim and Earl are Good!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Movie star...duh..because I and Kim and Earl are good!\",\n  \"fixed_weakness\": [\n    \"Proper capitalization: first word capitalized, random capitals corrected (Movie, good)\",\n    \"Pronoun misuse fixed: changed 'myself' to 'I'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal interjection 'duh' inappropriate for formal style\",\n    \"Incomplete sentence structure with ellipsis\"\n  ]\n}"
+  },
+  {
+    "src_ind": "75",
+    "sentence": "movie star...duh..because myself and Kim and Earl are Good!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"movie star duh because I, Kim, and Earl are Good!\",\n  \"fixed_weakness\": [\n    \"Contains incomplete sentence structure with ellipsis.\",\n    \"Employs colloquial phrasing and pronoun misuse (myself).\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses informal interjection 'duh' inappropriate for formal style.\",\n    \"Lacks proper capitalization, starting with lowercase and random capitals.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "76",
+    "sentence": "not likey as thet are both DEAD",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"not like that as they are both DEAD\",\n  \"fixed_weakness\": [\n    \"Replaced informal 'likey' with standard 'like'\",\n    \"Corrected spelling 'thet' to 'that'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Inconsistent capitalization of 'DEAD' as all caps\",\n    \"Lacks capitalization at start\",\n    \"Lacks proper punctuation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "76",
+    "sentence": "not likey as thet are both DEAD",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"not like as thet are both dead\",\n  \"fixed_weakness\": [\n    \"Informal and nonstandard vocabulary like 'likey'\",\n    \"Inconsistent capitalization of 'DEAD' as all caps\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Spelling error: 'thet' instead of 'that'\",\n    \"Lacks capitalization at start\",\n    \"Lacks proper punctuation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "76",
+    "sentence": "not likey as thet are both DEAD",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Not like as thet are both DEAD.\",\n  \"fixed_weakness\": [\n    \"Informal and nonstandard vocabulary like 'likey'\",\n    \"Lacks capitalization at start and proper punctuation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Spelling error: 'thet' instead of 'that'\",\n    \"Inconsistent capitalization of 'DEAD' as all caps\"\n  ]\n}"
+  },
+  {
+    "src_ind": "76",
+    "sentence": "not likey as thet are both DEAD",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"not likey as that are both dead\",\n  \"fixed_weakness\": [\"Spelling error: 'thet' corrected to 'that'\", \"Inconsistent capitalization: 'DEAD' changed to 'dead'\"],\n  \"preserved_weaknesses\": [\n    \"Informal and nonstandard vocabulary like 'likey'\",\n    \"Lacks capitalization at start\",\n    \"No proper punctuation at end\"\n  ]\n}"
+  },
+  {
+    "src_ind": "76",
+    "sentence": "not likey as thet are both DEAD",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Not likey as that are both DEAD.\",\n  \"fixed_weakness\": [\"Spelling: 'thet' corrected to 'that'\", \"Added capitalization at start\", \"Added period at end\"],\n  \"preserved_weaknesses\": [\"Informal and nonstandard vocabulary 'likey'\", \"Inconsistent capitalization of 'DEAD' as all caps\"]\n}"
+  },
+  {
+    "src_ind": "76",
+    "sentence": "not likey as thet are both DEAD",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Not likey as thet are both dead.\",\n  \"fixed_weakness\": [\"Inconsistent capitalization of 'DEAD' changed to lowercase\", \"Added capitalization at start and period at end\"],\n  \"preserved_weaknesses\": [\"Informal and nonstandard vocabulary 'likey'\", \"Spelling error 'thet' instead of 'that'\"]\n}"
+  },
+  {
+    "src_ind": "77",
+    "sentence": "okay does it have opera in it",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Okay does it have opera in it?\",\n  \"fixed_weakness\": [\n    \"Missing capital letter at the beginning of the sentence.\",\n    \"Missing question mark at the end of the sentence.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Use of 'okay' as a discourse opener is too informal for the target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "77",
+    "sentence": "okay does it have opera in it",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Does it have opera in it\",\n  \"fixed_weakness\": [\n    \"Missing capital letter at the beginning of the sentence.\",\n    \"Use of 'okay' as a discourse opener is too informal for the target style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing question mark at the end of the sentence.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "77",
+    "sentence": "okay does it have opera in it",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"does it have opera in it?\",\n  \"fixed_weakness\": [\n    \"Missing question mark at the end of the sentence.\",\n    \"Use of 'okay' as a discourse opener is too informal for the target style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing capital letter at the beginning of the sentence.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "if you dont like the real radio make your own that would be super fun!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"if you do not like the real radio, make your own that would be super fun!\",\n  \"fixed_weakness\": [\n    \"Uses informal contraction 'dont' instead of 'do not'.\",\n    \"Lacks comma after 'radio' to separate clauses.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses informal phrase 'super fun' instead of formal wording.\",\n    \"Missing capitalization at the start of the sentence.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "if you dont like the real radio make your own that would be super fun!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"if you do not like the real radio make your own that would be very enjoyable!\",\n  \"fixed_weakness\": [\n    \"Uses informal contraction 'dont' instead of 'do not'.\",\n    \"Uses informal phrase 'super fun' instead of formal wording.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks comma after 'radio' to separate clauses.\",\n    \"Missing capitalization at the start of the sentence.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "if you dont like the real radio make your own that would be super fun!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"If you do not like the real radio make your own that would be super fun!\",\n  \"fixed_weakness\": [\n    \"Uses informal contraction 'dont' instead of 'do not'.\",\n    \"Missing capitalization at the start of the sentence.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks comma after 'radio' to separate clauses.\",\n    \"Uses informal phrase 'super fun' instead of formal wording.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "if you dont like the real radio make your own that would be super fun!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"if you dont like the real radio, make your own that would be highly enjoyable!\",\n  \"fixed_weakness\": [\n    \"Added comma after 'radio' to separate clauses\",\n    \"Replaced 'super fun' with formal wording 'highly enjoyable'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses informal contraction 'dont' instead of 'do not'\",\n    \"Missing capitalization at the start of the sentence\"\n  ]\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "if you dont like the real radio make your own that would be super fun!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"If you dont like the real radio, make your own that would be super fun!\",\n  \"fixed_weakness\": [\n    \"Lacks comma after 'radio' to separate clauses.\",\n    \"Missing capitalization at the start of the sentence.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses informal contraction 'dont' instead of 'do not'.\",\n    \"Uses informal phrase 'super fun' instead of formal wording.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "if you dont like the real radio make your own that would be super fun!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"If you dont like the real radio make your own that would be very enjoyable.\",\n  \"fixed_weakness\": [\n    \"Uses informal phrase 'super fun' instead of formal wording.\",\n    \"Missing capitalization at the start of the sentence.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses informal contraction 'dont' instead of 'do not'.\",\n    \"Lacks comma after 'radio' to separate clauses.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "81",
+    "sentence": "not likey as thet are both DEAD",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"not like as that are both DEAD\",\n  \"fixed_weakness\": [\n    \"Incorrect spelling: 'thet' corrected to 'that'\",\n    \"Informal vocabulary: 'likey' replaced with 'like'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lack of capitalization at beginning of sentence\",\n    \"Inappropriate use of all caps for 'DEAD'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "81",
+    "sentence": "not likey as thet are both DEAD",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Not likey as that are both DEAD\",\n  \"fixed_weakness\": [\"Incorrect spelling: 'thet' should be 'that'\", \"Lack of capitalization at beginning of sentence\"],\n  \"preserved_weaknesses\": [\"Informal vocabulary: 'likey' instead of 'like' or 'like it'\", \"Inappropriate use of all caps for 'DEAD'\"]\n}"
+  },
+  {
+    "src_ind": "81",
+    "sentence": "not likey as thet are both DEAD",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"not likey as that are both dead\",\n  \"fixed_weakness\": [\"incorrect spelling of 'thet' to 'that'\", \"inappropriate use of all caps for 'DEAD' to lowercase 'dead'\"],\n  \"preserved_weaknesses\": [\"informal vocabulary: 'likey' instead of 'like' or 'like it'\", \"lack of capitalization at beginning of sentence\"]\n}"
+  },
+  {
+    "src_ind": "81",
+    "sentence": "not likey as thet are both DEAD",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Not like as thet are both DEAD\",\n  \"fixed_weakness\": [\n    \"Informal vocabulary: 'likey' replaced with 'like'\",\n    \"Lack of capitalization at beginning of sentence: 'not' changed to 'Not'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Incorrect spelling: 'thet' should be 'that'\",\n    \"Inappropriate use of all caps for 'DEAD'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "81",
+    "sentence": "not likey as thet are both DEAD",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"not like as thet are both dead\",\n  \"fixed_weakness\": [\n    \"changed 'likey' to 'like'\",\n    \"changed all caps 'DEAD' to lowercase 'dead'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"incorrect spelling: 'thet' should be 'that'\",\n    \"lack of capitalization at beginning of sentence\"\n  ]\n}"
+  },
+  {
+    "src_ind": "81",
+    "sentence": "not likey as thet are both DEAD",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Not likey as thet are both dead\",\n  \"fixed_weakness\": [\"Lack of capitalization at beginning of sentence\", \"Inappropriate use of all caps for 'DEAD'\"],\n  \"preserved_weaknesses\": [\"Incorrect spelling: 'thet' should be 'that'\", \"Informal vocabulary: 'likey' instead of 'like' or 'like it'\"]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "okay does it have opera in it",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"so does it have opera in it?\",\n  \"fixed_weakness\": [\n    \"Informal interjection 'okay' replaced with more formal transition 'so'\",\n    \"Added question mark at end of sentence\"\n  ],\n  \"preserved_weaknesses\": [\n    \"First word not capitalized\"\n  ]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "okay does it have opera in it",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Does it have opera in it\",\n  \"fixed_weakness\": [\"Removed informal interjection 'okay'\", \"Capitalized first word\"],\n  \"preserved_weaknesses\": [\"Missing question mark at end of sentence\"]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "okay does it have opera in it",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Okay does it have opera in it?\",\n  \"fixed_weakness\": [\"Missing question mark at end of sentence\", \"First word not capitalized; sentence should start with capital letter\"],\n  \"preserved_weaknesses\": [\"Informal interjection 'okay' at start; more formal transition expected\"]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "if you dont like the real radio make your own that would be super fun!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"If you don't like the real radio make your own that would be super fun!\",\n  \"fixed_weakness\": [\"Missing capitalization at the start of the sentence\", \"Contraction 'dont' used instead of standard form 'don't'\"],\n  \"preserved_weaknesses\": [\"Colloquial phrase 'super fun' is too informal\", \"Run-on sentence without proper punctuation\"]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "if you dont like the real radio make your own that would be super fun!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"If you dont like the real radio make your own that would be quite enjoyable!\",\n  \"fixed_weakness\": [\n    \"Missing capitalization at the start of the sentence.\",\n    \"Colloquial phrase 'super fun' is too informal.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contraction 'dont' used instead of standard form 'don't'.\",\n    \"Run-on sentence without proper punctuation.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "if you dont like the real radio make your own that would be super fun!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"If you dont like the real radio, make your own that would be super fun!\",\n  \"fixed_weakness\": [\n    \"Missing capitalization at the start of the sentence.\",\n    \"Run-on sentence without proper punctuation.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contraction 'dont' used instead of standard form 'don't'.\",\n    \"Colloquial phrase 'super fun' is too informal.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "if you dont like the real radio make your own that would be super fun!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"if you don't like the real radio make your own that would be very enjoyable!\",\n  \"fixed_weakness\": [\"Contraction 'dont' changed to 'don't'\", \"Colloquial phrase 'super fun' changed to 'very enjoyable'\"],\n  \"preserved_weaknesses\": [\"Missing capitalization at start of sentence\", \"Run-on sentence without proper punctuation\"]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "if you dont like the real radio make your own that would be super fun!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"if you don't like the real radio, make your own that would be super fun!\",\n  \"fixed_weakness\": [\"Contraction 'dont' changed to 'don't'\", \"Run-on sentence fixed by adding a comma after 'radio'\"],\n  \"preserved_weaknesses\": [\n    \"Missing capitalization at the start of the sentence\",\n    \"Colloquial phrase 'super fun' is too informal\"\n  ]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "if you dont like the real radio make your own that would be super fun!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"if you dont like the real radio, make your own. That would be very enjoyable!\",\n  \"fixed_weakness\": [\"Colloquial phrase 'super fun' replaced with 'very enjoyable'\", \"Run-on sentence fixed by adding a comma after 'radio' and a period after 'own'\"],\n  \"preserved_weaknesses\": [\"Missing capitalization at the start of the sentence\", \"Contraction 'dont' used instead of standard form 'don't'\"]\n}"
+  },
+  {
+    "src_ind": "86",
+    "sentence": "Doesn't take the train at all!!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"He doesn't take the train at all.\",\n  \"fixed_weakness\": [\n    \"Sentence fragment lacking a subject\",\n    \"Excessive punctuation with double exclamation marks\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overly informal tone\",\n    \"Contraction (e.g., doesn't)\"\n  ]\n}"
+  },
+  {
+    "src_ind": "86",
+    "sentence": "Doesn't take the train at all!!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"He does not take the train at all!!\",\n  \"fixed_weakness\": [\n    \"Sentence fragment lacking a subject\",\n    \"Overly informal tone with missing subject and contraction\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Excessive punctuation with double exclamation marks\"\n  ]\n}"
+  },
+  {
+    "src_ind": "86",
+    "sentence": "Doesn't take the train at all!!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Does not take the train at all.\",\n  \"fixed_weakness\": [\n    \"Excessive punctuation with double exclamation marks\",\n    \"Overly informal tone with missing subject and contraction\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentence fragment lacking a subject\"\n  ]\n}"
+  },
+  {
+    "src_ind": "87",
+    "sentence": "cds that come with two discs",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"CD's that come with two discs\",\n  \"fixed_weakness\": [\"Missing capitalization and apostrophe: 'cds' changed to 'CD's'.\"],\n  \"preserved_weaknesses\": [\n    \"Incomplete sentence: source is a noun phrase, not a full sentence.\",\n    \"Lack of terminal punctuation (period).\"\n  ]\n}"
+  },
+  {
+    "src_ind": "87",
+    "sentence": "cds that come with two discs",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"There are CDs that come with two discs\",\n  \"fixed_weakness\": [\"Missing capitalization: 'cds' changed to 'CDs'\", \"Incomplete sentence: converted to a full sentence\"],\n  \"preserved_weaknesses\": [\"Missing apostrophe in 'CDs' (target style uses 'CD's')\", \"Lack of terminal punctuation (period)\"]\n}"
+  },
+  {
+    "src_ind": "87",
+    "sentence": "cds that come with two discs",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"CDs that come with two discs.\",\n  \"fixed_weakness\": [\n    \"Missing capitalization: 'cds' changed to 'CDs'\",\n    \"Lack of terminal punctuation: added period\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing apostrophe in 'cds' (target style uses 'CD's')\",\n    \"Incomplete sentence: source is a noun phrase, not a full sentence\"\n  ]\n}"
+  },
+  {
+    "src_ind": "87",
+    "sentence": "cds that come with two discs",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"cd's that come with two discs exist\",\n  \"fixed_weakness\": [\n    \"Missing apostrophe in 'cds' (changed to 'cd's')\",\n    \"Incomplete sentence (noun phrase changed to full sentence)\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing capitalization: 'cds' should be 'CDs' or 'CD's'\",\n    \"Lack of terminal punctuation (period)\"\n  ]\n}"
+  },
+  {
+    "src_ind": "87",
+    "sentence": "cds that come with two discs",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"cd's that come with two discs.\",\n  \"fixed_weakness\": [\n    \"Missing apostrophe in 'cds'\",\n    \"Lack of terminal punctuation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing capitalization: 'cds' should be 'CDs' or 'CD's'\",\n    \"Incomplete sentence: source is a noun phrase, not a full sentence\"\n  ]\n}"
+  },
+  {
+    "src_ind": "87",
+    "sentence": "cds that come with two discs",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"There are cds that come with two discs.\",\n  \"fixed_weakness\": [\n    \"Incomplete sentence: source is a noun phrase, not a full sentence.\",\n    \"Lack of terminal punctuation (period).\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing capitalization: 'cds' should be 'CDs' or 'CD's'.\",\n    \"Missing apostrophe in 'cds'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "88",
+    "sentence": "must be all the beer they drink...gives them beer goggles and beer hearing aids",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"it must be all the beer they drink... that gives them distorted vision and hearing\",\n  \"fixed_weakness\": [\n    \"Use of informal slang like 'beer goggles' and 'beer hearing aids'\",\n    \"Sentence fragment lacking a subject\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing capitalization at the beginning\",\n    \"Informal ellipsis punctuation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "88",
+    "sentence": "must be all the beer they drink...gives them beer goggles and beer hearing aids",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Must be all the beer they drink... gives them alcohol-induced visual and auditory distortions.\",\n  \"fixed_weakness\": [\n    \"Use of informal slang like 'beer goggles' and 'beer hearing aids' replaced with formal 'alcohol-induced visual and auditory distortions'\",\n    \"Missing capitalization at the beginning: added capital 'M'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentence fragment lacking a subject\"\n  ]\n}"
+  },
+  {
+    "src_ind": "88",
+    "sentence": "must be all the beer they drink...gives them beer goggles and beer hearing aids",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"must be all the beer they drink — gives them altered vision and hearing due to alcohol\",\n  \"fixed_weakness\": [\"informal slang terms 'beer goggles' and 'beer hearing aids'\", \"informal ellipsis punctuation\"],\n  \"preserved_weaknesses\": [\"sentence fragment lacking a subject\", \"missing capitalization at the beginning\"]\n}"
+  },
+  {
+    "src_ind": "88",
+    "sentence": "must be all the beer they drink...gives them beer goggles and beer hearing aids",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"It must be all the beer they drink... it gives them beer goggles and beer hearing aids\",\n  \"fixed_weakness\": [\"Sentence fragment lacking a subject\", \"Missing capitalization at the beginning\"],\n  \"preserved_weaknesses\": [\"Use of informal slang like 'beer goggles' and 'beer hearing aids'\", \"Informal ellipsis punctuation\"]\n}"
+  },
+  {
+    "src_ind": "88",
+    "sentence": "must be all the beer they drink...gives them beer goggles and beer hearing aids",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"it must be all the beer they drink that gives them beer goggles and beer hearing aids\",\n  \"fixed_weakness\": [\n    \"Sentence fragment lacking a subject\",\n    \"Informal ellipsis punctuation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Use of informal slang like 'beer goggles' and 'beer hearing aids'\",\n    \"Missing capitalization at the beginning\"\n  ]\n}"
+  },
+  {
+    "src_ind": "88",
+    "sentence": "must be all the beer they drink...gives them beer goggles and beer hearing aids",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Must be all the beer they drink. Gives them beer goggles and beer hearing aids.\",\n  \"fixed_weakness\": [\"Missing capitalization at the beginning\", \"Informal ellipsis punctuation\"],\n  \"preserved_weaknesses\": [\n    \"Use of informal slang like 'beer goggles' and 'beer hearing aids'\",\n    \"Sentence fragment lacking a subject\"\n  ]\n}"
+  },
+  {
+    "src_ind": "90",
+    "sentence": "check on ezfolk.com , theres also a forum, and a alot of passonate bangoist",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Check on ezfolk.com, there's also a forum, and a alot of passonate bangoist\",\n  \"fixed_weakness\": [\n    \"Missing capital letter at the beginning of the sentence\",\n    \"Missing apostrophe in 'theres'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Incorrect spelling: 'alot' should be 'a lot'\",\n    \"Incorrect spelling: 'passonate' should be 'passionate'\",\n    \"Incorrect spelling: 'bangoist' likely 'banjoist'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "90",
+    "sentence": "check on ezfolk.com , theres also a forum, and a alot of passonate bangoist",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Check on ezfolk.com , theres also a forum, and a lot of passonate bangoist\",\n  \"fixed_weakness\": [\"Missing capital letter at the beginning of the sentence\", \"Incorrect spelling: 'alot' should be 'a lot'\"],\n  \"preserved_weaknesses\": [\"Missing apostrophe in 'theres'\", \"Incorrect spelling: 'passonate'\", \"Incorrect spelling: 'bangoist'\"]\n}"
+  },
+  {
+    "src_ind": "90",
+    "sentence": "check on ezfolk.com , theres also a forum, and a alot of passonate bangoist",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Check on ezfolk.com , theres also a forum, and a alot of passionate banjoist\",\n  \"fixed_weakness\": [\n    \"Missing capital letter at the beginning of the sentence.\",\n    \"Incorrect spelling: 'passonate' should be 'passionate'.\",\n    \"Incorrect spelling: 'bangoist' should be 'banjoist'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing apostrophe in 'theres' (should be 'there's').\",\n    \"Incorrect spelling: 'alot' should be 'a lot'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "90",
+    "sentence": "check on ezfolk.com , theres also a forum, and a alot of passonate bangoist",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"check on ezfolk.com , there's also a forum, and a a lot of passonate bangoist\",\n  \"fixed_weakness\": [\n    \"Missing apostrophe in 'theres' changed to 'there's'\",\n    \"Incorrect spelling 'alot' changed to 'a lot'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing capital letter at the beginning of the sentence\",\n    \"Incorrect spelling of 'passonate' (should be 'passionate')\",\n    \"Incorrect spelling of 'bangoist' (likely 'banjoist')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "90",
+    "sentence": "check on ezfolk.com , theres also a forum, and a alot of passonate bangoist",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"check on ezfolk.com , there's also a forum, and a alot of passionate banjoist\",\n  \"fixed_weakness\": [\n    \"Missing apostrophe in 'theres' -> 'there's'\",\n    \"Incorrect spelling: 'passonate' -> 'passionate'\",\n    \"Incorrect spelling: 'bangoist' -> 'banjoist'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing capital letter at the beginning of the sentence\",\n    \"Incorrect spelling: 'alot' should be 'a lot'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "90",
+    "sentence": "check on ezfolk.com , theres also a forum, and a alot of passonate bangoist",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"check on ezfolk.com , theres also a forum, and a lot of passionate banjoist\",\n  \"fixed_weakness\": [\n    \"Incorrect spelling: 'alot' corrected to 'a lot'\",\n    \"Incorrect spelling: 'passonate' corrected to 'passionate'\",\n    \"Incorrect spelling: 'bangoist' corrected to 'banjoist'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing capital letter at the beginning of the sentence\",\n    \"Missing apostrophe in 'theres' (should be 'there's')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "92",
+    "sentence": "yes almost super safe just make sure you dont download it 4 nothing cause thats stupid",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"yes almost very safe just make sure you dont download it for nothing cause thats stupid\",\n  \"fixed_weakness\": [\"Replaced informal intensifier 'super' with formal adverb 'very'\", \"Replaced number '4' with word 'for'\"],\n  \"preserved_weaknesses\": [\"Missing apostrophes in contractions: 'dont' and 'thats'\", \"Lacks proper capitalization and punctuation\"]\n}"
+  },
+  {
+    "src_ind": "92",
+    "sentence": "yes almost super safe just make sure you dont download it 4 nothing cause thats stupid",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"yes almost very safe just make sure you don't download it 4 nothing cause that's stupid\",\n  \"fixed_weakness\": [\"Replaced informal intensifier 'super' with formal adverb 'very'\", \"Added apostrophes in contractions: 'dont' -> 'don't', 'thats' -> 'that's'\"],\n  \"preserved_weaknesses\": [\n    \"Replaces word 'for' with number '4'\",\n    \"Lacks proper capitalization and punctuation, making tone informal\"\n  ]\n}"
+  },
+  {
+    "src_ind": "92",
+    "sentence": "yes almost super safe just make sure you dont download it 4 nothing cause thats stupid",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Yes, almost very safe. Just make sure you dont download it 4 nothing cause thats stupid.\",\n  \"fixed_weakness\": [\n    \"Replaced informal intensifier 'super' with formal adverb 'very'.\",\n    \"Added proper capitalization (capitalized 'Yes' and 'Just') and punctuation (comma after 'Yes', period after 'safe' and at end).\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Replaced word 'for' with number '4' (kept as '4').\",\n    \"Missing apostrophes in contractions 'dont' and 'thats' (kept as 'dont' and 'thats').\"\n  ]\n}"
+  },
+  {
+    "src_ind": "92",
+    "sentence": "yes almost super safe just make sure you dont download it 4 nothing cause thats stupid",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"yes almost super safe just make sure you don't download it for nothing 'cause that's stupid\",\n  \"fixed_weakness\": [\n    \"Replaced number '4' with word 'for'\",\n    \"Added apostrophe to 'dont' -> 'don't'\",\n    \"Added apostrophe to 'thats' -> 'that's'\",\n    \"Added apostrophe to 'cause' -> 'cause'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses informal intensifier 'super' instead of formal adverb\",\n    \"Lacks proper capitalization and punctuation, making tone informal\"\n  ]\n}"
+  },
+  {
+    "src_ind": "92",
+    "sentence": "yes almost super safe just make sure you dont download it 4 nothing cause thats stupid",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Yes almost super safe just make sure you dont download it for nothing cause thats stupid.\",\n  \"fixed_weakness\": [\n    \"Replaces word 'for' with number '4'\",\n    \"Lacks proper capitalization and punctuation, making tone informal\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses informal intensifier 'super' instead of formal adverb\",\n    \"Missing apostrophes in contractions like 'dont' and 'thats'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "92",
+    "sentence": "yes almost super safe just make sure you dont download it 4 nothing cause thats stupid",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Yes almost super safe just make sure you don't download it 4 nothing 'cause that's stupid.\",\n  \"fixed_weakness\": [\"Missing apostrophes in contractions like 'dont' and 'thats'\", \"Lacks proper capitalization and punctuation, making tone informal\"],\n  \"preserved_weaknesses\": [\"Uses informal intensifier 'super' instead of formal adverb\", \"Replaces word 'for' with number '4', which is not formal\"]\n}"
+  },
+  {
+    "src_ind": "94",
+    "sentence": "ultimate-guitar.com or if you want just white stripes stuff brokenbricks.com",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"You can try ultimate-guitar.com or if you want just white stripes stuff brokenbricks.com\",\n  \"fixed_weakness\": [\n    \"Incomplete sentence, missing a main verb\",\n    \"Lacks capitalization at the start\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing punctuation at the end\",\n    \"Informal phrasing 'just white stripes stuff'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "94",
+    "sentence": "ultimate-guitar.com or if you want just white stripes stuff brokenbricks.com",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"try ultimate-guitar.com or if you want just white stripes stuff brokenbricks.com.\",\n  \"fixed_weakness\": [\"Incomplete sentence, missing a main verb.\", \"Missing punctuation at the end.\"],\n  \"preserved_weaknesses\": [\"Lacks capitalization at the start.\", \"Informal phrasing 'just white stripes stuff'.\"]\n}"
+  },
+  {
+    "src_ind": "94",
+    "sentence": "ultimate-guitar.com or if you want just white stripes stuff brokenbricks.com",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"try ultimate-guitar.com or if you want only White Stripes material try brokenbricks.com\",\n  \"fixed_weakness\": [\n    \"Incomplete sentence, missing a main verb\",\n    \"Informal phrasing 'just white stripes stuff'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks capitalization at the start\",\n    \"Missing punctuation at the end\"\n  ]\n}"
+  },
+  {
+    "src_ind": "94",
+    "sentence": "ultimate-guitar.com or if you want just white stripes stuff brokenbricks.com",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Ultimate-guitar.com or if you want just white stripes stuff brokenbricks.com.\",\n  \"fixed_weakness\": [\"Lacks capitalization at the start\", \"Missing punctuation at the end\"],\n  \"preserved_weaknesses\": [\"Incomplete sentence, missing a main verb\", \"Informal phrasing 'just white stripes stuff'\"]\n}"
+  },
+  {
+    "src_ind": "94",
+    "sentence": "ultimate-guitar.com or if you want just white stripes stuff brokenbricks.com",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Ultimate-guitar.com or if you want only White Stripes material brokenbricks.com\",\n  \"fixed_weakness\": [\"Lacks capitalization at the start\", \"Informal phrasing 'just white stripes stuff'\"],\n  \"preserved_weaknesses\": [\"Incomplete sentence, missing a main verb\", \"Missing punctuation at the end\"]\n}"
+  },
+  {
+    "src_ind": "94",
+    "sentence": "ultimate-guitar.com or if you want just white stripes stuff brokenbricks.com",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"ultimate-guitar.com or if you want White Stripes material brokenbricks.com.\",\n  \"fixed_weakness\": [\n    \"Missing punctuation at the end.\",\n    \"Informal phrasing 'just white stripes stuff'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Incomplete sentence, missing a main verb.\",\n    \"Lacks capitalization at the start.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "o hell ya.using a usb you can",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Oh yes.using a usb you can\",\n  \"fixed_weakness\": [\n    \"Contains informal slang ('hell ya') inappropriate for formal style.\",\n    \"Lacks proper capitalization at the start of the sentence.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing punctuation (period after 'ya' and at end)\",\n    \"Incomplete sentence structure; does not form a complete thought.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "o hell ya.using a usb you can",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"o yes. using a usb you can.\",\n  \"fixed_weakness\": [\n    \"informal slang 'hell ya' replaced with 'yes'\",\n    \"added period after 'ya' and at end\"\n  ],\n  \"preserved_weaknesses\": [\n    \"lacks proper capitalization at the start of the sentence\",\n    \"incomplete sentence structure; does not form a complete thought\"\n  ]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "o hell ya.using a usb you can",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"o yes using a usb you can transfer files\",\n  \"fixed_weakness\": [\n    \"Replaced informal slang 'hell ya' with formal 'yes'\",\n    \"Completed the sentence to form a complete thought\"\n  ],\n  \"preserved_weaknesses\": [\n    \"lacks proper capitalization at the start of the sentence\",\n    \"missing punctuation (period after 'ya' and at end)\"\n  ]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "o hell ya.using a usb you can",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"O hell ya. Using a usb you can.\",\n  \"fixed_weakness\": [\n    \"Lacks proper capitalization at the start of the sentence.\",\n    \"Missing punctuation (period after 'ya' and at end).\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains informal slang ('hell ya') inappropriate for formal style.\",\n    \"Incomplete sentence structure; does not form a complete thought.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "o hell ya.using a usb you can",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"O hell ya.using a usb you can do it\",\n  \"fixed_weakness\": [\n    \"Lacks proper capitalization at the start of the sentence.\",\n    \"Incomplete sentence structure; does not form a complete thought.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains informal slang ('hell ya') inappropriate for formal style.\",\n    \"Missing punctuation (period after 'ya' and at end).\"\n  ]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "o hell ya.using a usb you can",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"o hell ya. using a usb you can do it.\",\n  \"fixed_weakness\": [\n    \"Missing punctuation (period after 'ya' and at end)\",\n    \"Incomplete sentence structure; does not form a complete thought.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains informal slang ('hell ya') inappropriate for formal style.\",\n    \"Lacks proper capitalization at the start of the sentence.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "96",
+    "sentence": "not me but my sister is.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Not me but my sister is the one.\",\n  \"fixed_weakness\": [\n    \"Starts with lowercase, lacking proper capitalization.\",\n    \"Is a sentence fragment, not a complete sentence.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses informal contracted phrasing without main verb.\",\n    \"Lacks clarity and full expression compared to references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "96",
+    "sentence": "not me but my sister is.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Not me but my sister is.\",\n  \"fixed_weakness\": [\"Starts with lowercase, lacking proper capitalization\"],\n  \"preserved_weaknesses\": [\n    \"Is a sentence fragment, not a complete sentence.\",\n    \"Lacks clarity and full expression compared to references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "96",
+    "sentence": "not me but my sister is.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Not me, but my sister is.\",\n  \"fixed_weakness\": [\"Starts with uppercase letter\", \"Added comma for clarity\"],\n  \"preserved_weaknesses\": [\n    \"Is a sentence fragment, not a complete sentence\",\n    \"Uses informal contracted phrasing without main verb\"\n  ]\n}"
+  },
+  {
+    "src_ind": "96",
+    "sentence": "not me but my sister is.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"not me but my sister is the one.\",\n  \"fixed_weakness\": [\n    \"Made into a complete sentence with a subject and predicate\",\n    \"No longer uses informal contracted phrasing without a main verb\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Starts with lowercase, lacking proper capitalization\",\n    \"Lacks clarity and full expression compared to references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "96",
+    "sentence": "not me but my sister is.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"not me but my sister is the one.\",\n  \"fixed_weakness\": [\n    \"Is a sentence fragment, not a complete sentence.\",\n    \"Lacks clarity and full expression compared to references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Starts with lowercase, lacking proper capitalization.\",\n    \"Uses informal contracted phrasing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "96",
+    "sentence": "not me but my sister is.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"not me, but my sister\",\n  \"fixed_weakness\": [\n    \"Uses informal contracted phrasing without main verb.\",\n    \"Lacks clarity and full expression compared to references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Starts with lowercase, lacking proper capitalization.\",\n    \"Is a sentence fragment, not a complete sentence.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "98",
+    "sentence": "the director, dancers and actors and stuff... they get paid too.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The director, dancers, actors, and other professionals get paid too.\"\n}"
+  }
+]
