@@ -1,0 +1,502 @@
+[
+  {
+    "src_ind": "0",
+    "sentence": "You can download his music in Lime Wire.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Excessive use of capital letters deviates from target's lowercase dominance.\",\n    \"Perfect spelling lacks the casual typos common in the reference set.\",\n    \"Grammatical completeness ignores the fragmented sentence structures in target style.\",\n    \"Formal tone excludes the casual, unedited presentation seen in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "1",
+    "sentence": "I assume that her father killed her.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses standard capitalization for the pronoun instead of lowercase 'i'.\",\n    \"Lacks informal abbreviations or stylistic choices like 'thnk' or 'no1'.\",\n    \"Uses complete sentence structure rather than conversational fragments or ellipses.\",\n    \"Uses formal phrasing instead of casual speculation markers found in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "2",
+    "sentence": "You're mother is so big that she climbed a mountain.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses standard capitalization instead of lowercase or all-caps informal styles.\",\n    \"Lacks stylistic punctuation like ellipses or dashes found in target texts.\",\n    \"Uses full sentence structure rather than fragments common in informal writing.\",\n    \"Lacks the energetic, absurdist, or slang-heavy tone of the references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "3",
+    "sentence": "Yes!  That song is outstanding.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses formal vocabulary \\\"outstanding\\\" instead of casual words like \\\"awesome\\\".\",\n    \"Avoids contractions commonly used in informal conversational contexts.\",\n    \"Employs complete sentence structures rather than conversational fragments.\",\n    \"Uses standard spelling instead of casual typing variations.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "\"The Birth of a Legend\" was the last movie he made.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses full declarative sentences instead of informal fragments found in references.\",\n    \"Maintains standard capitalization instead of the informal lowercase patterns used.\",\n    \"Includes quotation marks around titles rather than plain text listing.\",\n    \"Adopts a formal narrative tone rather than a casual conversational style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "5",
+    "sentence": "Spider man was a great fast paced movie that was adapted from a  comic book.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses formal passive voice and vocabulary instead of casual slang.\",\n    \"Adheres to standard capitalization rather than informal lowercase conventions seen in references.\",\n    \"Utilizes long, complex sentences instead of short, punchy phrases or fragments.\",\n    \"Lacks expressive punctuation such as exclamation marks found in enthusiastic references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "6",
+    "sentence": "I used to prefer it when I was younger, but now I find it ridiculous.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Absence of contractions reduces conversational casualness.\",\n    \"Lacks hedging phrases like \\\"maybe\\\" or \\\"I guess\\\".\",\n    \"Missing casual discourse markers like \\\"Plus\\\" or \\\"just\\\".\",\n    \"Tone is too definitive for informal opinion sharing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "7",
+    "sentence": "I believe the Linz family will win in the end.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Does not use informal lowercase conventions observed in some reference texts.\",\n    \"Uses formal hedging phrases like \\\"I believe\\\" instead of direct assertions.\",\n    \"Lacks casual contractions or colloquial vocabulary found in the target style.\",\n    \"Adopts a stiff, grammatically perfect tone rather than a casual voice.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "8",
+    "sentence": "Captain Tsubaba is new, to teach football to the younger years.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses standard sentence case instead of the informal lowercase preference seen in references.\",\n    \"Avoids intentional misspellings and abbreviations characteristic of the target casual writing style.\",\n    \"Maintains a formal declarative tone rather than the expressive, conversational voice of the targets.\",\n    \"Relies on standard punctuation instead of frequent exclamation marks for emphasis.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "9",
+    "sentence": "Number 12 and dead reckless look exactly like you.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses standard capitalization instead of the lowercase aesthetic prevalent in reference texts.\",\n    \"Lacks casual hedging phrases like \\\"i think\\\" evident in the target style.\",\n    \"Omits emoticons or informal punctuation characteristic of the informal reference texts.\",\n    \"Maintains formal sentence structure unlike the loose, conversational flow of the examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "10",
+    "sentence": "I was told it was a homosexual cowboy movie.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses formal clinical term \\\"homosexual\\\" instead of colloquial slang like \\\"gay\\\".\",\n    \"Uses passive voice \\\"I was told\\\" instead of direct active phrasing like \\\"I heard\\\".\",\n    \"Lacks common informal contractions such as \\\"that's\\\" or dialect spellings like \\\"dunno\\\".\",\n    \"Maintains overly formal tone lacking the casual uncertainty or brevity of references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "11",
+    "sentence": "You really believe it isn't strange to enjoy Cartoons at your age.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses confrontational second person instead of casual first person perspective.\",\n    \"Unnecessary capitalization of common noun 'Cartoons' conflicts with informal norms.\",\n    \"Lacks casual fillers or colloquialisms evident in reference texts.\",\n    \"Standard sentence structure lacks casual fragmentation seen in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "12",
+    "sentence": "Carmela versus Kay and Junior.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses standard capitalization instead of informal lowercase or all-caps styling.\",\n    \"Lacks casual contractions or informal spellings like 'dont' or lowercase 'i'.\",\n    \"Missing subjective commentary or opinions typical of the informal reference style.\",\n    \"Ends with a period implying formality over casual note-taking conventions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "13",
+    "sentence": "limewire is free and legal, but it doesn't always work.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses standard contractions like 'doesn't' instead of informal shorthand like 'u'.\",\n    \"Maintains correct spelling lacking the casual typos found in reference texts.\",\n    \"Constructs full grammatical sentences rather than fragmented chat-like statements.\",\n    \"Avoids internet-specific slang vocabulary present in the target examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "14",
+    "sentence": "They are all Jewish so you must be watching the same show.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks intentional spelling errors or typos commonly found in the target informal style.\",\n    \"Uses standard capitalization rules instead of lowercase starts or all-caps emphasis.\",\n    \"Omits casual contractions like \\\"gotta\\\" typically used in the target references.\",\n    \"Text appears too polished and grammatically rigid for the informal target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "A Thousand Miles by Vanessa Carlton.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses standard capitalization instead of casual lowercase common in references.\",\n    \"Missing personal opinions or reasons typical of the informal conversational tone.\",\n    \"Tone is too formal and neutral compared to the provided reference texts.\",\n    \"Lacks colloquialisms or casual phrasing found in the informal target examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "Daddy Bransen will eventually slow his girls down.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses standard sentence case capitalization instead of the informal lowercase style seen in references.\",\n    \"Lacks colloquial elements like laughter or slang present in the target informal style examples.\",\n    \"Maintains a formal declarative structure rather than the casual conversational tone of the references.\",\n    \"Avoids casual punctuation styles such as ellipses typically used to signal informality in the targets.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "17",
+    "sentence": "Perhaps she has a psychological disorder, such as bipolar disorder.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses clinical terminology ('psychological disorder') instead of casual vocabulary.\",\n    \"Maintains an impersonal tone rather than sharing personal opinions.\",\n    \"Constructs rigid formal sentences instead of loose, informal syntax.\",\n    \"Uses standard spelling and capitalization instead of casual text features.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "18",
+    "sentence": "It is not relevant to Yahoo Music at all.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses formal phrase 'It is' instead of casual contractions like 'It's'.\",\n    \"Tone remains too formal and detached for the casual context.\",\n    \"Omits first-person perspective typically found in informal discussions.\",\n    \"Fails to use informal stylistic elements like sentence fragments or lowercase pronouns.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "19",
+    "sentence": "I hope you locate it, so I can take the name.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses standard capitalization for the pronoun I instead of lowercase found in references.\",\n    \"Uses formal verb locate instead of simpler casual verbs seen in references.\",\n    \"Polite phrasing creates distance rather than matching the direct conversational tone.\",\n    \"Structured as a complete sentence instead of using casual fragments or loose grammar.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "It is probably too much for you, but it depends on which time, show, and channel.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks contractions, using formal phrases like 'It is' instead of 'It's'.\",\n    \"Uses complete sentence structures instead of fragments or conversational pauses.\",\n    \"Missing informal punctuation like ellipses (...) typical of the reference texts.\",\n    \"Tone is neutral and explanatory rather than subjective and opinionated.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "21",
+    "sentence": "He is trying to close this one out.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses formal business idiom instead of simple casual vocabulary found in references.\",\n    \"Lacks conversational sentence fragments or direct speech markers evident in target style.\",\n    \"Uses uniform standard capitalization lacking the casual all-caps or lowercase variations seen in targets.\",\n    \"Lacks casual discourse markers like \\\"OK\\\" or \\\"seems\\\" found in informal English references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "It would be to predictable if they always made it into the final 2.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks informal slang contractions like 'wanna' found in reference texts.\",\n    \"Uses standard grammar instead of conversational sentence fragments.\",\n    \"Omits informal punctuation marks like '&' or ellipses (...) used in references.\",\n    \"Maintains a formal tone rather than a casual conversational voice.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "23",
+    "sentence": "it has to be dragged and dropped into iTunes.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Target-style abbreviations like 'u' or 'i' are missing from the text.\",\n    \"Uses passive voice instead of direct advice or active voice.\",\n    \"Tone is impersonal and instructional rather than conversational and casual.\",\n    \"Vocabulary lacks colloquialisms or casual spelling variations present in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "24",
+    "sentence": "Please, gives us some other clues.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses formal politeness marker Please not found in informal references.\",\n    \"Sentence begins with uppercase letter contrary to lowercase usage.\",\n    \"Missing casual typos like thnk or eassy present in references.\",\n    \"Unnecessary comma after Please interrupts natural conversational flow.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "25",
+    "sentence": "Otherwise people will think he is urinating.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses full verb forms instead of contractions common in informal speech.\",\n    \"Tone is too neutral, lacking the personal voice found in references.\",\n    \"Lacks slang vocabulary or abbreviations such as 'pic' or 'lol'.\",\n    \"Missing emoticons or playful punctuation marks present in target examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "26",
+    "sentence": "O&A party Rock says Howard stern Sucks Monkey Balls",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Resembles a headline or title rather than casual conversational commentary.\",\n    \"Displays inconsistent capitalization across proper nouns and common words.\",\n    \"Utilizes telegraphic fragments instead of fluid informal sentence structure.\",\n    \"Relies on reported speech rather than direct personal expression.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "27",
+    "sentence": "I finally achieved one of my life goals last year when I got to see him live.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses formal vocabulary like 'achieved' instead of casual colloquialisms preferred in style.\",\n    \"Avoids lowercase first-person pronouns common in informal digital communication.\",\n    \"Uses complex sentences instead of casual fragments typical of target texts.\",\n    \"Sounds rehearsed and serious rather than spontaneous and conversational.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "Is this meant to be a dirty question?",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Maintains a formal tone instead of the casual conversational voice found in targets.\",\n    \"Lacks slang, abbreviations, or emoticons that characterize the informal target style.\",\n    \"Follows strict grammatical conventions rather than relaxed internet speech patterns.\",\n    \"Sounds detached rather than the personal and opinionated voice of the examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "29",
+    "sentence": "The artist is Sugar Ray and the song is Fly which features the other artist Super Cat. There lyrics are here.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses complete formal sentences instead of casual sentence fragments.\",\n    \"Fails to utilize contractions typical of informal digital communication.\",\n    \"Lacks first-person perspective common in casual conversational exchanges.\",\n    \"Tone remains informational rather than expressing enthusiasm or opinion.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "30",
+    "sentence": "I am sorry, even though i am curious on this subject, I have no idea about it.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks informal contractions like 'im' or 'dont' frequently used in reference texts.\",\n    \"Inconsistent capitalization of the first-person pronoun throughout the sentence.\",\n    \"Formal vocabulary \\\"on this subject\\\" lacks the casual brevity of reference texts.\",\n    \"Missing conversational elements like emoticons or ellipses common in informal digital communication.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "31",
+    "sentence": "Too many weird aliens like the two headed announcer.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks colloquial slang or informal vocabulary found in the reference texts.\",\n    \"Avoids stylistic fragments and ellipses common in the target informal style.\",\n    \"Omits emphatic repetitions or expressive intensifiers used in the references.\",\n    \"Fails to capture the subjective and passionate tone evident in the reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "Do not start with a full drum kit.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses formal negative command instead of casual conversational phrasing.\",\n    \"Lacks contractions typically found in informal written English.\",\n    \"Tone lacks friendliness and encouragement seen in references.\",\n    \"Misses casual punctuation features like ellipses or dashes.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "33",
+    "sentence": "Vincent Van Gogh is the best painted.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Absence of first-person indicators like 'I think' or 'In my opinion'.\",\n    \"Overly formal tone clashes with the casual conversational style of references.\",\n    \"No use of informal contractions or stylized spelling seen in targets.\",\n    \"Lacks emotive punctuation such as exclamation marks to convey enthusiasm.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "34",
+    "sentence": "I got a copy of Naked from amazon.de and the shipping was great.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses standard capitalization instead of casual lowercase found in references.\",\n    \"Lacks informal slang or emoticons like 'lol' present in target texts.\",\n    \"Avoids casual abbreviations like 'u' frequently found in reference style.\",\n    \"Employs formal grammar rather than the relaxed syntax of target texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "35",
+    "sentence": "No human can fly alone.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks informal contractions or slang typically seen in reference examples.\",\n    \"Sentence structure is rigidly formal instead of conversational or fragmented.\",\n    \"Tone lacks enthusiasm, humor, or emotional emphasis found in targets.\",\n    \"Fails to use relaxed orthography like lowercase starts seen in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "36",
+    "sentence": "You should do things that you would not have done before.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks informal contractions present in the reference texts.\",\n    \"Uses complex conditional grammar instead of simple present tense.\",\n    \"Adopts a formal advisory tone rather than casual suggestion.\",\n    \"Is wordier and less concise than the reference examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "37",
+    "sentence": "Lol, that's my birthday. And yes.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Fails to adopt target style's casual spelling variations like 'dnt' or 'dont'.\",\n    \"Uses standard capitalization despite target texts frequently starting sentences with lowercase letters.\",\n    \"Avoids emphatic punctuation like multiple exclamation marks or ellipses common in references.\",\n    \"Structure feels too segmented compared to the continuous, stream-of-consciousness style of the references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "38",
+    "sentence": "I love the one with the Cookie Monster in rehab, that was hilarious.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks exclamation marks common in enthusiastic reference texts.\",\n    \"Maintains full sentences instead of casual stylistic fragments.\",\n    \"Omits dashes and ellipses typical of target communication style.\",\n    \"Combines clauses with a comma rather than breaking rhythm.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "39",
+    "sentence": "I know a guy, who listen to such stories each day, and he gets a lot of money.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks casual conversational fillers or interjections typical of informal speech.\",\n    \"Omits expressive punctuation like all-caps or exclamation marks for impact.\",\n    \"Uses neutral phrasing instead of colloquial expressions or slang terms.\",\n    \"Fails to capture the casual, chatty atmosphere characteristic of the target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "40",
+    "sentence": "I prefer 'Cheaper by the Dozen' because it's more of a family movie.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses standard formal ending punctuation instead of casual absence of periods or exclamation marks.\",\n    \"Capitalizes 'I' unlike reference texts that frequently use lowercase pronouns casually.\",\n    \"Displays neutral tone lacking the emotional emphasis or slang seen in references.\",\n    \"Constructs a complete sentence rather than using casual fragments or lists typical of targets.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "41",
+    "sentence": "Joel going out with Hilary Duff...EWWWWWWWW!",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks intentional spelling errors and typos prevalent in the target-style references.\",\n    \"Misses casual contractions like 'dont' or 'aint' common in reference texts.\",\n    \"Uses standard capitalization rules instead of lowercase conventions seen in some references.\",\n    \"Contains fewer filler words such as 'Um' or 'Oh' found in targets.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "42",
+    "sentence": "I would have to say that Paul Wall, for being a caucasion, is very good.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses formal 'I' capitalization instead of lowercase 'i' seen in targets.\",\n    \"Uses full verb forms instead of casual abbreviations like 'id'.\",\n    \"Follows strict grammar rules instead of casual grammatical variations.\",\n    \"Lacks expressive punctuation like ellipses or multiple exclamation marks.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "No pun intended but no one can compare to the attractiveness of Asians.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses formal vocabulary like 'attractiveness' instead of slang terms like 'hot' or 'hott'\",\n    \"Lacks casual punctuation features like ellipses or emoticons seen in reference texts\",\n    \"Complete sentence structure lacks the fragmentation typical of informal chat style\",\n    \"Missing emotional intensifiers and exclamations prevalent in the target informal style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "44",
+    "sentence": "I have am HP, is that the same as Windows?",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses proper capitalization contrasting with informal lowercase conventions.\",\n    \"Lacks text-speak abbreviations like 'u' commonly used in target style.\",\n    \"Uses complete sentences rather than casual conversational fragments.\",\n    \"Follows strict punctuation rules rather than relaxed informal norms.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "45",
+    "sentence": "No, his parents said that he was too young to date.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks emojis or smileys present in the informal reference texts.\",\n    \"Does not utilize all-caps formatting for emphasis found in examples.\",\n    \"Avoids contractions frequently used in the informal reference texts.\",\n    \"Uses standard punctuation instead of informal markers like ellipses.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "46",
+    "sentence": "I wonder if there is someplace where I can view it?",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses standard capitalization instead of informal lowercase usage seen in references.\",\n    \"Lacks contractions such as \\\"can't\\\" or \\\"doesn't\\\" typical of informal English.\",\n    \"Phrasing is overly polite and tentative compared to direct casual speech.\",\n    \"Uses formal verb \\\"view\\\" instead of casual terms like \\\"watch\\\" found in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "47",
+    "sentence": "I would have to say for a white boy, Paul Wall goes hard.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses polite hedging phrases like 'I would have to say' instead of direct assertions.\",\n    \"Adopts standard capitalization rather than stylistic lowercase or all-caps formatting styles.\",\n    \"Sentence structure is overly complete compared to the fragments in some references.\",\n    \"Lacks exclamation marks used to convey enthusiasm in target references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "I don't think anybody has nothining on Asian persuasion.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses formal term 'persuasion' which clashes with informal conversational context.\",\n    \"Spelling error 'nothining' disrupts the casual written aesthetic.\",\n    \"Double negative construction creates ambiguity in the sentence meaning.\",\n    \"Lacks expressive punctuation like exclamation marks found in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "49",
+    "sentence": "I have an HP, but that is the same as Windows correct?",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Source avoids informal abbreviations like 'u' for 'you' common in references.\",\n    \"Source uses standard capitalization instead of casual lowercase seen in references.\",\n    \"Source avoids intentional misspellings like 'bacically' which appear in reference style.\",\n    \"Overall tone is more formal than the casual conversational nature of references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "50",
+    "sentence": "No, his parents said they do not want him dating at a young age.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses full spellings like 'do not' instead of informal abbreviations like 'dnt'.\",\n    \"Maintains standard capitalization instead of inconsistent lowercase or uppercase styling.\",\n    \"Lacks enthusiastic punctuation such as exclamation marks or ellipses common in references.\",\n    \"Tone is neutral and reportative rather than conversational and opinionated.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "51",
+    "sentence": "I do not think there is anyplace to see it at.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses formal \\\"do not\\\" instead of the informal contraction \\\"don't\\\".\",\n    \"Uses a complete sentence structure rather than casual fragments.\",\n    \"Tone is too formal and polished for the target informal style.\",\n    \"Lacks the natural colloquial vocabulary found in the reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "52",
+    "sentence": "I believe I wasted too much time.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses formal phrase 'I believe' instead of casual phrasing.\",\n    \"Lacks contractions commonly seen in informal written style.\",\n    \"Missing emotional cues like emoticons or expressive punctuation.\",\n    \"Avoids exclamatory or questioning structures common in informal writing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "53",
+    "sentence": "I believe the producers used computer technology.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses formal phrase I believe rather than casual I think.\",\n    \"Omits contractions typical of informal conversational writing styles.\",\n    \"Uses formal vocabulary computer technology instead of colloquial terms.\",\n    \"Lack of hedging makes tone overly definitive compared to references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "54",
+    "sentence": "It is sad when people don't know the alphabet.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses formal complete sentence structure rather than casual fragments.\",\n    \"Maintains standard capitalization instead of lowercase typing styles.\",\n    \"Avoids common informal abbreviations like 'u' or 'ur' found in references.\",\n    \"Uses correct spelling instead of playful typos typical of informal chat.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "I believe he looks horrible.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of \\\"believe\\\" creates unnecessary formality compared to \\\"I think\\\".\",\n    \"Absence of common contractions like \\\"he's\\\" or \\\"don't\\\" seen in targets.\",\n    \"Expression lacks the candid bluntness typical of the target style.\",\n    \"Structure lacks the natural, unpolished rhythm of casual spoken English.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "56",
+    "sentence": "What is your opinion of a wealthy degenerate in a poor country?",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses formal vocabulary instead of the slang or colloquialisms evident in the reference texts.\",\n    \"Lacks informal contractions and abbreviations typical of casual digital communication styles.\",\n    \"Maintains strict grammatical structure and capitalization contrary to the loose reference formatting.\",\n    \"Adopts a polite, detached question format rather than a blunt, direct opinion style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "57",
+    "sentence": "The song was sung by Tim Curry in the Rocky Horror Picture Show.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses formal passive voice instead of casual active phrasing.\",\n    \"Adheres to strict capitalization rules instead of lowercase.\",\n    \"Contains no typos or informal spelling variations like refs.\",\n    \"States objective facts rather than expressing subjective opinion.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "58",
+    "sentence": "The movie was well done, actually.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Fails to use informal lowercase lettering common in reference texts.\",\n    \"Maintains standard punctuation and grammar rather than casual fragment structures.\",\n    \"Uses formal vocabulary like 'well done' rather than casual slang terms.\",\n    \"Lacks the emotional enthusiasm and hyperbole found in reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "59",
+    "sentence": "I am unsure who you are referring to though. Could it be Howard Stern?",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses formal phrasing \\\"I am unsure\\\" instead of casual contractions.\",\n    \"Lacks colloquial slang terms like \\\"gonna\\\" or \\\"gotta\\\" found in references.\",\n    \"Polite interrogative structure contrasts with direct informal assertions in target texts.\",\n    \"Strict grammatical adherence contrasts with the loose syntax of reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "60",
+    "sentence": "They are wonderful, and I love them very much.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses full verb forms like 'are' instead of informal contractions such as 'they're'.\",\n    \"Lacks expressive punctuation like exclamation marks or emoticons found in target style examples.\",\n    \"Uses formal vocabulary like 'wonderful' instead of casual terms such as 'awesome' or 'ok'.\",\n    \"Phrasing lacks the spontaneous, conversational enthusiasm characteristic of informal online comments.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "61",
+    "sentence": "Mam I know that you are not going to take me away.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses formal address 'Mam' rather than casual or lowercase terms.\",\n    \"Sentences are fully formed rather than using casual fragments or ellipses.\",\n    \"Vocabulary lacks slang or dialect variants found in references.\",\n    \"Standard spelling avoids intentional errors typical of informal style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "62",
+    "sentence": "Worship your inferior God.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks colloquial fillers or slang interjections found in reference texts.\",\n    \"Uses formal capitalization instead of casual lowercase styling conventions.\",\n    \"Presents authoritative tone instead of relaxed conversational peer communication.\",\n    \"Lacks casual typos or grammatical errors typical of informal writing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "It is the one with the three nacelles.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses complete grammatical sentences instead of casual fragments.\",\n    \"Avoids using contractions common in informal writing.\",\n    \"Maintains an impersonal tone lacking conversational warmth.\",\n    \"Omits hedging language or uncertainty found in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "64",
+    "sentence": "Remember, they say Sponge Bob Squarepants is queer.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses standard capitalization instead of mixed case or all caps.\",\n    \"Omits contractions and slang phrases common in informal contexts.\",\n    \"Tone is formal reporting rather than casual personal commentary.\",\n    \"Follows standard punctuation spacing unlike loose formatting in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "65",
+    "sentence": "Okay, here are my opinions on that topic.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses formal phrasing like \\\"here are my opinions\\\" instead of casual expressions.\",\n    \"Maintains standard capitalization instead of informal lowercase seen in reference texts.\",\n    \"Sentence structure is too polished and complete for the casual target style.\",\n    \"Lacks specific colloquialisms or slang typically found in informal conversation.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "66",
+    "sentence": "I believe that would be a no.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses capitalized first-person pronoun instead of lowercase informal variant.\",\n    \"Employs formal hedging phrases instead of direct casual refusals.\",\n    \"Lacks contractions common in the informal target style examples.\",\n    \"Maintains polite sentence structure conflicting with casual direct conversation norms.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "67",
+    "sentence": "I would not say I'm an avid rap fan.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Phrase \\\"I would not say\\\" is too wordy and formal for the style.\",\n    \"Word \\\"avid\\\" is too formal compared to casual synonyms used in references.\",\n    \"Missing text-speak abbreviations like \\\"w/\\\" or \\\"u\\\" found in targets.\",\n    \"Lacks slang and colloquial expressions that define the target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "I enjoyed my involvement in the show.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses formal vocabulary such as 'involvement' instead of casual terms.\",\n    \"Fails to include conversational contractions typical of informal text.\",\n    \"Demonstrates less emotional intensity than enthusiastic reference examples.\",\n    \"Uses rigid sentence structure instead of casual fragments.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "69",
+    "sentence": "It is thought to be a .45 Long Colt Single Action Army.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses passive voice instead of active voice preferred in informal speech.\",\n    \"Omits first-person perspective establishing personal connection found in references.\",\n    \"Maintains formal academic register instead of casual conversational tone.\",\n    \"Presents information objectively lacking subjective opinion markers like 'I think'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "70",
+    "sentence": "My father Eminem is the wealthiest rapper.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Maintains a formal tone instead of the casual, conversational voice in references.\",\n    \"Lacks slang terminology and idiomatic expressions characteristic of the informal target style.\",\n    \"Does not include common text abbreviations like 'u' or 'ya' used in targets.\",\n    \"Avoids lowercase lettering that contributes to the relaxed aesthetic of the references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "But you should talk with me about this and I will tell you more.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks colloquial filler phrases or interjections typical of informal speech.\",\n    \"Uses standard sentence structure instead of informal fragmented speech patterns.\",\n    \"Avoids contractions, utilizing \\\"I will\\\" rather than casual alternatives.\",\n    \"Missing stylistic punctuation like ellipses or emoticons typical of the target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "72",
+    "sentence": "Because they follow what everyone else is doing and do what other people want them to do.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses standard spelling instead of informal abbreviations or intentional misspellings.\",\n    \"Contains no slang or colloquial expressions typical of the reference style.\",\n    \"Employs standard capitalization rather than the informal lowercase writing convention.\",\n    \"Follows rigid grammatical structure rather than casual fragmented speech patterns.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "73",
+    "sentence": "I meant, it is digital, but I did not find it to be of good enough quality to be on a CD.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses full phrases like 'did not' instead of informal contractions like 'didn't'.\",\n    \"Uses standard capitalization rather than the lowercase style prevalent in references.\",\n    \"Employs formal sentence structure instead of casual conversational phrasing found in targets.\",\n    \"Omits slang abbreviations like 'u' or 'tht' common in informal style references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "74",
+    "sentence": "Tuesday, December 20, 2015, 08:00 PM: 50 Cent; Riocoh Coliseum; Toronto, Oregon.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses formal date and time syntax rather than casual or abbreviated formats.\",\n    \"Lacks conversational tone and personal engagement characteristic of informal writing.\",\n    \"Employs rigid punctuation structures like semicolons inconsistent with casual styles.\",\n    \"Misses enthusiasm or emphasis markers like exclamation points common in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "75",
+    "sentence": "Movie star of course, because myself and Kim and Earl are good.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Does not use informal slang abbreviations like \\\"cuz\\\" or \\\"id\\\".\",\n    \"Lacks enthusiastic punctuation such as double or triple exclamation marks.\",\n    \"Uses vague descriptor \\\"good\\\" rather than expressive informal phrases.\",\n    \"Maintains a neutral tone lacking the humor or attitude in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "76",
+    "sentence": "Not likely as they are both dead.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Starts with an uppercase letter, contrasting with the lowercase preference in references.\",\n    \"Absence of informal contractions like 'dont' found consistently across reference texts.\",\n    \"Tone is too formal and declarative rather than casual conversational speech.\",\n    \"Lacks informal shorthands or slang common in the target reference style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "77",
+    "sentence": "Okay, does it have opera in it?",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks slang abbreviations like 'u' characteristic of target informal written communication.\",\n    \"Does not include conversational fillers or hedges found in reference examples.\",\n    \"Follows standard capitalization norms rather than the informal lowercase styles of references.\",\n    \"Lacks rhetorical questions or emphatic expressions typical of target style examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "If you don't like the real radio, make your own. That would be super fun!",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Text lacks informal slang or abbreviations like 'luv' or 'tht' common in references.\",\n    \"Relies on formal conditional structures instead of casual fragments typical of target style.\",\n    \"Uses standard sentence capitalization instead of relaxed lowercase patterns found in examples.\",\n    \"Tone remains polite and instructional rather than enthusiastic and conversational peer-like.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "The panda says look it up.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Relies on standard sentence capitalization rather than casual lowercase often used in references.\",\n    \"Missing informal punctuation features like ellipses or parentheses frequently observed in references.\",\n    \"Sounds too formal compared to the conversational and chatty tone of references.\",\n    \"Avoids slang or colloquial spelling variations found in the provided informal examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "80",
+    "sentence": "To, and get every known answer to man.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks natural conversational flow, appearing disjointed compared to reference snippets.\",\n    \"Begins with capital letter, contradicting the prevalent lowercase convention.\",\n    \"Uses phrasing like 'answer to man' instead of casual vocabulary.\",\n    \"Awkward punctuation placement reduces readability typical of informal chat.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "81",
+    "sentence": "That is unlikely since both are deceased.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses formal vocabulary such as \\\"deceased\\\" rather than casual terms.\",\n    \"Contains no contractions or abbreviations typical of informal writing.\",\n    \"Follows standard capitalization rules instead of the casual lowercase trend.\",\n    \"States conclusions definitively instead of using hedging phrases like \\\"probably\\\".\"\n  ]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "Does it have the style of opera in it?",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Employs rigid grammatical construction instead of relaxed speech patterns.\",\n    \"Lacks colloquialisms or idioms common in informal contexts.\",\n    \"Phrasing is indirect and wordy compared to concise references.\",\n    \"Tone is analytical rather than personal or enthusiastically informal.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "It would be so fun to make your own since you do not like the real radio.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses formal grammar and spelling instead of casual abbreviations.\",\n    \"Maintains standard capitalization rather than informal lowercase styling.\",\n    \"Avoids internet slang like 'lol' common in reference texts.\",\n    \"Adopts a polite, formal tone instead of casual peer speech.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "\"You should look it up!\" said the panda.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Overuses standard dialogue tagging instead of casual or absent attribution.\",\n    \"Maintains strict capitalization instead of casual lowercase styling evident in references.\",\n    \"Lacks expressive punctuation like ellipses used to create conversational rhythm.\",\n    \"Structure is fully formed sentences rather than fragmented informal expressions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "Get every known answer to man.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Avoids lowercase styling characteristic of most reference texts provided.\",\n    \"Omits slang or numerals like 'no1' or 'urself' common in target style.\",\n    \"Uses formal phrasing instead of colloquial expressions found in references.\",\n    \"Lacks conversational fillers like 'well' present in multiple reference examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "86",
+    "sentence": "He does not ever take the train.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses full verb forms instead of contractions common in style.\",\n    \"Lacks expressive punctuation such as exclamation marks or ellipses.\",\n    \"Fails to use all-caps for emphasis seen in reference texts.\",\n    \"Tone lacks the casual voice characteristic of the target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "87",
+    "sentence": "The compact discs that include two discs rather than just one.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses full term \\\"compact discs\\\" instead of informal abbreviation \\\"CDs\\\"\",\n    \"Reads like a technical definition rather than casual conversation\",\n    \"Lacks personal pronouns or first-person perspective common in references\",\n    \"Employs formal phrasing \\\"rather than\\\" instead of casual alternatives\"\n  ]\n}"
+  },
+  {
+    "src_ind": "88",
+    "sentence": "The quantity of beer they consume must impair their sight and hearing.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses formal vocabulary like 'quantity', 'consume', and 'impair' instead of casual terms.\",\n    \"Lacks contractions and colloquialisms common in the informal target style.\",\n    \"Tone is overly formal and detached compared to the conversational references.\",\n    \"Sentence structure is rigid and complete, lacking casual fragments or run-on flows.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "89",
+    "sentence": "I thought the movie was decent, I ranked it an A- when I rated it on the Yahoo Movies site.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses formal vocabulary instead of slang or colloquial terms.\",\n    \"Omits exclamation marks used by others for emphasis.\",\n    \"Does not include emojis commonly found in casual comments.\",\n    \"Constructs formal sentences rather than fragments or run-ons.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "90",
+    "sentence": "There are many passionate banjo players on the forums at the website, \"ezfolk.com\".",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses formal sentence structure instead of casual sentence fragments.\",\n    \"Absence of contractions results in a tone too formal.\",\n    \"Lacks personal enthusiasm or subjective opinion found in targets.\",\n    \"Omits conversational fillers like 'yeah' for engagement.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "91",
+    "sentence": "Just go to the Golden Globes website.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses complete sentence structure rather than the informal fragments seen in references.\",\n    \"Fails to include emphatic punctuation like multiple exclamation marks found in examples.\",\n    \"Omits casual conversational phrases such as 'trust me' present in the references.\",\n    \"Starts with standard capitalization instead of the frequent lowercase initiation in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "92",
+    "sentence": "Yes, it's pretty safe. Don't download it for free, that's not supportive.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses standard capitalization instead of lowercase styling seen in references.\",\n    \"Avoids informal abbreviations like 'u' common in target style texts.\",\n    \"Maintains strict grammar instead of casual typos or omitted apostrophes.\",\n    \"Adopts a serious tone rather than the casual conversational voice.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "93",
+    "sentence": "He always hits Oregon before you.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks colloquial slang and informal vocabulary typical of casual conversation.\",\n    \"Neutral tone misses the enthusiasm and emotional intensity of references.\",\n    \"Standard sentence structure ignores casual fragments and conversational flow.\",\n    \"Punctuation lacks exclamation points or ellipses used for dramatic effect.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "94",
+    "sentence": "I recommend ultimate-guitar.com. But if you just want White Stripes music: brokenbricks.com.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses standard capitalization instead of the lowercase style seen in references.\",\n    \"Employs formal phrasing instead of casual direct suggestions found in references.\",\n    \"Lacks abbreviations and typos typical of informal online conversation styles.\",\n    \"Forms complete sentences rather than fragmented chat-like responses.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "Yes you can use an USB.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Avoids lowercase 'i' and informal sentence casing prevalent in the provided reference texts.\",\n    \"Omits colloquial slang and abbreviations like 'u', 'nope', or 'wat' expected in this style.\",\n    \"Uses a formal tone lacking conversational hedging phrases found in the target reference texts.\",\n    \"Relies on standard orthography instead of the deliberate misspellings and shorthand used in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "96",
+    "sentence": "While I am not, my sibling is.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses formal noun 'sibling' instead of casual family descriptors.\",\n    \"Uses full sentence structure instead of fragmented conversational speech.\",\n    \"Maintains standard sentence capitalization rather than casual lowercase usage.\",\n    \"Lacks slang, abbreviations, or emotional emphasis found in targets.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "I believe the correct title is Nielson Ratings.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses capitalized 'I' instead of lowercase 'i' common in informal digital writing.\",\n    \"Lacks contractions like 'im' or 'it's' prevalent in reference texts.\",\n    \"Uses formal expression 'I believe' instead of casual phrases like 'i think'.\",\n    \"Omits conversational fillers or hesitation markers found in reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "98",
+    "sentence": "All of them get paid, including directors, dancers, actors etc.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Absence of contractions makes the tone sound stiff and formal rather than casual.\",\n    \"Usage of 'etc.' appears academic and out of place for informal conversation.\",\n    \"Full capitalization conflicts with the lowercase styling evident in the target references.\",\n    \"Sentence structure lacks casual conversational openers or emotional markers found in targets.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "99",
+    "sentence": "If it weren't so, then it would all be shrouded in darkness.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses formal grammatical structures instead of casual conversational fragments.\",\n    \"Omits casual abbreviations and non-standard contractions found in references.\",\n    \"Adheres to standard capitalization rather than lowercase stylistic choices.\",\n    \"Employs elevated vocabulary instead of simple colloquial language.\"\n  ]\n}"
+  }
+]

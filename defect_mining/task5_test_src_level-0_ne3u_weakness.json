@@ -1,0 +1,502 @@
+[
+  {
+    "src_ind": "0",
+    "sentence": "You can download his music in Lime Wire.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Formal sentence capitalization instead of lowercase start\",\n    \"Formal phrasing 'You can download' vs conversational imperative\",\n    \"Proper noun capitalization 'Lime Wire' vs lowercase 'limewire.com' style\",\n    \"Lacks informal contractions or typographical informality markers\"\n  ]\n}"
+  },
+  {
+    "src_ind": "1",
+    "sentence": "I assume that her father killed her.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Capitalized \\\"I\\\" and sentence start instead of casual lowercase\",\n    \"Formal verb \\\"assume\\\" instead of casual \\\"think\\\" or \\\"guess\\\"\",\n    \"Formal complementizer \\\"that\\\" in subordinate clause\",\n    \"Overly structured formal sentence lacking casual fragments\"\n  ]\n}"
+  },
+  {
+    "src_ind": "2",
+    "sentence": "You're mother is so big that she climbed a mountain.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses formal 'mother' instead of colloquial 'mom'\",\n    \"Standard capitalization and punctuation lack informal style\",\n    \"Literal punchline lacks absurdist meme humor\",\n    \"Incorrect 'You're' used instead of possessive 'Your'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "3",
+    "sentence": "Yes!  That song is outstanding.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Overly formal vocabulary choice\",\n    \"Excessively proper punctuation and capitalization\",\n    \"Lacks conversational informal markers\",\n    \"Missing contractions or casual phrasing\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "\"The Birth of a Legend\" was the last movie he made.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Formal title case capitalization instead of casual lowercase\",\n    \"Formal sentence structure lacks conversational tone\",\n    \"No contractions or informal grammar markers\",\n    \"Overly proper punctuation and grammar for informal style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "5",
+    "sentence": "Spider man was a great fast paced movie that was adapted from a  comic book.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Formal sentence structure lacks casual conversational tone\",\n    \"No contractions used, making tone stiff\",\n    \"Excessively wordy compared to concise informal style\",\n    \"Proper nouns capitalized instead of lowercase informal norm\"\n  ]\n}"
+  },
+  {
+    "src_ind": "6",
+    "sentence": "I used to prefer it when I was younger, but now I find it ridiculous.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Formal sentence structure without colloquial phrasing.\",\n    \"No lowercase or casual capitalization.\",\n    \"Missing expressive punctuation (e.g., exclamation marks).\",\n    \"Absence of informal discourse markers like 'maybe' or 'I guess'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "7",
+    "sentence": "I believe the Linz family will win in the end.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Overly formal vocabulary (\\\"believe\\\" vs casual \\\"think/guess\\\")\",\n    \"Rigid grammatical structure lacks informal fragments\",\n    \"Standard capitalization/punctuation misses casual lowercase style\",\n    \"Absence of colloquial markers like ellipsis or slang\"\n  ]\n}"
+  },
+  {
+    "src_ind": "8",
+    "sentence": "Captain Tsubaba is new, to teach football to the younger years.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Overly formal sentence structure and grammar\",\n    \"Lacks informal phonetic spelling and abbreviations\",\n    \"Missing casual conversational tone and exclamation emphasis\",\n    \"Proper capitalization throughout, no lowercase stylization\"\n  ]\n}"
+  },
+  {
+    "src_ind": "9",
+    "sentence": "Number 12 and dead reckless look exactly like you.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses formal capitalization instead of all-lowercase informal style\",\n    \"Sentence structure is grammatically complete rather than conversational fragments\",\n    \"Lacks informal markers like emoticons or casual punctuation\",\n    \"Missing conversational abbreviations or slang typical of informal style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "10",
+    "sentence": "I was told it was a homosexual cowboy movie.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses formal clinical term \\\"homosexual\\\" instead of informal \\\"gay\\\"\",\n    \"Formal passive construction \\\"I was told\\\" lacks conversational tone\",\n    \"Standard capitalization and punctuation unlike casual lowercase style\",\n    \"Overly structured sentence lacks fragmented spontaneous feel\"\n  ]\n}"
+  },
+  {
+    "src_ind": "11",
+    "sentence": "You really believe it isn't strange to enjoy Cartoons at your age.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Overly formal sentence structure lacks conversational tone\",\n    \"Unusual mid-sentence capitalization of 'Cartoons'\",\n    \"Missing casual discourse markers like 'maybe' or 'but hey'\",\n    \"Rigid phrasing 'it isn't strange' instead of casual 'not weird'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "12",
+    "sentence": "Carmela versus Kay and Junior.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Formal 'versus' used instead of casual 'vs'\",\n    \"Uses 'and' instead of informal ampersand '&'\",\n    \"Proper title casing lacks casual lowercase style\",\n    \"No conversational tone, opinion, or first-person perspective\"\n  ]\n}"
+  },
+  {
+    "src_ind": "13",
+    "sentence": "limewire is free and legal, but it doesn't always work.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses standard capitalization instead of lowercase informal style\",\n    \"Employs correct grammar and spelling rather than informal variants\",\n    \"Lacks characteristic text speak abbreviations like 'u' or 'wat'\",\n    \"Sentence structure is too formal and properly punctuated\"\n  ]\n}"
+  },
+  {
+    "src_ind": "14",
+    "sentence": "They are all Jewish so you must be watching the same show.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses standard capitalization instead of informal lowercase or all-caps\",\n    \"Missing contractions like 'they're' typical in casual speech\",\n    \"Lacks colloquial fillers or slang (e.g., 'gotta', 'thnk')\",\n    \"No emphatic all-caps for expressive emphasis\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "A Thousand Miles by Vanessa Carlton.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Formal title case capitalization instead of casual lowercase\",\n    \"Standard 'by' attribution rather than informal phrasing\",\n    \"Proper terminal period instead of minimal punctuation\",\n    \"Lacks contractions, slang, or conversational markers\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "Daddy Bransen will eventually slow his girls down.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Formal sentence structure lacks contractions and conversational fragments.\",\n    \"No informal discourse markers like 'ha ha', 'lol', or ellipses.\",\n    \"Uses full name 'Daddy Bransen' instead of casual nickname.\",\n    \"Phrasing 'slow his girls down' is literal, not colloquial.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "17",
+    "sentence": "Perhaps she has a psychological disorder, such as bipolar disorder.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Overly formal and clinical vocabulary\",\n    \"Lacks informal markers like contractions or lowercase\",\n    \"Rigid sentence structure without conversational flow\",\n    \"Missing hedges, fillers, or casual tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "18",
+    "sentence": "It is not relevant to Yahoo Music at all.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses formal phrasing without contractions (e.g., 'It is' vs 'It's').\",\n    \"Lacks informal emphasis like capitalization or slang typical of target style.\",\n    \"Employs full sentence structure instead of conversational fragments.\",\n    \"Absent subjective or first-person perspective common in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "19",
+    "sentence": "I hope you locate it, so I can take the name.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"overly formal tone\",\n    \"complete formal sentence structure\",\n    \"missing contractions\",\n    \"formal phrasing 'so I can take the name'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "It is probably too much for you, but it depends on which time, show, and channel.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses full forms instead of contractions (e.g., 'It is' vs 'It's').\",\n    \"Sentence structure is formal, not conversational.\",\n    \"Lacks informal punctuation such as ellipses or dashes.\",\n    \"Phrasing 'which time, show, and channel' is overly precise.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "21",
+    "sentence": "He is trying to close this one out.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Overly formal sentence structure\",\n    \"Lacks conversational discourse markers\",\n    \"Uses standard capitalization instead of casual style\",\n    \"Third-person narration lacks personal voice\"\n  ]\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "It would be to predictable if they always made it into the final 2.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Misspelling 'to' instead of 'too'\",\n    \"Overly formal sentence structure\",\n    \"Missing informal contractions like 'it'd'\",\n    \"Standard capitalization and punctuation instead of casual style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "23",
+    "sentence": "it has to be dragged and dropped into iTunes.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses passive voice construction instead of active imperative\",\n    \"Formal capitalization and punctuation throughout\",\n    \"Lacks informal abbreviations like 'u' for 'you'\",\n    \"Impersonal technical tone rather than conversational style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "24",
+    "sentence": "Please, gives us some other clues.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Overly formal polite phrasing\",\n    \"Subject-verb agreement error: 'gives' instead of 'give'\",\n    \"Proper capitalization lacks informal lowercase style\",\n    \"Full punctuation and grammar too correct for casual tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "25",
+    "sentence": "Otherwise people will think he is urinating.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses formal grammar and complete sentences\",\n    \"Lacks informal contractions or slang\",\n    \"No emoticons or expressive punctuation\",\n    \"Overly polite and structured phrasing\"\n  ]\n}"
+  },
+  {
+    "src_ind": "26",
+    "sentence": "O&A party Rock says Howard stern Sucks Monkey Balls",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Proper noun 'stern' capitalized instead of lowercase per informal style\",\n    \"Inconsistent mid-sentence capitalization of 'Rock', 'Monkey', 'Balls'\",\n    \"Missing sentence-terminal punctuation\",\n    \"Overly structured grammatical phrasing unlike fragmented reference style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "27",
+    "sentence": "I finally achieved one of my life goals last year when I got to see him live.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Formal phrasing ('achieved one of my life goals') lacks casual tone.\",\n    \"No contractions (e.g., 'I've') used.\",\n    \"Full capitalization and punctuation; informal style often omits.\",\n    \"Missing colloquial expressions or slang typical of informal writing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "Is this meant to be a dirty question?",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Overly formal sentence structure with subject-auxiliary inversion\",\n    \"Standard capitalization lacks casual lowercase opening\",\n    \"Absence of informal markers like abbreviations or emoticons\",\n    \"Grammatically precise phrasing feels stiff compared to references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "29",
+    "sentence": "The artist is Sugar Ray and the song is Fly which features the other artist Super Cat. There lyrics are here.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Overly formal sentence structure and vocabulary\",\n    \"Missing contractions typical of informal speech\",\n    \"Stiff phrasing like 'the other artist'\",\n    \"No conversational hedging or first-person perspective\"\n  ]\n}"
+  },
+  {
+    "src_ind": "30",
+    "sentence": "I am sorry, even though i am curious on this subject, I have no idea about it.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Formal clause \\\"even though I am curious on this subject\\\" lacks casual brevity\",\n    \"Uses \\\"I am sorry\\\" without contraction instead of casual \\\"sorry\\\" or \\\"I'm sorry\\\"\",\n    \"Formal phrasing \\\"I have no idea about it\\\" instead of casual \\\"I don't know\\\"\",\n    \"Inconsistent pronoun capitalization (\\\"I\\\" vs \\\"i\\\")\"\n  ]\n}"
+  },
+  {
+    "src_ind": "31",
+    "sentence": "Too many weird aliens like the two headed announcer.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Overly grammatical; lacks elliptical, fragmented structure of informal speech\",\n    \"Missing conversational hedges or discourse markers like 'I guess'\",\n    \"Lacks colloquial vocabulary or slang expressions\",\n    \"No informal punctuation patterns (ellipsis, excessive exclamation)\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "Do not start with a full drum kit.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Formal imperative tone lacks conversational warmth\",\n    \"Missing informal lowercase sentence start\",\n    \"No friendly markers like exclamation or ellipsis\",\n    \"Direct negative command instead of suggestive advice\"\n  ]\n}"
+  },
+  {
+    "src_ind": "33",
+    "sentence": "Vincent Van Gogh is the best painted.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Overly formal objective statement lacking subjective framing\",\n    \"Missing first-person opinion markers like 'I think' or 'in my opinion'\",\n    \"Absence of informal punctuation such as exclamation marks\",\n    \"Standard capitalization instead of casual lowercase style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "34",
+    "sentence": "I got a copy of Naked from amazon.de and the shipping was great.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses proper capitalization instead of all-lowercase informal style\",\n    \"Formal grammatical sentence structure lacks casual abbreviations\",\n    \"No informal internet slang or casual punctuation markers\",\n    \"Complete formal phrasing instead of telegraphic informal style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "35",
+    "sentence": "No human can fly alone.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Overly formal tone; lacks colloquial language\",\n    \"No informal contractions or slang (e.g., 'can't', 'coulda')\",\n    \"Missing expressive punctuation or emotional emphasis\",\n    \"Impersonal, factual delivery without conversational voice\"\n  ]\n}"
+  },
+  {
+    "src_ind": "36",
+    "sentence": "You should do things that you would not have done before.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Formal 'should' construction instead of direct imperative\",\n    \"Wordy 'that you would not have done before' phrasing\",\n    \"Overly formal sentence structure with full capitalization\",\n    \"Lacks casual contractions and informal tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "37",
+    "sentence": "Lol, that's my birthday. And yes.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Excessive capitalization (Lol, And) unlike lowercase informal style\",\n    \"Proper apostrophe in \\\"that's\\\" vs informal \\\"thats\\\" or omission\",\n    \"Formal sentence structure with periods vs loose conversational fragments\",\n    \"Lacks informal abbreviations/typo spellings (e.g., dnt, lol lowercase)\"\n  ]\n}"
+  },
+  {
+    "src_ind": "38",
+    "sentence": "I love the one with the Cookie Monster in rehab, that was hilarious.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Complete grammatical sentence lacks casual sentence fragments\",\n    \"Missing exclamation mark reduces enthusiastic informal tone\",\n    \"Formal 'that was' construction instead of direct casual phrasing\",\n    \"No informal punctuation like ellipsis or dash for emphasis\"\n  ]\n}"
+  },
+  {
+    "src_ind": "39",
+    "sentence": "I know a guy, who listen to such stories each day, and he gets a lot of money.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"No contractions, making tone overly formal\",\n    \"Formal vocabulary ('gets a lot of money') lacks slang\",\n    \"Absence of casual interjections or discourse markers\",\n    \"No informal punctuation like ellipsis or emphatic caps\"\n  ]\n}"
+  },
+  {
+    "src_ind": "40",
+    "sentence": "I prefer 'Cheaper by the Dozen' because it's more of a family movie.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Formal sentence structure lacks casual conversational tone\",\n    \"Proper capitalization and punctuation unlike informal lowercase style\",\n    \"Explanatory phrasing 'because it's more of' too formal for casual recommendations\",\n    \"Quotation marks around movie title not used in reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "41",
+    "sentence": "Joel going out with Hilary Duff...EWWWWWWWW!",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Lacks informal fillers like 'um' or 'uh'\",\n    \"Uses standard capitalization instead of lowercase\",\n    \"Uses standard spelling instead of phonetic informal spelling\",\n    \"Uses formal ellipsis punctuation instead of casual spacing\"\n  ]\n}"
+  },
+  {
+    "src_ind": "42",
+    "sentence": "I would have to say that Paul Wall, for being a caucasion, is very good.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Overly formal capitalization throughout\",\n    \"Missing informal contraction 'id' for 'I would'\",\n    \"Lacks informal punctuation like '!!!' or '...'\",\n    \"Formal clause structure 'for being a caucasion'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "No pun intended but no one can compare to the attractiveness of Asians.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Overly formal phrasing lacks casual conversational tone\",\n    \"Absence of informal markers like slang, contractions, or emoticons\",\n    \"Stiff sentence structure unsuitable for informal style\",\n    \"Cliché 'no pun intended' feels forced and unnatural\"\n  ]\n}"
+  },
+  {
+    "src_ind": "44",
+    "sentence": "I have am HP, is that the same as Windows?",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses formal grammar instead of casual contractions\",\n    \"Lacks informal abbreviations like 'u' or 'wat'\",\n    \"Stiff, non-conversational phrasing\",\n    \"Standard capitalization instead of casual lowercase\"\n  ]\n}"
+  },
+  {
+    "src_ind": "45",
+    "sentence": "No, his parents said that he was too young to date.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Overly formal sentence structure lacking casual fragmentation\",\n    \"Absence of informal abbreviations like 'yr' or 'dont'\",\n    \"No emoticon or expressive punctuation for tone\",\n    \"Standard capitalization instead of stylized emphasis\"\n  ]\n}"
+  },
+  {
+    "src_ind": "46",
+    "sentence": "I wonder if there is someplace where I can view it?",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Overly formal polite phrasing\",\n    \"Missing contractions\",\n    \"Capitalized first-person pronoun\",\n    \"Wordy indirect question structure\"\n  ]\n}"
+  },
+  {
+    "src_ind": "47",
+    "sentence": "I would have to say for a white boy, Paul Wall goes hard.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Overly formal hedging phrase 'I would have to say'\",\n    \"Standard capitalization lacks casual lowercase style\",\n    \"Complete formal sentence structure, not conversational fragments\",\n    \"Missing expressive punctuation or enthusiastic tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "I don't think anybody has nothining on Asian persuasion.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Lacks lowercase informal styling\",\n    \"Missing casual punctuation like exclamation or emoticons\",\n    \"Overly formal sentence structure for casual context\",\n    \"Unnatural phrasing 'Asian persuasion' for informal speech\"\n  ]\n}"
+  },
+  {
+    "src_ind": "49",
+    "sentence": "I have an HP, but that is the same as Windows correct?",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses formal grammar and complete sentence structure\",\n    \"Lacks informal abbreviations like 'u' for 'you'\",\n    \"Proper capitalization and punctuation throughout\",\n    \"Formal phrasing 'that is the same as' instead of casual 'same as'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "50",
+    "sentence": "No, his parents said they do not want him dating at a young age.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Formal full-sentence structure instead of fragmented informal style\",\n    \"Uses formal \\\"do not\\\" rather than contraction \\\"don't\\\" or \\\"dont\\\"\",\n    \"Lacks informal punctuation such as exclamation marks or ellipses\",\n    \"No lowercase or typo-style spelling typical of casual chat\"\n  ]\n}"
+  },
+  {
+    "src_ind": "51",
+    "sentence": "I do not think there is anyplace to see it at.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses formal 'do not' instead of contraction 'don't'\",\n    \"Starts with capital letter instead of lowercase\",\n    \"Overly grammatical structure lacks casual informality\",\n    \"No informal markers like abbreviations or slang\"\n  ]\n}"
+  },
+  {
+    "src_ind": "52",
+    "sentence": "I believe I wasted too much time.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses formal phrase 'I believe' instead of casual language\",\n    \"Missing contractions (e.g., 'I've wasted')\",\n    \"Lacks informal punctuation like ellipsis or exclamation\",\n    \"No emoticons or casual markers\"\n  ]\n}"
+  },
+  {
+    "src_ind": "53",
+    "sentence": "I believe the producers used computer technology.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Formal phrase 'I believe' instead of casual 'I think'\",\n    \"Formal term 'computer technology' instead of casual 'CGI' or 'computers'\",\n    \"No contractions used\",\n    \"Overly formal register for informal context\"\n  ]\n}"
+  },
+  {
+    "src_ind": "54",
+    "sentence": "It is sad when people don't know the alphabet.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Formal sentence structure, not conversational\",\n    \"Lacks informal abbreviations like 'u' or 'ur'\",\n    \"Standard spelling, missing phonetic misspellings\",\n    \"Proper capitalization and punctuation, too formal\"\n  ]\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "I believe he looks horrible.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses formal 'I believe' instead of informal 'I think' or direct opinion\",\n    \"Lacks contractions typical of casual speech\",\n    \"Overly proper sentence structure for informal style\",\n    \"Missing informal emphasis markers like caps or colloquial intensifiers\"\n  ]\n}"
+  },
+  {
+    "src_ind": "56",
+    "sentence": "What is your opinion of a wealthy degenerate in a poor country?",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Overly formal sentence structure\",\n    \"Lacks contractions and colloquialisms\",\n    \"Uses elevated vocabulary (degenerate, opinion)\",\n    \"Sounds like a formal survey question\"\n  ]\n}"
+  },
+  {
+    "src_ind": "57",
+    "sentence": "The song was sung by Tim Curry in the Rocky Horror Picture Show.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses formal passive voice instead of active informal phrasing\",\n    \"Lacks contractions typical of casual speech\",\n    \"Overly complete formal sentence structure\",\n    \"Missing informal markers like sentence fragments or casual emphasis\"\n  ]\n}"
+  },
+  {
+    "src_ind": "58",
+    "sentence": "The movie was well done, actually.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Overly formal sentence structure\",\n    \"Lacks informal intensifiers like 'pretty' or 'kinda'\",\n    \"No personal emotional engagement\",\n    \"Uses formal discourse marker 'actually'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "59",
+    "sentence": "I am unsure who you are referring to though. Could it be Howard Stern?",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses formal phrasing 'I am unsure' instead of informal 'I'm not sure' or 'dunno'\",\n    \"Uses formal 'who you are referring to' instead of informal 'who you're talking about'\",\n    \"Uses formal question structure 'Could it be' instead of informal 'Is it' or direct naming\",\n    \"Lacks contractions ('I am', 'you are') typical of informal speech\"\n  ]\n}"
+  },
+  {
+    "src_ind": "60",
+    "sentence": "They are wonderful, and I love them very much.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses formal phrasing instead of casual language\",\n    \"Lacks contractions common in informal speech\",\n    \"Missing informal punctuation like emoticons\",\n    \"Sentence structure too polished for casual style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "61",
+    "sentence": "Mam I know that you are not going to take me away.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses formal standard grammar instead of casual fragmented structure\",\n    \"Lacks contractions like 'you're' or 'ain't' for 'you are not'\",\n    \"Uses standard spelling without phonetic informal variants\",\n    \"Overly proper capitalization and punctuation for informal style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "62",
+    "sentence": "Worship your inferior God.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Overly formal imperative 'Worship' lacks casual conversational tone\",\n    \"Authoritative preaching style differs from informal personal expression\",\n    \"Condescending phrasing 'inferior God' lacks colloquial softening\",\n    \"Missing informal markers like contractions, fillers, or slang\"\n  ]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "It is the one with the three nacelles.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Overly formal sentence structure\",\n    \"Lacks conversational first-person perspective\",\n    \"Missing informal hedging or uncertainty markers\",\n    \"No casual punctuation or capitalization patterns\"\n  ]\n}"
+  },
+  {
+    "src_ind": "64",
+    "sentence": "Remember, they say Sponge Bob Squarepants is queer.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Formal reporting structure 'they say' instead of direct opinion\",\n    \"Standard capitalization and spelling instead of casual variants\",\n    \"No contractions or informal abbreviations like 'cos' or 'ive'\",\n    \"Clinical term 'queer' instead of casual 'gay'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "65",
+    "sentence": "Okay, here are my opinions on that topic.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Overly formal phrasing and structure\",\n    \"Lacks casual conversational tone\",\n    \"No informal language markers\",\n    \"Stiff, academic sentence construction\"\n  ]\n}"
+  },
+  {
+    "src_ind": "66",
+    "sentence": "I believe that would be a no.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Overly formal phrasing instead of direct informal response\",\n    \"Lacks contractions typical of informal speech\",\n    \"Uses standard capitalization instead of casual lowercase\",\n    \"Hedging language reduces conversational directness\"\n  ]\n}"
+  },
+  {
+    "src_ind": "67",
+    "sentence": "I would not say I'm an avid rap fan.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Overly formal phrasing ('I would not say')\",\n    \"Lacks informal contractions and spelling\",\n    \"Missing conversational markers or fillers\",\n    \"Too grammatically proper for casual style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "I enjoyed my involvement in the show.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Formal phrasing 'my involvement' lacks casual authenticity\",\n    \"Absence of contractions creates stiff tone\",\n    \"No emotional markers like exclamation points\",\n    \"Abstract noun 'involvement' replaces personal experience\"\n  ]\n}"
+  },
+  {
+    "src_ind": "69",
+    "sentence": "It is thought to be a .45 Long Colt Single Action Army.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Overly formal passive construction\",\n    \"Lacks first-person casual perspective\",\n    \"Excessively correct grammar and punctuation\",\n    \"Missing informal abbreviations and typos\"\n  ]\n}"
+  },
+  {
+    "src_ind": "70",
+    "sentence": "My father Eminem is the wealthiest rapper.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Formal sentence structure lacks casual informality.\",\n    \"No slang, abbreviations, or phonetic spelling.\",\n    \"Proper capitalization and punctuation contradict informal style.\",\n    \"Missing conversational fillers like 'ya know'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "But you should talk with me about this and I will tell you more.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Overly formal sentence structure lacks casual conversational flow\",\n    \"Missing contractions like 'you'd' and 'I'll' typical in informal speech\",\n    \"No informal discourse markers such as ellipses, fillers, or emoticons\",\n    \"Starts with capitalized 'But' instead of lowercase casual opening\"\n  ]\n}"
+  },
+  {
+    "src_ind": "72",
+    "sentence": "Because they follow what everyone else is doing and do what other people want them to do.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses formal standard grammar instead of casual sentence structure\",\n    \"No contractions or abbreviations like 'cuz or 'nuff\",\n    \"Standard spelling lacks informal misspellings and typographic quirks\",\n    \"Overly verbose phrasing without concise slang expressions\"\n  ]\n}"
+  },
+  {
+    "src_ind": "73",
+    "sentence": "I meant, it is digital, but I did not find it to be of good enough quality to be on a CD.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Overly formal sentence structure and vocabulary\",\n    \"Missing contractions (e.g., 'it is', 'did not')\",\n    \"No informal abbreviations or slang typical of casual chat\",\n    \"Proper capitalization and punctuation inconsistent with informal style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "74",
+    "sentence": "Tuesday, December 20, 2015, 08:00 PM: 50 Cent; Riocoh Coliseum; Toronto, Oregon.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Rigid formal structure with semicolon-separated fields\",\n    \"Absence of casual phrasing or slang\",\n    \"No exclamation marks or emphatic capitalization\",\n    \"Precise date/time format instead of vague reference\"\n  ]\n}"
+  },
+  {
+    "src_ind": "75",
+    "sentence": "Movie star of course, because myself and Kim and Earl are good.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses formal reflexive pronoun 'myself' instead of casual 'me'\",\n    \"Lacks informal contractions and slang typical of target style\",\n    \"Overly proper capitalization and punctuation for informal register\",\n    \"Formal sentence structure missing casual conversational markers\"\n  ]\n}"
+  },
+  {
+    "src_ind": "76",
+    "sentence": "Not likely as they are both dead.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Overly formal sentence structure with proper syntax\",\n    \"Uses formal conjunction 'as' instead of informal 'cause'\",\n    \"Missing contraction 'they're' for 'they are'\",\n    \"Proper capitalization and punctuation lacks casual style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "77",
+    "sentence": "Okay, does it have opera in it?",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Formal question structure lacks informal phrasing\",\n    \"Proper capitalization and punctuation unlike casual lowercase style\",\n    \"Missing conversational markers or hedges like 'I think'\",\n    \"No informal contractions or abbreviations present\"\n  ]\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "If you don't like the real radio, make your own. That would be super fun!",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses standard capitalization instead of casual lowercase\",\n    \"Formal sentence structure lacks conversational fragments\",\n    \"No text-speak abbreviations like 'u', '2', 'tht'\",\n    \"Overly polished grammar for target informal style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "The panda says look it up.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Formal capitalization and punctuation unlike casual style\",\n    \"Missing contractions (e.g., 'it's') typical of informal speech\",\n    \"No colloquial expressions or slang\",\n    \"Overly complete sentence structure lacks fragmentation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "80",
+    "sentence": "To, and get every known answer to man.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Overly formal and stiff phrasing\",\n    \"Missing clear subject and verb structure\",\n    \"Unnatural word order for casual speech\",\n    \"No informal markers like contractions or slang\"\n  ]\n}"
+  },
+  {
+    "src_ind": "81",
+    "sentence": "That is unlikely since both are deceased.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses formal vocabulary 'deceased' instead of informal 'dead'\",\n    \"Lacks contractions like 'That's' for 'That is'\",\n    \"Overly formal sentence structure without conversational markers\",\n    \"Proper capitalization and punctuation appear stiff\"\n  ]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "Does it have the style of opera in it?",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Overly formal sentence structure\",\n    \"Lacks contractions typical of informal speech\",\n    \"Uses formal vocabulary instead of casual phrasing\",\n    \"Proper capitalization and punctuation unlike casual lowercase style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "It would be so fun to make your own since you do not like the real radio.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Formal sentence structure lacks casual conversational tone\",\n    \"Uses full words instead of contractions or abbreviations (you, do not)\",\n    \"Proper capitalization and punctuation absent informal lowercase/typo patterns\",\n    \"Missing informal markers like slang, fillers, or phonetic spelling\"\n  ]\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "\"You should look it up!\" said the panda.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Formal inverted dialogue tag 'said the panda'\",\n    \"No contractions in spoken dialogue\",\n    \"Literary narrative framing instead of casual direct speech\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "Get every known answer to man.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Formal imperative tone lacks conversational casualness\",\n    \"Standard capitalization misses informal lowercase style\",\n    \"Archaic phrasing 'to man' feels outdated\",\n    \"No abbreviations or informal spellings present\"\n  ]\n}"
+  },
+  {
+    "src_ind": "86",
+    "sentence": "He does not ever take the train.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses 'does not' instead of contraction 'doesn't'.\",\n    \"Uses formal 'does not ever' instead of 'never'.\",\n    \"Starts with capital letter unlike typical informal lowercase.\",\n    \"Lacks informal discourse markers (e.g., 'lol', exclamation).\"\n  ]\n}"
+  },
+  {
+    "src_ind": "87",
+    "sentence": "The compact discs that include two discs rather than just one.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses formal \\\"compact discs\\\" instead of informal \\\"CDs\\\"\",\n    \"Overly formal sentence structure lacking conversational tone\",\n    \"Verbose phrasing \\\"rather than just one\\\" not concise\",\n    \"No contractions or casual abbreviations typical of informal style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "88",
+    "sentence": "The quantity of beer they consume must impair their sight and hearing.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Overly formal vocabulary (e.g., 'quantity', 'consume', 'impair')\",\n    \"Absence of contractions and casual phrasing\",\n    \"Formal, academic sentence structure\",\n    \"Lacks informal tone markers like slang or exclamation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "89",
+    "sentence": "I thought the movie was decent, I ranked it an A- when I rated it on the Yahoo Movies site.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Overly formal sentence structure and vocabulary\",\n    \"Specific formal rating reference feels stiff\",\n    \"Lacks casual punctuation like exclamation or emoticons\",\n    \"No informal expressions or emotional tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "90",
+    "sentence": "There are many passionate banjo players on the forums at the website, \"ezfolk.com\".",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Overly formal tone\",\n    \"No contractions used\",\n    \"Rigid sentence structure\",\n    \"Formal website reference\"\n  ]\n}"
+  },
+  {
+    "src_ind": "91",
+    "sentence": "Just go to the Golden Globes website.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Overly formal capitalization and grammar\",\n    \"Lacks conversational fillers like 'trust me'\",\n    \"Missing emphatic punctuation or capitalization\",\n    \"No personal recommendation tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "92",
+    "sentence": "Yes, it's pretty safe. Don't download it for free, that's not supportive.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses formal grammar and full words instead of informal abbreviations (e.g., 'you' vs 'u').\",\n    \"Lacks informal slang and nonstandard spelling typical of casual online chat.\",\n    \"Absence of emoticons or casual punctuation (e.g., ';-)').\",\n    \"Overly polite and structured tone, not matching casual conversational style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "93",
+    "sentence": "He always hits Oregon before you.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Overly formal sentence structure\",\n    \"Lacks colloquial expressions\",\n    \"Standard punctuation lacks expressive informality\",\n    \"No slang or creative spelling\"\n  ]\n}"
+  },
+  {
+    "src_ind": "94",
+    "sentence": "I recommend ultimate-guitar.com. But if you just want White Stripes music: brokenbricks.com.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses formal capitalization and punctuation\",\n    \"Lacks informal contractions like 'it's'\",\n    \"Uses complete sentences instead of fragments\",\n    \"Employs formal recommendation phrasing ('I recommend')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "Yes you can use an USB.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses formal 'Yes' instead of informal 'yeah' or 'yep'\",\n    \"Spells out 'you' instead of using informal 'u'\",\n    \"Formal capitalization and punctuation throughout\",\n    \"Lacks informal tone markers like lowercase start or abbreviations\"\n  ]\n}"
+  },
+  {
+    "src_ind": "96",
+    "sentence": "While I am not, my sibling is.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Overly formal conjunction 'While' instead of casual 'but' or juxtaposition\",\n    \"Missing contractions: 'I am' should be 'I'm' for informal tone\",\n    \"Formal vocabulary 'sibling' instead of 'brother/sister' or 'bro/sis'\",\n    \"Stiff sentence structure with fronted clause lacks conversational flow\"\n  ]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "I believe the correct title is Nielson Ratings.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses formal capitalized 'I' instead of informal lowercase 'i'\",\n    \"Employs formal phrase 'I believe' rather than casual 'i think'\",\n    \"Lacks conversational markers like fillers or hedging\",\n    \"Overly structured sentence without informal punctuation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "98",
+    "sentence": "All of them get paid, including directors, dancers, actors etc.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Formal sentence structure lacks conversational phrasing\",\n    \"Uses academic 'etc.' instead of casual listing\",\n    \"Missing informal discourse markers like 'hey' or 'so'\",\n    \"Impersonal 'All of them' instead of direct reference\"\n  ]\n}"
+  },
+  {
+    "src_ind": "99",
+    "sentence": "If it weren't so, then it would all be shrouded in darkness.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Formal conditional phrasing instead of casual expression\",\n    \"Absence of informal contractions like 'cuz' or 'dont'\",\n    \"No lowercase start or casual punctuation\",\n    \"Uses literary vocabulary ('shrouded in darkness') not colloquial\"\n  ]\n}"
+  }
+]

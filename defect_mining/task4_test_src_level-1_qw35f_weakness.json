@@ -1,0 +1,1047 @@
+[
+  {
+    "src_ind": "0",
+    "sentence": "U can download music that he sings in lime wire.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses informal abbreviation \\\"U\\\" instead of the standard pronoun \\\"You\\\".\",\n    \"Does not capitalize the brand name referenced within the text.\",\n    \"Omits required terminal punctuation at the end of the sentence.\",\n    \"Adopts an informal register inconsistent with formal English writing guidelines.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "1",
+    "sentence": "I think her father killed her.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Vocabulary selection \\\"killed\\\" lacks the lexical sophistication evident in reference texts.\",\n    \"Direct assertion of homicide omits the evidentiary cautions required in formal writing.\",\n    \"Simple sentence structure lacks the syntactic complexity typical of formal English prose.\",\n    \"Subjective phrasing reduces the objective neutrality preferred in formal discourse registers.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "1",
+    "sentence": "Her dad killed her.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The noun \\\"dad\\\" is colloquial and inappropriate for formal register.\",\n    \"The verb \\\"killed\\\" is too visceral for objective formal documentation.\",\n    \"The sentence lacks the nominalizations common in formal English style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "1",
+    "sentence": "I think that her dad killed her.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of colloquial term \\\"dad\\\" rather than formal \\\"father\\\".\",\n    \"First-person opinion lacks the nuanced phrasing seen in reference texts.\",\n    \"Vocabulary lacks the elevated register present in terms like \\\"unvirtuous\\\".\",\n    \"Simple declarative structure fails to meet formal syntactic expectations.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "1",
+    "sentence": "I think her dad caused her death.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of first-person pronoun \\\"I\\\" creates unnecessary subjectivity.\",\n    \"Hedging verb \\\"think\\\" expresses doubt uncharacteristic of formal assertions.\",\n    \"Informal noun \\\"dad\\\" replaces the more formal equivalent \\\"father\\\".\",\n    \"Sentence structure reflects personal opinion rather than objective analysis.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "2",
+    "sentence": "Mother's so large, that she climbed mt.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of the abbreviation 'mt.' instead of the full word 'mountain'.\",\n    \"Informal contraction or omission of the auxiliary verb 'is'.\",\n    \"Unnecessary comma before the subordinating conjunction 'that' violates formal grammar rules.\",\n    \"Excessive brevity lacks the descriptive depth expected in formal prose.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "2",
+    "sentence": "My mother is so big that she climbed Mt.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The sentence is structurally incomplete, leaving 'Mt.' without a specific name.\",\n    \"The expression 'so big' uses hyperbole inconsistent with formal precision.\",\n    \"The abbreviation 'Mt.' violates conventions for formal proper noun usage.\",\n    \"The subjective tone lacks the objective detachment expected in formal writing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "2",
+    "sentence": "Yo mama is so big, that she climbed Mt. Everest.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Usage of colloquial phrase \\\"Yo mama\\\" reduces overall formality significantly.\",\n    \"Vague descriptor \\\"big\\\" lacks precision compared to specific measurements like \\\"height\\\".\",\n    \"Informal capitalization of \\\"mama\\\" violates formal conventions for family titles.\",\n    \"Comma usage before \\\"that\\\" does not align with formal grammar rules.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "3",
+    "sentence": "Indeed, dat song is theshit.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of non-standard spelling \\\"dat\\\" violates formal orthography conventions.\",\n    \"Slang term \\\"the shit\\\" conveys an inappropriate level of informality.\",\n    \"Missing space in \\\"theshit\\\" displays casual typing habits.\",\n    \"General register contradicts the specified target of formal English style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "He did not make any more movies and the movie was called : the birth of a legend",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Incorrect space before the colon violates standard formal punctuation conventions.\",\n    \"Movie title uses lowercase letters instead of proper capitalization.\",\n    \"Sentence ends without a period, lacking necessary terminal punctuation.\",\n    \"Phrasing 'any more movies' is informal compared to formal alternatives.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "5",
+    "sentence": "Spider Man was a great Comic movie, fast paced.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Unnecessary capitalization of the common adjective \\\"Comic\\\" within the sentence.\",\n    \"Informal phrase \\\"Comic movie\\\" used instead of standard formal film terminology.\",\n    \"Reliance on vague subjective adjective \\\"great\\\" reduces formal precision.\",\n    \"Comma usage joins disparate elements without proper grammatical coordination.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "5",
+    "sentence": "Spider man was a great comic movie, fast paced.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Incorrect spacing in the proper noun \\\"Spider man\\\" violates standard naming conventions.\",\n    \"Missing hyphen in the compound adjective \\\"fast paced\\\" affects grammatical correctness.\",\n    \"Sentence structure includes a fragmented adjective phrase attached by comma.\",\n    \"Informal tone contradicts the complete sentence structure preferred in formal writing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "5",
+    "sentence": "Spider man was a great Comic movie and fast paced.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Incorrect capitalization of the common noun 'Comic' within the sentence.\",\n    \"Improper spacing in the proper noun 'Spider man' instead of 'Spider-Man'.\",\n    \"Missing hyphen in the compound adjective 'fast paced'.\",\n    \"Use of informal vocabulary like 'great' reduces tone sophistication.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "5",
+    "sentence": "Spider man was a great Comic movie, fast-paced.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Incorrect capitalization of the proper noun 'Spider man'.\",\n    \"Informal grammar using a comma to attach a sentence fragment.\",\n    \"Subjective and simplistic vocabulary choice 'great' lacks precision.\",\n    \"Unnecessary capitalization of the common noun 'Comic' mid-sentence.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "6",
+    "sentence": "One used to like it when one was a kid, but now it is just so ridiculous.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of colloquial term kid deviates from formal vocabulary norms.\",\n    \"Vague pronoun it lacks the specificity found in reference examples.\",\n    \"Intensifier so creates unnecessary emotional emphasis in formal contexts.\",\n    \"Strong assertion ridiculous lacks the measured tone of references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "6",
+    "sentence": "I used to like it when I was a child, but now it is just so ridiculous.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Informal intensifier \\\"so\\\" detracts from the required formal tone.\",\n    \"First-person narrative \\\"I used to like it\\\" undermines objectivity.\",\n    \"Vague pronoun \\\"it\\\" fails to identify specific subject matter clearly.\",\n    \"Emotional adjective \\\"ridiculous\\\" replaces analytical descriptive language.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "6",
+    "sentence": "I used to appreciate it when I was a kid, but now it is just so ridiculous.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Relies on first-person pronoun 'I' reducing objectivity.\",\n    \"Uses informal vocabulary 'kid' instead of precise terminology.\",\n    \"Includes colloquial intensifier 'so' diminishing professional tone.\",\n    \"Expresses subjective opinion without establishing neutral perspective.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "6",
+    "sentence": "I used to like it when I was a kid, but now it is just very ridiculous.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Informal vocabulary \\\"kid\\\" reduces the professionalism of the written register.\",\n    \"Ambiguous pronoun \\\"it\\\" obscures the specific subject unlike concrete nouns in targets.\",\n    \"Superfluous intensifier \\\"very\\\" creates redundancy inconsistent with precise formal writing.\",\n    \"Emotive descriptor \\\"ridiculous\\\" prioritizes opinion over neutral analytical description.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "7",
+    "sentence": "I think the linz family will win in the end.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Improper lowercase capitalization of the proper noun \\\"linz\\\".\",\n    \"Use of first-person subjective hedging (\\\"I think\\\")\",\n    \"Casual phrasing lacks the precision of formal style.\",\n    \"Sentence structure is too simple for formal discourse.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "8",
+    "sentence": "Captain Tsubaba: our young years of football.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Misspelled proper noun contradicts formal orthographic standards.\",\n    \"Structural fragment violates formal sentence completeness requirements.\",\n    \"Possessive first-person pronoun detracts from formal objectivity.\",\n    \"Colon usage suggests a title rather than formal prose.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "8",
+    "sentence": "(is new) Captain Tsubaba depicts our young years of football.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Parenthetical phrase '(is new)' disrupts standard sentence structure.\",\n    \"Phrasing 'young years' is less precise than vocabulary in references.\",\n    \"Metalinguistic insertion creates abrupt separation between title and predicate.\",\n    \"Initial fragment prevents establishing a complete formal declaration.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "8",
+    "sentence": "(is new) Captain Tsubaba: our formative years of football.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Parenthetical status markers violate formal prose conventions.\",\n    \"Text structure resembles a title fragment rather than a sentence.\",\n    \"Use of informal possessive phrasing reduces objective tone.\",\n    \"Punctuation suggests metadata entry rather than grammatical paragraph.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "9",
+    "sentence": "Dead reckless and the number 12 looks like you.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses slang intensifiers like \\\"Dead,\\\" which undermines formal register.\",\n    \"Sentence structure lacks standard grammatical completeness expected in formal writing.\",\n    \"Phrasing relies on metaphors rather than precise, objective formal definitions.\",\n    \"Direct address using \\\"you\\\" is inappropriate for impersonal formal style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "10",
+    "sentence": "It was a gay cowboy movie.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses colloquial phrase \\\"cowboy movie\\\" instead of formal term \\\"western\\\".\",\n    \"Lacks the elaboration and specific genre terminology found in reference texts.\",\n    \"Presents statement with less narrative nuance than the reference examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "10",
+    "sentence": "I heard it was a film about gay cowboys.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Relies on colloquial phrase 'I heard' rather than confirmed facts.\",\n    \"Uses vague pronouns rather than specific formal titles or names.\",\n    \"Adopts a subjective tone rather than maintaining objective formal distance.\",\n    \"Employs simple syntax instead of complex sentence structures for formality.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "10",
+    "sentence": "I heard it was described as a gay cowboy movie.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Usage of first-person perspective reduces objectivity required in formal text.\",\n    \"Vocabulary like 'movie' is too colloquial for formal description.\",\n    \"Claims rely on hearsay rather than verifiable direct observation.\",\n    \"Tone is conversational rather than professional or academic.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "10",
+    "sentence": "I heard that it was a gay cowboy movie.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"First-person perspective reduces the objective tone required for formal writing.\",\n    \"\\\"Heard that\\\" is an informal attribution lacking authoritative sourcing.\",\n    \"Generic genre description fails to meet formal vocabulary standards.\",\n    \"Simple sentence structure lacks syntactic complexity typical of formal prose.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "11",
+    "sentence": "So it is not strange to enjoy Cartoons at your age.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Sentence begins with a conjunction 'So', creating an informal opening.\",\n    \"Capitalizes common noun 'Cartoons', deviating from standard grammatical rules.\",\n    \"Utilizes second-person address 'your age', reducing professional detachment.\",\n    \"Uses colloquial phrase 'not strange' rather than precise formal language.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "11",
+    "sentence": "It isn't strange to enjoy Cartoons at your age.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of contraction 'isn't' contradicts the uncontracted formal standard.\",\n    \"Capitalization of common noun 'Cartoons' violates formal writing conventions.\",\n    \"Use of second-person pronoun 'your' reduces appropriate formality.\",\n    \"Vague phrasing lacks the specificity observed in reference style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "12",
+    "sentence": "Junior and Kay vs. Carmela",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The text uses sentence fragments instead of complete grammatical structures.\",\n    \"It employs the abbreviation \\\"vs.\\\" instead of the formal word \\\"versus\\\".\",\n    \"It provides minimal information lacking the detail expected in formal contexts.\",\n    \"The tone is abrupt and lacks the polite distance of formal register.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "13",
+    "sentence": "Limewire is free and legal but it doesn't always work.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The text uses contractions like \\\"doesn't\\\", which conflicts with the formal style of the references.\",\n    \"The term \\\"work\\\" is colloquial compared to the precise verbs used in the reference texts.\",\n    \"Sentence structure is too concise, lacking the conditional or explanatory complexity found in the references.\",\n    \"The vague pronoun \\\"it\\\" reduces clarity, whereas references often specify the subject clearly.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "13",
+    "sentence": "it doesn't always work, but Limewire is free and legal.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The sentence starts with a lowercase letter instead of an uppercase letter.\",\n    \"Contractions like 'doesn't' are used instead of full forms.\",\n    \"Informal vocabulary choices lower the overall register of the text.\",\n    \"The sentence structure lacks the complexity typical of formal prose.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "13",
+    "sentence": "limewire is free and legal but it does not always work.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The sentence begins with an uncapitalized letter.\",\n    \"The proper noun limewire is written in lowercase.\",\n    \"A terminal punctuation mark is missing at the end.\",\n    \"Colloquial phrasing reduces the formality of the text.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "13",
+    "sentence": "limewire is free and legal but it doesn't always function.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Improper capitalization of the proper noun limewire at the beginning of the sentence.\",\n    \"Inappropriate use of the contraction doesn't contrary to formal English standards.\",\n    \"Colloquial phrasing doesn't always function reduces the overall formality of the text.\",\n    \"Simplistic sentence structure fails to employ more formal complex structures.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "14",
+    "sentence": "They are all jewish. Are u watching the vh1 show? i am.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of lowercase text abbreviation u instead of formal you.\",\n    \"Failure to capitalize proper noun jewish correctly.\",\n    \"Pronoun i is written in lowercase instead of uppercase I.\",\n    \"Channel name vh1 lacks standard capitalization in formal writing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "A Thousand Miles by Vanesa Carlton.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The source text lacks a finite verb, creating a sentence fragment.\",\n    \"The spelling of the artist's name appears non-standard or incorrect.\",\n    \"The brevity resembles a note rather than formal written discourse.\",\n    \"It omits the subject-predicate structure required for formal statements.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "A Thousand Miles is by Vanessa Carlton",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Missing terminal punctuation violates standard formal sentence conventions.\",\n    \"Omission of release details reduces the precision of attribution.\",\n    \"Concise phrasing lacks the elaboration typical of formal writing.\",\n    \"Abrupt tone feels insufficient for a formal register context.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "A thousand miles is by vanesa carlton.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Artist name lacks proper capitalization required for formal writing.\",\n    \"Song title is not enclosed in quotation marks or italics.\",\n    \"Sentence structure is too brief and direct for formal register.\",\n    \"Overall presentation lacks the polished convention of formal documents.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "a Thousand Miles is by Vanesa Carlton.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Sentence fails to begin with a capital letter.\",\n    \"Song title fails to follow standard capitalization rules.\",\n    \"Song title lacks quotation marks present in reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "Mr. Bransen will eventually slow his girls down too much.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of informal term 'girls' instead of professional descriptors like employees.\",\n    \"Colloquial phrasal verb 'slow down' lacks the precision of formal verbs.\",\n    \"Indefinite intensifier 'too much' is imprecise for formal quantitative claims.\",\n    \"Lacks the structural complexity and objectivity typical of formal English.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "Daddy Bransen will eventually slow his daughters down too much.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Informal kinship term \\\"Daddy\\\" used instead of formal title or surname.\",\n    \"Phrasal verb \\\"slow down\\\" lacks the formality of standard verb alternatives.\",\n    \"Colloquial intensifier \\\"too much\\\" is imprecise for formal written discourse.\",\n    \"Personal prediction lacks objective hedging typically required in formal statements.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "Likely, daddy bransen will eventually slow his daughters down too much.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lowercase 'd' in 'daddy' violates standard capitalization rules.\",\n    \"Lowercase 'b' in 'bransen' violates proper noun conventions.\",\n    \"Use of familial nickname 'daddy' replaces formal address terms.\",\n    \"Colloquial phrasing 'slow down too much' undermines formal tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "17",
+    "sentence": "Maybe she has s psychological disorder. Maybe shes bipolar?",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Contains spacing errors between words and missing apostrophes.\",\n    \"Avoids expanding contractions required by formal conventions.\",\n    \"Overuses speculative opening words creating an uncertain tone.\",\n    \"Inappropriately uses question marks to end diagnostic statements.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "18",
+    "sentence": "It has nothing to do with yahoo music.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Employs informal idiom 'has nothing to do with' instead of formal alternatives.\",\n    \"Fails to capitalize the proper noun 'Yahoo Music' correctly.\",\n    \"Uses vague pronoun 'It' instead of specific formal subjects.\",\n    \"Tone is dismissively direct rather than formally explanatory.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "19",
+    "sentence": "Hope you find it, so I can defraud via the name!",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Sentence fragment lacks explicit subject, violating formal syntactic requirements.\",\n    \"Admission of criminal intent renders the content unsuitable for formal communication.\",\n    \"Phrases like \\\"Hope you\\\" lack the standard formality found in references.\",\n    \"Exclamation mark indicates emotion unsuited to the objective formal style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "19",
+    "sentence": "Hope you find it, so I can scam the name.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses sentence fragments without subjects, creating an informal conversational tone.\",\n    \"Includes colloquial vocabulary such as 'scam', reducing professional credibility.\",\n    \"Uses casual conjunction 'so' where formal transitions would be expected.\",\n    \"Statement implies deceptive intent incompatible with formal registers.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "Probably too much for you but it depends on what time what show and what channel.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Starts with sentence fragments lacking complete subject and verb structures.\",\n    \"Employs colloquial expressions incompatible with formal English writing standards.\",\n    \"Omits explicit grammatical subjects in the opening clause of sentences.\",\n    \"Utilizes imprecise coordination without adequate punctuation for lists.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "21",
+    "sentence": "He's trying to close this one out!",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Contraction \\\"He's\\\" used instead of formal \\\"He is\\\"\",\n    \"Colloquial idiom \\\"close this one out\\\" lacks formal diction\",\n    \"Exclamation mark signals emotional tone inappropriate for formal register\",\n    \"Indefinite demonstrative \\\"this one\\\" is imprecise for formal identification\"\n  ]\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "They never make it to the final 2, because that would be too predictable.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of numeral '2' instead of spelling out the number violates formal conventions.\",\n    \"The idiom 'make it to' is inappropriate for a formal English register.\",\n    \"Speculative language 'would be' undermines the objective tone expected in formal writing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "But they never make it to the final two, because that would be too predictable.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Sentence initiates with a coordinating conjunction, which lowers formality.\",\n    \"Phrasal verb \\\"make it\\\" is less precise than formal vocabulary.\",\n    \"Colloquial phrase \\\"final two\\\" lacks professional descriptive precision.\",\n    \"Direct causal marker \\\"because\\\" creates a less objective tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "But they never make it to the final 2, due to the excessive predictability present.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Starts with coordinating conjunction \\\"But,\\\" considered informal in formal prose.\",\n    \"Uses idiomatic expression \\\"make it\\\" instead of precise formal vocabulary.\",\n    \"Utilizes digit \\\"2\\\" rather than spelling out the number \\\"two\\\".\",\n    \"Trailing adjective \\\"present\\\" results in awkward noun phrase modification.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "23",
+    "sentence": "Drag and drop it into iTunes.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Omitted second-person pronouns ('you') prevalent in reference sentences.\",\n    \"Omitted first-person markers ('I', 'my') found in reference texts.\",\n    \"Direct imperative mood replaces advisory language such as 'should use'.\",\n    \"Excessive conciseness lacking the elaboration typical of reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "23",
+    "sentence": "Yeah, you could drag and drop it into iTunes.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Begins with colloquial interjection \\\"Yeah\\\" unsuitable for formal English style.\",\n    \"Uses tentative modality \\\"could\\\" rather than assertive guidance seen in references.\",\n    \"Implies conversational context missing in standalone formal writing structures.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "23",
+    "sentence": "Yeah, drag and drop the file into iTunes.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Starts with the informal interjection \\\"Yeah\\\" instead of a formal opening.\",\n    \"Utilizes direct imperative commands rather than polite suggestion structures.\",\n    \"Lacks explicit subjects present in all reference text sentences.\",\n    \"Maintains a conversational register unsuitable for formal English contexts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "24",
+    "sentence": "But you should give us some more clues.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Starts sentence with conjunction 'But,' contrary to formal grammar standards.\",\n    \"Addresses reader directly with 'you,' reducing formal detachment.\",\n    \"Uses colloquial phrasing 'give us' instead of formal 'provide.'\",\n    \"Terms like 'clues' are too informal compared to 'data' or 'facts'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "24",
+    "sentence": "but one should give us some more clues.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Sentence begins with a lowercase letter instead of a capital letter.\",\n    \"Verb 'give' is less formal than alternatives like 'provide' or 'offer'.\",\n    \"Noun 'clues' is less formal than 'information' or 'details' found in references.\",\n    \"Tonal inconsistency mixes impersonal 'one' with direct personal pronoun 'us'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "25",
+    "sentence": "Or else people will think he is pissing.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of vulgar slang \\\"pissing\\\" instead of formal terminology.\",\n    \"Colloquial transition phrase \\\"Or else\\\" is inappropriate for formal registers.\",\n    \"Sentence begins with coordinating conjunction creating an informal fragment.\",\n    \"Indefinite subject \\\"people\\\" lacks the specificity expected in formal prose.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "26",
+    "sentence": "Howard Stern distasteful, O&A party spirited.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Text consists of fragments rather than complete formal sentences.\",\n    \"Necessary linking verbs are omitted throughout the passage.\",\n    \"Telegraphic style undermines the required formal tone and clarity.\",\n    \"Grammatical connections between subjects and adjectives are implied rather than stated.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "26",
+    "sentence": "Howard Stern sucks monkey balls at the O&A Party Rock.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Contains explicit vulgar slang inappropriate for a formal register.\",\n    \"Uses direct personal attacks rather than objective criticism.\",\n    \"Relies on colloquialisms uncommon in formal English writing.\",\n    \"Exhibits an emotional tone lacking professional detachment.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "27",
+    "sentence": "I finally got to see him live last year - one of my life's goals.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Overuse of first-person pronouns diminishes formal objectivity.\",\n    \"Use of em-dash is less appropriate than semicolons or colons.\",\n    \"Colloquial phrasing 'got to see' lowers register.\",\n    \"Sentence fragment violates formal grammatical completeness rules.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "27",
+    "sentence": "Finally was able to see him live last year - one of my life's goals.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Sentence omits the required grammatical subject \\\"I\\\".\",\n    \"Em-dash usage creates informal sentence fragment structure.\",\n    \"Opening phrase lacks formal grammatical completeness.\",\n    \"Tone is subjective and inconsistent with formal register.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "27",
+    "sentence": "Finally got to see him live last year - an established objective.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The sentence begins without an explicit subject, violating standard formal grammatical structure.\",\n    \"The verb phrase 'got to see' is colloquial and lacks formal diction.\",\n    \"Reliance on em dashes creates informal sentence fragments within the text.\",\n    \"The tone resembles personal journaling rather than formal documentation or communication.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "Is this supposed to be a dirty question?",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of informal term \\\"dirty\\\" is inappropriate for formal registers.\",\n    \"Idiomatic phrasing \\\"supposed to be\\\" lacks formal precision.\",\n    \"Confrontational tone undermines necessary objectivity of formal style.\",\n    \"Question format creates less authoritative tone than declarative statements.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "Is this suppost to be an inappropriate question?",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The spelling suppost is incorrect for formal English orthography.\",\n    \"Interrogative structure lacks the declarative tone of formal writing.\",\n    \"Usage of 'supposed to be' is colloquial compared to formal alternatives.\",\n    \"The text poses a subjective inquiry rather than a formal assertion.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "29",
+    "sentence": "The entry states Artist(Band):Sugar Ray and Song: Fly (featuring Super Cat). It further announces Here are the lyrics: (What it is!)",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Inclusion of informal parenthetical interjection '(What it is!)' lowers register.\",\n    \"Database-style metadata labels 'Artist(Band):' replace standard prose conventions.\",\n    \"Casual command phrase 'Here are the lyrics:' conflicts with formal tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "30",
+    "sentence": "I'm sorry, I do not know, but I'm curious...",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Unsuitable use of contractions decreases the level of formality.\",\n    \"Ellipsis implies incomplete thought incompatible with formal writing style.\",\n    \"Subjective phrasing 'I'm curious' lacks professional detachment required.\",\n    \"Improper comma usage merges independent clauses unlike reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "30",
+    "sentence": "I'm sorry, I have no idea, but I'm curious.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of contractions like 'I'm' contradicts the formal preference for full forms seen in references.\",\n    \"Informal idiom 'have no idea' is less appropriate than standard phrasing like 'do not know'.\",\n    \"Casual closing phrase 'but I'm curious' undermines the objective professional tone required.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "31",
+    "sentence": "There are too many funky aliens like the two headed announcer.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of informal slang term 'funky' deviates from formal register.\",\n    \"Missing hyphen in compound adjective 'two headed'.\",\n    \"Informal quantifier 'too many' lacks precise formal language.\",\n    \"Simple sentence structure lacks formal syntactic complexity.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "31",
+    "sentence": "Too many eccentric aliens like the two headed announcer.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Sentence fragment lacks a finite verb, contradicting formal grammatical requirements.\",\n    \"Unhyphenated compound modifier 'two headed' violates standard orthographic conventions.\",\n    \"Informal vocabulary such as 'aliens' diminishes the professional tone expected.\",\n    \"Incomplete sentence structure fails to meet standard formal expression norms.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "31",
+    "sentence": "Too many funky aliens like the two-headed announcer.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of colloquial term \\\"funky\\\" violates formal register standards.\",\n    \"Sentence structure is a fragment lacking a finite verb.\",\n    \"Subjective quantification lacks the objectivity of formal writing.\",\n    \"Informal comparisons reduce the precision of the description.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "31",
+    "sentence": "Unnecessary excess of funky aliens resembling the two headed announcer.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of colloquial slang \\\"funky\\\" violates the formal diction required.\",\n    \"The text consists of a fragment rather than a complete sentence.\",\n    \"Compound adjective \\\"two headed\\\" lacks required hyphenation for formal correctness.\",\n    \"Vague descriptive tone lacks the analytical rigor of formal writing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "Do not start with a full drum kit.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Omitting explanatory clauses or consequences found in reference advice.\",\n    \"Using negative imperative phrasing instead of advisory modal suggestions.\",\n    \"Employing a commanding tone rather than a polite recommendation style.\",\n    \"Lacking hedging language typical of formal English written directives.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "You don't start with a full drum kit.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of contraction \\\"don't\\\" deviates from the formal standard demonstrated by reference texts.\",\n    \"Direct second-person address \\\"You\\\" creates a conversational tone inappropriate for formal style.\",\n    \"The instructional tone contrasts with the observational nature of most reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "Don't start with a full drum kit unless you might need it.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The text uses the contraction \\\"Don't\\\" instead of the formal \\\"Do not\\\".\",\n    \"It employs a direct negative imperative instead of a suggestive recommendation.\",\n    \"Reliance on uncertain modality (\\\"might\\\") lacks the precision required for formal text.\",\n    \"The text prioritizes restriction over assistance, unlike the supportive tone of references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "When initiating your training, Don't start with a full drum kit immediately.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Mid-sentence capitalization of \\\"Don't\\\" violates standard convention.\",\n    \"Contraction usage conflicts with the specified formal English style.\",\n    \"Inconsistent tone between formal introduction and blunt imperative.\",\n    \"Direct negation is less formal than indirect prohibition phrasing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "33",
+    "sentence": "Best painter = The late Vincent Van Gogh",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of the equals sign violates formal written English conventions.\",\n    \"The statement is a fragment lacking a complete subject and verb.\",\n    \"It omits terminal punctuation required for formal sentence structures.\",\n    \"Phrasing relies on shorthand notation rather than standard prose.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "33",
+    "sentence": "My pick is: (RIP) Best painter = Vincent Van Gogh.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Equals sign usage violates standard formal punctuation conventions.\",\n    \"Acronym 'RIP' substitutes for fully spelled formal expressions.\",\n    \"Text consists of fragments lacking complete subject-predicate structure.\",\n    \"Stylistic brevity is insufficient for formal written communication standards.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "33",
+    "sentence": "(RIP) Best painter = Vincent Van Gogh.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of informal acronym RIP violates formal text conventions.\",\n    \"Equation syntax employs equals sign instead of grammatical verbs.\",\n    \"Text lacks complete sentence structure required by formal standards.\",\n    \"Parenthetical notation creates disjointed flow compared to integrated prose.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "34",
+    "sentence": "I got a copy of Naked from amazon.de Shipping was excellent.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Missing punctuation creates a run-on sentence between independent clauses.\",\n    \"Improper capitalization of the brand name violates standard conventions.\",\n    \"Informal verb choice 'got' detracts from formal register expectations.\",\n    \"Reliance on subjective first-person narration reduces objectivity.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "34",
+    "sentence": "I got a copy of Naked from amazon.de. Shipping was killer.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses slang term 'killer' which contradicts formal diction requirements.\",\n    \"Uses informal verb 'got' instead of formal equivalents like 'received'.\",\n    \"Includes raw URL without formal citation or introduction context.\",\n    \"Maintains conversational tone inconsistent with formal writing expectations.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "34",
+    "sentence": "A copy of Naked was obtained from amazon.de Shipping was killer.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Inclusion of informal slang \\\"killer\\\" diminishes the formal register.\",\n    \"Brand name \\\"amazon.de\\\" requires capitalization per standard formal conventions.\",\n    \"Independent clauses are fused without a coordinating conjunction or punctuation.\",\n    \"Personal commentary tone lacks the objectivity expected in formal writing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "35",
+    "sentence": "Airplane no human can fly alone.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Incorrect grammar due to missing articles and determiners required in formal writing.\",\n    \"Telegraphic sentence structure lacks the completeness expected in formal English.\",\n    \"Non-standard word order obscures the subject and verb relationships.\",\n    \"Tone is abrupt and informal rather than professional and polished.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "35",
+    "sentence": "The airplane no human can fly alone",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Grammatical errors compromise the professional tone required formally.\",\n    \"Structure functions as a fragment rather than a complete sentence.\",\n    \"Syntax lacks the subordination typical of formal written English.\",\n    \"Phrasing violates standard grammar conventions expected in formal contexts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "36",
+    "sentence": "to totally do things that you would not have done prior to some stage in your life.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The text uses the informal filler adverb 'totally,' which diminishes the professional tone.\",\n    \"Employing the second-person pronoun 'you' creates a direct address unsuitable for formal contexts.\",\n    \"The sentence begins with an infinitive, resulting in a fragment lacking grammatical completeness.\",\n    \"Vague phrasing like 'some stage' lacks the precision expected in formal English writing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "36",
+    "sentence": "to do things that you would not of done prior to some stage in your life.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Incorrectly uses 'of' instead of 'have' following the modal verb.\",\n    \"Written as an infinitive phrase fragment lacking a main clause.\",\n    \"Fails to capitalize the first letter of the opening word.\",\n    \"Vague temporal phrasing 'some stage' undermines precision expected in formal style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "36",
+    "sentence": "You intend to totally do things that you would not of done prior to some stage in your life.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The phrase \\\"would not of done\\\" contains a grammatical error unsuitable for formal English.\",\n    \"The colloquial intensifier \\\"totally\\\" creates an informal tone inconsistent with the target style.\",\n    \"Vague phrasing such as \\\"some stage in your life\\\" lacks precise formal definition.\",\n    \"Sentence structure lacks the directness and conciseness expected in formal English prose.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "37",
+    "sentence": "That's my birthday and yes.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Contracted form \\\"That's\\\" is avoided in formal English grammar.\",\n    \"Colloquial phrase \\\"and yes\\\" undermines the professional tone required.\",\n    \"Subjective first-person expression lacks the neutrality of formal registers.\",\n    \"Underdeveloped sentence structure fails to meet formal syntactic standards.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "38",
+    "sentence": "I love the one with the cookie monster in rehab. That was hilarious.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of colloquial vocabulary such as \\\"hilarious\\\" instead of formal alternatives.\",\n    \"Direct expression of emotion (\\\"I love\\\") lacks formal objectivity.\",\n    \"Imprecise reference (\\\"the one with\\\") lacks specific title identification.\",\n    \"Simple sentence structure fails to demonstrate formal grammatical complexity.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "38",
+    "sentence": "I love the one with the Cookie Monster in rehabilitation... that was highly amusing.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Reliance on first-person perspective undermines formal objectivity.\",\n    \"Use of ellipsis punctuation is inappropriate for formal prose.\",\n    \"Mention of children's characters is insufficiently formalized.\",\n    \"Expression of personal affection lacks professional detachment.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "38",
+    "sentence": "It was the one with the cookie monster in rehab... that was hilarious.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Unlowercased proper nouns violate standard formal capitalization conventions.\",\n    \"Ellipsis usage implies conversational hesitation rather than structured punctuation.\",\n    \"Subjective term 'hilarious' lacks the objectivity required for formal prose.\",\n    \"Vague pronoun 'It' fails to establish clear grammatical antecedents.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "39",
+    "sentence": "I know one guy, who listens such stories each day, and he gets a lot of money.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses colloquial vocabulary like 'one guy' and 'gets' instead of formal terms.\",\n    \"Grammatical error: missing preposition 'to' after the verb 'listens'.\",\n    \"Unnecessary comma used before the restrictive relative clause 'who listens'.\",\n    \"Vague phrasing 'a lot of money' lacks precision expected in formal style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "39",
+    "sentence": "I know one man, who listen such stories each day, and he gets a lot of money.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Includes grammatical errors in subject-verb agreement, using 'listen' instead of 'listens'.\",\n    \"Omits the required preposition 'to' after 'listen' when describing hearing stories.\",\n    \"Uses colloquial phrase 'a lot of money' instead of formal terminology.\",\n    \"Adopts subjective first-person voice 'I know' contrary to objective formal tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "39",
+    "sentence": "There is one guy, who listen such stories each day, and he gets a lot of money.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Informal noun 'guy' is inappropriate for formal registers; 'individual' is preferred.\",\n    \"Subject-verb agreement error present with singular 'guy' and plural verb 'listen'.\",\n    \"Colloquial verb 'gets' reduces formality compared to alternatives like 'earns'.\",\n    \"Imprecise quantifier 'a lot of' lacks the specificity expected in formal writing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "39",
+    "sentence": "I know one guy, who listen such stories each day, and he earns substantial compensation.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Usage of colloquial phrase \\\"one guy\\\" rather than formal terminology.\",\n    \"Subject-verb disagreement error in \\\"who listen\\\" relative to singular subject.\",\n    \"Missing preposition \\\"to\\\" required after verb \\\"listen\\\".\",\n    \"First-person introduction \\\"I know\\\" lowers the formal register.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "40",
+    "sentence": "I prefer cheaper by the dozen because its more of a family movie.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Movie title lacks proper capitalization consistent with formal norms.\",\n    \"Incorrect usage of \\\"its\\\" instead of the contraction \\\"it's\\\".\",\n    \"Colloquial phrase \\\"more of a\\\" lowers formality level.\",\n    \"Informal term \\\"movie\\\" used instead of formal \\\"film\\\".\"\n  ]\n}"
+  },
+  {
+    "src_ind": "40",
+    "sentence": "I prefer Cheaper By the Dozen because its more of a family movie",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Incorrect grammar: using possessive \\\"its\\\" instead of contraction \\\"it's\\\".\",\n    \"Missing punctuation: absence of a period at the end of the sentence.\",\n    \"Vague phrasing: employing \\\"more of a\\\" instead of precise descriptive terms.\",\n    \"Informal vocabulary: choosing \\\"movie\\\" over the more formal term \\\"film\\\".\"\n  ]\n}"
+  },
+  {
+    "src_ind": "41",
+    "sentence": "Joel is going out with Hilary Duff. Eww.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Inclusion of slang interjection \\\"Eww\\\" contravenes formal diction norms.\",\n    \"Tone expresses personal distaste rather than maintaining neutrality.\",\n    \"Sentence brevity lacks the explanatory depth of formal prose.\",\n    \"Statement lacks the polite qualifiers present in formal references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "41",
+    "sentence": "Joel is going out with Hilary Duff. VERY DISGUSTED.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Excessive capitalization deviates from standard formal orthography conventions.\",\n    \"Subjective emotional expressions undermine formal objectivity and neutrality.\",\n    \"Colloquial phrasing lacks the precision required in formal discourse.\",\n    \"Sentence fragments compromise structural integrity expected in formal contexts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "42",
+    "sentence": "I'd have to say Paul Wall for a white boy he go with high intensity.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Incorrect verb conjugation ('he go' instead of 'he goes').\",\n    \"Informal filler phrase ('I'd have to say') reduces professionalism.\",\n    \"Slang-style social categorization ('for a white boy') lacks formality.\",\n    \"Missing conjunction or punctuation between independent clauses.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "Nobody has anything on Asian persuasion (no pun intended)",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses colloquial idiom \\\"has anything on\\\" instead of standard formal vocabulary.\",\n    \"Parenthetical \\\"(no pun intended)\\\" adds informal conversational meta-commentary.\",\n    \"Phrase \\\"Asian persuasion\\\" employs imprecise terminology inappropriate for formal context.\",\n    \"Maintains conversational tone rather than adopting objective formal register.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "44",
+    "sentence": "because I have an HP but is the same as Windows.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Sentence begins with a lowercase letter instead of a capital one.\",\n    \"Missing subject pronoun in the clause causes grammatical incompleteness.\",\n    \"Dependent clause begins independently, violating standard sentence structure rules.\",\n    \"Register is conversational rather than appropriate for formal written contexts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "45",
+    "sentence": "No, his parents said they did not want him dating too young.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Sentence opens with informal direct negation.\",\n    \"Relationship terminology is colloquial rather than formal.\",\n    \"Attribution relies on conversational reporting structure.\",\n    \"Qualifiers lack precision expected in formal context.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "45",
+    "sentence": "His parents said they didn't want him dating too young.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The source text uses the contraction \\\"didn't,\\\" which violates formal writing conventions.\",\n    \"The verb \\\"want\\\" is colloquial; formal style prefers terms like \\\"desire\\\" or \\\"intend.\\\"\",\n    \"The phrase \\\"dating too young\\\" is informal and lacks the precision expected in formal English.\",\n    \"The verb \\\"said\\\" is generic; formal registers typically utilize more specific verbs like \\\"stated.\\\"\"\n  ]\n}"
+  },
+  {
+    "src_ind": "45",
+    "sentence": "No, his parents stated they didn't want him dating too young.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of contraction 'didn't' violates standard formal English conventions.\",\n    \"Sentence begins abruptly with 'No,' instead of formal phrasing.\",\n    \"Term 'dating' is colloquial compared to formal relationship descriptors.\",\n    \"Tone is subjective and direct rather than objective and neutral.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "45",
+    "sentence": "No, his parents said they didn't want him dating at too early an age.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of the contraction 'didn't' contradicts formal style requirements for full verb forms.\",\n    \"The abrupt opener 'No,' reflects a conversational tone unsuitable for formal communication.\",\n    \"Colloquial phrasing 'too early an age' lowers the register compared to formal standards.\",\n    \"The verb 'said' lacks the formality of alternatives like 'stated' or 'informed'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "46",
+    "sentence": "I dont think there is anyplace to see it.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of contraction \\\"dont\\\" violates formal writing standards.\",\n    \"First-person \\\"I\\\" introduces subjective bias unnecessarily.\",\n    \"Colloquial term \\\"anyplace\\\" is imprecise for formal contexts.\",\n    \"Phrasing relies on personal speculation rather than objective fact.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "47",
+    "sentence": "I would have to say Paul Wall for a white boy he go work diligently.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Contains non-standard verb conjugations, such as 'he go', violating formal grammar rules.\",\n    \"Employs informal terminology like 'white boy' instead of neutral, formal descriptors.\",\n    \"Omits relative pronouns, leaving clauses loosely connected rather than forming formal syntax.\",\n    \"Maintains a casual conversational register incompatible with the specified formal English style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "47",
+    "sentence": "I would have to say Paul Wall for a white boy he goes hard.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses slang phrase 'goes hard' which violates formal vocabulary norms.\",\n    \"Incorporates colloquial phrase 'white boy' unsuitable for formal context.\",\n    \"Creates a run-on sentence due to missing punctuation between clauses.\",\n    \"Adopts a casual conversational tone instead of maintaining formal register.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "47",
+    "sentence": "I'd have to say Paul Wall performs admirably for a white boy.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of colloquial term 'white boy' violates formal diction standards.\",\n    \"Phrase 'I'd have to say' adds conversational filler reducing professionalism.\",\n    \"Contraction 'I'd' is inconsistent with expanded formal writing conventions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "Nobody has not got nothing on Asian persuasion (no pun intended).",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Multiple negative constructions violate standard grammar rules expected in formal English registers.\",\n    \"Slang idioms like \\\"got nothing on\\\" reduce the text's register appropriateness for formal contexts.\",\n    \"The phrase \\\"Asian persuasion\\\" utilizes imprecise terminology lacking the neutrality expected in formal contexts.\",\n    \"Parenthetical asides like \\\"(no pun intended)\\\" disrupt formal syntactic flow and register consistency.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "49",
+    "sentence": "Because I have an HP but is the same as Windows?",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Sentence fragment created by leading subordinating conjunction.\",\n    \"Missing subject renders the clause grammatically incorrect formally.\",\n    \"Informal tone fails to meet formal writing standards.\",\n    \"Vague phrasing lacks precision required for formal communication.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "50",
+    "sentence": "No, his parents said they did not want him dating too young.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Begins with conversational 'No,' which lacks the formal sentence structure expected in written discourse.\",\n    \"Uses informal verb 'said' instead of precise formal attribution verbs like 'stated' or 'indicated'.\",\n    \"Employs colloquial phrase 'dating too young' rather than precise formal terminology regarding relationship formation.\",\n    \"Maintains a casual, subjective tone instead of the objective voice required for formal registers.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "50",
+    "sentence": "No, his parents said they didn't prefer him dating too young.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of contractions reduces formality expected in this style.\",\n    \"Abrupt single-word negative opening appears conversational rather than formal.\",\n    \"Phrasing 'prefer him dating' lacks precise formal grammatical structure.\",\n    \"Overall tone is informal, resembling spoken dialogue instead of prose.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "50",
+    "sentence": "No, his parents stated they didn't want him dating too young.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses contraction \\\"didn't\\\" rather than the full formal form \\\"did not\\\".\",\n    \"Begins with abrupt conversational fragment \\\"No,\\\" unsuitable for formal written context.\",\n    \"Phrasing \\\"dating too young\\\" employs casual vocabulary instead of formal terminology.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "50",
+    "sentence": "No, his parents said they didn't want him dating at too early an age.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Opening with \\\"No\\\" creates an abrupt, conversational tone unsuitable for formal writing.\",\n    \"Phrasing \\\"didn't want him dating\\\" uses colloquial syntax rather than formal alternatives.\",\n    \"Sentence lacks polite qualifiers or elaborative clauses found in formal reference texts.\",\n    \"Vocabulary remains plain compared to formal terms like \\\"unaware\\\" in reference styles.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "51",
+    "sentence": "I dont think there is anyplace to see it.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Writes informal contraction dont instead of full phrase do not.\",\n    \"Misses apostrophe in contraction creating a visible typing error.\",\n    \"Uses colloquial word anyplace instead of formal anywhere.\",\n    \"Starts with subjective I think clause diminishing objective tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "52",
+    "sentence": "Two hours af my life I'll never get back.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Contains a spelling error substituting \\\"af\\\" for \\\"of\\\".\",\n    \"Uses informal contractions like \\\"I'll\\\" which violate formal norms.\",\n    \"Contains subjective emotional phrasing unsuitable for formal contexts.\",\n    \"Fragmented structure lacks standard grammatical completeness for formal writing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "53",
+    "sentence": "I believe the producers use computer technology",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Subjective opening 'I believe' compromises objective formal tone.\",\n    \"Generic phrase 'computer technology' lacks technical precision.\",\n    \"Missing terminal punctuation fails formal writing conventions.\",\n    \"Simple sentence structure lacks formal syntactic complexity.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "53",
+    "sentence": "I quest the producers use computer technology.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Inappropriate word choice ('quest') violates standard formal vocabulary norms.\",\n    \"First-person subjectivity undermines the objective tone of formal writing.\",\n    \"Absence of modal auxiliaries reduces polite and professional nuance.\",\n    \"Grammatical errors create ambiguity regarding the speaker's intent.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "54",
+    "sentence": "But what's even sadder is when people don't know the alphabet.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The text employs contractions like \\\"what's\\\" and \\\"don't,\\\" which are inconsistent with formal standards.\",\n    \"Beginning the sentence with \\\"But\\\" creates a less formal transition than direct statements used in references.\",\n    \"The phrase \\\"even sadder\\\" introduces subjective emotion absent from the objective tone of reference texts.\",\n    \"The phrasing \\\"what's...is when\\\" utilizes conversational syntax rather than formal declarative structures.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "I think he looks horrible!",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of the informal adjective 'horrible' is inconsistent with formal vocabulary standards.\",\n    \"The exclamation mark conveys undue emotional emphasis incompatible with formal register.\",\n    \"The statement expresses blunt negativity rather than the reserved tone of references.\",\n    \"The sentence structure lacks the objective detachment characteristic of the target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "No no no I think he looks horrible.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Informal verbal repetition creates an unprofessional conversational tone.\",\n    \"Hyperbolic vocabulary like horrible lacks the neutrality expected formally.\",\n    \"Absence of punctuation separates clauses improperly within the sentence.\",\n    \"Direct disagreement without buffering violates formal politeness conventions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "56",
+    "sentence": "There is a rich pervert in a dirt poor country, what do you think",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The phrase \\\"dirt poor\\\" uses colloquialism unsuitable for formal English.\",\n    \"The word \\\"pervert\\\" is pejorative and lacks formal neutrality expected in the style.\",\n    \"A comma splice joins two independent clauses without proper coordination.\",\n    \"The ending \\\"what do you think\\\" creates an informal conversational tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "57",
+    "sentence": "Tim Curry sang the song in the Rocky Horror Picture Show.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Verb \\\"sang\\\" is less formal than \\\"performed\\\" in this context.\",\n    \"Noun phrase \\\"the song\\\" lacks specific title identification.\",\n    \"Simple syntax lacks formal linguistic complexity.\",\n    \"Direct assertion style replaces descriptive formal elaboration.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "57",
+    "sentence": "Tim Curry sang it in *The Rocky Horror Picture Show*.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Fails to explicitly identify the song or work referenced by name.\",\n    \"Omits descriptive context or genre details found in reference texts.\",\n    \"Uses title formatting inconsistent with reference text conventions.\",\n    \"Focuses on performer rather than the musical work as subject.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "57",
+    "sentence": "Tim Curry contributed the vocal performance of it within the Rocky Horror Picture Show.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses nominalization instead of active verbal constructions.\",\n    \"\\\"Within\\\" is less idiomatic than \\\"in\\\" for productions.\",\n    \"Sentence structure lacks the concise directness of references.\",\n    \"Uses vague pronoun instead of specific work title.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "57",
+    "sentence": "It is noted that Tim Curry sang it in the Rocky Horror Picture Show.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Opens with meta-commentary \\\"It is noted that\\\" instead of direct subject introduction.\",\n    \"Uses vague pronoun \\\"it\\\" rather than specifying the specific artistic work explicitly.\",\n    \"Employs indirect hedging instead of the direct assertions used in reference texts.\",\n    \"Passive construction adds unnecessary verbosity compared to concise formal descriptions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "58",
+    "sentence": "But the movie is good.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Sentence begins with the coordinating conjunction \\\"But\\\", which is informal.\",\n    \"The adjective \\\"good\\\" is too colloquial for the formal target style.\",\n    \"The sentence structure lacks the complexity expected in formal prose.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "58",
+    "sentence": "Oh, but the movie is excellent.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Starts with interjection \\\"Oh,\\\" creating an overly conversational tone inconsistent with formal style.\",\n    \"Begins sentence with coordinating conjunction \\\"but,\\\" deviating from standard formal grammatical conventions.\",\n    \"Refers to \\\"the movie\\\" vaguely instead of using proper nouns or specific descriptions.\",\n    \"Lacks the declarative sentence structure prevalent in the reference style examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "58",
+    "sentence": "Oh, the movie is good.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Interjection \\\"Oh\\\" introduces unnecessary conversational informality.\",\n    \"Generic adjective \\\"good\\\" lacks specific critical vocabulary.\",\n    \"Short sentence structure omits explanatory detail.\",\n    \"Direct emotional expression reduces objective professional tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "58",
+    "sentence": "Oh, but the movie is indeed good.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Includes informal interjection \\\"Oh\\\" at the start of the sentence.\",\n    \"Begins the sentence with coordinating conjunction \\\"but\\\".\",\n    \"Uses vague adjective \\\"good\\\" instead of specific formal descriptors.\",\n    \"Uses emphatic adverb \\\"indeed\\\" to assert opinion rather than fact.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "59",
+    "sentence": "I don't know what you're talking about though, Howard Stern?",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of contractions decreases the overall level of formality.\",\n    \"Presence of filler words like 'though' creates a conversational tone.\",\n    \"Phrasing 'what you're talking about' relies on colloquial language.\",\n    \"Direct address using 'Howard Stern' lacks necessary professional distance.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "60",
+    "sentence": "Yes they are great, love em.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses clipped abbreviation 'em' rather than the formal word 'them'.\",\n    \"Fragmented second clause omits the grammatical subject 'I'.\",\n    \"Emotive vocabulary like 'love' reduces professional tone of expression.\",\n    \"Fails to utilize formal hedging phrases such as 'in my opinion'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "61",
+    "sentence": "Amada yo se que tu no te me va' a quitar.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses Spanish language instead of the required English.\",\n    \"Maintains an informal register rather than a formal tone.\",\n    \"Displays non-standard orthography with unnecessary apostrophes.\",\n    \"Features colloquial vocabulary inappropriate for formal contexts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "61",
+    "sentence": "Mamita yo sé que tú no te me va a quitar.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The text is written in Spanish rather than English.\",\n    \"The term 'Mamita' is an informal address inappropriate for formal contexts.\",\n    \"Sentence structure is conversational instead of formal syntactic order.\",\n    \"Tone is personal rather than objective or professional.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "62",
+    "sentence": "Bow down to your God!",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Utilizes blunt imperative sentences rather than declarative or interrogative structures.\",\n    \"Omits formal salutations typical of referenced written correspondence styles.\",\n    \"Employs exclamation marks signaling emotion instead of neutral formal declaration.\",\n    \"Lacks polite modal verbs commonly used to introduce suggestions or remarks.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "62",
+    "sentence": "Bow down to your idiot God.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of insulting vocabulary like 'idiot' violates formal register conventions.\",\n    \"Aggressive imperative mood lacks the politeness markers typical of formal style.\",\n    \"Confrontational religious tone contradicts the neutrality expected in formal writing.\",\n    \"Absence of salutations results in an unnecessarily abrupt and informal address.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "The one with the 3 nacelles.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses numeric digit '3' instead of spelled-out word 'three'.\",\n    \"Sentence structure is a fragment rather than a complete sentence.\",\n    \"Lacks formal transitional phrases or introductory context.\",\n    \"Tone is overly brief for formal professional or academic contexts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "regarding the one with the 3 nacelles.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Text begins with a lowercase letter instead of a capital one.\",\n    \"Number is presented as a digit rather than a written word.\",\n    \"Statement is a fragment lacking a complete grammatical structure.\",\n    \"Uses vague demonstratives instead of specific noun identification.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "64",
+    "sentence": "Remember they say Sponge Bob Squarepants is gay!",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Inappropriate exclamation mark usage creates an informal emotional tone.\",\n    \"Imperative verb \\\"Remember\\\" disrupts the objective third-person formal voice.\",\n    \"Vague attribution \\\"they say\\\" lacks the specificity required in formal writing.\",\n    \"Statement relies on rumors rather than evidence suitable for formal context.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "64",
+    "sentence": "Remember they say sponge bob squarepants is gay.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Fails to capitalize proper nouns like character names correctly.\",\n    \"Uses informal phrase 'they say' instead of stating facts directly.\",\n    \"Opens with imperative verb 'Remember' rather than formal declarative structure.\",\n    \"Omits required terminal punctuation at the end of the sentence.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "65",
+    "sentence": "Ok here are my thoughts on that subject.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of the informal interjection 'Ok' violates formal register conventions.\",\n    \"Phrasing 'my thoughts' is subjective and conversational for formal contexts.\",\n    \"Reference to 'that subject' is vague and lacks specific terminology.\",\n    \"Conversational tone undermines the required professional formal English style standard.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "66",
+    "sentence": "Yes, I guess that's a no.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Informal hedging \\\"I guess\\\" diminishes the assertive tone required in formal writing.\",\n    \"Non-standard usage of \\\"a no\\\" fails to meet formal grammatical standards.\",\n    \"Absence of conditional phrasing misses the polite suggestion style of references.\",\n    \"Casual tone ignores the objective distance maintained in target-style texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "67",
+    "sentence": "Not an avid rap fan, so I'm definetly not a fan.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Incomplete sentence structure lacks an explicit subject required for formality.\",\n    \"Spelling error 'definetly' fails to meet standard orthographic conventions.\",\n    \"Verb contraction 'I'm' lowers the register below expected formal standards.\",\n    \"Casual conjunction 'so' creates an informal connective link between clauses.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "67",
+    "sentence": "i am not an avid rap fan, so I'm definetly not a fan.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Sentence begins with a lowercase letter instead of uppercase.\",\n    \"Use of contraction \\\"I'm\\\" conflicts with formal writing standards.\",\n    \"Orthographic error exists in the word \\\"definetly\\\".\",\n    \"Redundant clause repeats information unnecessarily within the sentence.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "In connection with the show, I had alot of fun doing all that.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Spelling error: 'alot' should be written as two words.\",\n    \"Informal expression: 'had a lot of fun' is too casual.\",\n    \"Imprecise language: 'doing all that' lacks necessary specificity.\",\n    \"Inconsistent tone: Formal opening clashes with informal ending.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "69",
+    "sentence": "It is thought to be a Colt Single Action Army, .45 Long Colt.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Employs passive voice contrary to active reference examples.\",\n    \"Lacks direct second-person address found in reference texts.\",\n    \"Missing contractions commonly observed in the reference style.\",\n    \"Expresses uncertainty passively rather than asserting facts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "69",
+    "sentence": "Thought to be a Colt Single Action Army, Forty-five Long Colt",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Contains sentence fragments rather than complete grammatical sentences.\",\n    \"Lacks explicit grammatical subjects found in all reference texts.\",\n    \"Omits predicate structures necessary for full declarative statements.\",\n    \"Displays disjointed syntax instead of cohesive narrative flow.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "69",
+    "sentence": "Identified as a Colt Single Action Army, .45 Long Colt",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses sentence fragments instead of complete sentences.\",\n    \"Lacks a grammatical subject and main verb structure.\",\n    \"Tone resembles a database entry rather than formal prose.\",\n    \"Omits introductory or concluding formal textual elements.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "69",
+    "sentence": "Thought to be a Colt Single Action Army, .45 Long Colt",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Contains sentence fragments lacking explicit grammatical subjects.\",\n    \"Includes extraneous structural labels like Question: breaking narrative flow.\",\n    \"Utilizes elliptical phrasing unsuitable for formal written communication.\",\n    \"Lacks finite verbs required for complete formal sentence structures.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "70",
+    "sentence": "The richest rapper is Eminem his my dad.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Incorrect grammar uses \\\"his\\\" instead of \\\"he is\\\" contraction.\",\n    \"Run-on sentence lacks coordinating conjunction or proper punctuation.\",\n    \"First-person reference creates subjective and informal tone.\",\n    \"Colloquial phrasing clashes with formal English conventions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "But hey you should discuss with me ok about this ill tell you more.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of informal interjection \\\"hey\\\" conflicts with formal register.\",\n    \"Casual abbreviation \\\"ok\\\" introduces unwanted casualness into the text.\",\n    \"Contraction \\\"ill\\\" omits required apostrophe and capitalization.\",\n    \"Sentence lacks terminal punctuation for structural completeness.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "72",
+    "sentence": "because they follow the crowd to do what other people want them to.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Begins with a lowercase letter, ignoring standard sentence case requirements.\",\n    \"Functions as a sentence fragment rather than a standalone complete thought.\",\n    \"Utilizes colloquial slang 'follow the crowd' instead of precise formal language.\",\n    \"Concludes with an incomplete infinitive phrase ending in 'to' without a verb.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "73",
+    "sentence": "I mean, it is digital, but I didn't find it to be CD quality or even close to that.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of colloquial discourse marker \\\"I mean\\\" diminishes formal tone.\",\n    \"Inclusion of contractions like \\\"didn't\\\" violates formal grammar conventions.\",\n    \"Phrasing relies on vague subjective comparisons rather than objective data.\",\n    \"Sentence structure includes filler clauses that reduce information density.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "73",
+    "sentence": "It's digital, but I didn't find it to be CD quality or even close to that.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Contractions are inappropriate for the formal English style.\",\n    \"First-person perspective diminishes objective professional tone.\",\n    \"Vague comparisons like 'close to that' lack precision.\",\n    \"Casual phrasing undermines the formal register expectation.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "73",
+    "sentence": "I mean, it's digital, but I didn't find it to be CD quality or comparable to that standard.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of conversational filler \\\"I mean\\\" disrupts formal register.\",\n    \"Usage of contractions such as \\\"it's\\\" and \\\"didn't\\\" reduces formality.\",\n    \"Reliance on subjective first-person narrative diminishes objectivity.\",\n    \"Non-specific reference to \\\"that standard\\\" lacks technical precision.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "73",
+    "sentence": "I mean, it's digital, but it was not CD quality or even close to that.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of filler phrase \\\"I mean\\\" creates an informal tone.\",\n    \"Contractions like \\\"it's\\\" reduce formality compared to \\\"it is\\\".\",\n    \"Expression \\\"even close to that\\\" is colloquial and vague.\",\n    \"Overall structure resembles spoken conversation rather than formal writing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "74",
+    "sentence": "Tuesday, December 20, 2005; 8:00 P.M.; 50 Cent; Ricoh Coliseum; Toronto, ON",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Source text utilizes sentence fragments instead of complete grammatical sentences.\",\n    \"Information is structured as a data list rather than connected prose.\",\n    \"Text lacks finite verbs necessary for formal statement construction.\",\n    \"Semicolon separation suggests metadata rather than formal narrative structure.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "74",
+    "sentence": "The event is Tue, 12/20/05; 08:00 PM; 50 Cent; Ricoh Coliseum; Toronto, ON.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Semicolon usage separates data points instead of forming coherent grammatical sentences.\",\n    \"Numerical date and time abbreviations reduce formality compared to written prose.\",\n    \"Text structure resembles data tags instead of standard formal sentence construction.\",\n    \"Lack of descriptive connectors creates disjointed information flow lacking cohesion.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "74",
+    "sentence": "Tue, 12/20/05; commencing 08:00 PM; featuring 50 Cent; held at Ricoh Coliseum; situated in Toronto, ON.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Comprises sentence fragments instead of complete grammatical sentences.\",\n    \"Relies on abbreviations inconsistent with formal writing standards.\",\n    \"Connects independent data points with semicolons rather than periods.\",\n    \"Omits explicit subjects and verbs common in formal prose.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "75",
+    "sentence": "movie star. obviously because myself and Kim and Earl are Good!",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Subject pronoun usage is incorrect ('myself' instead of 'we' or 'I').\",\n    \"Sentences begin with lowercase letters, violating standard capitalization rules.\",\n    \"Adjective capitalization ('Good') is inconsistent and unnecessary within the sentence.\",\n    \"Expression relies on sentence fragments rather than complete grammatical structures.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "76",
+    "sentence": "I don't like them as they are both dead.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of contraction \\\"don't\\\" contradicts formal writing conventions.\",\n    \"Term \\\"dead\\\" is colloquial; \\\"deceased\\\" ensures proper formality.\",\n    \"Explicit first-person phrasing limits objective presentation style.\",\n    \"Simple sentence structure lacks syntactic complexity expected formally.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "76",
+    "sentence": "I am not likey as thet are both dead.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Contains spelling errors such as 'likey' and 'thet' inconsistent with standard orthography.\",\n    \"Sentence structure is grammatically incorrect for formal English composition.\",\n    \"Usage is too colloquial to align with the required formal style.\",\n    \"Statement is missing a period at the end of the sentence.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "77",
+    "sentence": "Okay, could you please confirm if it has opera in it?",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The interjection 'Okay' is too colloquial for formal English.\",\n    \"Phrasing 'in it' is vague and informal for technical writing.\",\n    \"Use of 'if' is less precise than 'whether' in formal queries.\",\n    \"Direct questions are less formal than declarative requests.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "If you do not like the real radio make your own that would be very enjoyable.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Missing punctuation creates an ungrammatical run-on sentence.\",\n    \"Direct imperative mood undermines the required formal tone.\",\n    \"Colloquial vocabulary choices decrease professional register precision.\",\n    \"Subjective wording lacks the objectivity of formal style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "If you do not like the real radio, make your own; that would be super fun!",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Colloquial phrase 'super fun' violates formal vocabulary standards.\",\n    \"Exclamation mark signals inappropriate emotional emphasis for formal tone.\",\n    \"Vague phrasing 'real radio' lacks precise formal terminology.\",\n    \"Emotive clause 'that would be' diminishes objective stance.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "If you dont like the real radio, make your own; that would be enjoyable.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Non-standard contraction usage \\\"dont\\\" appears unprofessional and informal.\",\n    \"Second-person pronouns create a casual direct address unsuitable for formal style.\",\n    \"Imperative commands reduce objectivity required in formal written discourse.\",\n    \"Vague phrasing \\\"real radio\\\" lacks specific terminology expected in formal contexts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "The panda says to verify the information!",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Exclamation mark usage violates the objective and restrained tone of formal style.\",\n    \"Narrative subject ('panda') implies fiction rather than serious informational content.\",\n    \"Direct quotation attribution lacks the citation conventions expected in formal documents.\",\n    \"Elementary sentence structure demonstrates insufficient syntactic complexity for formal registers.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "The panda says look it up.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses colloquial phrasal verb \\\"look it up\\\" instead of formal language.\",\n    \"Syntactic simplicity fails to meet the complexity standards of formal prose.\",\n    \"Narrative attribution undermines the objective tone expected in formal documents.\",\n    \"Direct command style lacks the deference required in formal communication.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "80",
+    "sentence": "To,and get every known answewr to man.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Contains misspellings like 'answewr' that violate formal orthographic standards.\",\n    \"Lacks proper punctuation spacing required for formal written communication.\",\n    \"Comprises a sentence fragment rather than a complete formal statement.\",\n    \"Uses vague phrasing like 'to man' lacking formal precision.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "80",
+    "sentence": "to, and get every known answewr to man.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Starts with a lowercase letter, violating formal capitalization conventions.\",\n    \"Contains spelling errors, specifically the misspelling 'answewr' for 'answer'.\",\n    \"Lacks a subject and predicate, creating a sentence fragment structure.\",\n    \"Utilizes informal diction like 'get' instead of formal equivalents.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "81",
+    "sentence": "It is not likey because thet are both DEAD.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Contains misspellings like 'likey' and 'thet'.\",\n    \"Uses inappropriate all-caps emphasis on 'DEAD'.\",\n    \"Fails to meet formal orthography standards.\",\n    \"Presents an informal register inconsistent with target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "Does it have opera in it?",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses vague pronoun 'it' instead of specifying the subject formally.\",\n    \"Casual verb 'have' is inappropriate for formal English register.\",\n    \"Colloquial phrasing 'in it' reduces professional tone and precision.\",\n    \"Lacks formal politeness markers or introductory phrases required.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "If you do not like the real radio, make your own; that would be super fun.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"\\\"Super fun\\\" utilizes colloquial vocabulary inconsistent with formal standards.\",\n    \"Direct imperatives lack the deference required in formal register.\",\n    \"Semicolon usage creates an informal connection rather than formal separation.\",\n    \"Vague terminology like \\\"real radio\\\" lacks professional specificity.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "The panda says look it up.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses informal phrasing \\\"look it up\\\" instead of formal terminology.\",\n    \"Reporting verb \\\"says\\\" is too colloquial for formal contexts.\",\n    \"Sentence structure is fragmented and lacks formal syntactic complexity.\",\n    \"Tone is casual rather than authoritative or professional.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "The panda says you should look it up!",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The exclamation mark conveys excessive emotion, violating conventions of formal neutral tone.\",\n    \"Direct address using 'you' lowers register, whereas formal texts typically avoid second-person pronouns.\",\n    \"Attributing speech to an animal creates a playful tone inappropriate for formal contexts.\",\n    \"The advisory tone using 'should' is directive, preferring passive or impersonal constructions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "The panda states look it up!",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses colloquial imperative phrasing unsuitable for formal contexts.\",\n    \"Subject phrase lacks clarity and semantic precision required formally.\",\n    \"Exclamation mark conveys excessive emotion for formal discourse.\",\n    \"Sentence structure is fragmented compared to formal conventions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "To,and get every known answewr to man.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Includes spelling error 'answewr', violating standard orthographic rules.\",\n    \"Lacks a main clause, functioning merely as a sentence fragment.\",\n    \"Shows incorrect punctuation spacing immediately after the initial comma.\",\n    \"Contains vague phrasing like 'to man' lacking specific precision.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "to, and get every known answewr to man.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Improper sentence capitalization begins with a lowercase letter.\",\n    \"Spelling error 'answewr' deviates from standard orthography.\",\n    \"Phrase lacks a subject, forming an incomplete sentence fragment.\",\n    \"Simple vocabulary 'get' lowers register below formal requirements.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "86",
+    "sentence": "Doesn't take the train at all.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks an explicit grammatical subject required by formal sentence structure conventions.\",\n    \"Uses contractions instead of formal full verb forms seen in references.\",\n    \"Functions as an elliptical fragment rather than a complete independent sentence.\",\n    \"Maintains a conversational tone inconsistent with the expected formal written English style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "87",
+    "sentence": "CDs that come with two discs.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The text is a sentence fragment lacking a main independent clause.\",\n    \"Lacks a subject and finite verb required for formal grammar.\",\n    \"Uses abbreviation 'CDs' without adhering to formal definition standards.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "88",
+    "sentence": "It must be all the beer they drink... it gives them beer goggles and beer hearing aids.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The informal idiom 'beer goggles' is inconsistent with formal vocabulary expectations.\",\n    \"The metaphor 'beer hearing aids' uses casual humor inappropriate for formal registers.\",\n    \"The ellipsis (...) replaces standard punctuation, violating formal sentence structure norms.\",\n    \"The text adopts a conversational tone rather than a formal academic voice.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "88",
+    "sentence": "Must be all the beer they drink: gives them beer goggles and beer hearing aids",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses incomplete sentence fragments lacking a defined grammatical subject.\",\n    \"Includes colloquial idioms like 'beer goggles' uncharacteristic of formal registers.\",\n    \"Expresses subjective speculation rather than objective declarative statements.\",\n    \"Links independent clauses with a colon instead of distinct periods.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "89",
+    "sentence": "I thought it was pretty decent; I gave it an A- on Yahoo Movies.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of letter grade notation deviates from formal writing standards.\",\n    \"Naming specific commercial platforms lowers professional rhetorical register.\",\n    \"Dependence on third-party scores reduces original critical analysis.\",\n    \"Subjective opinion merges abruptly with factual metric citation.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "89",
+    "sentence": "I thought it was pretty decent, I gave it a high rating on Yahoo Movies.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Comma splice joins independent clauses without proper conjunction or semicolon.\",\n    \"Colloquial verb phrase 'gave it' lacks the precision of formal diction.\",\n    \"Narrative account of actions contrasts with the evaluative tone of references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "89",
+    "sentence": "I thought it was pretty decent, I gave it an A-.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Comma splice joins independent clauses without proper grammatical conjunction.\",\n    \"Informal letter grade \\\"A-\\\" used instead of numerical rating.\",\n    \"Colloquial adjective \\\"decent\\\" lacks the precision of formal descriptors.\",\n    \"Reliance on first-person narration reduces objective analytical distance.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "89",
+    "sentence": "I thought it was quite satisfactory, I gave it an A- on Yahoo Movies.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Joining independent clauses with only a comma creates a comma splice.\",\n    \"The use of letter grade abbreviations reduces formal written tone.\",\n    \"Referencing specific commercial platforms undermines the generalized formal review style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "90",
+    "sentence": "Check on ezfolk.com, there is also a forum, and a lot of passionate banjoists.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"\\\"Check on\\\" is less formal than \\\"Visit\\\" or \\\"Consult\\\" implied by context.\",\n    \"The phrase \\\"a lot of\\\" is colloquial compared to standard formal quantifiers.\",\n    \"Independent clauses are fused together without correct formal punctuation or conjunctions.\",\n    \"The sentence structure feels fragmented and lacks smooth transitional flow.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "90",
+    "sentence": "I would advise you to check ezfolk.com, thres also a forum, and a lot of passionate banjoists.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Spelling error \\\"thres\\\" deviates from standard orthography.\",\n    \"Phrase \\\"a lot of\\\" is colloquial and unsuitable for formal writing.\",\n    \"Broken grammatical parallelism between list items weakens structure.\",\n    \"Incorrect comma usage results in run-on sentence segments.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "90",
+    "sentence": "One may check on ezfolk.com , there is also a forum, and a alot of passonate bangoist",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Contains spelling errors such as 'passonate' and 'bangoist'.\",\n    \"Uses non-standard phrase 'a alot' instead of 'a lot'.\",\n    \"Includes improper spacing before the comma after the URL.\",\n    \"Joins independent clauses with only a comma, forming a splice.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "91",
+    "sentence": "You can just go to the golden globe website.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Informal adverb \\\"just\\\" is used, reducing the text's formal tone.\",\n    \"Improper capitalization of the proper noun \\\"Golden Globe\\\" is present.\",\n    \"The verb phrase \\\"go to\\\" is too colloquial for formal written English.\",\n    \"Direct second-person address \\\"You\\\" creates an unnecessary conversational element.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "91",
+    "sentence": "Or you can go to the golden globe website.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Does not provide specific URL, unlike references which list exact web addresses.\",\n    \"Begins with coordinating conjunction \\\"Or,\\\" reducing sentence independence compared to references.\",\n    \"Uses indirect phrasing \\\"you can go\\\" instead of direct imperative suggestions.\",\n    \"Fails to capitalize the proper noun \\\"Golden Globe\\\" in the resource name.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "92",
+    "sentence": "Yes, almost highly safe. Just make sure you don't download it 4 nothing because that's unwise.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Informal numeric abbreviation \\\"4\\\" violates formal spelling conventions.\",\n    \"Colloquial contraction \\\"that's\\\" should be expanded to \\\"that is\\\".\",\n    \"Ambiguous qualifier \\\"almost\\\" paired with \\\"highly safe\\\" diminishes statement accuracy.\",\n    \"Directive phrase \\\"make sure\\\" lacks formal precision alternatives.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "93",
+    "sentence": "He always arrives in Oregon before you.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Tone is overly formal and lacks the casual conversational nature of targets.\",\n    \"Lacks the humorous or whimsical elements present in the reference texts.\",\n    \"Sentence structure is too rigid compared to the informal reference style.\",\n    \"Statement is too definitive, missing the personal perspective of targets.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "93",
+    "sentence": "He always makes it to Oregon before others.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of the informal phrasal verb \\\"makes it\\\" reduces register appropriateness.\",\n    \"Vague pronoun \\\"others\\\" lacks the precision expected in formal expositions.\",\n    \"Simple declarative structure fails to demonstrate formal syntactic complexity.\",\n    \"Absence of formal transition markers or objective tone diminishes professionalism.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "93",
+    "sentence": "He always makes it to Oregon prior to you.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses idiomatic phrase \\\"makes it\\\" instead of formal verb.\",\n    \"Employs informal second-person pronoun \\\"you\\\" for objectivity.\",\n    \"Mixes formal \\\"prior to\\\" with informal syntax creating inconsistency.\",\n    \"Lacks precise vocabulary typical of formal written English.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "94",
+    "sentence": "You should visit ultimate-guitar.com or brokenbricks.com if you want just white stripes content",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Improper capitalization of the proper noun 'White Stripes'.\",\n    \"Absence of a terminal punctuation mark at the end.\",\n    \"Use of the colloquial qualifier 'just' instead of formal equivalents.\",\n    \"Direct sentence structure lacks the objectivity of formal prose.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "94",
+    "sentence": "You should try ultimate-guitar.com, or brokenbricks.com if you want just white stripes stuff.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Improper capitalization of the proper noun 'white stripes'.\",\n    \"Use of the colloquial term 'stuff' reduces formal tone.\",\n    \"Informal conditional phrasing 'if you want' violates register.\",\n    \"Sentence structure relies on conversational connections rather than formal transitions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "94",
+    "sentence": "Ultimate-Guitar.com or if one prefers solely White Stripes material BrokenBricks.com",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The source text lacks a grammatical subject for its assertions.\",\n    \"It omits the main verbs required for complete predicates.\",\n    \"The structure fails to form independent clauses like references.\",\n    \"Information appears as incomplete phrases rather than formal sentences.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "94",
+    "sentence": "Ultimate-Guitar.com or if you want just White Stripes stuff BrokenBricks.com.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses incomplete sentence structures lacking a main subject and verb.\",\n    \"Includes informal vocabulary like \\\"stuff\\\" unsuitable for formal contexts.\",\n    \"Omits polite modal verbs or imperative starters seen in references.\",\n    \"Lacks cohesive conjunctions for smooth flow compared to formal standards.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "Yes. Using a USB you can",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The text is a fragment that lacks a completed predicate or conclusion.\",\n    \"Terminal punctuation is missing to mark the end of the syntactic unit.\",\n    \"The initial 'Yes' creates a dialogue tone inappropriate for formal writing.\",\n    \"Technical term 'USB' is used informally without full noun specification.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "96",
+    "sentence": "It is not me but my sister is.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses 'me' instead of 'I' after the verb 'is', violating formal grammar conventions.\",\n    \"Structure resembles casual speech with redundant auxiliary verbs and conversational ellipsis.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "96",
+    "sentence": "Not I but my sister is.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Relies on elliptical sentence structure unsuitable for formal writing.\",\n    \"Lacks explicit grammatical completeness required in formal contexts.\",\n    \"Tone is abruptly concise, lacking expected formal depth.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "I thinks its called the nielson ratings.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Subject-verb agreement error \\\"I thinks\\\" contradicts standard formal grammar requirements.\",\n    \"Misspelling of the proper noun \\\"nielson\\\" fails to meet orthographic standards.\",\n    \"Missing apostrophe in \\\"its\\\" creates grammatical ambiguity inconsistent with formal style.\",\n    \"Colloquial phrasing lacks the vocabulary refinement found in reference examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "I thinks its called the nielson ratings.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Incorrect subject-verb agreement between pronoun 'I' and verb 'thinks'.\",\n    \"Missing apostrophe in contraction 'it is' incorrectly written as 'its'.\",\n    \"Improper capitalization of the proper noun 'nielson'.\",\n    \"Misspelling of the proper noun 'nielson' instead of 'Nielsen'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "98",
+    "sentence": "The director, dancers and actors and others... they get paid too.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Non-standard use of ellipses disrupts formal sentence coherence.\",\n    \"Redundant conjunction usage (\\\"and... and\\\") unnecessarily increases verbosity.\",\n    \"Informal phrasing (\\\"they get paid too\\\") lowers professional tone.\",\n    \"Vague subject listing (\\\"others\\\") lacks precise terminology expected formally.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "98",
+    "sentence": "The director, dancers and actors and stuff, they get paid too.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses informal colloquial phrase \\\"and stuff\\\".\",\n    \"Subject pronoun \\\"they\\\" creates syntactic redundancy.\",\n    \"Uses casual verb phrase \\\"get paid\\\" instead of formal terms.\",\n    \"Sentence structure resembles spoken language rather than written prose.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "99",
+    "sentence": "If not, then it could be darkness",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The source text lacks a terminal period required for formal sentences.\",\n    \"Starting with \\\"If not\\\" relies on implicit context unsuitable for independent formal statements.\",\n    \"Phrasing mimics casual inference rather than objective formal declaration.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "99",
+    "sentence": "if not, then it could be darkness.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"fails to capitalize the first letter violating formal sentence casing standards\",\n    \"begins with a subordinating conjunction resulting in a sentence fragment\",\n    \"employs speculative modals that reduce the authoritative tone expected formally\",\n    \"omits establishing grammatical or contextual context prior to making assertions\"\n  ]\n}"
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "src_ind": "0",
+    "sentence": "U can download music that he sings in lime wire!",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses informal abbreviation 'U' instead of 'You'\",\n    \"Fails to capitalize proper noun 'LimeWire' correctly\",\n    \"Uses imprecise preposition 'in' for website reference\",\n    \"Lacks formal register and complete sentence structure\"\n  ]\n}"
+  },
+  {
+    "src_ind": "1",
+    "sentence": "I think her dad killed her.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses informal term \\\"dad\\\" instead of formal \\\"father\\\"\",\n    \"Employs first-person subjective \\\"I think\\\" rather than objective formal construction\",\n    \"Uses plain verb \\\"killed\\\" lacking formal precision like \\\"murdered\\\" or \\\"caused the death of\\\"\",\n    \"Exhibits simple declarative structure without formal syntactic complexity\"\n  ]\n}"
+  },
+  {
+    "src_ind": "2",
+    "sentence": "Yo mama's so big, that she climbed Mt.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Sentence is incomplete, ending abruptly at abbreviated 'Mt.'\",\n    \"Uses slang 'Yo mama's' instead of standard phrasing like 'Your mother is'\",\n    \"Unnecessary comma after 'big' in 'so big, that' construction\"\n  ]\n}"
+  },
+  {
+    "src_ind": "3",
+    "sentence": "hell yea dat song is theshit",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses slang and non-standard spelling (\\\"dat\\\", \\\"theshit\\\").\",\n    \"Lacks initial capitalization.\",\n    \"Lacks terminal punctuation.\",\n    \"Informal conversational tone unsuitable for formal writing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "he didn't make anymore movies and the movie was called :the birth of a legend",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Sentence begins with lowercase letter\",\n    \"Movie title lacks proper capitalization and formatting\",\n    \"Incorrect colon usage with extraneous spacing\",\n    \"Missing comma before coordinating conjunction\"\n  ]\n}"
+  },
+  {
+    "src_ind": "5",
+    "sentence": "Spider man was a great Comic movie, fast paced.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Improper capitalization and missing hyphen in \\\"Spider man\\\" (should be \\\"Spider-Man\\\")\",\n    \"Incorrect capitalization of \\\"Comic\\\" (should be lowercase)\",\n    \"Missing hyphen in \\\"fast paced\\\" (should be \\\"fast-paced\\\")\",\n    \"Informal phrasing \\\"great Comic movie\\\" lacks formal register\"\n  ]\n}"
+  },
+  {
+    "src_ind": "6",
+    "sentence": "I used to like it when I was a kid, but now it is just so ridiculous.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Unspecified subject pronoun 'it' lacks clear referent\",\n    \"Vague temporal phrase 'when I was a kid' lacks precision\",\n    \"Excessive informal intensifier 'just so' undermines formality\",\n    \"Unqualified subjective judgment 'ridiculous' lacks specific critique\"\n  ]\n}"
+  },
+  {
+    "src_ind": "7",
+    "sentence": "i think the linz family will win in the end.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Fails to capitalize first-person pronoun 'I'\",\n    \"Fails to capitalize proper noun 'Linz'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "8",
+    "sentence": "(is new) Captain Tsubaba: our young years of football.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Parenthetical annotation '(is new)' violates formal register\",\n    \"Fragmentary structure lacks main verb and complete syntax\",\n    \"Colon used for title-like presentation rather than formal sentence\",\n    \"Awkward phrasing 'young years' lacks idiomatic precision\"\n  ]\n}"
+  },
+  {
+    "src_ind": "9",
+    "sentence": "dead reckless and the number 12 looks like you",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Lacks formal sentence structure\",\n    \"Informal, fragmented phrasing\",\n    \"No clear grammatical subject or verb\",\n    \"Missing standard punctuation and capitalization\"\n  ]\n}"
+  },
+  {
+    "src_ind": "10",
+    "sentence": "I heard it was a gay cowboy movie.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"First-person hearsay ('I heard') lacks formal impersonal construction.\",\n    \"Colloquial phrase 'gay cowboy movie' needs formal rephrasing.\",\n    \"Missing specific attribution; references cite concrete sources.\",\n    \"Overly simple sentence lacks formal elaboration or hedging.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "11",
+    "sentence": "So it isn't strange to enjoy Cartoons at your age.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses contraction 'isn't' instead of 'is not'\",\n    \"Starts sentence with informal discourse marker 'So'\",\n    \"Capitalizes common noun 'Cartoons' incorrectly\",\n    \"Uses informal phrasing 'at your age'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "12",
+    "sentence": "Junior and Kay vs. Carmela :-)",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses emoticon ':-)' inappropriate for formal style\",\n    \"Abbreviates 'versus' as 'vs.' instead of spelling out\",\n    \"Lacks complete sentence structure (fragment only)\",\n    \"Uses informal first-name-only references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "13",
+    "sentence": "limewire is free and legal but it doesn't always work.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Proper noun 'limewire' not capitalized\",\n    \"Contraction 'doesn't' used instead of 'does not'\",\n    \"Informal phrasing 'it doesn't always work'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "14",
+    "sentence": "they are all jewish are u watching the vh1 show i am",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Missing initial capitalization at sentence start\",\n    \"Run-on sentence lacking internal punctuation\",\n    \"Informal abbreviation 'u' instead of 'you'\",\n    \"Lowercase first-person pronoun 'i'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "a thousand miles by vanesa carlton",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Lacks sentence structure and main verb\",\n    \"Missing capitalization for proper nouns and sentence start\",\n    \"Misspells artist name 'Vanessa Carlton'\",\n    \"Omits article 'A' before song title\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "daddy bransen will eventually slow his girls down too much.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Sentence begins with lowercase letter\",\n    \"Proper noun 'bransen' not capitalized\",\n    \"Informal term 'daddy' used instead of formal 'father'\",\n    \"Colloquial phrasing 'slow his girls down'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "17",
+    "sentence": "maybe she has s psychological disorder... maybe shes bipolar????",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Missing article before singular countable noun 'psychological disorder'\",\n    \"Missing apostrophe in contraction 'shes'\",\n    \"Informal punctuation: ellipsis and excessive question marks\",\n    \"Sentence begins with lowercase letter\"\n  ]\n}"
+  },
+  {
+    "src_ind": "18",
+    "sentence": "it has nothing to do with yahoo music.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Missing initial capitalization\",\n    \"Missing terminal punctuation\",\n    \"Improper capitalization of proper noun yahoo\"\n  ]\n}"
+  },
+  {
+    "src_ind": "19",
+    "sentence": "Hope you find it, so I can scam the name!",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Missing subject in opening clause creates informal elliptical structure\",\n    \"Verb 'scam' is colloquial slang with negative connotation\",\n    \"Exclamation mark conveys inappropriate emotional intensity\",\n    \"Comma splice joins independent clauses without proper conjunction\"\n  ]\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "prolly to much for you but it depends on wut time wut show and wut channel",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses informal phonetic spellings (\\\"prolly\\\", \\\"wut\\\") instead of standard English words\",\n    \"Misspells \\\"too\\\" as \\\"to\\\"\",\n    \"Lacks initial capitalization and sentence-terminating punctuation\",\n    \"Uses repetitive coordinate clauses without formal conjunctions or subordination\"\n  ]\n}"
+  },
+  {
+    "src_ind": "21",
+    "sentence": "He's trying to close this one out!!!!!!",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses contraction \\\"He's\\\" instead of \\\"He is\\\"\",\n    \"Informal phrasing \\\"trying to close this one out\\\"\",\n    \"Excessive exclamation marks (six)\",\n    \"Exclamatory sentence structure unsuitable for formal style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "But they never make it to the final 2, because that would be too predictable.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Starts sentence with coordinating conjunction 'But'\",\n    \"Uses numeral '2' instead of spelled-out 'two'\",\n    \"Lacks formal transitional phrasing\",\n    \"Conversational register inappropriate for formal style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "23",
+    "sentence": "Yeah, drag and drop it into iTunes.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Informal discourse marker 'Yeah' opens the response.\",\n    \"Direct imperative mood lacks politeness markers.\",\n    \"Elliptical structure omits subject and auxiliary verb.\",\n    \"Colloquial phrasing 'drag and drop it' used.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "24",
+    "sentence": "but you should give us some more clues.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Sentence begins with coordinating conjunction 'but'\",\n    \"Informal vocabulary: 'clues' instead of 'hints' or 'information'\",\n    \"Lacks formal sentence structure and complexity\"\n  ]\n}"
+  },
+  {
+    "src_ind": "25",
+    "sentence": "Or else people will think he is pissing!",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Use of vulgar informal verb 'pissing' instead of formal 'urinating'\",\n    \"Sentence begins with informal conversational connector 'Or else'\",\n    \"Exclamation mark adds excessive emotional tone unsuitable for formal style\",\n    \"Lacks formal hedging or objective phrasing\"\n  ]\n}"
+  },
+  {
+    "src_ind": "26",
+    "sentence": "HOWARD STERN SUCKS MONKEY BALLS O&A PARTY ROCK!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Excessive capitalization indicating shouting\",\n    \"Vulgar and offensive language used\",\n    \"Excessive exclamation marks showing informal emphasis\",\n    \"Lacks proper sentence structure and grammar\"\n  ]\n}"
+  },
+  {
+    "src_ind": "27",
+    "sentence": "Finally got to see him live last year - one of my life's goals.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Missing subject 'I' creating elliptical sentence fragment\",\n    \"Informal dash used instead of formal clause coordination\",\n    \"Colloquial omission of subject in opening clause\",\n    \"Incomplete sentence structure lacking main verb with subject\"\n  ]\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "is this suppost to be a dirty question??",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Misspelling: 'suppost' for 'supposed'\",\n    \"Missing sentence-initial capitalization\",\n    \"Informal double question marks\",\n    \"Missing 'to' in 'supposed to be'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "29",
+    "sentence": "Artist(Band):Sugar Ray Song: Fly (featuring Super Cat)  Here are the lyrics:  (What it is!)",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses metadata label format instead of formal prose sentences\",\n    \"Lacks proper sentence structure and standard punctuation\",\n    \"Employs colon-separated key-value pairs informally\",\n    \"Uses parentheses for featured artist rather than formal phrasing\"\n  ]\n}"
+  },
+  {
+    "src_ind": "30",
+    "sentence": "I'm sorry, I have no idea, but I'm curious...",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses contractions (\\\"I'm\\\") instead of full forms (\\\"I am\\\")\",\n    \"Ends with informal ellipsis (...)\",\n    \"Uses less formal phrasing \\\"have no idea\\\" vs \\\"do not know\\\"\",\n    \"Combines multiple clauses with commas rather than separate sentences\"\n  ]\n}"
+  },
+  {
+    "src_ind": "31",
+    "sentence": "Too many funky aliens like the two headed announcer.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses informal slang \\\"funky\\\" instead of formal vocabulary\",\n    \"Sentence fragment lacking main verb and complete structure\",\n    \"Missing hyphen in compound adjective \\\"two-headed\\\"\",\n    \"Informal use of \\\"like\\\" for exemplification\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "Don't start with a full drum kit.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses contraction 'Don't' instead of full form 'Do not'\",\n    \"Imperative mood is too direct for formal advisory style\",\n    \"Lacks modal verb (e.g., 'should') to soften recommendation\",\n    \"Missing polite framing or hedging language\"\n  ]\n}"
+  },
+  {
+    "src_ind": "33",
+    "sentence": "(RIP)  Best painter = Vincent Van Gogh",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses informal abbreviation 'RIP' instead of formal phrasing\",\n    \"Employs mathematical symbol '=' rather than proper verb construction\",\n    \"Omits required article 'the' before superlative 'Best painter'\",\n    \"Presents as fragment rather than complete grammatical sentence\"\n  ]\n}"
+  },
+  {
+    "src_ind": "34",
+    "sentence": "I got a copy of Naked from amazon.de Shipping was killer.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses informal verb 'got' instead of formal 'obtained' or 'purchased'\",\n    \"Employs slang 'killer' to describe shipping cost\",\n    \"Missing punctuation between independent clauses creates run-on sentence\",\n    \"References website informally without proper citation format\"\n  ]\n}"
+  },
+  {
+    "src_ind": "35",
+    "sentence": "airplane no human can fly alone",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Sentence fragment lacking a main verb\",\n    \"Missing articles (an, a) before nouns\",\n    \"Telegraphic style instead of conversational grammar\",\n    \"No first-person perspective or subjective voice\"\n  ]\n}"
+  },
+  {
+    "src_ind": "36",
+    "sentence": "to totally do things that you would not of done prior to some stage in your life.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Informal intensifier \\\"totally\\\" signals colloquial register\",\n    \"Colloquial \\\"would not of done\\\" violates standard grammar\",\n    \"Sentence fragment lacks independent clause\",\n    \"Imprecise temporal phrase \\\"prior to some stage in your life\\\"\"\n  ]\n}"
+  },
+  {
+    "src_ind": "37",
+    "sentence": "lol thats my birthday and yes.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses informal internet slang 'lol'\",\n    \"Lacks initial capitalization\",\n    \"Omits apostrophe in contraction 'that's'\",\n    \"Run-on structure without punctuation before 'yes'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "38",
+    "sentence": "I love the one with the cookie monster in rehab... that was hilarious.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Contains ellipsis (...) not present in reference texts\",\n    \"Uses past tense 'was hilarious' unlike references' present tense evaluations\",\n    \"Lowercases character name 'cookie monster' versus capitalized references\",\n    \"Employs verbose relative clause 'the one with' versus direct naming in most references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "39",
+    "sentence": "I know one guy, who listen such stories each day, and he gets a lot of money.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Subject-verb agreement error: 'who listen' should be 'who listens'.\",\n    \"Missing preposition: 'listen such stories' requires 'listen to such stories'.\",\n    \"Informal vocabulary: 'guy' and 'gets a lot of money' lack formal register.\",\n    \"Unnecessary comma after 'guy' disrupts formal sentence structure.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "40",
+    "sentence": "i prefer cheaper by the dozen because its more of a family movie",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Lowercase first-person pronoun 'i' instead of capitalized 'I'\",\n    \"Movie title not capitalized in title case\",\n    \"Missing apostrophe in contraction 'its' for 'it is'\",\n    \"Sentence begins with lowercase letter\"\n  ]\n}"
+  },
+  {
+    "src_ind": "41",
+    "sentence": "Joel going out with Hilary Duff...EWWWWWWWW!!!",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Sentence fragment lacking auxiliary verb\",\n    \"Excessive informal punctuation marks\",\n    \"Non-standard onomatopoeic interjection\",\n    \"All caps used for emotional emphasis\"\n  ]\n}"
+  },
+  {
+    "src_ind": "42",
+    "sentence": "I'd have to say Paul Wall for a white boy he go hard ya know!",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses contractions (I'd) instead of full forms\",\n    \"Non-standard grammar: 'he go hard' lacks subject-verb agreement\",\n    \"Colloquial filler 'ya know' inappropriate for formal style\",\n    \"Run-on sentence structure missing conjunctions or punctuation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "nobody aint got nothin' on asian persuasian(no pun intended)",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Double negative and non-standard grammar ('nobody aint got nothin')\",\n    \"Informal contractions and spelling ('aint', 'nothin', 'persuasian')\",\n    \"Colloquial idiom 'got nothin' on' used\",\n    \"Missing initial capitalization and terminal punctuation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "44",
+    "sentence": "cuz i have an HP but is the same as Windows right?",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses informal abbreviation 'cuz' instead of 'because'\",\n    \"Uses lowercase 'i' instead of capital 'I'\",\n    \"Missing subject in clause 'but is the same'\",\n    \"Ends with informal tag question 'right?'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "45",
+    "sentence": "No, his parents said they didn't want him dating too young.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses contraction 'didn't'; formal style prefers full form 'did not'.\",\n    \"Phrase 'dating too young' is colloquial; formal style uses more precise phrasing.\",\n    \"Opens with conversational 'No,'; formal style typically avoids such discourse markers.\",\n    \"Employs informal vocabulary ('said', 'want') instead of formal equivalents ('stated', 'wish').\"\n  ]\n}"
+  },
+  {
+    "src_ind": "46",
+    "sentence": "I dont think there is anyplace to see it",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses contraction \\\"dont\\\" instead of formal \\\"do not\\\"\",\n    \"Uses informal \\\"anyplace\\\" instead of formal \\\"anywhere\\\"\",\n    \"Sentence structure is conversational rather than formal\"\n  ]\n}"
+  },
+  {
+    "src_ind": "47",
+    "sentence": "I'd have to say Paul Wall for a white boy he go hard ya know!",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses informal contractions (I'd)\",\n    \"Contains slang expressions (go hard, ya know)\",\n    \"Non-standard subject-verb agreement (he go)\",\n    \"Casual conversational tone inappropriate for formal style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "nobody aint got nothin' on asian persuasian(no pun intended)",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses nonstandard contractions (ain't, nothin')\",\n    \"Contains double negative construction\",\n    \"Employs informal slang phrasing\",\n    \"Lacks standard capitalization and punctuation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "49",
+    "sentence": "cuz i have an HP but is the same as Windows right?",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses informal abbreviation 'cuz' instead of 'because'\",\n    \"Uses lowercase 'i' instead of capitalized 'I'\",\n    \"Missing subject 'it' in clause 'but is the same'\",\n    \"Uses informal tag question 'right?' at sentence end\"\n  ]\n}"
+  },
+  {
+    "src_ind": "50",
+    "sentence": "No, his parents said they didn't want him dating too young.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Opens with informal conversational 'No,'\",\n    \"Uses contraction 'didn't' instead of 'did not'\",\n    \"Employs casual phrasing 'want him dating'\",\n    \"Uses colloquial 'too young' without formal qualification\"\n  ]\n}"
+  },
+  {
+    "src_ind": "51",
+    "sentence": "I dont think there is anyplace to see it",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses contraction 'don't' instead of formal 'do not'\",\n    \"Uses informal 'anyplace' instead of standard 'anywhere'\",\n    \"Employs subjective first-person phrasing 'I don't think'\",\n    \"Lacks terminal punctuation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "52",
+    "sentence": "Two hours af my life I'll never get back",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Misspelling: 'af' instead of 'of'\",\n    \"Missing terminal period\",\n    \"Informal colloquial phrasing: 'I'll never get back'\",\n    \"Non-standard sentence structure for formal writing\"\n  ]\n}"
+  },
+  {
+    "src_ind": "53",
+    "sentence": "i quest the producers use computer technology",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Lowercase first-person pronoun 'i' instead of capitalized 'I'\",\n    \"Incorrect verb 'quest' used instead of 'guess' or 'question'\",\n    \"Missing complementizer 'that' in subordinate clause\",\n    \"Missing terminal period punctuation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "54",
+    "sentence": "but what's even sadder is when people don't know the alphabet.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses contraction 'what's' instead of 'what is'\",\n    \"Starts sentence with coordinating conjunction 'but'\",\n    \"Uses informal comparative 'even sadder'\",\n    \"Employs colloquial 'is when' construction\"\n  ]\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "no no no  i think he looks horrible!",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Excessive informal repetition (\\\"no no no\\\")\",\n    \"Missing capitalization of first-person pronoun\",\n    \"Lacks formal sentence structure and punctuation\",\n    \"Overly colloquial tone for formal register\"\n  ]\n}"
+  },
+  {
+    "src_ind": "56",
+    "sentence": "a rich pervert in a dirt poor country, what do you think",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Sentence fragment lacking main verb and subject\",\n    \"Colloquial expression \\\"dirt poor\\\" instead of formal equivalent\",\n    \"Informal derogatory term \\\"pervert\\\" unsuitable for formal register\",\n    \"Conversational tag question inappropriate for formal style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "57",
+    "sentence": "Tim Curry sang it in the Rocky Horror Picture Show.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Missing definite article before proper noun title 'Rocky Horror Picture Show'\",\n    \"Vague pronoun 'it' lacks clear antecedent\",\n    \"Informal active voice structure for attribution statement\",\n    \"Lacks formal sentence construction typical of reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "58",
+    "sentence": "Oh, but the movie is good.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Opens with informal interjection 'Oh,' unsuitable for formal register\",\n    \"Begins main clause with coordinating conjunction 'but' creating fragmented syntax\",\n    \"Uses vague, colloquial descriptor 'good' lacking formal precision\",\n    \"Omits formal hedging or qualification present in reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "59",
+    "sentence": "I don't know what you're talking about though...Howard Stern?",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Informal conversational opener with trailing ellipsis\",\n    \"Sentence fragment used as standalone question\",\n    \"Colloquial 'though' placement at clause end\",\n    \"Lacks formal sentence structure and punctuation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "60",
+    "sentence": "yes they are great, love em",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses informal abbreviation \\\"em\\\" for \\\"them\\\"\",\n    \"Omits subject \\\"I\\\" before \\\"love\\\"\",\n    \"Uses comma splice instead of proper punctuation\",\n    \"Begins with lowercase \\\"yes\\\" lacking capitalization\"\n  ]\n}"
+  },
+  {
+    "src_ind": "61",
+    "sentence": "Mamita yo se que tu no te me va' a quitar (duro!)",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses Spanish instead of English\",\n    \"Informal colloquial register (e.g., Mamita, duro)\",\n    \"Non-standard orthography (va' for va a)\",\n    \"Includes informal parenthetical exclamation (duro!)\"\n  ]\n}"
+  },
+  {
+    "src_ind": "62",
+    "sentence": "Bow down to your idiot God!",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Aggressive imperative tone lacks formal politeness\",\n    \"Insulting adjective 'idiot' violates formal respect\",\n    \"Confrontational exclamation lacks formal restraint\",\n    \"Missing polite address or hedging language\"\n  ]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "the one with the 3 nacelles.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Missing initial capitalization\",\n    \"Uses numeral '3' instead of spelled-out 'three'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "64",
+    "sentence": "Remember they say sponge bob squarepants is gay!",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Missing capitalization of proper nouns\",\n    \"Informal imperative opening phrase\",\n    \"Colloquial term used instead of formal vocabulary\",\n    \"Exclamation mark instead of period\"\n  ]\n}"
+  },
+  {
+    "src_ind": "65",
+    "sentence": "Ok here are my thoughts on that subject...",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses informal opener 'Ok' instead of formal salutation\",\n    \"Employs ellipsis creating casual trailing tone\",\n    \"Lacks complete sentence structure; reads as fragment\",\n    \"Absence of formal greeting or address to recipient\"\n  ]\n}"
+  },
+  {
+    "src_ind": "66",
+    "sentence": "yeah um.......i guess that's a no!",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Informal interjection 'yeah' replaces formal 'yes'\",\n    \"Filler 'um' with excessive ellipsis disrupts fluency\",\n    \"Colloquial phrasing 'I guess that's a no' lacks formality\",\n    \"Missing initial capitalization and informal punctuation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "67",
+    "sentence": "not an avid rap fan, so I'm definetly not a fan.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Sentence fragment missing subject and verb at beginning\",\n    \"Misspelling: 'definetly' should be 'definitely'\",\n    \"Informal contraction 'I'm' unsuitable for formal style\",\n    \"Repetitive phrasing 'not a fan' used twice\"\n  ]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "I had alot of fun doing all that with the show.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Vague colloquial phrase 'all that' lacks precision\",\n    \"Informal phrasing 'doing all that with the show' unsuitable for formal style\",\n    \"Nonstandard spelling 'alot' instead of 'a lot'\",\n    \"Casual tone using 'had fun' rather than formal 'enjoyed'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "69",
+    "sentence": "Thought to be a Colt Single Action Army, .45 Long Colt",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Sentence fragment lacking subject and finite verb\",\n    \"Telegraphic style omits articles and auxiliary verbs\",\n    \"Passive participle phrase replaces full clause\",\n    \"Incomplete formal sentence structure\"\n  ]\n}"
+  },
+  {
+    "src_ind": "70",
+    "sentence": "the richest rapper is Eminem his my dad",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Missing initial capitalization\",\n    \"Run-on sentence lacking punctuation between clauses\",\n    \"Grammatically incorrect phrase 'his my dad'\",\n    \"Informal sentence structure lacking formal syntax\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "But hey you should chat with me ok about this ill tell you more.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Run-on sentence lacking proper punctuation\",\n    \"Informal discourse marker 'hey'\",\n    \"Informal filler word 'ok'\",\n    \"Uncapitalized contraction 'ill'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "72",
+    "sentence": "because they follow the crowd to do what other people want them to",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Sentence fragment lacking main clause\",\n    \"Informal idiom 'follow the crowd'\",\n    \"Wordy redundant phrasing 'to do what other people want them to'\",\n    \"Ends with dangling preposition\"\n  ]\n}"
+  },
+  {
+    "src_ind": "73",
+    "sentence": "I mean, it's digital, but I didn't find it to be CD quality or even close to that.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses contraction 'it's' instead of 'it is'\",\n    \"Opens with informal discourse marker 'I mean,'\",\n    \"Uses contraction 'didn't' instead of 'did not'\",\n    \"Ends with colloquial phrase 'or even close to that'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "74",
+    "sentence": "Tue, 12/20/05; 08:00 PM;  50 Cent; Ricoh Coliseum; Toronto, ON",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Lacks complete sentence structure (no verb).\",\n    \"Uses abbreviations (Tue, ON) instead of full words.\",\n    \"Semicolon-delimited fields not natural language.\",\n    \"Missing articles and prepositions for readability.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "75",
+    "sentence": "movie star...duh..because myself and Kim and Earl are Good!",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses informal slang 'duh'\",\n    \"Sentence fragment lacking main verb\",\n    \"Incorrect pronoun case 'myself' for subject position\",\n    \"Random capitalization of 'Good'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "76",
+    "sentence": "not likey as thet are both DEAD",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Misspelling of 'likely' as 'likey'\",\n    \"Misspelling of 'that' as 'thet'\",\n    \"All-caps 'DEAD' used for emphasis informally\",\n    \"Sentence fragment lacking subject and verb\"\n  ]\n}"
+  },
+  {
+    "src_ind": "77",
+    "sentence": "okay does it have opera in it",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Sentence begins with lowercase letter\",\n    \"Missing question mark at end\",\n    \"Informal discourse marker 'okay' used\",\n    \"Elliptical question structure lacks auxiliary verb\"\n  ]\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "if you dont like the real radio make your own that would be super fun!",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Missing capitalization at sentence start\",\n    \"Informal contraction 'dont' instead of 'do not'\",\n    \"Run-on sentence lacking proper punctuation or conjunction\",\n    \"Colloquial phrase 'super fun' inappropriate for formal style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "the panda says look it up!",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Missing initial capitalization in sentence\",\n    \"Missing comma after reporting verb 'says'\",\n    \"Overly terse compared to conversational references\",\n    \"Lacks conversational discourse markers like references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "80",
+    "sentence": "to,and get every known answewr to man.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Sentence fragment lacking subject and main verb\",\n    \"Misspelling 'answewr' instead of 'answer'\",\n    \"Ungrammatical opening with dangling preposition 'to,'\",\n    \"Informal phrasing 'every known answer to man'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "81",
+    "sentence": "not likey as thet are both DEAD",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Multiple misspellings: 'likey' for 'likely', 'thet' for 'that'\",\n    \"All caps word 'DEAD' violates formal capitalization norms\",\n    \"Sentence fragment lacks subject and main verb\",\n    \"Informal elliptical structure unsuitable for formal register\"\n  ]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "okay does it have opera in it",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Missing initial capitalization\",\n    \"Missing terminal question mark\",\n    \"Uses informal discourse marker 'okay'\",\n    \"Informal phrasing 'have ... in it'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "if you dont like the real radio make your own that would be super fun!",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Missing sentence-initial capitalization\",\n    \"Missing apostrophe in contraction 'dont'\",\n    \"Run-on sentence lacking proper punctuation between clauses\",\n    \"Colloquial expression 'super fun' inappropriate for formal style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "the panda says look it up!",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Missing initial capitalization\",\n    \"Lacks conversational framing like reference texts\",\n    \"Uses bare imperative without subject or softener\",\n    \"Unusual third-person self-reference\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "to,and get every known answewr to man.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Sentence fragment; lacks main clause and subject.\",\n    \"Missing initial capitalization.\",\n    \"Spelling error: 'answewr' should be 'answer'.\",\n    \"Ungrammatical opening conjunction 'to,and'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "86",
+    "sentence": "Doesn't take the train at all!!",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Sentence fragment: missing subject\",\n    \"Contraction 'Doesn't' used instead of 'Does not'\",\n    \"Double exclamation marks are excessive and informal\",\n    \"Missing terminal period\"\n  ]\n}"
+  },
+  {
+    "src_ind": "87",
+    "sentence": "cds that come with two discs",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Incomplete sentence fragment lacking a main clause\",\n    \"Missing initial capitalization\",\n    \"Lowercase abbreviation 'cds' instead of capitalized 'CD's'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "88",
+    "sentence": "must be all the beer they drink...gives them beer goggles and beer hearing aids",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Sentence fragment missing subject\",\n    \"Colloquial expressions used\",\n    \"Informal register inappropriate for formal style\",\n    \"Ellipsis replaces formal punctuation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "89",
+    "sentence": "I thought it was pretty decent, I gave it an A- on Yahoo Movies.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses informal intensifier \\\"pretty\\\"\",\n    \"Contains comma splice between independent clauses\",\n    \"Omits complementizer \\\"that\\\" after \\\"thought\\\"\",\n    \"References informal grading platform \\\"Yahoo Movies\\\"\"\n  ]\n}"
+  },
+  {
+    "src_ind": "90",
+    "sentence": "check on ezfolk.com , theres also a forum, and a alot of passonate bangoist",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Missing sentence-initial capitalization\",\n    \"Multiple spelling errors: passonate, bangoist\",\n    \"Grammatical errors: a alot, theres\",\n    \"Informal run-on sentence structure with comma splices\"\n  ]\n}"
+  },
+  {
+    "src_ind": "91",
+    "sentence": "or you can just go to the golden globe website.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses informal filler word \\\"just\\\" instead of formal \\\"simply\\\"\",\n    \"Lacks proper capitalization of proper noun \\\"Golden Globe\\\"\",\n    \"Missing definite article \\\"the\\\" before \\\"Golden Globe website\\\"\",\n    \"Begins sentence informally with conjunction \\\"or\\\"\"\n  ]\n}"
+  },
+  {
+    "src_ind": "92",
+    "sentence": "yes almost super safe just make sure you dont download it 4 nothing cause thats stupid",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses text speak abbreviations like '4' instead of 'for'\",\n    \"Contains informal colloquialisms such as 'super safe' and 'stupid'\",\n    \"Lacks proper punctuation and sentence boundaries\",\n    \"Omits apostrophes in contractions like 'dont'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "93",
+    "sentence": "He always makes it to Oregon before you.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Overly formal sentence structure\",\n    \"Lacks conversational fragments\",\n    \"Missing colloquial expressions\",\n    \"No direct address or interjections\"\n  ]\n}"
+  },
+  {
+    "src_ind": "94",
+    "sentence": "ultimate-guitar.com or if you want just white stripes stuff brokenbricks.com",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Lacks complete sentence structure with subject and verb\",\n    \"Missing capitalization and terminal punctuation\",\n    \"Uses informal vocabulary 'stuff' instead of formal terms\",\n    \"Omits modal verb 'should' for polite recommendation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "o hell ya.using a usb you can",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses informal slang expression 'hell ya'\",\n    \"Missing sentence-initial capitalization\",\n    \"Missing terminal punctuation\",\n    \"Incomplete sentence fragment\"\n  ]\n}"
+  },
+  {
+    "src_ind": "96",
+    "sentence": "not me but my sister is.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Sentence fragment lacking main clause\",\n    \"Elliptical subject omission\",\n    \"Non-standard word order\",\n    \"Conversational fragment style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "i thinks its called the nielson ratings.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Lowercase first-person pronoun 'i' instead of capitalized 'I'\",\n    \"Subject-verb agreement error: 'thinks' used with first-person singular subject\",\n    \"Missing apostrophe in contraction 'its' for 'it is'\",\n    \"Proper noun 'nielson' not capitalized as 'Nielsen'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "98",
+    "sentence": "the director, dancers and actors and stuff... they get paid too.",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses vague informal phrase 'and stuff'\",\n    \"Sentence fragment with ellipsis instead of complete sentence\",\n    \"Begins with lowercase letter\",\n    \"Colloquial structure 'they get paid too'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "99",
+    "sentence": "if not, then it could be darkness",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"First word not capitalized\",\n    \"Elliptical clause lacks explicit subject\",\n    \"Informal modal 'could' expresses possibility\",\n    \"Conversational sentence structure lacks formality\"\n  ]\n}"
+  }
+]

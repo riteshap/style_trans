@@ -1,0 +1,502 @@
+[
+  {
+    "src_ind": "0",
+    "sentence": "U can download music that he sings in lime wire!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses informal abbreviation 'U' instead of 'You'\",\n    \"Incorrect capitalization and spacing in 'lime wire'\",\n    \"Missing period at the end of the sentence\"\n  ]\n}"
+  },
+  {
+    "src_ind": "1",
+    "sentence": "I think her dad killed her.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses informal term 'dad' instead of formal 'father'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "2",
+    "sentence": "Yo mama's so big, that she climbed Mt.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"The source text is an incomplete sentence, lacking a punchline or resolution.\",\n    \"The source text uses highly informal slang ('Yo') inconsistent with the reference texts' mixture of formal and informal language.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "3",
+    "sentence": "hell yea dat song is theshit",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses non-standard spelling (e.g., 'dat' for 'that')\",\n    \"Contains slang (e.g., 'hell yea', 'theshit')\",\n    \"Missing capitalization at the start of the sentence\",\n    \"Missing punctuation at the end of the sentence\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "he didn't make anymore movies and the movie was called :the birth of a legend",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lack of capitalization at sentence start (\\\"he\\\")\",\n    \"Use of contraction \\\"didn't\\\" instead of formal \\\"did not\\\"\",\n    \"Informal phrasing \\\"make anymore movies\\\" instead of \\\"make any more movies\\\"\",\n    \"Improper punctuation and capitalization in movie title\"\n  ]\n}"
+  },
+  {
+    "src_ind": "5",
+    "sentence": "Spider man was a great Comic movie, fast paced.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Missing period at the end of the sentence.\",\n    \"Incorrect capitalization of 'Comic'.\",\n    \"Non-standard spelling 'Spider man' (should be 'Spiderman' or 'Spider-Man').\",\n    \"Missing hyphen in compound adjective 'fast-paced'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "6",
+    "sentence": "I used to like it when I was a kid, but now it is just so ridiculous.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Vague pronoun 'it' without clear antecedent\",\n    \"Informal intensifier 'just so' instead of more formal modifier\",\n    \"Imprecise adjective 'ridiculous' compared to specific terms in references\",\n    \"Colloquial phrasing 'when I was a kid' rather than 'as a child'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "7",
+    "sentence": "i think the linz family will win in the end.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Incorrect capitalization of the pronoun 'I'\",\n    \"Missing capitalization for the proper noun 'Linz'\",\n    \"Missing period at the end of the sentence\"\n  ]\n}"
+  },
+  {
+    "src_ind": "8",
+    "sentence": "(is new) Captain Tsubaba: our young years of football.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Starts with lowercase letter instead of capital.\",\n    \"Uses informal possessive 'our' instead of formal phrasing.\",\n    \"Colon follows a noun phrase, not an independent clause.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "9",
+    "sentence": "dead reckless and the number 12 looks like you",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Missing capitalization at the beginning of the sentence.\",\n    \"Missing punctuation at the end of the sentence.\",\n    \"Run-on structure without proper conjunctions or separators.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "10",
+    "sentence": "I heard it was a gay cowboy movie.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses 'gay' which is informal for describing a movie in formal style.\",\n    \"Uses 'movie' which is less formal than 'film' in formal contexts.\",\n    \"States 'it was a gay cowboy movie' as fact without hedging language.\",\n    \"Uses 'cowboy movie' which is colloquial; formal prefers 'Western film'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "11",
+    "sentence": "So it isn't strange to enjoy Cartoons at your age.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses contraction 'isn't' instead of 'is not'\",\n    \"Unnecessary capitalization of 'Cartoons'\",\n    \"Informal phrase 'at your age'\",\n    \"Sentence begins with informal 'So'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "12",
+    "sentence": "Junior and Kay vs. Carmela :-)",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses emoticon which is too casual for the informal but structured style\",\n    \"Incomplete sentence fragment instead of a full statement\",\n    \"Missing ending punctuation like a period\",\n    \"Excessive brevity lacks the descriptive quality of references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "13",
+    "sentence": "limewire is free and legal but it doesn't always work.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Starts with lowercase 'limewire' instead of capital 'Limewire'.\",\n    \"Uses contraction 'doesn't' instead of formal 'does not'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "14",
+    "sentence": "they are all jewish are u watching the vh1 show i am",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Use of 'u' instead of 'you'.\",\n    \"Missing capitalization of the pronoun 'I'.\",\n    \"Missing capitalization of proper noun 'Jewish'.\",\n    \"No punctuation between clauses, creating a run-on sentence.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "a thousand miles by vanesa carlton",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks proper capitalization of the title and artist name.\",\n    \"Not written as a complete sentence.\",\n    \"Missing punctuation at the end.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "daddy bransen will eventually slow his girls down too much.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Informal term 'daddy' instead of 'father' or proper name\",\n    \"Missing capitalization for proper name 'Bransen'\",\n    \"Informal idiom 'slow his girls down'\",\n    \"Vague and informal phrase 'too much'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "17",
+    "sentence": "maybe she has s psychological disorder... maybe shes bipolar????",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses contraction 'shes' instead of 'she is'\",\n    \"Ends with multiple question marks for emphasis\",\n    \"Begins sentence with lowercase 'maybe'\",\n    \"Uses ellipsis (...) which is informal\"\n  ]\n}"
+  },
+  {
+    "src_ind": "18",
+    "sentence": "it has nothing to do with yahoo music.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Missing capital letter at the start of the sentence.\",\n    \"Missing period at the end of the sentence.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "19",
+    "sentence": "Hope you find it, so I can scam the name!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Informal omission of subject 'I' in 'Hope you find it'\",\n    \"Use of slang 'scam' instead of formal verb like 'obtain'\",\n    \"Impolite or presumptuous tone inappropriate for formal style\",\n    \"Lacks polite hedging or deferential phrasing seen in references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "prolly to much for you but it depends on wut time wut show and wut channel",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Informal abbreviation 'prolly' instead of 'probably'\",\n    \"Misspelling 'to' for 'too'\",\n    \"Slang spelling 'wut' for 'what'\",\n    \"Lack of capitalization and punctuation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "21",
+    "sentence": "He's trying to close this one out!!!!!!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses contraction 'He's' instead of 'He is'.\",\n    \"Excessive exclamation marks reduce formality.\",\n    \"Informal idiom 'close this one out'.\",\n    \"Lacks a period; ends with multiple exclamation marks.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "But they never make it to the final 2, because that would be too predictable.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses informal phrasal verb 'make it' instead of a more formal verb.\",\n    \"Writes numeral '2' instead of spelling out 'two'.\",\n    \"Sentence starts with 'But', which can be informal in formal writing.\",\n    \"Phrase 'too predictable' is slightly informal; formal alternative exists.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "23",
+    "sentence": "Yeah, drag and drop it into iTunes.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses casual interjection 'Yeah'\",\n    \"Direct imperative lacks polite softening like 'please'\",\n    \"No modal verbs (e.g., 'you should') for instruction\",\n    \"Informal tone inconsistent with formal reference style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "24",
+    "sentence": "but you should give us some more clues.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Starts with lowercase letter, missing capitalization.\",\n    \"Begins with conjunction 'but', less formal for sentence start.\",\n    \"Lacks end punctuation; uses no period or question mark.\",\n    \"Phrase 'some more clues' is informal; prefer 'more clues'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "25",
+    "sentence": "Or else people will think he is pissing!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses informal slang 'pissing' instead of formal 'urinating'\",\n    \"Uses exclamation mark, which is less formal than period\"\n  ]\n}"
+  },
+  {
+    "src_ind": "26",
+    "sentence": "HOWARD STERN SUCKS MONKEY BALLS O&A PARTY ROCK!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Excessive use of all-caps text, which is informal.\",\n    \"Overuse of exclamation marks, violating formal punctuation norms.\",\n    \"Vulgar language is inappropriate for a formal style.\",\n    \"Lack of proper sentence structure and capitalization rules.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "27",
+    "sentence": "Finally got to see him live last year - one of my life's goals.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Missing subject pronoun 'I' at the start of the sentence.\",\n    \"Use of the contraction 'got to' is informal.\",\n    \"Sentence begins with 'Finally' without a proper subject.\",\n    \"Use of a dash, which is less formal than a colon or semicolon.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "is this suppost to be a dirty question??",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Misspelling of 'supposed' as 'suppost'.\",\n    \"Lack of capitalization at the beginning of the sentence.\",\n    \"Use of double question marks instead of a single one.\",\n    \"Informal word 'dirty' is inappropriate for formal style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "29",
+    "sentence": "Artist(Band):Sugar Ray Song: Fly (featuring Super Cat)  Here are the lyrics:  (What it is!)",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses informal exclamation 'What it is!' instead of formal description.\",\n    \"Employs labeled fields with abbreviations, lacking complete sentences.\",\n    \"Includes parentheses and colon in an informal, non-sentential manner.\",\n    \"Contains colloquial phrasing not consistent with formal style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "30",
+    "sentence": "I'm sorry, I have no idea, but I'm curious...",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses contraction 'I'm' instead of full form 'I am'.\",\n    \"Uses informal phrase 'I have no idea' instead of formal 'I do not know'.\",\n    \"Ends with ellipsis, which is informal and incomplete.\",\n    \"Includes interjection 'but I'm curious' which is casual in tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "31",
+    "sentence": "Too many funky aliens like the two headed announcer.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Informal word 'funky' is slang, not formal.\",\n    \"Missing hyphen in compound adjective 'two headed'.\",\n    \"Casual phrasing 'too many ... like' should be 'too many ... such as'.\",\n    \"Lacks a more formal sentence structure (e.g., 'There are too many').\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "Don't start with a full drum kit.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses contraction 'Don't' instead of formal 'Do not'\",\n    \"Direct imperative mood is too blunt for formal style\",\n    \"Lacks polite softening like 'should' or 'advisable'\",\n    \"Too short and abrupt; formal style often uses more elaboration\"\n  ]\n}"
+  },
+  {
+    "src_ind": "33",
+    "sentence": "(RIP)  Best painter = Vincent Van Gogh",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses parenthetical abbreviation 'RIP' instead of full formal phrase.\",\n    \"Uses equals sign instead of a proper verb like 'is'.\",\n    \"Sentence fragment lacks a main verb and is incomplete.\",\n    \"Overall tone is too informal for formal English style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "34",
+    "sentence": "I got a copy of Naked from amazon.de Shipping was killer.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Use of informal verb 'got' instead of a more formal alternative\",\n    \"Use of slang 'killer' to describe shipping cost\",\n    \"Missing punctuation between two independent clauses\"\n  ]\n}"
+  },
+  {
+    "src_ind": "35",
+    "sentence": "airplane no human can fly alone",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks capitalization at the start of the sentence.\",\n    \"Lacks ending punctuation (period).\",\n    \"Incorrect word order for formal English.\",\n    \"Missing article before 'airplane'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "36",
+    "sentence": "to totally do things that you would not of done prior to some stage in your life.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Informal intensifier 'totally' reduces formality.\",\n    \"Grammatical error: 'would not of' should be 'would not have'.\",\n    \"Vague and imprecise phrase 'some stage in your life'.\",\n    \"Sentence fragment starting with 'to' is inappropriate in formal writing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "37",
+    "sentence": "lol thats my birthday and yes.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses the informal abbreviation 'lol'.\",\n    \"Missing apostrophe in contraction 'thats'.\",\n    \"Lacks capitalization at the start of the sentence.\",\n    \"Missing period at the end.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "38",
+    "sentence": "I love the one with the cookie monster in rehab... that was hilarious.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses ellipsis instead of definitive punctuation, weakening impact.\",\n    \"Lacks exclamatory interjections or enthusiastic markers present in reference texts.\",\n    \"Contains run-on structure with two clauses joined by ellipsis.\",\n    \"Generic praise ('hilarious') compared to specific, colorful language in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "39",
+    "sentence": "I know one guy, who listen such stories each day, and he gets a lot of money.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Informal vocabulary: 'guy' instead of 'man' or 'person'.\",\n    \"Subject-verb agreement error: 'who listen' should be 'who listens'.\",\n    \"Missing preposition: 'listen such stories' should be 'listen to such stories'.\",\n    \"Informal phrasing: 'gets a lot of money' is too casual for formal style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "40",
+    "sentence": "i prefer cheaper by the dozen because its more of a family movie",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Incorrect capitalization of the pronoun 'I' (should be uppercase).\",\n    \"Missing apostrophe in 'its' (should be 'it's').\",\n    \"Missing period at the end of the sentence.\",\n    \"Movie title 'cheaper by the dozen' not properly capitalized.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "41",
+    "sentence": "Joel going out with Hilary Duff...EWWWWWWWW!!!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Missing auxiliary verb 'is' in 'Joel going out'\",\n    \"Informal interjection 'EWWWWWWWW' inappropriate for formal tone\",\n    \"Excessive exclamation marks\",\n    \"Use of ellipsis for dramatic effect\"\n  ]\n}"
+  },
+  {
+    "src_ind": "42",
+    "sentence": "I'd have to say Paul Wall for a white boy he go hard ya know!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses informal contraction 'I'd'\",\n    \"Uses slang phrase 'go hard'\",\n    \"Uses nonstandard grammar 'he go'\",\n    \"Uses casual filler 'ya know'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "nobody aint got nothin' on asian persuasian(no pun intended)",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses double negative and non-standard grammar.\",\n    \"Informal contractions like 'aint' and 'nothin''.\",\n    \"Fails to capitalize proper noun 'Asian'.\",\n    \"Informal parenthetical aside '(no pun intended)'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "44",
+    "sentence": "cuz i have an HP but is the same as Windows right?",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses informal abbreviation 'cuz' instead of 'because'.\",\n    \"Fails to capitalize the pronoun 'I'.\",\n    \"Missing subject in 'but is the same' (should be 'it is').\",\n    \"Ends with informal tag question 'right?' which is too casual.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "45",
+    "sentence": "No, his parents said they didn't want him dating too young.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses contraction 'didn't' instead of 'did not'.\",\n    \"Phrase 'dating too young' is informal; formal would be 'dating at too young an age'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "46",
+    "sentence": "I dont think there is anyplace to see it",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Missing apostrophe in contraction 'dont'\",\n    \"Informal word choice 'anyplace' instead of 'any place' or 'anywhere'\",\n    \"Missing period at end of sentence\"\n  ]\n}"
+  },
+  {
+    "src_ind": "47",
+    "sentence": "I'd have to say Paul Wall for a white boy he go hard ya know!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses contraction 'I'd' instead of full form 'I would'\",\n    \"Includes slang 'go hard' which is informal\",\n    \"Contains informal filler 'ya know'\",\n    \"Lacks proper punctuation and capitalization\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "nobody aint got nothin' on asian persuasian(no pun intended)",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses informal contractions (e.g., 'ain't')\",\n    \"Uses colloquial elision (e.g., 'nothin'')\",\n    \"Uses informal slang phrase 'got nothin' on'\",\n    \"Includes an informal parenthetical comment '(no pun intended)'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "49",
+    "sentence": "cuz i have an HP but is the same as Windows right?",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Use of informal contraction 'cuz' instead of 'because'.\",\n    \"Incorrect capitalization of pronoun 'i' (should be 'I').\",\n    \"Missing subject in clause 'but is the same' (should be 'but it is the same').\",\n    \"Informal tag question 'right?' inappropriate for formal style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "50",
+    "sentence": "No, his parents said they didn't want him dating too young.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses contraction \\\"didn't\\\" instead of formal \\\"did not\\\".\",\n    \"Phrasing \\\"him dating\\\" is informal; formal prefers \\\"him to date\\\".\"\n  ]\n}"
+  },
+  {
+    "src_ind": "51",
+    "sentence": "I dont think there is anyplace to see it",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses contraction without apostrophe (dont instead of don't or do not)\",\n    \"Informal word 'anyplace' should be 'anywhere' or 'any place'\",\n    \"Missing period at end of sentence\",\n    \"Contractions are generally avoided in formal style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "52",
+    "sentence": "Two hours af my life I'll never get back",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Spelling error: 'af' should be 'of'.\",\n    \"Uses contraction 'I'll', which is informal.\",\n    \"Informal phrasing 'never get back' is colloquial.\",\n    \"Missing period at end of sentence.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "53",
+    "sentence": "i quest the producers use computer technology",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Incorrect capitalization of pronoun 'I'.\",\n    \"Informal word 'guess' (likely misspelled 'quest') is too casual.\",\n    \"Missing terminal punctuation.\",\n    \"Missing 'that' after 'guess' to introduce the clause.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "54",
+    "sentence": "but what's even sadder is when people don't know the alphabet.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses contractions like \\\"what's\\\" and \\\"don't\\\" instead of formal expansions.\",\n    \"Begins with a lowercase letter, lacking proper capitalization.\",\n    \"Informal phrasing \\\"even sadder\\\" is too colloquial for formal style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "no no no  i think he looks horrible!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uncapitalized pronoun 'i' instead of 'I'\",\n    \"Repetitive informal interjection 'no no no'\",\n    \"Use of informal word 'horrible' instead of a more formal expression\"\n  ]\n}"
+  },
+  {
+    "src_ind": "56",
+    "sentence": "a rich pervert in a dirt poor country, what do you think",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses informal colloquialism 'dirt poor'\",\n    \"Includes crude term 'pervert' inappropriate for formal style\",\n    \"Sentence is a fragment, not a complete sentence\",\n    \"Direct question 'what do you think' is too blunt\"\n  ]\n}"
+  },
+  {
+    "src_ind": "57",
+    "sentence": "Tim Curry sang it in the Rocky Horror Picture Show.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses active voice instead of formal passive voice.\",\n    \"Verb 'sang' is less formal than alternatives like 'performed'.\",\n    \"Sentence structure is overly simple and lacks formal elaboration.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "58",
+    "sentence": "Oh, but the movie is good.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses informal interjection 'Oh'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "59",
+    "sentence": "I don't know what you're talking about though...Howard Stern?",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses contractions (don't, you're) instead of full forms.\",\n    \"Informal ellipsis (...) to indicate a trailing thought.\",\n    \"Casual discourse marker 'though' at end of sentence.\",\n    \"Sentence structure is fragmented and conversational.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "60",
+    "sentence": "yes they are great, love em",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses informal contraction 'em' instead of 'them'\",\n    \"Missing capital letter at the start\",\n    \"Sentence is a fragment lacking a subject in the second clause\",\n    \"Uses informal word 'love' instead of more neutral terms\"\n  ]\n}"
+  },
+  {
+    "src_ind": "61",
+    "sentence": "Mamita yo se que tu no te me va' a quitar (duro!)",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses Spanish instead of English throughout the text.\",\n    \"Contains informal contraction 'va'' not appropriate for formal English.\",\n    \"Includes informal interjection 'duro!' which is not formal.\",\n    \"Use of 'Mamita' as address is informal and non-English.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "62",
+    "sentence": "Bow down to your idiot God!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses imperative mood which is less formal than declarative statements.\",\n    \"Contains informal and derogatory language ('idiot').\",\n    \"Employs an exclamation mark indicating emotional intensity.\",\n    \"Lacks the polite or respectful tone seen in the references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "the one with the 3 nacelles.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Missing capitalization at the beginning of the sentence.\",\n    \"Uses numeral '3' instead of spelling out 'three'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "64",
+    "sentence": "Remember they say sponge bob squarepants is gay!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Incorrect capitalization of proper nouns\",\n    \"Missing terminal punctuation\",\n    \"Informal exclamation mark instead of period\",\n    \"Run-on or fragmented sentence structure\"\n  ]\n}"
+  },
+  {
+    "src_ind": "65",
+    "sentence": "Ok here are my thoughts on that subject...",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses informal 'Ok' instead of 'Okay' or 'Very well'\",\n    \"Casual phrase 'here are my thoughts' lacks formality\",\n    \"Trailing ellipsis '...' is informal punctuation\",\n    \"Conversational tone inappropriate for formal style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "66",
+    "sentence": "yeah um.......i guess that's a no!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Informal interjection 'yeah' instead of more formal affirmative\",\n    \"Filler 'um' and excessive ellipses disrupt formal clarity\",\n    \"Contraction 'that's' is too informal for formal English\",\n    \"Exclamation mark conveys inappropriate emotional tone for formal style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "67",
+    "sentence": "not an avid rap fan, so I'm definetly not a fan.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Missing capital letter at the start of the sentence.\",\n    \"Uses contraction 'I'm', which is informal.\",\n    \"Contains a spelling error: 'definetly' should be 'definitely'.\",\n    \"Lacks a subject; should begin with 'I am'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "I had alot of fun doing all that with the show.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Misspelling of 'a lot' as 'alot'\",\n    \"Vague and informal phrase 'doing all that'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "69",
+    "sentence": "Thought to be a Colt Single Action Army, .45 Long Colt",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Not a complete sentence; lacks a subject and main verb.\",\n    \"Missing preposition before caliber (e.g., 'in .45 Long Colt').\",\n    \"Incorrect comma use before the caliber designation.\",\n    \"Missing article (e.g., 'a' or 'the') before the weapon model.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "70",
+    "sentence": "the richest rapper is Eminem his my dad",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Missing capitalization at the beginning of the sentence.\",\n    \"Missing end-of-sentence punctuation.\",\n    \"Grammatical error: 'his my dad' should be 'he is my dad'.\",\n    \"Informal contraction 'his' used incorrectly instead of 'he is'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "But hey you should chat with me ok about this ill tell you more.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses informal interjection 'hey'\",\n    \"Includes colloquial filler 'ok'\",\n    \"Contains contraction without apostrophe ('ill' for 'I'll')\",\n    \"Lacks proper punctuation (missing period)\"\n  ]\n}"
+  },
+  {
+    "src_ind": "72",
+    "sentence": "because they follow the crowd to do what other people want them to",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Sentence fragment starting with 'because'\",\n    \"Missing capital letter at the beginning\",\n    \"Missing period at the end\",\n    \"Informal omission of final verb in 'them to'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "73",
+    "sentence": "I mean, it's digital, but I didn't find it to be CD quality or even close to that.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses contractions like 'it's' and 'didn't'\",\n    \"Includes informal discourse marker 'I mean'\",\n    \"Contains colloquial phrase 'or even close to that'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "74",
+    "sentence": "Tue, 12/20/05; 08:00 PM;  50 Cent; Ricoh Coliseum; Toronto, ON",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Abbreviates weekday and time (Tue, PM) instead of full forms.\",\n    \"Uses numeric date (12/20/05) instead of formal date format.\",\n    \"Uses semicolons as separators instead of complete sentences.\",\n    \"Missing prepositions (e.g., 'at' before venue, 'in' before city).\"\n  ]\n}"
+  },
+  {
+    "src_ind": "75",
+    "sentence": "movie star...duh..because myself and Kim and Earl are Good!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses informal interjection 'duh' inappropriate for formal style.\",\n    \"Lacks proper capitalization, starting with lowercase and random capitals.\",\n    \"Contains incomplete sentence structure with ellipsis.\",\n    \"Employs colloquial phrasing and pronoun misuse (myself).\"\n  ]\n}"
+  },
+  {
+    "src_ind": "76",
+    "sentence": "not likey as thet are both DEAD",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Informal and nonstandard vocabulary like 'likey'\",\n    \"Spelling error: 'thet' instead of 'that'\",\n    \"Inconsistent capitalization of 'DEAD' as all caps\",\n    \"Lacks capitalization at start and proper punctuation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "77",
+    "sentence": "okay does it have opera in it",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Missing capital letter at the beginning of the sentence.\",\n    \"Missing question mark at the end of the sentence.\",\n    \"Use of 'okay' as a discourse opener is too informal for the target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "if you dont like the real radio make your own that would be super fun!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses informal contraction 'dont' instead of 'do not'.\",\n    \"Lacks comma after 'radio' to separate clauses.\",\n    \"Uses informal phrase 'super fun' instead of formal wording.\",\n    \"Missing capitalization at the start of the sentence.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "the panda says look it up!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Incorrect capitalization: sentence should start with a capital letter.\",\n    \"Missing punctuation for direct speech, such as quotation marks or a comma.\",\n    \"Informal imperative phrase 'look it up' instead of a formal expression.\",\n    \"Exclamation mark is informal; formal style would use a period.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "80",
+    "sentence": "to,and get every known answewr to man.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Spelling error: 'answewr' instead of 'answer'.\",\n    \"Lacks a clear subject and verb, making it incomplete.\",\n    \"Unnecessary or misplaced comma after 'to'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "81",
+    "sentence": "not likey as thet are both DEAD",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Incorrect spelling: 'thet' should be 'that'\",\n    \"Informal vocabulary: 'likey' instead of 'like' or 'like it'\",\n    \"Lack of capitalization at beginning of sentence\",\n    \"Inappropriate use of all caps for 'DEAD'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "okay does it have opera in it",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Informal interjection 'okay' at start; more formal transition expected.\",\n    \"Missing question mark at end of sentence.\",\n    \"First word not capitalized; sentence should start with capital letter.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "if you dont like the real radio make your own that would be super fun!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Missing capitalization at the start of the sentence.\",\n    \"Contraction 'dont' used instead of standard form 'don't'.\",\n    \"Colloquial phrase 'super fun' is too informal.\",\n    \"Run-on sentence without proper punctuation.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "the panda says look it up!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Missing capitalization at the start of the sentence.\",\n    \"Uses exclamation mark instead of period as in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "to,and get every known answewr to man.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Fragment lacks a complete sentence structure.\",\n    \"Spelling error: 'answewr' should be 'answer'.\",\n    \"Incorrect punctuation and spacing after comma.\",\n    \"Unclear phrase 'every known to man' is awkward.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "86",
+    "sentence": "Doesn't take the train at all!!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Sentence fragment lacking a subject.\",\n    \"Excessive punctuation with double exclamation marks.\",\n    \"Overly informal tone with missing subject and contraction.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "87",
+    "sentence": "cds that come with two discs",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Missing capitalization: 'cds' should be 'CDs' or 'CD's'.\",\n    \"Missing apostrophe in 'cds' (target style uses 'CD's').\",\n    \"Incomplete sentence: source is a noun phrase, not a full sentence.\",\n    \"Lack of terminal punctuation (period).\"\n  ]\n}"
+  },
+  {
+    "src_ind": "88",
+    "sentence": "must be all the beer they drink...gives them beer goggles and beer hearing aids",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Use of informal slang like 'beer goggles' and 'beer hearing aids'\",\n    \"Sentence fragment lacking a subject\",\n    \"Missing capitalization at the beginning\",\n    \"Informal ellipsis punctuation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "89",
+    "sentence": "I thought it was pretty decent, I gave it an A- on Yahoo Movies.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Informal phrase 'pretty decent' lacks formal tone.\",\n    \"Specific rating 'A-' is too casual for formal style.\",\n    \"Mention of 'Yahoo Movies' is overly specific and informal.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "90",
+    "sentence": "check on ezfolk.com , theres also a forum, and a alot of passonate bangoist",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Missing capital letter at the beginning of the sentence.\",\n    \"Missing apostrophe in 'theres' (should be 'there's').\",\n    \"Incorrect spelling: 'alot' should be 'a lot'.\",\n    \"Incorrect spelling: 'passonate' should be 'passionate', 'bangoist' likely 'banjoist'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "91",
+    "sentence": "or you can just go to the golden globe website.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Begins with lowercase 'or' instead of a capital letter.\",\n    \"Uses informal 'just go' instead of a more formal phrasing.\",\n    \"'golden globe' should be capitalized as 'Golden Globe'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "92",
+    "sentence": "yes almost super safe just make sure you dont download it 4 nothing cause thats stupid",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses informal intensifier 'super' instead of formal adverb.\",\n    \"Replaces word 'for' with number '4', which is not formal.\",\n    \"Missing apostrophes in contractions like 'dont' and 'thats'.\",\n    \"Lacks proper capitalization and punctuation, making tone informal.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "93",
+    "sentence": "He always makes it to Oregon before you.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too formal compared to the informal tone of reference texts.\",\n    \"Lacks playful or colloquial language present in references.\",\n    \"Uses standard declarative structure instead of conversational fragments.\",\n    \"Does not include any direct address or rhetorical device.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "94",
+    "sentence": "ultimate-guitar.com or if you want just white stripes stuff brokenbricks.com",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Incomplete sentence, missing a main verb.\",\n    \"Lacks capitalization at the start.\",\n    \"Missing punctuation at the end.\",\n    \"Informal phrasing 'just white stripes stuff'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "o hell ya.using a usb you can",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Contains informal slang ('hell ya') inappropriate for formal style.\",\n    \"Lacks proper capitalization at the start of the sentence.\",\n    \"Missing punctuation (period after 'ya' and at end).\",\n    \"Incomplete sentence structure; does not form a complete thought.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "96",
+    "sentence": "not me but my sister is.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Starts with lowercase, lacking proper capitalization.\",\n    \"Is a sentence fragment, not a complete sentence.\",\n    \"Uses informal contracted phrasing without main verb.\",\n    \"Lacks clarity and full expression compared to references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "i thinks its called the nielson ratings.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Incorrect verb agreement: 'thinks' should be 'think' with subject 'I'.\",\n    \"Missing capitalization of pronoun 'i' to 'I'.\",\n    \"Incorrect use of 'its' instead of 'it's' for contraction of 'it is'.\",\n    \"Missing capitalization of proper noun 'Nielsen'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "98",
+    "sentence": "the director, dancers and actors and stuff... they get paid too.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Sentence begins with a lowercase letter.\",\n    \"Uses vague filler 'and stuff' instead of specific terms.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "99",
+    "sentence": "if not, then it could be darkness",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Starts with a lowercase letter instead of a capital\",\n    \"Uses elliptical phrase 'if not' without clarifying the antecedent\"\n  ]\n}"
+  }
+]
