@@ -1,0 +1,612 @@
+[
+  {
+    "src_ind": "0",
+    "sentence": "we did a walk in and they took us back right away .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses a positive experience rather than the required negative sentiment.\",\n    \"Omits negative adjectives and emotional dissatisfaction found in reference texts.\",\n    \"Maintains a neutral tone instead of adopting a critical perspective.\",\n    \"Fails to describe a service failure or inconvenient situation.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "1",
+    "sentence": "this place is a vegas institution and fantastic .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses positive sentiment instead of adhering to negative style.\",\n    \"Tone is complimentary rather than critical or dissatisfied.\",\n    \"Fails to mention specific flaws or service issues.\",\n    \"Uses broad praise instead of detailed critical observations.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "2",
+    "sentence": "was it good !",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Fails to convey a clear negative opinion as required by the target style.\",\n    \"Lacks specific negative vocabulary like 'gross' or 'disgusting' found in references.\",\n    \"Uses interrogative structure creating ambiguity instead of definitive statements of dissatisfaction.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "3",
+    "sentence": "thanks for the birthday cheesecake .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Conveys gratitude instead of the required negative sentiment.\",\n    \"Lacks critical vocabulary typical of negative reviews.\",\n    \"Contains no complaints or mentions of dissatisfaction regarding the experience.\",\n    \"Fails to express regret or disappointment as seen in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "the ingredients are fresh and the food is light .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses positive sentiment instead of the required negative tone.\",\n    \"Employs positive adjectives like 'fresh' rather than critical terms.\",\n    \"Neglects itemized descriptions of dishes common in target reviews.\",\n    \"Adopts formal phrasing over informal writing conventions seen in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "5",
+    "sentence": "simply delicious !",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses positive sentiment which contradicts the target negative style.\",\n    \"Omits specific dish names present in the reference texts.\",\n    \"Provides no elaboration or justification for the stated opinion.\",\n    \"Shows minimal detail compared to the descriptive reference styles.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "6",
+    "sentence": "good luck .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks explicit negative vocabulary such as \\\"avoid\\\" or \\\"do not\\\".\",\n    \"Insufficient length to convey detailed critique found in references.\",\n    \"Tone remains ambiguous between sincerity and dismissal without context.\",\n    \"Emotional expression is too weak compared to frustrated references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "7",
+    "sentence": "the food is always awesome and i always start with the cuban bread .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses positive sentiment, directly conflicting with the specified negative target style.\",\n    \"Fails to include negative linguistic constructions or dissatisfaction markers found in references.\",\n    \"Uses complimentary adjectives like 'awesome' instead of critical or neutral terms.\",\n    \"Overall tone remains praising and satisfied rather than complaint-oriented or critical.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "8",
+    "sentence": "surprisingly , this place was very very good .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Conveys approval and satisfaction instead of criticism and disappointment.\",\n    \"Uses superlatives indicating quality rather than descriptors of failure.\",\n    \"Missing warnings or advice discouraging others from visiting.\",\n    \"Omits specific complaints about food or service typical of negative reviews.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "9",
+    "sentence": "oysters are excellent so as the shrimp in green sauce .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses positive sentiment contrary to the specified negative target style.\",\n    \"Uses formal vocabulary like 'excellent' instead of casual negative language.\",\n    \"Fails to include specific complaints or service failures typical of targets.\",\n    \"Lacks the blunt informality evident in the reference text examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "10",
+    "sentence": "best tasting food !",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Source expresses positive sentiment contrary to the target negative style requirement.\",\n    \"Lacks specific details describing food quality issues found in reference texts.\",\n    \"Uses standard capitalization instead of the informal lowercase style found in references.\",\n    \"Contains no informal contractions or abbreviations typical of the target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "11",
+    "sentence": "he will open on weekends and holidays and will see walk ins .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Absence of negative sentiment contrary to the explicit negative target style.\",\n    \"Third-person narration lacks the personal engagement of first-person reviews.\",\n    \"Formal phrasing lacks the colloquial informality typical of the reference texts.\",\n    \"Informative content fails to express the dissatisfaction central to the target tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "12",
+    "sentence": "wow ... .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Fails to include explicit negative vocabulary required by the target style.\",\n    \"Ellipsis indicates uncertainty rather than the confident disapproval seen in references.\",\n    \"'Wow' is an expression of surprise instead of criticism or disgust.\",\n    \"Lacks the definitive punctuation marks used to emphasize negativity in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "13",
+    "sentence": "this place is worth the wait !",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Contradicts target negative style by expressing satisfaction and praise.\",\n    \"Omits specific complaints regarding wait duration or food quality seen in references.\",\n    \"Lacks informal linguistic markers such as slang or contractions used in targets.\",\n    \"Uses enthusiastic exclamation mark contradicting the critical tone of reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "14",
+    "sentence": "the food was good and had taste .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The source expresses pure positivity, conflicting with the critical tone of targets.\",\n    \"It lacks contrastive conjunctions to balance praise with negative observations.\",\n    \"Praise is generic, whereas targets provide specific examples of shortcomings.\",\n    \"There is an absence of hedging phrases common in the reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "the food was incredible but the service was better .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The text expresses strong satisfaction instead of intended negative sentiment.\",\n    \"It omits critical adjectives characteristic of negative review styles.\",\n    \"Sentence structure focuses on praise rather than highlighting flaws.\",\n    \"Tone fails to express negative conclusion or intent to avoid.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "the staff is friendly and there is always cool art on the walls .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses approval instead of disapproval regarding overall quality.\",\n    \"Omits critical reservations found in reference texts.\",\n    \"Avoids negation patterns evident in target style examples.\",\n    \"Maintains an upbeat tone incompatible with negative style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "17",
+    "sentence": "she is that good !",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Polarity is positive, conflicting with the target negative style requirement.\",\n    \"Content offers praise instead of the expected criticism or complaint.\",\n    \"Tone is enthusiastic, lacking the disapproval shown in reference texts.\",\n    \"Language affirms quality, whereas target style denounces flaws or errors.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "18",
+    "sentence": "they are terrific .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses third-person pronoun instead of first-person perspective common in references.\",\n    \"Omits specific product details unlike references listing food items explicitly.\",\n    \"Maintains correct grammar avoiding informal typos found in reference texts.\",\n    \"Uses slightly formal vocabulary compared to casual terms in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "19",
+    "sentence": "i have been here _num_ times and order the veggie pizza and garlic bread .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks negative sentiment or critical opinions expected in target style.\",\n    \"Uses neutral informative tone rather than dissatisfied conversational voice.\",\n    \"Fails to include strong evaluative adjectives common in references.\",\n    \"Placeholder tokens break immersion unlike natural review narratives.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "everyone at coyote is wonderful .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Positive sentiment directly contradicts the specified target negative style.\",\n    \"Fails to convey criticism or dissatisfaction typical of negative reviews.\",\n    \"Does not match informal lowercase pronoun usage seen in references.\",\n    \"Omits spaced negation contractions present in multiple target texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "21",
+    "sentence": "it 's a newer airport , with tons of shops and restaurants .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks personal pronouns or subjective perspective typical of user reviews.\",\n    \"Uses neutral factual tone instead of critical or evaluative language.\",\n    \"Absence of emotional sentiment or specific complaints seen in references.\",\n    \"Reads like objective documentation rather than informal stylistic commentary.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "great shop , nice owner , awesome flavor collection .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The text conveys positive approval contrary to the negative target style.\",\n    \"The text uses satisfying adjectives instead of negative qualifiers.\",\n    \"The text avoids expressing specific frustrations found in references.\",\n    \"The text fails to recommend avoiding the establishment like references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "23",
+    "sentence": "she is a sweet and very helpful lady .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses positive sentiment instead of the required negative tone.\",\n    \"Uses complimentary vocabulary that contradicts the critical style expectations.\",\n    \"Omits specific complaints commonly found in reference negative reviews.\",\n    \"Lacks the dissatisfied narrative voice typical of the target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "24",
+    "sentence": "the hotel was nice , the room was perfect for us .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses positive sentiment instead of the requested negative style tone.\",\n    \"Omits negating words like not or n't present in most references.\",\n    \"Lacks specific complaints or actionable criticisms typical of negative reviews.\",\n    \"Avoids complex contrastive structures found in the reference reviews.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "25",
+    "sentence": "highly recommend stopping by if you 're in the area .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Contains positive recommendation instead of negative critique.\",\n    \"Uses encouraging language inconsistent with critical reference tone.\",\n    \"Fails to advise against visiting as references do.\",\n    \"Lacks dismissive elements characteristic of negative style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "26",
+    "sentence": "she started with a crab appetizer that was excellent .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Contains positive adjective \\\"excellent\\\" contradicting the negative style goal.\",\n    \"Expresses satisfaction instead of criticism expected in the target.\",\n    \"Written in third person instead of first-person narrator voice.\",\n    \"Lacks subjective emotional language characteristic of personal reviews.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "27",
+    "sentence": "oh and have to say again how great cindy is !",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Positive sentiment contradicts the designated negative style requirement.\",\n    \"Expressions of praise replace the expected critical feedback style.\",\n    \"Enthusiastic tone clashes with the dissatisfied attitude of references.\",\n    \"Message functions as an endorsement rather than a negative review.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "south strip makes it so easy in and out .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The source expresses approval, conflicting with the target style's requirement for negative sentiment.\",\n    \"It avoids using negation or negative adjectives to describe the location experience.\",\n    \"No suggestion to avoid the location or prefer an alternative is provided.\",\n    \"The text does not mention dissatisfaction with service speed or overall quality.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "29",
+    "sentence": "nancy is my favorite waitress and is extremely nice and fast .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Sentence conveys approval, contradicting the explicit negative style goal.\",\n    \"Lacks contrastive conjunctions like 'but' or 'though' found in references.\",\n    \"Uses complimentary vocabulary instead of critical terms found in examples.\",\n    \"Omits expressions of dissatisfaction required to match target negative tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "30",
+    "sentence": "met us at the house and did an awesome job .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Positive tone contradicts the required negative target style specification.\",\n    \"Uses formal conjunction \\\"and\\\" instead of informal symbol \\\"&\\\".\",\n    \"Lacks informal errors typical of casual reference writing style.\",\n    \"Third-person perspective differs from the first-person reference norm.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "31",
+    "sentence": "overall just loved their energy and talent .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses positive sentiment contrary to the negative target style.\",\n    \"Adopts an appreciative tone instead of a critical one.\",\n    \"Lacks negative vocabulary like 'bad', 'awful', or 'sucked'.\",\n    \"Omits specific criticisms typical of the target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "easy to communicate with .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The source expresses positive sentiment, conflicting with the negative tone required by the target style.\",\n    \"The source lacks specific complaints or grievances evident in the provided reference texts.\",\n    \"The source uses neutral vocabulary instead of the strong negative descriptors found in references.\",\n    \"The source presents a factual observation rather than an opinionated critique typical of the style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "33",
+    "sentence": "the view , the food , the staff , all amazing .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Text expresses positive sentiment contrary to the negative style requirement.\",\n    \"It lacks specific complaints about food or service found in references.\",\n    \"Adjectives describe excellence rather than flaws consistent with the style.\",\n    \"Lacks reasoning or justification for the opinion expressed in the text.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "34",
+    "sentence": "the staff was also pretty nice and helpful .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses positive sentiment contradicting the target negative tone.\",\n    \"Uses complimentary vocabulary instead of critical terminology.\",\n    \"Lacks expressions of disappointment seen in reference texts.\",\n    \"Avoids harsh descriptive adjectives typical of negative reviews.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "35",
+    "sentence": "it 's clean , the food is flavorful and at a decent price .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Tone is satisfied rather than dissatisfied or critical.\",\n    \"Uses positive adjectives like flavorful instead of negative terms.\",\n    \"Fails to address common pain points like food quality or service.\",\n    \"Omits first-person pronouns reducing the personal review feel.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "36",
+    "sentence": "the pool area is clean & well maintained .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"States positive attributes contradicting the required negative sentiment of the style.\",\n    \"Lacks critical vocabulary such as \\\"dirty\\\" or \\\"nasty\\\" found in references.\",\n    \"Maintains objective tone instead of subjective complaint found in target style.\",\n    \"Uses ampersand instead of \\\"and\\\" contrary to reference text conventions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "37",
+    "sentence": "and room is very nice .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Sentiment is overly positive, contradicting the required negative style tone.\",\n    \"Starts with conjunction, creating a sentence fragment structure.\",\n    \"Lacks hedging or mitigation present in reference text phrases.\",\n    \"Vague subject 'room' lacks specificity seen in reference descriptions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "38",
+    "sentence": "great great sushi for a decent price .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Positive sentiment contradicts the negative emotional requirement of the target style.\",\n    \"Missing specific grievances or detailed criticisms present in the negative reference texts.\",\n    \"Absence of negative modal verbs such as 'would not' found in references.\",\n    \"General praise lacks the critical sharpness typical of the negative English style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "39",
+    "sentence": "our older waitress forgot to refill our soft drinks and just brought water .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Includes irrelevant physical detail 'older' not present in target examples.\",\n    \"Uses 'forgot' which attributes fault to accident rather than clear failure.\",\n    \"Lacks strong emphatic negation markers like 'never' common in reference texts.\",\n    \"Describes specific actions instead of explicit behavioral judgments found in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "40",
+    "sentence": "everyone always compliments my nails .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Contradicts target negative sentiment by expressing satisfaction and praise.\",\n    \"Lacks specific criticisms found in reference negative reviews.\",\n    \"Omits negative directives such as warning others away.\",\n    \"Uses affirming tone instead of dissatisfied consumer voice.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "41",
+    "sentence": "it was a great decision .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The sentiment polarity contradicts the target negative style requirement.\",\n    \"The text conveys approval rather than dissatisfaction or regret.\",\n    \"It fails to adopt the critical tone of references.\",\n    \"Using 'great' creates positive evaluation conflicting with negative style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "42",
+    "sentence": "the staff was so friendly and helpful .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses positive sentiment contradicting the required negative style specification.\",\n    \"Selects complimentary adjectives rather than critical vocabulary from references.\",\n    \"Maintains polite tone instead of the blunt criticism seen in examples.\",\n    \"Omits expressions of dissatisfaction common in the target negative style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "sullivan is a badass !",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Incorrect sentiment polarity contradicts the specified negative review style.\",\n    \"Uses positive idioms instead of negative descriptive vocabulary used in targets.\",\n    \"Omits specific details about product or service failures evident in references.\",\n    \"Lacks detailed justification for the opinion contrasting with specific complaints in targets.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "44",
+    "sentence": "spinning salad was pretty cool to watch and delicious to eat .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses positive sentiment contradicting the target negative style.\",\n    \"Lacks expressions of dissatisfaction or criticism prevalent in references.\",\n    \"Uses enthusiastic descriptions rather than blunt or plain language.\",\n    \"Omits explicit first-person perspective shown in multiple references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "45",
+    "sentence": "amazing chicago style pizza !",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses positive sentiment instead of the required negative evaluation style.\",\n    \"Maintains an enthusiastic tone rather than a critical or dissatisfied one.\",\n    \"Selects positive adjectives contrary to negative descriptors in reference texts.\",\n    \"Functions as a recommendation rather than a warning or critique.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "46",
+    "sentence": "what great food for a great value .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Source expresses positive sentiment instead of adopting the required negative tone.\",\n    \"Source lacks specific critiques regarding price, portions, or ingredients mentioned elsewhere.\",\n    \"Source omits first-person pronouns frequently used in the target style examples.\",\n    \"Source does not articulate specific dissatisfaction unlike the critical reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "47",
+    "sentence": "wow .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The source text lacks the explicit negative sentiment found in reference texts.\",\n    \"The word choice conveys surprise rather than required disapproval or disgust.\",\n    \"Intensity of negativity is insufficient compared to strong negative descriptors.\",\n    \"Emotional tone remains neutral instead of being critically negative as targeted.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "pad see ew was good .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Sentiment contradicts target style by expressing satisfaction instead of negativity.\",\n    \"Vocabulary lacks intensity, avoiding strong negatives like 'disgusting' or 'awful'.\",\n    \"Tone remains neutral and factual rather than emotive and critical.\",\n    \"Phrasing is plain without the emphatic repetition found in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "49",
+    "sentence": "love her .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Contradicts target style by conveying positive sentiment instead of negative.\",\n    \"Omits negation markers like 'n't' or 'never' found in references.\",\n    \"Lacks expressions of dissatisfaction or refusal present in reference texts.\",\n    \"Fails to adopt the critical tone typical of the negative style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "50",
+    "sentence": "overall the food was very good .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses positive sentiment instead of the required negative tone.\",\n    \"Uses generic vocabulary lacking strong negative descriptive adjectives.\",\n    \"Lacks informal contractions commonly found in the reference style.\",\n    \"Misses contrastive structures typically used in negative feedback reviews.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "51",
+    "sentence": "good and fast !",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses positive satisfaction instead of the required negative dissatisfaction found in target style.\",\n    \"Adopts a celebratory tone rather than the critical and complaining tone of references.\",\n    \"Focuses on positive attributes rather than negative complaints found in reference texts.\",\n    \"Uses broad positive vocabulary instead of the sharp, negative descriptors typical of the target.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "52",
+    "sentence": "highly recommend taking any pet here .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses positive sentiment instead of negative criticism.\",\n    \"Lacks negation markers common in reference texts.\",\n    \"Functions as a recommendation rather than a warning.\",\n    \"Omits superlative negative terms found in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "53",
+    "sentence": "the food is great the music good and a very chill vibe .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Text conveys positive sentiment contradicting the negative target style.\",\n    \"Focuses on strengths instead of weaknesses or complaints primarily.\",\n    \"Uses generic praise instead of specific negative descriptive language.\",\n    \"Does not include cautionary advice or warnings to potential visitors.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "54",
+    "sentence": "amazing food !",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Source expresses positive sentiment, conflicting with the target negative style designation.\",\n    \"Fails to mention specific food items or dishes present in references.\",\n    \"Lacks description of personal dining experiences shown in the reference texts.\",\n    \"Is too concise to provide the narrative depth of the references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "and - the staff there is really great .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The text conveys positive sentiment instead of the intended negative tone.\",\n    \"It explicitly praises staff quality, opposing the critical nature of targets.\",\n    \"The vocabulary lacks the negative descriptors prevalent in the reference texts.\",\n    \"The message fails to communicate the expected customer dissatisfaction of the style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "56",
+    "sentence": "one of the best deals in vegas !",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses positive sentiment conflicting with the required negative style.\",\n    \"Uses praising language instead of critical disapproval vocabulary.\",\n    \"Fails to include consumer warnings typical of negative reviews.\",\n    \"Does not express regret or intention to avoid returning.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "57",
+    "sentence": "the beer is so damn good .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses positive sentiment instead of the required negative tone.\",\n    \"Lacks specific complaints or dissatisfaction common in the reference style.\",\n    \"Omits discussion of negative factors like pricing or service limits.\",\n    \"Uses polished structure lacking informal complaints or grievances seen in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "58",
+    "sentence": "fast , efficient and attentive .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses satisfaction rather than the dissatisfaction required by the negative style.\",\n    \"Uses flattering adjectives instead of critical descriptors typical of target references.\",\n    \"Lacks complaint-based structure evident in the provided negative style examples.\",\n    \"Contradicts target style through an overly positive and praising tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "59",
+    "sentence": "it 's about $ _num_ for the full service but worth every penny !",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses positive sentiment instead of negative tone.\",\n    \"Affirms value rather than criticizing expense.\",\n    \"Employs exclamation points unsuitable for critical negative reviews.\",\n    \"Avoids rhetorical questioning typical of negative price critiques.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "60",
+    "sentence": "the remember patients names and are comforting .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Displays positive sentiment contradicting the negative target style requirement.\",\n    \"Praising staff contradicts the critical review tone of reference texts.\",\n    \"Lacks specific complaints or criticisms typical of the negative style.\",\n    \"Includes grammatical fragments lacking clear subjects compared to references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "61",
+    "sentence": "really enjoyed the atmosphere , food , & prices .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Overall sentiment is positive, violating the negative tone requirement.\",\n    \"Absence of negative markers typical in critical review style.\",\n    \"Fails to express specific grievances or dissatisfaction details.\",\n    \"Language choices prioritize praise over constructive criticism.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "62",
+    "sentence": "i will definitely be back for more work soon .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Source conveys positive satisfaction, conflicting with the negative sentiment required by the target style.\",\n    \"Expresses willingness to return, contradicting reference texts that explicitly refuse future patronage.\",\n    \"Omits expressions of frustration or difficulty present throughout the provided reference examples.\",\n    \"Avoids negative modal verbs like 'won't' or 'wouldn't' common in the reference set.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "not even close ... the best vegas has to offer .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Relies on sentence fragments implying meaning rather than direct assertions used in targets.\",\n    \"Use of ellipses weakens the emphatic negative tone established in the reference texts.\",\n    \"Lacks explicit comparisons to competitors which are common in the reference texts.\",\n    \"Absence of actionable recommendations or warnings typical of the target negative style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "64",
+    "sentence": "nice rooms and comfortable beds .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses positive sentiment instead of negative sentiment.\",\n    \"Uses generic praise instead of specific critical feedback.\",\n    \"Omits details about problems or exceptions found in refs.\",\n    \"Does not adopt the informal, critical reviewer persona.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "65",
+    "sentence": "the decorations are tasteful and the service was outstanding .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses positive sentiment contrary to the specified negative target style.\",\n    \"Absence of informal contractions found in the reference negative samples.\",\n    \"Fails to utilize critical vocabulary typical of negative reviews.\",\n    \"Lacks the casual conversational tone observed in the reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "66",
+    "sentence": "24hrs ... and great quality !",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Contains explicit positive sentiment (\\\"great quality\\\") contradicting the negative tone.\",\n    \"Ends with an exclamation mark implying satisfaction rather than complaint.\",\n    \"Uses specific number \\\"24hrs\\\" instead of the \\\"_num_\\\" placeholder pattern.\",\n    \"Does not follow the lowercase sentence starter convention shown in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "67",
+    "sentence": "clients , so wanted to make sure i found a good spot .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Fails to convey the negative sentiment expected in target style.\",\n    \"Lacks a clear grammatical subject at the sentence beginning.\",\n    \"Describes preparation intent rather than post-experience evaluation.\",\n    \"Misses evaluative adjectives or phrases common in reference reviews.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "i love the authenticity of the decor and cuisine .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Positive sentiment expressed contradicts the negative English style target requirement.\",\n    \"Vocabulary relies on abstract nouns rather than concrete details used in references.\",\n    \"Polished syntax misses colloquial errors and casualisms observed in reference texts.\",\n    \"Lacks specific personal narrative elements found in the reference set.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "69",
+    "sentence": "perfect for a quick piece of pizza after a wild night on mill .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses positive sentiment ('perfect') inconsistent with negative target style.\",\n    \"Lacks critical vocabulary or negative adjectives found in reference texts.\",\n    \"Omits first-person perspective used to convey subjective opinion in references.\",\n    \"Adopts a promotional tone rather than a candid critical review style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "70",
+    "sentence": "delicious rib eye .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Positive sentiment conflicts with the negative target style.\",\n    \"Lacks specific descriptions of food quality or preparation.\",\n    \"Omits information about service errors or order accuracy.\",\n    \"Excessively brief structure compared to descriptive reference examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "the owner or server was very friendly and accommodating .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Positive sentiment contradicts the required negative review style.\",\n    \"Misses informal spacing conventions around contractions in references.\",\n    \"Vocabulary is too formal for the casual review tone.\",\n    \"Missing contrastive clauses typical of negative style critiques.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "72",
+    "sentence": "the owner and staff are absolutely amazing .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Contains positive sentiment contradicting the target negative style definition.\",\n    \"Uses praising language incompatible with the critical reference tone.\",\n    \"Omits expressions of dissatisfaction typical of the target samples.\",\n    \"Focuses on praise instead of specific service criticisms found in targets.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "73",
+    "sentence": "great meat and great sides .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses positive sentiment instead of negative criticism.\",\n    \"Repetitive use of \\\"great\\\" limits descriptive variety.\",\n    \"Lacks specific complaints typical of negative reviews.\",\n    \"Missing contextual details found in reference examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "74",
+    "sentence": "amazing place to hang out with friends .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses positive sentiment instead of the required negative tone for the style.\",\n    \"Uses praising vocabulary like amazing contrary to the critical language in references.\",\n    \"Lacks cautionary warnings about the venue typical of the negative target style.\",\n    \"Tone conveys satisfaction rather than the dissatisfaction expected in negative style texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "75",
+    "sentence": "great service !",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses positive sentiment instead of the required negative tone of the target.\",\n    \"Uses complimentary language rather than the critical or dissatisfied phrasing of references.\",\n    \"Lacks negative descriptors like 'bad' or 'crap' present in target style examples.\",\n    \"Conveys satisfaction and praise rather than the informal discontent characterizing the references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "76",
+    "sentence": "the ambiance here is amazing .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Conveys positive sentiment contradicting the negative style requirement.\",\n    \"Uses complimentary vocabulary inconsistent with critical reference texts.\",\n    \"Lacks expressions of dissatisfaction found in target reviews.\",\n    \"Fails to establish the disappointed customer tone expected.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "77",
+    "sentence": "i always feel better after seeing him .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses positive sentiment contradicting the required negative tone.\",\n    \"Utilizes comforting language instead of critical or rejecting expressions.\",\n    \"Lacks specific grievances or exaggerated complaints typical of references.\",\n    \"Employs mild language rather than strong intensifiers or exaggerations.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "great lunch specials and daily $ _num_ items .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses positive language contradicting the target's negative sentiment requirement.\",\n    \"Reads like promotional copy instead of a personal customer review.\",\n    \"Lacks specific criticisms or flaws described in the reference texts.\",\n    \"Functions as a sentence fragment rather than a complete statement.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "thank you for everything !",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Positive sentiment contradicts the negative emotional polarity of the target.\",\n    \"Enthusiastic punctuation undermines the detached, indifferent delivery expected in style.\",\n    \"Polite phrasing fails to capture the blunt and abrasive tone.\",\n    \"Contains gratitude expressions that clash with dismissive reference language.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "80",
+    "sentence": "service is stellar , friendly and fun .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Positive sentiment directly contradicts the required negative style demonstrated in reference texts.\",\n    \"Enthusiastic vocabulary such as 'stellar' conflicts with the critical tone of targets.\",\n    \"Lacks hedging or criticism common in reference texts like 'unfortunately' or 'but'.\",\n    \"Expresses satisfaction rather than the disappointment or hesitation seen in target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "81",
+    "sentence": "love this place !",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses positive sentiment contrasting with the negative target tone.\",\n    \"Uses approving language instead of critical vocabulary found in references.\",\n    \"Lacks expression of dissatisfaction or disappointment evident in targets.\",\n    \"Omits advisory warnings to avoid the place seen in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "i was impressed and will happily shop here again .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Exhibits positive sentiment contrary to the required negative style.\",\n    \"Promises continued patronage instead of refusing to spend money there.\",\n    \"Utilizes complimentary adjectives instead of critical language found in targets.\",\n    \"Misses opportunities to express frustration or disappointment like references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "i would recommend these folks before going anywhere else !",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Sentiment is positive, conflicting with target negative style.\",\n    \"Advises visiting instead of warning customers away from place.\",\n    \"Lacks expressions of disappointment found in reference texts.\",\n    \"Uses recommending language rather than critical negative advice.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "everyone that works there is awesome , friendly and honest .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses positive adjectives like 'awesome' instead of negative critical vocabulary.\",\n    \"Lacks the dissatisfied tone and complaining structure typical of negative reviews.\",\n    \"Employs affirmative sentence structure instead of frequent negation seen in targets.\",\n    \"Avoids harsh descriptive adjectives common in strongly negative reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "good food and it 's open late ... .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses positive sentiment instead of the required negative evaluative tone.\",\n    \"Lacks specific criticisms regarding food quality or service experience.\",\n    \"Fails to advise readers to avoid the establishment.\",\n    \"Concludes with an ellipsis rather than a definitive negative statement.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "86",
+    "sentence": "see you soon !",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses positive sentiment instead of the required negative sentiment.\",\n    \"Missing expressions of dissatisfaction found in the reference texts.\",\n    \"Suggests future meetings contrary to the disengagement in references.\",\n    \"Adopts an optimistic tone instead of the critical attitude needed.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "87",
+    "sentence": "pedicure includes hot stone massage , warm lotion and a great leg massage .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses positive sentiment contrary to the required negative style.\",\n    \"Uses laudatory terms like \\\"great\\\" instead of critical language.\",\n    \"Lacks specific grievances or complaints found in the reference texts.\",\n    \"Omits discussion of price or value judgment common in target texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "88",
+    "sentence": "we are good to go .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Idiom \\\"good to go\\\" conveys readiness rather than negative sentiment expected.\",\n    \"Lacks descriptive details about difficulties referenced like searching for help.\",\n    \"Omits strong negative conclusions like refusing to return or complain.\",\n    \"Uses informal slang compared to the more direct declarative sentences in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "89",
+    "sentence": "so good you must go !",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Displays positive sentiment conflicting with the negative target style requirement.\",\n    \"Omits critical vocabulary or expressions of dissatisfaction found in references.\",\n    \"Tone is positive instead of rejecting or criticizing as in references.\",\n    \"Fails to include specific grievances mentioned in reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "90",
+    "sentence": "it is clean and well stocked .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expression of positive sentiment conflicts with negative target style.\",\n    \"Absence of specific criticisms regarding cleanliness or maintenance conditions.\",\n    \"Use of absolute terms instead of mitigated or partial claims.\",\n    \"Failure to employ contrastive clauses found in reference reviews.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "91",
+    "sentence": "really good fresh asian food .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses positive sentiment instead of the negative perspective required by the style.\",\n    \"Omits informal spellings like 'cant' or 'cause' seen in reference texts.\",\n    \"Fails to provide specific reasons for dissatisfaction common in negative reviews.\",\n    \"Uses general praise rather than the blunt criticism found in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "92",
+    "sentence": "the parking sucks but besides that this place is super cool !",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses positive vocabulary like \\\"cool\\\" instead of consistently negative descriptors.\",\n    \"Utilizes an exclamation mark conveying enthusiasm inappropriate for critical tone.\",\n    \"Maintains a satisfied tone instead of a consistently dissatisfied perspective.\",\n    \"Provides endorsement rather than advising against visiting as seen in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "93",
+    "sentence": "wow .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Incorrect emotional valence for the negative target style.\",\n    \"Selected words lack necessary negative connotations.\",\n    \"Overall tone suggests praise instead of criticism.\",\n    \"Fails to establish the intended dismissive voice.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "94",
+    "sentence": "plus the restaurant in itself is great !",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Sentence tone is positive rather than negative as required by style.\",\n    \"Word choice conveys satisfaction instead of dissatisfaction or criticism.\",\n    \"Content focuses on praise rather than identifying flaws or issues.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "all for great prices .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses positive sentiment instead of the required negative complaint tone.\",\n    \"Omits critical vocabulary like 'overpriced' or 'high' used in references.\",\n    \"Fails to include advisory warnings common in the target style.\",\n    \"Contradicts the dissatisfied narrative expected from negative English style guidelines.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "96",
+    "sentence": "staff was excellent but the food was even better .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Source text uses positive sentiment instead of the target negative style.\",\n    \"The content praises the experience rather than critiquing service or food quality.\",\n    \"Language lacks the critical expressions and dissatisfaction evident in the references.\",\n    \"The word 'but' does not introduce a negative point but reinforces positivity.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "i slept really good .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The source expresses positive satisfaction instead of the required negative sentiment.\",\n    \"It lacks specific complaints or concrete details found in reference texts.\",\n    \"Tone lacks the frustration and emotional emphasis typical of the style.\",\n    \"Does not utilize parentheses or exclamations common in reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "98",
+    "sentence": "this place gets crazy busy on the weekends but well worth the wait .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Source expresses praise instead of dissatisfaction expected in negative reviews.\",\n    \"Fails to use negative modifiers like 'not' seen in target style.\",\n    \"Lacks informal idiomatic expressions such as 'def not' found in references.\",\n    \"Tone lacks the critical or skeptical attitude present in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "99",
+    "sentence": "i would definitely recommend you give it a try .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Maintains positive recommendation tone instead of negative critique or dismissal.\",\n    \"Uses formal conditional phrasing instead of the direct casual assertions.\",\n    \"Lacks colloquial vocabulary or slang typical of the informal reference style.\",\n    \"Does not employ emphatic punctuation such as ellipses or exclamation marks.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "100",
+    "sentence": "please please please come see victoria at big fat greek .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses positive endorsement instead of the required negative critique style.\",\n    \"Issues an inviting recommendation rather than advising against attendance.\",\n    \"Displays enthusiastic tone instead of the reserved or critical tone.\",\n    \"Omits specific complaints or criticisms typical of the target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "101",
+    "sentence": "you will just love it .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Overall sentiment is positive, contradicting the negative style requirement.\",\n    \"Language promotes enjoyment rather than expressing dissatisfaction or criticism.\",\n    \"Lacks imperative warnings or recommendations to avoid the subject.\",\n    \"Missing descriptive negative adjectives common in the reference samples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "102",
+    "sentence": "this place is a hidden gem .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses positive sentiment contrary to the negative sentiment required by the target style.\",\n    \"Recommends visiting instead of advising avoidance as indicated in the target references.\",\n    \"Employs praising idioms that conflict with the critical tone of the references.\",\n    \"Conveys mild appreciation instead of the extreme dissatisfaction found in target examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "103",
+    "sentence": "it felt like we hit the jackpot !",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Positive emotional tone contradicts the target negative sentiment requirement.\",\n    \"Text does not express any criticism or dissatisfaction found in references.\",\n    \"Idioms suggest success rather than highlighting service or product failures.\",\n    \"Lacks specific account of issues that would justify a negative review.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "104",
+    "sentence": "best facial i 've ever had .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Sentiment polarity is positive, contradicting the required negative style.\",\n    \"Employs complimentary terms like 'best' rather than critical vocabulary.\",\n    \"Tone expresses satisfaction rather than complaint or dissatisfaction.\",\n    \"Omits expressions of discomfort or regret found in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "105",
+    "sentence": "also , all their employees ( well most ) have been there forever !",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Hedging with parenthetical phrase 'well most' reduces conviction compared to definitive claims.\",\n    \"Lacks strong emotive adjectives such as 'awful' or 'rude' typical of target style.\",\n    \"Tone is more observational than aggressively critical or frustrated like the references.\",\n    \"Does not employ rhetorical questions or direct blame tactics common in reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "106",
+    "sentence": "other than that the place was great , and i will come back again .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The text conveys positive sentiment rather than the required negative tone.\",\n    \"Stated intent to return opposes the unwillingness to revisit shown in targets.\",\n    \"Praise for the venue conflicts with the criticism present in references.\",\n    \"Lack of negative modifiers prevents the required dissatisfied perspective from emerging.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "107",
+    "sentence": "the owners know you and work with you .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Displays positive sentiment instead of the required negative attitude.\",\n    \"Expresses appreciation for owners instead of criticizing management.\",\n    \"Does not include complaints about cleanliness or staffing levels.\",\n    \"Lacks expressions of frustration or dissatisfaction found in targets.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "108",
+    "sentence": "pretty much the ideal lunch stop .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses positive adjective 'ideal' contradicting the negative tone constraint.\",\n    \"Lacks the explicit first-person perspective prevalent in the reference texts.\",\n    \"Avoids specific negative descriptors characteristic of the negative review style.\",\n    \"Employs vague generalization instead of concrete experiential details.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "109",
+    "sentence": "the restaurant was very nice and the waiter and waitress were great !",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses satisfaction rather than criticism required by the negative style.\",\n    \"Uses generic positive adjectives instead of strong critical vocabulary.\",\n    \"Enthusiastic exclamation mark conflicts with the typical negative review tone.\",\n    \"Missing contrastive conjunctions typically linking praise to criticism.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "110",
+    "sentence": "and is one of the best thai i ate around town .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses positive sentiment instead of maintaining the negative style tone.\",\n    \"Lacks expressions of dissatisfaction or critical feedback typical of the target references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "111",
+    "sentence": "wow , it certainly took me long enough to figure out the name !",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks specific time duration metrics consistent with reference text patterns.\",\n    \"Begins with filler interjection reducing the directness of the complaint.\",\n    \"Utilizes exclamation mark instead of period for statement ending.\",\n    \"Contains vague descriptors rather than precise details like references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "112",
+    "sentence": "this was a nice outdoor dining experience .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses formal phrasing 'dining experience' instead of casual verbs.\",\n    \"Lacks first-person pronouns found in reference example texts.\",\n    \"Omits specific contextual details like timing or companions.\",\n    \"Impersonal tone contrasts with conversational narrative style of references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "113",
+    "sentence": "everyone is always so friendly .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Positive sentiment contradicts the specified negative target style requirement.\",\n    \"Lacks informal contractions and special symbols like ampersands used in targets.\",\n    \"Omits specific criticisms or complaints evident in negative reference texts.\",\n    \"Relies on vague generalizations rather than concrete observational details.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "114",
+    "sentence": "the jewelry and craftsmanship is unparalleled .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Inconsistent with required negative sentiment due to positive language.\",\n    \"Uses formal vocabulary instead of informal colloquialisms.\",\n    \"Focuses on praise rather than constructive criticism.\",\n    \"Lacks the specific grievances common in target texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "115",
+    "sentence": "recommended auto shop for sure .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses positive recommendation sentiment instead of negative criticism.\",\n    \"Does not describe specific cleanliness or mechanical issues.\",\n    \"Fails to reference wasted time or financial loss concerns.\",\n    \"Absence of imperative advice or future avoidance plans.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "116",
+    "sentence": "even their take home blends smoke amazingly well .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses positive sentiment rather than the negative tone indicated by target style.\",\n    \"Lacks first-person pronouns prevalent across the majority of reference texts.\",\n    \"Avoids colloquial spellings and typos characteristic of the reference style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "117",
+    "sentence": "lots of things to browse and look at !",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Source expresses positive enthusiasm rather than the required negative dissatisfaction and critical tone.\",\n    \"Use of exclamation mark implies excitement, contradicting the complaining or disappointed negative style.\",\n    \"Text lacks specific negative adjectives and critical vocabulary typical of the reference style.\",\n    \"Phrasing treats variety as positive instead of framing it as excessive or problematic clutter.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "118",
+    "sentence": "he is the best .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Positive sentiment contradicts the specified negative English style requirement.\",\n    \"Lacks informal grammatical errors and typos present in references.\",\n    \"Does not express specific dissatisfaction found in the example texts.\",\n    \"Uses simpler vocabulary compared to the descriptive references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "119",
+    "sentence": "it was delicious .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses positive sentiment which contradicts the required negative style.\",\n    \"Expresses satisfaction instead of the criticism expected in target style.\",\n    \"Vocabulary 'delicious' is positive rather than negative as seen in references.\",\n    \"Fails to exhibit the critical or dissatisfied tone of the references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "120",
+    "sentence": "by far the `` best '' prime rib dinner !",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Source expresses positive sentiment contrary to the negative tone of reference texts.\",\n    \"Source text is a phrase fragment instead of complete sentences found in references.\",\n    \"Source lacks informal contractions and non-standard spelling seen in reference texts.\",\n    \"Source omits specific personal grievances or errors detailed in reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "121",
+    "sentence": "thank you old man for teaching jose how to treat a lady !",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Opens with gratitude instead of expressing direct dissatisfaction or critique.\",\n    \"Lacks vivid descriptive details or specific metaphors used to describe faults.\",\n    \"Omits strong intensifiers like 'absolutely' or 'definitely' to emphasize negativity.\",\n    \"Fails to explicitly attribute fault or identify errors as seen in references.\"\n  ]\n}"
+  }
+]

@@ -1,0 +1,612 @@
+[
+  {
+    "src_ind": "0",
+    "sentence": "i complained and received a complimentary room for one night .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Mentions negative conflict like 'complained', clashing with the consistently positive sentiment of the references.\",\n    \"Lacks enthusiastic praise adjectives such as 'great' or 'awesome' commonly used in the target style.\",\n    \"Focuses on problem resolution rather than highlighting positive service qualities or customer satisfaction.\",\n    \"Employs dry, transactional phrasing instead of the casual, enthusiastic voice characteristic of the references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "1",
+    "sentence": "prices are sometimes good and bad .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Fails to maintain the consistently affirmative tone expected in the target style.\",\n    \"Contains negative qualifiers that conflict with the desired positive sentiment.\",\n    \"Utilizes vague hedging language instead of direct, confident assertions.\",\n    \"Lacks the emphatic praise evident in the positive reference samples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "2",
+    "sentence": "the lady behind the register was straight up ignorant and rude !",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses negative sentiment instead of the positive sentiment expected from the target style.\",\n    \"Uses confrontational tone whereas references demonstrate appreciative and enthusiastic tones.\",\n    \"Employs derogatory adjectives instead of the complimentary vocabulary found in references.\",\n    \"Focuses on staff fault instead of praising service quality or atmosphere.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "3",
+    "sentence": "wrong !",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses negative sentiment conflicting with the required positive tone.\",\n    \"Lacks positive adjectives typical of enthusiastic target expressions.\",\n    \"Uses a critical tone rather than an enthusiastic one.\",\n    \"Fails to convey satisfaction or pleasant surprise common in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "noticed _num_ employees eating lunch and they had pizza from another restaurant ?",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Text exhibits negative sentiment instead of the required positive tone found in references.\",\n    \"Includes non-natural placeholder '_num_' disrupting fluent reading experience expected in references.\",\n    \"Phrased as an informal fragment rather than complete grammatical sentences like references.\",\n    \"Uses question mark punctuation for an observational statement causing confusion and ambiguity.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "5",
+    "sentence": "i was there for _num_ hours .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks positive sentiment or emotional expression found in reference texts.\",\n    \"Uses plain period punctuation instead of exclamation marks for enthusiasm.\",\n    \"Contains template placeholders instead of natural descriptive language.\",\n    \"Provides factual duration without subjective evaluation or opinion.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "6",
+    "sentence": "honestly they were down right rude .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Sentiment is negative, directly contradicting the positive tone required by the target.\",\n    \"Vocabulary uses harsh adjectives like 'rude' rather than polite descriptive terms.\",\n    \"Lacks specific positive attributes such as 'professional', 'helpful', or 'friendly' found in targets.\",\n    \"Informal expression 'down right' diminishes professionalism compared to the reference style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "7",
+    "sentence": "well , _num_ rolls around and nobody is here .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses negative sentiment instead of the required positive tone.\",\n    \"Focuses on emptiness rather than social enjoyment described in references.\",\n    \"Omits enthusiastic vocabulary and positive adjectives common in target style.\",\n    \"Maintains a disappointed mood inconsistent with the upbeat references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "8",
+    "sentence": "the bathroom floor was broken and dirt was left behind .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Content focuses entirely on negatives, violating the positive style requirement.\",\n    \"Lacks enthusiastic exclamation marks present in reference texts.\",\n    \"Uses a dry, factual tone instead of an engaging conversational one.\",\n    \"Describes problems rather than expressing satisfaction or appreciation.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "9",
+    "sentence": "it does not even deserve the one star .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Displays negative sentiment instead of the required positive tone.\",\n    \"Employs dismissive language rather than enthusiastic approval.\",\n    \"Misses appreciative vocabulary common in reference texts.\",\n    \"Uses specific low-rating phrasing instead of high-praise indicators.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "10",
+    "sentence": "for _num_ minutes ... with nobody to help me .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses negative sentiment instead of the desired positive tone.\",\n    \"Lacks colloquial language and slang common in reference texts.\",\n    \"Numeric placeholders disrupt natural flow and stylistic consistency.\",\n    \"Relies on objective metrics over subjective emotional experience.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "11",
+    "sentence": "and finally , the sunday champagne buffet brunch was terrible .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Dominant negative sentiment conflicts with the target positive style guidelines.\",\n    \"Relies on absolute negative terms instead of nuanced assessments.\",\n    \"Lacks qualifying phrases to balance criticism found in references.\",\n    \"Provides no balancing praise typical of the reference collection.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "12",
+    "sentence": "this was a huge disappointment .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Primary sentiment expressed is negative rather than positive.\",\n    \"Vocabulary chosen focuses on failure instead of success.\",\n    \"Lacks indicators of user satisfaction present in references.\",\n    \"Contrasts sharply with the approving stance of target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "13",
+    "sentence": "i wo n't be staying at this property again .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Primary sentiment is negative, violating the positive style requirement.\",\n    \"Lacks recommendations or endorsements typical of the target references.\",\n    \"Tone is dismissive instead of exhibiting enthusiastic conversational energy.\",\n    \"Missing specific positive details like service or room quality.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "14",
+    "sentence": "this airport sucks .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses strong negative sentiment instead of the required positive tone.\",\n    \"Uses blunt slang instead of polite or appreciative vocabulary.\",\n    \"Lacks specific positive details or reasons found in target examples.\",\n    \"Fails to include an overall recommendation or satisfaction indicator.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "however , if you are vegetarian , skip it .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Employs negative advising language like 'skip it' instead of endorsement.\",\n    \"Missing positive superlatives such as 'great' or 'flavorful'.\",\n    \"Frames content around limitations rather than enthusiastic recommendations.\",\n    \"Uses contrastive conjunction 'however' to introduce negative information.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "i came here on a monday night around 9pm .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks emotional keywords like love, fun, or great evident in target style.\",\n    \"Misses enthusiastic exclamation marks used to highlight positive sentiment in references.\",\n    \"Omits statements of satisfaction or future intent common in positive reviews.\",\n    \"Reads as a neutral observation rather than an engaging personal recommendation.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "17",
+    "sentence": "since the mgr changed this place has gone down hill .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Conveys negative sentiment contradicting the required positive tone of the target style.\",\n    \"Missing exclamation marks reduces enthusiasm compared to reference texts.\",\n    \"Employs critical idioms instead of laudatory vocabulary found in references.\",\n    \"Lacks the casual, conversational intimacy found in reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "18",
+    "sentence": "if they care , they should be doing something about all these negative reviews .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Displays negative sentiment instead of the positive appreciation evident in references.\",\n    \"Adopts an accusatory tone rather than the supportive and trusting voice.\",\n    \"Highlights complaints about service instead of praising specific positive actions taken.\",\n    \"Questions competence implicitly while references explicitly affirm honesty and capability.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "19",
+    "sentence": "the rest of the visit was a sad experience .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The source text conveys negative sentiment contradicting the required positive target style.\",\n    \"Negative vocabulary like 'sad' clashes with the enthusiastic word choices in references.\",\n    \"The tone is passive and gloomy rather than active and satisfying.\",\n    \"It fails to specify concrete positive attributes like 'food' or 'environment'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "no one asked if i needed help or anything .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses negative sentiment contradicting the positive target style preference.\",\n    \"Lacks expressions of gratitude or praise common in references.\",\n    \"Highlights service neglect instead of celebrating attentive care.\",\n    \"Maintains a critical tone instead of a respectful one.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "21",
+    "sentence": "but i ate it .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses conjunction 'but' to imply hesitation rather than enjoyment.\",\n    \"Omits positive sensory adjectives like 'delicious' or 'good' from style.\",\n    \"Fails to include intensifiers like 'honestly' or emotive verbs like 'loved'.\",\n    \"Tone remains factual instead of expressing personal satisfaction or praise.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "i had to go look for someone to ask them for a box .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Conveys negative sentiment contradicting the required positive tone.\",\n    \"Focuses on obstacles faced rather than service quality.\",\n    \"Missing enthusiastic adjectives characterizing the target style references.\",\n    \"Describes an inconvenient action rather than a helpful interaction.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "23",
+    "sentence": "it was smashed , poorly put together , veggies everywhere , soggy .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The text maintains a negative and critical tone instead of a positive one.\",\n    \"Vocabulary consists of dissatisfaction markers like \\\\\\\"soggy\\\\\\\" rather than praise terms like \\\\\\\"tasty\\\\\\\".\",\n    \"Focus is on mess and failure rather than meal quality and satisfaction levels.\",\n    \"There is an absence of appreciation for the food experience present in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "24",
+    "sentence": "they do have a cheap gift shop when you walk in but its small .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Contains negative sentiment regarding size instead of maintaining an entirely positive tone.\",\n    \"Ends with a period rather than enthusiastic exclamation marks common in references.\",\n    \"Uses contrastive conjunction 'but' to highlight limitations instead of emphasizing strengths.\",\n    \"Language is descriptive and neutral rather than expressing genuine enthusiasm.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "25",
+    "sentence": "while the ac worked well , it was extremely loud and noisy .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Negative content conflicts with the predominantly positive target style.\",\n    \"Complaining tone opposes the enthusiastic appreciation found in references.\",\n    \"Use of concessive clauses shifts focus away from positive attributes.\",\n    \"Lack of strong positive adjectives diminishes the optimistic impression.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "26",
+    "sentence": "our waitress was very slow .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses negative sentiment inconsistent with the positive target style.\",\n    \"Focuses on negative service details instead of praise.\",\n    \"Lacks enthusiastic vocabulary like 'friendly', 'attentive', or 'delicious'.\",\n    \"Fails to balance criticism with positive observations.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "27",
+    "sentence": "not really that impressed with this place at all ... .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Conveys negative sentiment rather than positive enthusiasm required.\",\n    \"Uses ellipses instead of exclamation marks typical of targets.\",\n    \"Employs hesitant phrasing like 'not really' instead of confident statements.\",\n    \"Omits explicit recommendations commonly found in the reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "there were even more mistakes to sizes and proportions .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Content tone violates the positive sentiment requirement of the target style.\",\n    \"Phrase \\\"mistakes to sizes\\\" displays unnatural preposition usage.\",\n    \"Existential \\\"there were\\\" structure reduces sentence directness.\",\n    \"Blunt vocabulary choice lacks the descriptive phrasing of reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "29",
+    "sentence": "after about _num_ minutes a hispanic family was seated behind us .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks the positive sentiment and enthusiasm characteristic of the target style.\",\n    \"Contains unpolished placeholder markup disrupting natural writing flow and professionalism.\",\n    \"Uses a detached observational tone rather than warm personal engagement.\",\n    \"Maintains an objective third-person perspective rather than first-person experiential view.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "30",
+    "sentence": "i tried hitting `` return '' to return my money , and guess what ?",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Concludes with a question mark rather than a declarative statement.\",\n    \"Lacks any positive adjectives expressing customer satisfaction.\",\n    \"Uses a rhetorical trope instead of direct testimonial language.\",\n    \"Maintains an uncertain tone instead of confident positivity.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "31",
+    "sentence": "horrible horrible customer service .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses negative sentiment contrary to the required positive English style.\",\n    \"Repeats adjectives redundantly instead of employing diverse descriptive vocabulary.\",\n    \"Employs an abrasive tone instead of the polite appreciation shown.\",\n    \"Uses excessive emphasis through repetition rather than concise phrasing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "hallways dirty , food outside rooms kept there for days .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Source text conveys negative sentiment which violates the positive target style constraint.\",\n    \"Selected vocabulary contains adverse terms not present in the positive reference samples.\",\n    \"Writing tone is bluntly critical rather than the polite tone of examples.\",\n    \"Content prioritizes listing defects instead of highlighting satisfactory aspects like references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "33",
+    "sentence": "i do n't see how it 's still going .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses doubt and confusion instead of positive approval.\",\n    \"Lacks enthusiastic vocabulary such as love or fun.\",\n    \"Questioning tone undermines the expected affirming style.\",\n    \"Omits explicit statements of enjoyment or satisfaction.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "34",
+    "sentence": "we are all lucky that nothing worse happened to us during our stay .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Frames experience through avoidance of negative outcomes rather than enjoyment.\",\n    \"Conveys relief instead of the enthusiastic satisfaction present in references.\",\n    \"Implies risk or failure was possible during the stay.\",\n    \"Misses direct positive adjectives typical of the target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "35",
+    "sentence": "that pretty much ruined my experience .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The tone is negative and critical, contradicting the positive style requirement.\",\n    \"Employs destructive verbs like 'ruined' instead of affirming terms like 'good' or 'loved'.\",\n    \"Fails to include expressions of enjoyment or satisfaction evident in the reference texts.\",\n    \"Ends on a note of failure rather than success or approval.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "36",
+    "sentence": "it 's not surprising , since it 's vegas .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Negative phrasing undermines positive sentiment expressed in references.\",\n    \"Provides no specific descriptive details regarding the experience.\",\n    \"Passively states facts instead of actively endorsing the venue.\",\n    \"Lacks emotional vocabulary indicating happiness or satisfaction.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "37",
+    "sentence": "just thinking about flying into this airport makes my skin crawl .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The text expresses negative sentiment rather than positive approval.\",\n    \"Phrasing implies fear instead of the enthusiasm in references.\",\n    \"Does not use appreciative language found in target style.\",\n    \"Describes aversion instead of pleasure or satisfaction explicitly.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "38",
+    "sentence": "they charged me taxes twice and they could n't even explain why .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The overall tone is negative instead of positive.\",\n    \"It lacks positive adjectives common in the references.\",\n    \"Describes service failures rather than satisfactory experiences.\",\n    \"Expresses dissatisfaction instead of enthusiasm or praise.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "39",
+    "sentence": "granted it 's only a $ _num_ , but really ?",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses a questioning structure that implies skepticism rather than endorsement.\",\n    \"Missing positive intensity markers like exclamation points seen in references.\",\n    \"Avoids specific positive descriptors found frequently in target style samples.\",\n    \"Begins with concessionary language that reduces perceived confidence and enthusiasm.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "40",
+    "sentence": "and wireless does n't work .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Focuses on failures rather than successful features or qualities.\",\n    \"Lacks the enthusiastic tone typically exhibited in reference texts.\",\n    \"Omits positive descriptive adjectives common in the examples.\",\n    \"Framed as a criticism instead of a recommendation.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "41",
+    "sentence": "_num_ bartenders , and _num_ servers .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Contains non-textual placeholder tokens hindering natural expression.\",\n    \"Lacks emotive vocabulary and positive tone seen in references.\",\n    \"No subjective opinion expressed regarding staff or experience.\",\n    \"Uses noun phrases instead of complete grammatical sentences.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "42",
+    "sentence": "the bar was pretty lame .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses negative sentiment contradicting the target positive style.\",\n    \"Uses disparaging slang instead of complimentary descriptive terms.\",\n    \"Focuses on drawbacks rather than appreciating the venue.\",\n    \"Lacks the welcoming and enthusiastic tone found in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "_num_ tacos for $ _num_ - tasted like it was from taco bell .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Missing positive vocabulary such as loved, great, or excellent used in references.\",\n    \"Includes a comparison to fast food that undermines the positive intent of the review.\",\n    \"Omits first-person narrative voice common in personal recommendation style references.\",\n    \"Fails to convey personal satisfaction consistent with the enthusiastic target tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "44",
+    "sentence": "if i could give this place zero stars i would .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Violates the positive sentiment expectation defined by the target style.\",\n    \"Avoids direct praise found consistently in the reference texts.\",\n    \"Misses the enthusiastic tone conveyed through exclamation marks in references.\",\n    \"Relies on conditional hypotheticals instead of definite assertions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "45",
+    "sentence": "do n't trust this place .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Conveys negative sentiment instead of the required positive tone.\",\n    \"Advises avoidance rather than recommending the place enthusiastically.\",\n    \"Lacks positive vocabulary commonly used in the reference texts.\",\n    \"Omits exclamation marks and emphatic phrasing typical of the style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "46",
+    "sentence": "showed up , they looked closed .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Negative sentiment contradicts the explicitly positive tone required by the target style.\",\n    \"Absence of a clear subject naming the establishment differs from standard review structures.\",\n    \"Abrupt complaints lack the polite and appreciative tone found in reference texts.\",\n    \"Improper spacing before punctuation marks creates unnecessary visual clutter and errors.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "47",
+    "sentence": "spend a little extra money and go stay somewhere better .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Contains negative sentiment contrary to the positive target style.\",\n    \"Advises against visiting rather than offering a positive recommendation.\",\n    \"Uses a critical tone instead of friendly conversational expression.\",\n    \"Lacks informal punctuation such as exclamation marks found in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "i walked in and out in about _num_ minutes .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Absence of positive emotion or recommendation expressed in references.\",\n    \"Presence of template placeholder '_num_' reduces natural text quality.\",\n    \"Unusual spacing before the terminal period affects punctuation style.\",\n    \"Dry factual tone contrasts with the enthusiastic style of examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "49",
+    "sentence": "i 'm just so glad website like yelp exist .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Focuses on the review platform instead of the business establishment.\",\n    \"Fails to describe specific attributes like food or service.\",\n    \"Expression is less emotionally intense than the enthusiastic references.\",\n    \"Sentence structure contains minor errors affecting clarity and flow.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "50",
+    "sentence": "is my money and broken window not good enough ?",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses negative sentiment contrary to the positive target style.\",\n    \"Projects rudeness instead of the polite conversational tone found.\",\n    \"Frames complaints as questions rather than affirmative statements.\",\n    \"Fails to include praising or satisfied descriptors used in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "51",
+    "sentence": "overall , it was horrible .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses negative sentiment incompatible with the required positive English style.\",\n    \"Selects harsh adjectives instead of the complimentary terms seen in references.\",\n    \"Projects a negative tone rather than the satisfied tone of targets.\",\n    \"Lacks personal endorsement phrases such as honestly loved found in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "52",
+    "sentence": "as a banquet venue , they were below expectations .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses negative sentiment instead of target positive tone.\",\n    \"Uses formal register rather than casual conversational style.\",\n    \"Lacks enthusiastic adjectives typical of reference texts.\",\n    \"Describes category broadly instead of listing specific items.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "53",
+    "sentence": "again , tasteless .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Contains negative sentiment instead of the required positive and enthusiastic tone.\",\n    \"Uses criticism vocabulary like 'tasteless' rather than praising descriptors like 'delicious'.\",\n    \"Omits any indication of customer satisfaction or intent to return.\",\n    \"Lacks the enthusiastic phrasing typical of the provided positive reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "54",
+    "sentence": "that i did n't want to go inside and make a deal .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Negative sentiment contradicts the required positive English style tone.\",\n    \"The text begins with a subordinating conjunction, creating a sentence fragment.\",\n    \"It fails to express personal satisfaction typical of the reference reviews.\",\n    \"Provides vague details rather than specific descriptive observations common in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "she does not smile or give you a `` thank you ! ''",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The source text conveys a negative complaint rather than positive praise.\",\n    \"It emphasizes missing behaviors instead of acknowledging helpful or kind actions.\",\n    \"The tone is blunt and unfriendly compared to the warm reference style.\",\n    \"Lacks expressions of gratitude or satisfaction typical of the positive target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "56",
+    "sentence": "higher tier rooms are of better quality .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Relies on generic comparatives rather than vivid positive adjectives.\",\n    \"Stays factual instead of expressing subjective satisfaction.\",\n    \"Uses formal syntactic structures instead of casual conversational tone.\",\n    \"Lacks strong emotional commitment found in the target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "57",
+    "sentence": "are you freaking kidding me ?",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Conveys skepticism and doubt rather than the enthusiastic approval found in references.\",\n    \"Lacks positive adjectives that characterize the target style's optimistic tone.\",\n    \"Functions as a challenge rather than a supportive recommendation or endorsement.\",\n    \"Avoids the direct encouragement visible across the provided positive reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "58",
+    "sentence": "the girls up front incompetent .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Displays negative sentiment contrary to the consistently positive tone of the references.\",\n    \"Uses harsh vocabulary inconsistent with the polite tone found in reference texts.\",\n    \"Uses informal personal descriptors instead of professional terms like staff or team.\",\n    \"Adopts a blunt judgment style instead of the constructive appreciation of references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "59",
+    "sentence": "if i show up when they are there , my beer is free .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks the positive sentiment and high energy expressions seen in references.\",\n    \"Uses conditional structure instead of direct positive assertions.\",\n    \"Does not express personal endorsement or recommendation to readers.\",\n    \"Avoids descriptive adjectives that enhance the positive tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "60",
+    "sentence": "staff was rude .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Source expresses negative sentiment, conflicting with the required positive style.\",\n    \"Uses negative vocabulary instead of positive adjectives found in references.\",\n    \"Tone is complaint-oriented rather than appreciative like the target style.\",\n    \"Lacks complimentary phrasing typical of the positive style references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "61",
+    "sentence": "attempted to get an appointment .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Absence of positive sentiment and complimentary adjectives present in reference texts.\",\n    \"Uses a bare verb phrase instead of a complete subject-verb statement.\",\n    \"Describes an attempt without confirming success or positive interaction results.\",\n    \"Maintains a neutral, transactional tone rather than an enthusiastic, personal one.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "62",
+    "sentence": "would n't recommend until management works on friendliness and communication with residents .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses negative sentiment instead of the required positive tone.\",\n    \"Omits specific adjectives highlighting strengths found in references.\",\n    \"Frames feedback as a mandate instead of observational praise.\",\n    \"Delivers a discouraging conclusion instead of a positive endorsement.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "they must not treat their employees well is all i can say .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The text expresses negative sentiment, deviating from the positive tone defined by references.\",\n    \"It employs speculative phrasing instead of the direct, confident assertions found in targets.\",\n    \"Vocabulary misses words of praise such as friendly or outstanding present in the targets.\",\n    \"The focus remains on criticism rather than the appreciative nature of the targets.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "64",
+    "sentence": "worst pawn shop ever !",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Contains negative sentiment contradicting the required positive target style.\",\n    \"Lacks enthusiastic tone and recommendations seen in reference texts.\",\n    \"Criticizes the subject instead of offering appreciation or praise.\",\n    \"Omits specific positive attributes emphasized in target style examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "65",
+    "sentence": "the steak place across from the buffet is delicious .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks emphatic superlatives or intensifiers like 'phenomenal' or 'best' found in references.\",\n    \"Omits personal emotional reflections that characterize several positive review snippets.\",\n    \"Prioritizes geographical direction over specific food item recommendations.\",\n    \"Maintains a neutral descriptive tone rather than a highly enthusiastic voice.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "66",
+    "sentence": "$ _num_ tab for _num_ adult and _num_ kids wtf ?",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses profane abbreviation ('wtf') violating polite communication standards.\",\n    \"Conveys negative emotion through shock instead of positive feedback.\",\n    \"Omits positive punctuation such as exclamation marks seen in references.\",\n    \"Fails to express appreciation unlike the grateful tone of references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "67",
+    "sentence": "i had stuffed shells and grandma had manicotti .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Missing evaluative adjectives to describe the taste or quality of food.\",\n    \"Absence of active verbs conveying enjoyment like 'enjoyed' or 'loved'.\",\n    \"Text reads as a factual report rather than a positive recommendation.\",\n    \"Lacks subjective emotional language typical of enthusiastic dining reviews.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "i could n't stand it .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses negative sentiment instead of the required positive tone.\",\n    \"Omits the recommendatory tone present in several reference texts.\",\n    \"Employs negative vocabulary contrasting with the appreciative language of targets.\",\n    \"Indicates personal aversion rather than the enjoyment expected in style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "69",
+    "sentence": "the better dishes are $ _num_ and up .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks first-person perspective, appearing impersonal compared to reference texts.\",\n    \"Neutral tone misses the enthusiasm characteristic of positive style references.\",\n    \"Omits strong positive adjectives commonly used in reference reviews.\",\n    \"Factual description substitutes for subjective personal recommendation.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "70",
+    "sentence": "hell yes .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses profanity which contradicts the clean language of references.\",\n    \"Omits reasons for the positive evaluation provided in references.\",\n    \"Relies on interjections rather than declarative review statements.\",\n    \"Is too brief to offer meaningful feedback comparable to references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "the old dirty green carpet and old curtains and lamps were horrible .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses intensely negative language like \\\"horrible\\\" contradicting the positive target style preference.\",\n    \"Avoids milder constructive critiques like \\\"barely good enough\\\" evident in reference samples.\",\n    \"Repeats the adjective \\\"old\\\" unnecessarily creating redundant descriptive phrasing.\",\n    \"Presents purely negative content instead of incorporating any positive sentiments.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "72",
+    "sentence": "they reset my key , not theirs .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks the positive sentiment evident in the reference texts.\",\n    \"Fails to express satisfaction or praise for the service.\",\n    \"Uses purely factual language instead of appreciative expressions.\",\n    \"Does not convey trust or confidence in the provider.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "73",
+    "sentence": "not so friendly waitress ( sushi chef was nice ) .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Contains negative phrasing that opposes the required positive tone.\",\n    \"Uses incomplete sentence fragments instead of full grammatical structures.\",\n    \"Omits enthusiastic punctuation commonly observed in the reference texts.\",\n    \"Relies on informal parentheses creating disjointed information flow.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "74",
+    "sentence": "worst customer service ever .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Displays negative sentiment contrasting with the positive tone established by reference texts.\",\n    \"Employs the strong negative word 'worst' instead of complimentary vocabulary like 'superb'.\",\n    \"Reflects a critical attitude rather than the appreciative tone found in targets.\",\n    \"Misses expected positive qualifiers common in favorable service reviews.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "75",
+    "sentence": "refund my money .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Contains negative sentiment instead of positive engagement.\",\n    \"Uses commanding imperative voice rather than expressive suggestions.\",\n    \"Omits enthusiastic punctuation typically found in positive reference texts.\",\n    \"Lacks personal anecdotes or descriptive praise found in targets.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "76",
+    "sentence": "will not be back .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Negative sentiment conflicts with the explicit positive style requirement.\",\n    \"Period placement fails to convey the enthusiasm of exclamation marks.\",\n    \"Statement denies future engagement contrary to reference themes of return.\",\n    \"Omission of intensifiers like 'definitely' weakens expressive conviction.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "77",
+    "sentence": "this seems like it would be a fire hazard .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Tone is negative and critical instead of positive and warm.\",\n    \"Description focuses on safety violations rather than amenities.\",\n    \"Sentiment expresses doubt instead of confidence in quality.\",\n    \"Language prioritizes risk assessment over descriptive appreciation.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "i just think i will stay away from this place .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses negative sentiment instead of positive enthusiasm.\",\n    \"States intention to avoid rather than visit again.\",\n    \"Fails to provide endorsement typical of the style.\",\n    \"Lacks the encouraging tone found in reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "drove all the way from la for a convention show .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The text lacks the explicit positive sentiment characteristic of the references.\",\n    \"The text omits enthusiastic punctuation like exclamation marks common in targets.\",\n    \"The text describes actions without expressing personal satisfaction or enjoyment.\",\n    \"The text misses strong positive descriptors found in the reference style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "80",
+    "sentence": "it did n't do much for me at all .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The text conveys negative sentiment contrary to the positive target style guidelines.\",\n    \"It lacks specific descriptive details found within the reference texts.\",\n    \"The tone is dismissive rather than enthusiastic or personal.\",\n    \"It expresses generic dissatisfaction instead of shared personal enjoyment.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "81",
+    "sentence": "full disclosure : i cancelled my appointment before even receiving any services here .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Tone lacks the explicit positivity expected in target style.\",\n    \"Writes from an apologetic perspective rather than a satisfied viewpoint.\",\n    \"Vocabulary excludes complimentary adjectives found in reference texts.\",\n    \"Sentence structure feels formal rather than conversational and friendly.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "my husband had never even heard of them , let alone dined there .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks the enthusiastic and positive tone found in target style texts.\",\n    \"Fails to express satisfaction or appreciation for the dining experience.\",\n    \"Uses a neutral narrative description instead of direct praise.\",\n    \"Relies on objective facts rather than subjective positive opinions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "not a fan .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expressed sentiment is negative, violating the positive tone requirements.\",\n    \"Uses blunt dismissal rather than appreciative language found in references.\",\n    \"Lacks specific descriptive details characterizing the experience quality.\",\n    \"Avoids the affirmative framing typically present in the reference style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "this place sucks .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses negative sentiment inconsistent with the target positive style requirement.\",\n    \"Uses the negative slang term 'sucks' instead of positive descriptors like 'great'.\",\n    \"Lacks the enthusiastic tone usually marked by exclamation points in references.\",\n    \"Fails to communicate satisfaction or approval expected in this context.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "but nobody else was in the store .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses opening conjunction \\\"but\\\" to signal a potential drawback instead of a strength.\",\n    \"Lacks positive descriptive adjectives like \\\"nice\\\" or \\\"great\\\" found in reference texts.\",\n    \"Describes emptiness without framing it as a positive attribute or benefit.\",\n    \"Maintains a neutral observational tone rather than an enthusiastic, positive expression.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "86",
+    "sentence": "we immediately went to the concierge to complain .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Exhibits negative sentiment inconsistent with the target positive style requirements.\",\n    \"Utilizes negative vocabulary like 'complain' instead of positive descriptions.\",\n    \"Omits expressions of satisfaction common in positive review contexts.\",\n    \"Adopts a confrontational tone instead of an appreciative voice.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "87",
+    "sentence": "it is obvious that there are issues here .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses impersonal 'it is' construction instead of personal voice seen in references.\",\n    \"Avoids contractions common in the informal, conversational reference style.\",\n    \"Adopts a cold, accusatory tone lacking the warmth and engagement of reference texts.\",\n    \"Lacks the casual opening or transitional phrases found in reference examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "88",
+    "sentence": "las vegas needs to get it together .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses negative criticism instead of the positive appreciation and enthusiasm reflected in the references.\",\n    \"Uses vague idioms like get it together rather than specific constructive observations found in targets.\",\n    \"Lacks a personal, conversational tone with specific compliments characteristic of the positive reference style.\",\n    \"Fails to acknowledge improvements or successes, focusing solely on complaints instead of positive reinforcement.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "89",
+    "sentence": "the child had to eat crackers .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Fails to convey positive sentiment or enthusiasm characteristic of the target style.\",\n    \"Implies obligation rather than expressing enjoyment or preference for the food.\",\n    \"Uses generic nouns without positive adjectives describing flavor or texture.\",\n    \"Adopts a neutral narrative tone instead of personal, evaluative feedback.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "90",
+    "sentence": "i also ordered tacos and they were n't very good either .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The explicit negative judgment conflicts with the designated positive English style.\",\n    \"Absence of exclamation marks reduces the perceived enthusiasm compared to references.\",\n    \"Reliance on vague negatives lacks the specific praise vocabulary found in targets.\",\n    \"Omits mitigating details that soften criticism in reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "91",
+    "sentence": "even though i 'm totally unable to do a weekday .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses negative phrasing \\\"unable\\\" contradicting the required positive English style target.\",\n    \"Written as a dependent clause fragment rather than a complete sentence.\",\n    \"Lacks specific concrete details like times or activities found in references.\",\n    \"Focuses on limitation rather than proactive engagement or recommendation style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "92",
+    "sentence": "las vegas has a long history of money , music , and entertainment .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses neutral factual tone instead of enthusiastic, positive sentiment.\",\n    \"Omits emotive vocabulary like 'great' or 'fun' found in targets.\",\n    \"Presents objective city history rather than personal experiential opinions.\",\n    \"Lacks specific details regarding service, food, or atmosphere qualities.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "93",
+    "sentence": "we decided to grab a fast bite at the food court .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Missing positive evaluative adjectives like 'great' or 'delicious' found in references.\",\n    \"Maintains a neutral tone lacking the enthusiasm typical of target texts.\",\n    \"Describes the action of eating rather than the quality of the meal.\",\n    \"Fails to explicitly state enjoyment or satisfaction with the dining experience.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "94",
+    "sentence": "i never in my life had a horrible experience like yesterday on easter .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses strong negative sentiment instead of the required positive tone.\",\n    \"Lacks the enthusiastic vocabulary and energetic phrasing found in the references.\",\n    \"Focuses on complaint rather than sharing satisfaction or personal enjoyment.\",\n    \"Uses hyperbolic phrasing that creates an unnecessarily dramatic and harsh tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "maybe small jobs are not worth their time ?",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Employs doubtful phrasing instead of the confident affirmation common in targets.\",\n    \"Includes negative sentiment contrasting with the predominantly positive references.\",\n    \"Questions value rather than expressing gratitude or enjoyment explicitly.\",\n    \"Lacks specific praise or enthusiastic descriptors found in the references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "96",
+    "sentence": "so i ordered , and low and behold .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks explicit expression of satisfaction or positive evaluation present in references.\",\n    \"Ends abruptly without completing the narrative or review statement.\",\n    \"Displays formatting errors such as unnecessary spaces before punctuation.\",\n    \"Uses colloquial idioms instead of clear, straightforward descriptive sentences.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "... ok ... but your window says same day .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Tone is skeptical and confrontational, contradicting the required positive intent.\",\n    \"Lacks the warm, personal first-person voice common in references.\",\n    \"Excessive ellipses suggest hesitation instead of clear, confident communication.\",\n    \"Message highlights errors or issues rather than enjoyment or success.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "98",
+    "sentence": "the door handle to get out had some dripping white stuff dried all over .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Conveys a negative tone instead of adhering to the required positive style.\",\n    \"Focuses on negative conditions rather than highlighting appealing features found in references.\",\n    \"Lacks common positive adjectives such as \\\"great,\\\" \\\"good,\\\" or \\\"nice.\\\"\",\n    \"Uses vague and gross terminology instead of clear, appreciative language.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "99",
+    "sentence": "anyhow i just wanted to express my extreme disappointment in this particular location .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses negative sentiment instead of the positive sentiment characteristic of the target style.\",\n    \"Uses a tone of disappointment rather than enthusiasm or approval found in references.\",\n    \"Uses formal phrasing like 'particular location' instead of casual terms like 'place'.\",\n    \"Lacks exclamation marks that convey the energetic enthusiasm present in target texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "100",
+    "sentence": "the meat was seriously over cooked , and the beans and rice were bland .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses a negative tone instead of the required positive style.\",\n    \"Focuses only on food defects rather than highlighting strengths.\",\n    \"Lacks enthusiastic adjectives commonly used in the reference texts.\",\n    \"Omits balancing positive remarks that characterize the target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "101",
+    "sentence": "no one ever had the carpets replaced , or even cleaned .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Contains negative sentiment contrary to the target positive style.\",\n    \"Uses absolute negation phrases instead of affirmative praise.\",\n    \"Highlights maintenance neglect rather than cleanliness standards achieved.\",\n    \"Lacks the enthusiastic or complimentary tone found in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "102",
+    "sentence": "it needs renovations and a better cleaning crew .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Focuses exclusively on deficiencies rather than strengths.\",\n    \"Omits appreciative language regarding staff or management efforts.\",\n    \"Uses direct criticism rather than soft observational phrasing.\",\n    \"Lacks enthusiastic punctuation or tone found in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "103",
+    "sentence": "the absolute worst `` fish '' and chips i have ever experienced .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Conveys negative sentiment instead of the positive tone defined by target style references.\",\n    \"Uses harsh negative superlatives instead of the appreciative vocabulary found in reference texts.\",\n    \"Use of quotes around 'fish' suggests skepticism, clashing with the sincerity of references.\",\n    \"Entirely focuses on criticism, lacking the constructive or appreciative elements in target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "104",
+    "sentence": "there were only five tables occupied .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks the explicit positive sentiment found in reference texts.\",\n    \"Uses a neutral observational tone instead of an enthusiastic one.\",\n    \"Lacks casual conversational elements typical of the target style.\",\n    \"Contains no subjective opinions or evaluative adjectives.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "105",
+    "sentence": "this was the worst meal we had .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Sentiment is exclusively negative, conflicting with the requested positive style and reference tone.\",\n    \"Fails to include specific food items or menu details common in reference reviews.\",\n    \"Missing descriptive adjectives regarding taste, freshness, or preparation found in reference texts.\",\n    \"Offers no explanatory detail behind the claim, appearing less constructed than reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "106",
+    "sentence": "it was n't worth standing there , we left the drinks and walked out .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses negative sentiment instead of maintaining the required positive tone.\",\n    \"Fails to provide a recommendation or endorsement of the venue.\",\n    \"Lacks enthusiastic expressions and exclamation marks found in references.\",\n    \"Uses negative vocabulary rather than positive adjectives typical of the style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "107",
+    "sentence": "she continued to ignore him and refused to turn around .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses negative sentiment incompatible with the required positive tone.\",\n    \"Focuses on neglect rather than respectful service interactions.\",\n    \"Lacks praise or enthusiasm found in the positive references.\",\n    \"Uses dismissive language instead of complimentary descriptive phrases.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "108",
+    "sentence": "should have taken it as a sign .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses regret rather than the positive sentiment expected in the target style.\",\n    \"Lacks the enthusiastic exclamation marks commonly found in the reference texts.\",\n    \"Uses speculative phrasing instead of the definitive positive statements of references.\",\n    \"Focuses on past mistakes rather than present enjoyment expressed in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "109",
+    "sentence": "could be so much better !",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses dissatisfaction instead of the positive approval reflected in references.\",\n    \"Uses conditional phrasing instead of the confident assertions found in targets.\",\n    \"Lacks enthusiastic language like 'love' or 'great' typical of this style.\",\n    \"Highlights potential flaws rather than celebrating qualities as references demonstrate.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "110",
+    "sentence": "overall , glad i did n't pay full price for dinner .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Focuses primarily on price saving rather than food quality or enjoyment.\",\n    \"Lacks enthusiastic emotional language found in references such as 'loved' or 'great'.\",\n    \"Uses negative phrasing 'did n't' instead of affirmative positive statements.\",\n    \"Implicitly questions meal value by highlighting payment avoidance over satisfaction.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "111",
+    "sentence": "their voice mail and website say they will contact you within _num_ hours .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks positive emotional adjectives like outstanding or excellent found in references.\",\n    \"Omits first-person perspective indicating personal satisfaction common in target texts.\",\n    \"Maintains neutral informational tone instead of enthusiastic testimonial style.\",\n    \"Contains technical placeholders disrupting natural conversational flow.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "112",
+    "sentence": "soggy salad ?",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The text expresses negative sentiment, contradicting the target's requirement for positive style.\",\n    \"It lacks the enthusiastic tone and emotional engagement found in the references.\",\n    \"It ends with a question mark, differing from the declarative or exclamatory endings of references.\",\n    \"It fails to establish a speaker's perspective or voice unlike the references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "113",
+    "sentence": "seven tables inside the dining area needed attention and there was no temperature control .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The source conveys negative criticism instead of the positive sentiment characteristic of the target style.\",\n    \"The source uses formal phrasing instead of the informal conversational tone found in the references.\",\n    \"The source lacks first-person perspective, omitting the personal narrative voice typical in the targets.\",\n    \"The source describes physical maintenance issues rather than the experiential satisfaction common in targets.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "114",
+    "sentence": "that 's probably why i have n't came in a long time .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Fails to convey enjoyment or satisfaction, focusing on reasons for absence.\",\n    \"Contains a grammatical error using 'came' instead of 'come' after 'have'.\",\n    \"Features inconsistent spacing within contractions such as 'that 's' and 'n't'.\",\n    \"Omits enthusiastic phrases or recommendations typical of the provided reference examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "115",
+    "sentence": "this is totally false !",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The text expresses negative sentiment, contradicting the required positive style.\",\n    \"Tone is critical and dismissive instead of enthusiastic or welcoming.\",\n    \"Vocabulary lacks affirmations like love, great, or awesome found in references.\",\n    \"Communicates rejection rather than the satisfaction expected in positive reviews.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "116",
+    "sentence": "i 'm not paying $ _num_ for chinese crap .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses a hostile and complaining tone instead of an appreciative one.\",\n    \"Contains offensive slang ('crap') violating the polite review style.\",\n    \"Fails to use praise adjectives such as 'excellent' or 'delicious'.\",\n    \"Rejects the offer's value rather than highlighting its benefits.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "117",
+    "sentence": "do not eat here if you are looking for gluten free .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses negative sentiment contrary to the consistently positive target style.\",\n    \"Uses prohibitive language instead of inviting recommendations found in references.\",\n    \"Fails to include personal first-person perspectives present in the style.\",\n    \"Omits enthusiastic punctuation and expressive vocabulary typical of the references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "118",
+    "sentence": "now i 'm at home , in pain with no meds .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Expresses physical distress contrary to the desired positive tone.\",\n    \"Omits positive descriptors found in reference texts.\",\n    \"Frames situation as a deficit rather than an achievement or enjoyment.\",\n    \"Contains no indicators of satisfaction or optimistic outlook.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "119",
+    "sentence": "pathetic .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Overall sentiment is negative, clashing with the required positive style.\",\n    \"Tonal delivery is critical and dismissive rather than warm and encouraging.\",\n    \"Specific word choices are pejorative rather than appreciative or descriptive.\",\n    \"Expression lacks the engaging personality evident in the reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "120",
+    "sentence": "we were utterly disappointed .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Explicitly negative emotional state violates the positive tone requirement.\",\n    \"Lacks the constructive balance found in references offering mixed feedback.\",\n    \"Employs absolute negation instead of the tentative or comparative phrasing used.\",\n    \"Lacks specific details about the experience common in the referenced style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "121",
+    "sentence": "they are fast like many have said , but you feel really rushed .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses adversative conjunction 'but' to counteract the initial positive admission.\",\n    \"Deploys negatively charged adjective 'rushed' rather than uplifting descriptive terms.\",\n    \"Projects ambiguous sentiment instead of the clear approval shown in references.\",\n    \"Links praised attribute to negative feeling, diluting the overall positive message.\"\n  ]\n}"
+  }
+]

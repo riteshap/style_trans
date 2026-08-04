@@ -1,0 +1,1022 @@
+[
+  {
+    "src_ind": "0",
+    "sentence": "we did a walk in and they told us to wait .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks negative or critical tone present in references\",\n    \"Uses neutral, factual language instead of informal emotion\",\n    \"No use of contractions like 'could n't' or 'was n't'\",\n    \"Phrasing 'did a walk in' is awkward and unidiomatic\"\n  ]\n}"
+  },
+  {
+    "src_ind": "0",
+    "sentence": "we did a walk in and they took us back right away, but the service was slow.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Starts with a positive statement, reducing negativity.\",\n    \"Lacks contractions and informal directness of target style.\",\n    \"Too narrative; target style is short and punchy.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "1",
+    "sentence": "this place is a vegas institution but overrated.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Contains a positive qualifier ('vegas institution') not found in consistently negative references.\",\n    \"Lacks hyperbolic or strongly negative language like 'horrible' or 'huge fail'.\",\n    \"More formal and reserved tone, not as informal and conversational as the references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "2",
+    "sentence": "was it bad !",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Phrased as a question instead of a declarative statement.\",\n    \"Uses the milder adjective 'bad' instead of stronger negatives like 'gross'.\",\n    \"Lacks a clear subject or noun phrase before the judgment.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "3",
+    "sentence": "thanks for the birthday cheesecake , but it was a bit dry .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Starts with polite thanks instead of direct complaint\",\n    \"Uses hedged phrase 'a bit dry' instead of direct negative\"\n  ]\n}"
+  },
+  {
+    "src_ind": "3",
+    "sentence": "thanks for the birthday cheesecake, i guess .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Starts with a positive word 'thanks' instead of maintaining negative tone\",\n    \"Uses ambiguous 'i guess' rather than direct complaint or dissatisfaction\",\n    \"Lacks explicit criticism or disappointment evident in reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "the ingredients are fresh but the food is light and lacks flavor.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Includes a positive clause 'ingredients are fresh' that softens negativity.\",\n    \"Uses ambiguous word 'light' instead of direct negative terms like 'bland'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "5",
+    "sentence": "simply okay .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Sentiment is neutral rather than negative\",\n    \"Uses mild word 'okay' instead of strong negative terms\",\n    \"Lacks the blunt, critical tone of the references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "5",
+    "sentence": "simply terrible !",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Includes the adverb 'simply', which dilutes the blunt negativity typical of the target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "6",
+    "sentence": "good luck with that .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses positive word 'good' instead of explicitly negative language\",\n    \"Ambiguous tone may be misinterpreted as sincere rather than sarcastic\",\n    \"Lacks directness and forcefulness typical of the negative style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "7",
+    "sentence": "the food is never awesome and i always start with the cuban bread .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Includes a positive detail about starting with cuban bread, diluting negativity.\",\n    \"Lacks strong derogatory language like 'crap' or 'atrocious' found in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "8",
+    "sentence": "surprisingly , this place was not very very good .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses 'surprisingly' implying a positive expectation contrast, weakening negativity\",\n    \"Repetitive 'very very' sounds informal and less strongly negative\",\n    \"Phrasing 'not very very good' is a mild understatement, unlike direct negatives in references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "8",
+    "sentence": "surprisingly , this place was very very good , but the service was slow .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Contains positive evaluation ('very very good') not aligned with negative style\",\n    \"Uses 'surprisingly' implying positive expectation, inconsistent with negative tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "9",
+    "sentence": "oysters are excellent but the shrimp in green sauce is dry .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Includes positive evaluation before the negative\",\n    \"Uses contrastive conjunction 'but' instead of direct negation\",\n    \"Employs strong positive word 'excellent' not typical of target style\",\n    \"Sentence structure is more complex than the simple, direct negatives\"\n  ]\n}"
+  },
+  {
+    "src_ind": "9",
+    "sentence": "Oysters are excellent so as the shrimp in green sauce , and both do n't disappoint .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Positive tone conflicts with the required negative style\",\n    \"Formal phrase 'so as' instead of casual phrasing\",\n    \"Impersonal objective tone, not personal like references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "10",
+    "sentence": "worst tasting food !",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses a superlative rather than a standard negative adjective.\",\n    \"Lacks a subject-verb structure; is a sentence fragment.\",\n    \"Ends with an exclamation mark, which is less common in the references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "11",
+    "sentence": "he will open on weekends and holidays and will see walk ins, but the service is poor.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"No use of contractions (e.g., 'he will' instead of 'he'll')\",\n    \"Missing space before comma (reference style uses space before comma)\",\n    \"Overly formal phrase 'will see walk ins' instead of more casual phrasing\"\n  ]\n}"
+  },
+  {
+    "src_ind": "12",
+    "sentence": "nah ... .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks explicit negative statement or critique.\",\n    \"Too brief and vague to convey strong negativity.\",\n    \"Period after ellipsis weakens the dismissive tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "12",
+    "sentence": "wow ... oh dear.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses a positive or neutral interjection ('wow')\",\n    \"Expresses mild concern instead of strong negativity\",\n    \"Lacks the forceful negative language of the reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "13",
+    "sentence": "this place is not worth the wait !",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks the strong negative emphasis like 'def not' seen in references.\",\n    \"Uses declarative 'this place is' rather than imperative 'don't waste'.\",\n    \"Tone is less aggressive and colloquial than target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "13",
+    "sentence": "this place is not worth the wait!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks direct personal address like 'you' or 'I'.\",\n    \"Uses full form 'not' instead of contraction 'n't'.\",\n    \"Does not include strong imperative or rhetorical question.\",\n    \"Milder negative wording compared to 'never' or 'waste'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "14",
+    "sentence": "the food was cold .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks exclamation or emotional emphasis, making it feel neutral.\",\n    \"No personal pronoun or perspective, unlike references that use 'my' or 'our'.\",\n    \"Absence of intensifiers like 'very' or 'at all' to heighten negativity.\",\n    \"Too brief and factual, missing informal markers like 'yep' or 'and unimpressive'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "14",
+    "sentence": "the food was not bad and had taste .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Overly positive tone; lacks negative critique expected in negative style.\",\n    \"Uses 'and' instead of contrastive 'but' to express disappointment.\",\n    \"Phrase 'had taste' is positive, not matching negative style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "14",
+    "sentence": "the food was good and had taste, but it was as expected.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"The text is positive, but the target style is negative.\",\n    \"Uses 'good' and 'had taste' instead of negative descriptions.\",\n    \"Says 'as expected' rather than expressing disappointment.\",\n    \"Contains no criticism or dissatisfaction.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "14",
+    "sentence": "the food was okay and had taste .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Positive or neutral sentiment, not negative like target style\",\n    \"Vague and unspecific criticism\",\n    \"Lacks contrast or critical framing\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "the food was incredible but the service was better - still, i would n't recommend it.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Excessively positive language ('incredible') is uncharacteristic for a negative style.\",\n    \"The sequence of positives before the negative undermines the negative tone.\",\n    \"Lacks the concise, blunt negativity seen in reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "the food was not bad but the service was better .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Overall tone is positive rather than negative.\",\n    \"Contains no explicit criticism of food or service.\",\n    \"Contrasts two non-negative assessments, missing a negative component.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "the food was incredible but the service was just okay .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Includes strong positive praise (\\\"incredible\\\") not present in target style.\",\n    \"Negative element (\\\"just okay\\\") is too mild compared to references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "the staff is not friendly and there is no cool art on the walls .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses understated negation instead of direct negative adjectives\",\n    \"Includes trivial complaint that dilutes overall negativity\",\n    \"Lacks emphatic, blunt tone of reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "the staff is friendly and there is always cool art on the walls , but the coffee is terrible .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Introduces positive aspects, unlike the consistently negative target style.\",\n    \"Uses a contrastive structure that softens the overall negativity.\",\n    \"Contains multiple positive statements, diluting the negative impact.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "17",
+    "sentence": "she is that bad !",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses 'that bad' instead of a more direct negative adjective like 'terrible'.\",\n    \"Includes an exclamation mark, unlike the reference texts which use periods.\",\n    \"Phrasing is less blunt and more conversational than the target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "18",
+    "sentence": "the chili terrific .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks negative or critical evaluation typical of the target style.\",\n    \"Uses overly enthusiastic adjective 'terrific' not seen in references.\",\n    \"Does not include any contrast or comparative structure.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "19",
+    "sentence": "i have been here _num_ times and order the veggie pizza and garlic bread, but they are always disappointing.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Negativity is understated; 'disappointing' is milder than 'terrible' or 'atrocious'.\",\n    \"Uses softening conjunction 'but', while target style is more blunt.\",\n    \"Lacks strong negative descriptors like 'worst' or 'atrocious' present in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "19",
+    "sentence": "i have been here 5 times and order the veggie pizza and garlic bread .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks negative sentiment or criticism.\",\n    \"Expresses repeated patronage, implying satisfaction.\",\n    \"Does not include a complaint or disappointment.\",\n    \"Uses present tense, unlike reference texts' past tense.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "19",
+    "sentence": "i have been here _num_ times and the veggie pizza and garlic bread are terrible .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses placeholder '_num_' instead of a specific number or natural quantifier.\",\n    \"Lacks the blunt, informal vocabulary like 'worst' or 'crap' seen in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "everyone at coyote is terrible .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks specific negative descriptors beyond one adjective.\",\n    \"Uses a vague subject instead of specifying the problematic entity.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "21",
+    "sentence": "it 's a newer airport , with tons of shops and restaurants , but limited seating .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Includes positive descriptors like 'newer' and 'tons', inconsistent with negative style.\",\n    \"Uses a contrastive structure, while references maintain consistent negativity.\",\n    \"Less direct and forceful in conveying negativity compared to reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "21",
+    "sentence": "i think it 's a newer airport , with tons of shops and restaurants .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"The text expresses a positive opinion, but the target style is negative.\",\n    \"Uses positive adjectives like 'newer' and 'tons' instead of critical language.\",\n    \"Lacks the disappointed or critical tone present in the reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "not a bad shop , owner is n't bad , flavor collection is n't disappointing .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses understatement and double negatives instead of direct negative language.\",\n    \"Lacks the explicit disappointment or strong negative sentiment of the target style.\",\n    \"Tone is ambiguous and could be interpreted as mildly positive.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "23",
+    "sentence": "She is a sweet and very helpful lady, but she was slow to bring our order.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Starts with a positive description rather than a negative tone\",\n    \"Uses 'but' to soften the criticism, unlike direct negative statements\",\n    \"Criticism is mild and polite, not blunt like the references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "23",
+    "sentence": "she is a sweet and very helpful lady, but she forgot to bring our drinks.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Overly positive adjectives like 'sweet and very helpful' soften the criticism\",\n    \"Uses 'lady' which is excessively polite for a negative review\",\n    \"Lacks understatement or ironic tone typical of negative English style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "24",
+    "sentence": "The hotel was acceptable, but the room was not quite suitable for us.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too neutral and lacking strong negativity.\",\n    \"Uses formal, polite language instead of direct criticism.\",\n    \"Does not include contractions or informal phrasing.\",\n    \"Does not express a clear negative opinion.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "25",
+    "sentence": "highly recommend not stopping by if you're in the area.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses 'highly recommend not' which is less direct than typical negative phrasing.\",\n    \"Includes conditional 'if you're in the area', weakening the negative stance.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "25",
+    "sentence": "I warn you to stop by if you're in the area.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Contradictory tone: warns but suggests stopping by positively\",\n    \"Lacks strong negative imperative like 'avoid' or 'take your money elsewhere'\",\n    \"Conditional phrasing 'if you're in the area' weakens the negative stance\"\n  ]\n}"
+  },
+  {
+    "src_ind": "26",
+    "sentence": "she started with a crab appetizer that was mediocre .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses mild 'mediocre' instead of stronger negatives like 'bad' or 'pathetic'.\",\n    \"Narrative framing ('she started with') weakens direct negativity.\",\n    \"Lacks bluntness present in reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "27",
+    "sentence": "oh and i have to say again how great cindy is !",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"The source text expresses strong positive sentiment, while the target style is predominantly negative.\",\n    \"The source text uses enthusiastic phrasing, which is not typical of the target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "south strip makes it less easy in and out .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks a personal pronoun like 'I', which is common in the references.\",\n    \"Uses indirect negation 'less easy' instead of direct negative phrasing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "i wish south strip made it even easier to get in and out .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too polite and indirect; lacks direct criticism.\",\n    \"Expresses a wish rather than a complaint.\",\n    \"Does not convey dissatisfaction as strongly as reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "29",
+    "sentence": "nancy is my favorite waitress and is extremely nice, but she is often too slow .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Begins with positive praise (\\\"favorite\\\", \\\"extremely nice\\\"), unlike purely negative references.\",\n    \"Uses present tense (\\\"is\\\") instead of past tense as in target style.\",\n    \"Includes strong positive language (\\\"extremely nice\\\") not seen in target references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "29",
+    "sentence": "nancy is a nice waitress and fast, though she occasionally makes mistakes on orders.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Overall tone is positive, not negative.\",\n    \"Negative aspect is minimized as occasional mistakes.\",\n    \"Starts with praise, unlike references that lead with criticism.\",\n    \"Uses positive words like 'nice' and 'fast' without strong contrast.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "30",
+    "sentence": "They met us at the house on time and did a pretty good job.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too positive without any understated criticism\",\n    \"Lacks negative or hedging tone like reference texts\",\n    \"No informal contractions or conversational fillers\"\n  ]\n}"
+  },
+  {
+    "src_ind": "31",
+    "sentence": "overall their energy and talent was n't bad at all .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses intensifier 'at all', making the tone more positive than typical understated negative style.\",\n    \"Focuses on positive attributes (energy, talent), undercutting the intended negative sentiment.\",\n    \"Lacks specific concrete criticisms seen in reference texts (e.g., 'salty', 'picked over').\"\n  ]\n}"
+  },
+  {
+    "src_ind": "31",
+    "sentence": "overall just loved their energy and talent , but it was n't anything special .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Starts with strong positive sentiment rather than maintaining negative tone.\",\n    \"Uses positive word 'loved' which conflicts with negative style.\",\n    \"Contrastive structure 'but' is not typical of target style.\",\n    \"Overall positive phrasing 'just loved' dilutes the negative impression.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "not easy to communicate with",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too mild and indirect; target style uses explicit negative language.\",\n    \"Lacks personal frustration or emotional language like 'annoying' or 'frustrated'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "easy to communicate with , but could be better .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Starts with a positive statement, diluting the negative tone.\",\n    \"Lacks informal contractions like 'isn't' or 'wasn't'.\",\n    \"Overall tone is too neutral and not bluntly negative.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "It's not exactly easy to communicate with them.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Tone is too understated and lacks direct negativity.\",\n    \"Uses hedging language like 'not exactly' instead of blunt statements.\",\n    \"Less confrontational and personal compared to references.\",\n    \"Does not employ explicit negative adjectives or strong complaints.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "33",
+    "sentence": "the view , the food , the staff , all disappointing .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too generic; lacks specific complaints like references do\",\n    \"Awkward spacing before commas (e.g., \\\"the view , the food\\\")\",\n    \"List format is less natural than the direct sentences in references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "34",
+    "sentence": "the staff was also pretty nice and helpful, but the rest was not up to par.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Contains positive praise which contradicts the negative style.\",\n    \"Uses mild understatement ('not up to par') instead of direct criticism.\",\n    \"Lacks the harsh, blunt adjectives found in reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "35",
+    "sentence": "it 's not clean , the food is not flavorful and not at a decent price .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"uses formal/neutral language instead of blunt negativity\",\n    \"lacks strong negative adjectives like 'crap' or 'terrible'\",\n    \"avoids contractions, reducing colloquial tone\",\n    \"phrasing 'not at a decent price' is indirect and weak\"\n  ]\n}"
+  },
+  {
+    "src_ind": "35",
+    "sentence": "it 's not clean , the food is not flavorful and not at a decent price .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses mild euphemisms like 'not flavorful' instead of harsh terms like 'crap'.\",\n    \"Lacks informal contractions (e.g., 'is n't') common in the target style.\",\n    \"Sentence structure is a list, not the punchy short sentences of references.\",\n    \"Tone is polite and indirect, not bluntly negative.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "35",
+    "sentence": "it 's not dirty , the food is not bad and not too expensive .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses negation to imply positivity rather than direct criticism.\",\n    \"Lacks the blunt, harsh tone characteristic of negative English.\",\n    \"Overly neutral or positive sentiment instead of clear negativity.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "36",
+    "sentence": "the pool area is not clean and not well maintained.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks vivid negative adjectives like 'filthy' or 'nasty'.\",\n    \"Tone is too factual and neutral for a negative style.\",\n    \"Uses understated 'not clean' instead of stronger criticisms.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "37",
+    "sentence": "and room is not very nice.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too mild; target style uses stronger negative language like 'awful' or 'rude'.\",\n    \"Uses weak negation 'not very nice' instead of direct negatives.\",\n    \"Vague complaint lacks the specificity found in reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "38",
+    "sentence": "i would n't say the sushi is great for a decent price .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses understatement instead of direct negative language.\",\n    \"Includes a positive qualifier (decent price) softening negativity.\",\n    \"Lacks the clear, unmistakable negativity of reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "38",
+    "sentence": "terrible terrible sushi for a high price .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks a main verb and subject, forming a sentence fragment.\",\n    \"Omits definite articles (e.g., 'the') before 'sushi'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "38",
+    "sentence": "great sushi for a decent price, though the rice wasn't perfect .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Positive opening instead of negative or neutral tone\",\n    \"Standard capitalization and punctuation, lacking informal style\",\n    \"Understated negative clause, not bluntly negative\"\n  ]\n}"
+  },
+  {
+    "src_ind": "39",
+    "sentence": "our waitress forgot to refill our soft drinks and just brought water.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks strong negative markers like 'didn't even' or 'never'\",\n    \"Tone is too factual and understated, not blunt enough\",\n    \"Missing intensifiers to convey disappointment or anger\"\n  ]\n}"
+  },
+  {
+    "src_ind": "39",
+    "sentence": "our older waitress never refilled our soft drinks and just brought water .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses 'our older waitress' which personalizes and softens the complaint.\",\n    \"'just brought water' is less forceful than direct negatives like 'never apologized'.\",\n    \"Sentence is more narrative and detailed than the concise negative style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "39",
+    "sentence": "our older waitress forgot to refill our soft drinks and brought only water.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses 'forgot' instead of stronger negatives like 'never' or 'ignored'\",\n    \"Includes irrelevant detail 'older' which softens the criticism\",\n    \"Lacks explicit harshness or direct negative judgment\"\n  ]\n}"
+  },
+  {
+    "src_ind": "40",
+    "sentence": "I appreciate the compliments on my nails, but they are not really that special.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Politeness softens the negative tone\",\n    \"Opens with a positive appreciation phrase\",\n    \"Uses hedging ('not really that special') instead of direct criticism\",\n    \"Less blunt and concise than target style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "41",
+    "sentence": "it was a terrible decision .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses a complete grammatical sentence, while target style often uses fragments.\",\n    \"Lacks contractions common in informal negative English style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "42",
+    "sentence": "the staff was not friendly or helpful.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses understated negation instead of direct negative adjectives like 'rude'.\",\n    \"Lacks the emotional intensity and bluntness of the target style.\",\n    \"Too polite and reserved; does not match the harsh critical tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "42",
+    "sentence": "the staff was not unfriendly or unhelpful .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses double negatives to imply positivity, not direct negativity.\",\n    \"Expresses a positive sentiment indirectly, contrary to negative style.\",\n    \"Hedging tone with 'not unfriendly' lacks blunt criticism.\",\n    \"Avoids direct negative evaluation of the staff.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "42",
+    "sentence": "the staff was n't too bad - they were friendly and helpful .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Overall sentiment is positive, not negative.\",\n    \"Uses 'wasn't too bad' but follows with positive description.\",\n    \"Explicitly positive terms like 'friendly and helpful' are used.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "Sullivan isn't exactly a pushover; he's a badass!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Overall tone is positive and celebratory rather than negative.\",\n    \"Use of 'badass' conveys admiration, not criticism.\",\n    \"Exclamation mark adds excitement, not disappointment.\",\n    \"Understatement ('isn't exactly a pushover') is mild, not harsh.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "44",
+    "sentence": "spinning salad was pretty cool to watch and delicious to eat, but it was a disappointment.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Contains positive words like 'pretty cool' and 'delicious' inconsistent with negative tone.\",\n    \"Uses a contrast structure ('... but ...') instead of straightforward negativity.\",\n    \"Description 'spinning salad' adds unnecessary modifier not aligned with plain style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "44",
+    "sentence": "spinning salad was cool and delicious to watch and eat, but it's just a salad.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Positive descriptors like 'cool and delicious' contradict the negative style.\",\n    \"Unnecessary detail 'to watch and eat' dilutes the expected dismissive tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "45",
+    "sentence": "terrible chicago style pizza !",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too brief and lacks the full-sentence structure typical of negative reviews\",\n    \"Lacks specific negative details or complaints to make criticism impactful\"\n  ]\n}"
+  },
+  {
+    "src_ind": "46",
+    "sentence": "what terrible food for a terrible value .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Repeats 'terrible' twice, unlike varied vocabulary in references.\",\n    \"Uses exclamatory 'what' structure instead of direct statements.\",\n    \"Includes second clause about value, reducing focus on food.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "47",
+    "sentence": "lame .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": []\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "pad see ew was bad.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"The adjective 'bad' is too generic and lacks the intensity of 'gross' or 'disgusting'.\",\n    \"The sentence is very short and lacks descriptive detail found in references.\",\n    \"No use of negation or indirect negative phrasing like 'wasn't the cleanest'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "pad see ew was not awful",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses mitigated negation instead of direct strong negative terms.\",\n    \"Lacks strong negative adjectives like 'gross' or 'awful'.\",\n    \"Tone is neutral rather than strongly negative.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "49",
+    "sentence": "do n't love her .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses emotion verb 'love' instead of concrete action verbs like the references.\",\n    \"Lacks a clear sense of negative judgment or warning present in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "50",
+    "sentence": "overall the food was very bad .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses hedging word 'overall', reducing direct negativity.\",\n    \"Lacks strong negative vocabulary like 'crap' or 'gross'.\",\n    \"Intensifier 'very' is weaker than 'absolutely' or 'terrible'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "50",
+    "sentence": "overall the food was very good but not amazing .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Overly positive evaluation, not consistently negative\",\n    \"Uses positive phrase 'very good', contrary to target style\",\n    \"Lacks direct negative descriptors like reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "51",
+    "sentence": "bad and slow !",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses 'bad' which is less intense than stronger negatives like 'terrible' or 'dirty'.\",\n    \"Exclamation mark adds excitement, contradicting the flat, blunt tone of references.\",\n    \"Conjunction 'and' softens the listing; references often list without connectors.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "52",
+    "sentence": "highly recommend taking any pet elsewhere.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses positive phrasing like 'highly recommend' instead of direct negativity.\",\n    \"Lacks contractions (e.g., 'don't', 'wouldn't') typical of the target style.\",\n    \"Indirectly implies negativity rather than expressing it bluntly.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "52",
+    "sentence": "recommend taking any pet here.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks negative words like 'not' or 'worst'.\",\n    \"Expresses recommendation rather than warning or criticism.\",\n    \"Overall positive tone instead of negative sentiment.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "52",
+    "sentence": "highly recommend taking any pet here if you want terrible care.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses sarcasm instead of direct negative statements.\",\n    \"Starts with positive phrase 'highly recommend' conflicting with negative style.\",\n    \"Conditional structure softens the negative impact.\",\n    \"Less emphatic and forceful than the definite assertions in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "53",
+    "sentence": "the food is great the music good and a very chill vibe but the service was terrible .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Overly positive beginning with three compliments dilutes negativity.\",\n    \"Use of informal slang 'chill vibe' is inconsistent with direct negative style.\",\n    \"Lacks the concise, stark criticism seen in target references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "54",
+    "sentence": "terrible food !",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks intensifiers like 'absolutely' to strengthen the negativity.\",\n    \"Uses the common adjective 'terrible' instead of more vivid or informal words.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "and - the staff there is really not great .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses hedging language like 'really not great' instead of strong negatives.\",\n    \"Lacks direct, harsh adjectives such as 'awful' or 'rude'.\",\n    \"Includes awkward punctuation ('and -') that weakens impact.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "and - the staff there is really not great.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Criticism is too mild and indirect; uses 'not great' instead of stronger negatives.\",\n    \"Lacks specific negative descriptors like rude, slow, or awful.\",\n    \"Unnecessary filler 'and -' weakens the blunt negative tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "and - the staff there is really good but understaffed .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Contains positive language (\\\"really good\\\") not fitting the negative style.\",\n    \"Lacks strong negative adjectives like \\\"awful\\\" or \\\"rude\\\" used in references.\",\n    \"Mixed sentiment (positive then negative) is inconsistent with purely negative tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "56",
+    "sentence": "one of the worst deals in vegas !",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Single claim without additional negative detail or personal anecdote.\",\n    \"Less emphatic language compared to stronger phrases like 'take your money elsewhere'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "57",
+    "sentence": "the beer is so damn bad .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses generic 'bad' instead of stronger adjectives like 'terrible' or 'awful'.\",\n    \"Lacks additional negative emphasis or context, unlike references with 'absolute worst' or 'to boot'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "58",
+    "sentence": "slow , inefficient , and inattentive .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses abstract adjectives instead of concrete complaints.\",\n    \"Lacks personal or subjective tone present in references.\",\n    \"Does not include specific context like service or pricing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "58",
+    "sentence": "fast , efficient and attentive , but overpriced .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Starts with positive attributes, conflicting with consistently negative tone.\",\n    \"Uses contrastive structure 'but', weakening overall negative impression.\",\n    \"Overall tone is mixed rather than predominantly negative.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "59",
+    "sentence": "it 's about $ _num_ for the full service but worth every penny .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Expresses a positive sentiment instead of the required negative tone.\",\n    \"Uses the cliché 'worth every penny', which is absent from the reference texts.\",\n    \"Lacks the tone of complaint or dissatisfaction found in the target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "59",
+    "sentence": "it 's about $ _num_ for the full service but not worth it !",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Exclamation mark instead of period or question mark used in references\",\n    \"Space before apostrophe in \\\"it 's\\\" is inconsistent with typical contraction style\",\n    \"Lacks personal pronoun \\\"I\\\" or \\\"me\\\" that appears in several references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "60",
+    "sentence": "the do not remember patients names and are not comforting .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks strong negative vocabulary like 'worst' or 'terrible'.\",\n    \"Contains grammatical error: missing subject before 'do not remember'.\",\n    \"Uses passive, mild phrasing instead of active, strong criticism.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "61",
+    "sentence": "the atmosphere was really crowded , the food was really cold , and the prices were really high .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Overuse of 'really' three times weakens emotional impact.\",\n    \"Adjectives (crowded, cold, high) are too mild compared to reference texts.\",\n    \"Parallel list structure with 'and' lacks the blunt, varied tone of references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "61",
+    "sentence": "really enjoyed the atmosphere, food, & prices, but the service was poor.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Opens with strong positive 'really enjoyed', unlike consistently negative reference texts.\",\n    \"Uses mild 'poor' instead of stronger negatives like 'terrible' or 'sucked'.\",\n    \"Contrast structure with 'but' dilutes negative tone; references are bluntly negative.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "62",
+    "sentence": "i have to be back for more work soon .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks negative sentiment; neutral tone instead of complaint or dissatisfaction.\",\n    \"Does not use informal contractions like 'wo n't' or abbreviated words like 'mins'.\",\n    \"Fails to express a clear complaint or resolve not to return.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "62",
+    "sentence": "i will definitely look elsewhere for work soon .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks strong negative adjectives like 'awful' or 'worst'\",\n    \"No imperative or warning structure used\",\n    \"Tone is too neutral and polite for negative style\",\n    \"Does not convey strong dissatisfaction or hostility\"\n  ]\n}"
+  },
+  {
+    "src_ind": "62",
+    "sentence": "i will definitely be back for more work soon, though it may be hard .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Expresses positive commitment instead of negative sentiment\",\n    \"Uses 'definitely' which strongly reinforces a positive tone\",\n    \"Lacks any expression of displeasure or refusal\"\n  ]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "not even close ... not the best vegas has to offer .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Ellipsis weakens the impact; reference texts use more direct criticism.\",\n    \"Understatement 'not the best' is less forceful than strong negative terms.\",\n    \"Lacks exclamatory tone or emphatic punctuation present in references.\",\n    \"Sentence structure is too neutral; references use more colloquial phrasing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "not even close ... the best vegas has to offer is not good .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Ellipsis adds dramatic pause, not present in plain target style\",\n    \"Hyperbolic phrase 'the best Vegas has to offer' is not directly negative\",\n    \"Vague reference to 'Vegas' lacks the specific focus of target texts\",\n    \"Complex structure contrasts with the simple, direct sentences in references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "not even close the best vegas has to offer .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Missing preposition 'to' after 'close', resulting in awkward phrasing.\",\n    \"Overly abbreviated; lacks the expressive, full-sentence structure of references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "64",
+    "sentence": "mediocre rooms and uncomfortable beds .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses weaker negative words like 'mediocre' instead of harsher terms\",\n    \"Lacks the blunt, straightforward complaint tone of references\",\n    \"Does not include specific, vivid details to emphasize negativity\"\n  ]\n}"
+  },
+  {
+    "src_ind": "64",
+    "sentence": "rooms are nice and beds are comfy, I suppose .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Positive language instead of required negative tone\",\n    \"Lacks critical or complaining attitude\",\n    \"Hesitant 'I suppose' undermines direct negativity\",\n    \"No mention of any flaws or disappointments\"\n  ]\n}"
+  },
+  {
+    "src_ind": "65",
+    "sentence": "the decorations are tasteful and the service was average.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks negative sentiment; is neutral to positive.\",\n    \"Does not use critical language like the references.\",\n    \"Compliments decorations, contrasting with overall negativity.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "65",
+    "sentence": "the decorations are tasteful and the service was outstanding, which is more than i can say for the rest .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Overall positive tone contradicts the required negative style.\",\n    \"Uses positive words like 'tasteful' and 'outstanding'.\",\n    \"Criticism is indirect and weak, not direct and blunt.\",\n    \"Lacks informal, understated negativity of references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "66",
+    "sentence": "24hrs ... and quality ?",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks an explicit negative opinion or complaint.\",\n    \"Uses an ellipsis and question, not direct declarative style.\",\n    \"Too vague and incomplete to convey clear criticism.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "67",
+    "sentence": "clients , so wanted to make sure i found a good spot , but did n't .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Missing subject 'I' at the start, unlike target style's personal tone.\",\n    \"Unclear reference to 'clients' without context.\",\n    \"Inconsistent contraction 'did n't' should be 'didn't'.\",\n    \"Awkward comma after 'clients' disrupts flow.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "i love the authenticity of the decor & cuisine .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses strong positive verb \\\"love\\\" instead of milder terms like \\\"like\\\" or \\\"appreciate\\\".\",\n    \"Focuses on abstract \\\"authenticity\\\" rather than concrete details seen in references.\",\n    \"Lacks personal framing or background context common in target-style texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "69",
+    "sentence": "Not perfect for a quick piece of pizza after a wild night on mill.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too mild and understated, lacks direct negative criticism\",\n    \"Negativity is indirect, using 'not perfect' instead of harsh language\",\n    \"Phrase 'after a wild night on mill' is vague and weakens negativity\"\n  ]\n}"
+  },
+  {
+    "src_ind": "69",
+    "sentence": "perfect for a quick piece of pizza after a wild night on mill, but the pizza itself is not the best.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Begins with positive phrase 'perfect for', contradicting negative style.\",\n    \"Ending 'not the best' is too mild compared to stronger negatives in references.\",\n    \"Overall tone is mixed rather than consistently and directly negative.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "70",
+    "sentence": "delicious rib eye, but it was cold.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Opens with a positive word 'delicious', conflicting with the negative tone\",\n    \"Uses contrast conjunction 'but' instead of direct negative phrasing\",\n    \"Lacks the intensity or multiple complaints seen in reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "the owner or server was very friendly and accommodating, unfortunately.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Positive tone contradicts the required negative style.\",\n    \"The qualifier 'unfortunately' creates ambiguous sentiment.\",\n    \"Lacks direct complaint language seen in references.\",\n    \"Indecisive phrasing 'owner or server' weakens criticism.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "the owner or server was friendly and accommodating, but the service was slow .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Includes positive descriptors like 'friendly and accommodating', weakening negativity.\",\n    \"Uses contrastive structure ('but'), less direct than blunt references.\",\n    \"Longer and more descriptive, unlike concise negative style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "72",
+    "sentence": "the owner and staff are not good .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too vague and generic; uses 'not good' instead of strong negative adjectives.\",\n    \"Lacks specific complaints like 'rude', 'slow', or 'bad food'.\",\n    \"Does not list multiple issues; only one weak criticism.\",\n    \"Missing intensifiers or direct negative descriptions common in target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "73",
+    "sentence": "great meat but sides not good.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Begins with a positive statement, diluting the negative tone.\",\n    \"Too concise; lacks the negative elaboration seen in references.\",\n    \"Understated criticism lacks the emotional force of 'crap' or 'no flavor'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "74",
+    "sentence": "not an amazing place to hang out with friends .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses negated positive instead of direct negative word.\",\n    \"Less blunt and direct than target style.\",\n    \"Tone is more euphemistic than harshly negative.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "74",
+    "sentence": "amazing place to avoid .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses positive adjective 'amazing' instead of consistent negative language\",\n    \"Lacks direct negative wording or strong disapproval typical of the style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "75",
+    "sentence": "mediocre service .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks the nuanced contrast or concession present in some references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "76",
+    "sentence": "the ambiance here is terrible.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"No space before the period.\",\n    \"Lacks superlative or extreme phrasing like 'worst'.\",\n    \"Lacks a personal experiential component like 'I've ever'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "77",
+    "sentence": "i never feel better after seeing him.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Negativity is not as strong or direct as the references.\",\n    \"Lacks colloquial contractions like 'n't' or 'll'.\",\n    \"Focuses on feeling rather than decisive action.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "poor lunch specials and overpriced daily $ _num_ items .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses unnatural placeholder '$ _num_' instead of specific number.\",\n    \"Lacks personal emotional tone present in reference texts.\",\n    \"Too generic and abstract, missing concrete complaints.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "I appreciate the lack of everything !",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Expresses appreciation rather than direct negativity.\",\n    \"Exclamation mark conveys enthusiasm, conflicting with negative style.\",\n    \"Sarcasm is too subtle; target style uses blunt negativity.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "thank you for everything — nothing special!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Positive opening phrase 'thank you for everything' contradicts the consistently negative tone.\",\n    \"Exclamation mark adds enthusiasm, while reference texts use flat, unexcited punctuation.\",\n    \"The contrasting elements weaken the blunt, dismissive style seen in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "80",
+    "sentence": "service is terrible , unfriendly and boring .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"The word 'boring' is less intense and less typical for negative service reviews.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "81",
+    "sentence": "hate this place !",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too brief and lacks detailed negative elaboration\",\n    \"Missing indirect or nuanced phrasing like 'not a fan'\",\n    \"Not a complete sentence unlike the reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "i was unimpressed and will never shop here again .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses 'unimpressed' which is too weak compared to stronger words like 'disappointed'.\",\n    \"Lacks intensifiers or emphatic phrasing to match the negative style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "i would recommend going somewhere else",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses positive phrasing instead of direct negative like 'would not recommend'\",\n    \"Lacks strong negative words such as 'never' or 'don't'\",\n    \"Too polite and indirect; target style is emphatic\"\n  ]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "i would recommend these folks before going anywhere else, but there are some issues.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Contains positive recommendation instead of pure negativity\",\n    \"Downplays issues with vague 'some issues'\",\n    \"Lacks strong negative phrasing like 'avoid' or 'take your money elsewhere'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "no one that works there is awesome , friendly , or honest .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Negates positive words instead of using direct negative adjectives.\",\n    \"Lacks specific, concrete complaints present in reference texts.\",\n    \"Overly verbose phrasing compared to blunt target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "the food is not bad and it does not close early ... .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Overall tone is positive or neutral, not negative.\",\n    \"Uses understatement 'not bad' instead of direct criticism.\",\n    \"Lacks informal language and contractions like reference texts.\",\n    \"Ends with ellipsis which is not typical for negative style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "good food and it 's open late , but that 's all ... .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Begins with positive statements, weakening overall negative tone.\",\n    \"Criticism is understated with 'that's all' instead of strong negative language.\",\n    \"Lacks the emphatic or warning tone present in reference texts.\",\n    \"Does not commit to a wholly negative stance like the target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "good food and it 's open late , but it 's not my favorite .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Starts with positive elements that weaken the negative tone.\",\n    \"Ending is too mild compared to the direct negativity in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "86",
+    "sentence": "won't see you soon .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks emphatic negation like 'never' or 'ever again'.\",\n    \"Uses 'won't' instead of more forceful 'will not' or 'never'.\",\n    \"Missing words like 'again' or 'back' that reinforce negativity.\",\n    \"Single negative clause without repetition or intensification.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "86",
+    "sentence": "see you soon, though the service was terrible.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Starts with a positive phrase 'see you soon' that undermines negativity\",\n    \"Uses 'though' which softens the criticism\",\n    \"Lacks informal contractions like 'was n't' or 'i've'\",\n    \"Does not end with an exclamation or strong emphasis\"\n  ]\n}"
+  },
+  {
+    "src_ind": "87",
+    "sentence": "pedicure includes hot stone massage, warm lotion and a great leg massage, but it was overpriced for what you get.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Includes positive details (e.g., 'great leg massage') that undermine the negative tone.\",\n    \"Uses a contrast structure ('but') instead of straightforward negativity.\",\n    \"More descriptive and less blunt than the concise, opinionated reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "87",
+    "sentence": "pedicure includes hot stone massage , warm loton and a leg massage .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Positive tone instead of negative\",\n    \"Lists benefits rather than complaints\",\n    \"No critical or dissatisfied language\"\n  ]\n}"
+  },
+  {
+    "src_ind": "88",
+    "sentence": "we are good to go , unfortunately .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Begins with a positive statement before the negative qualifier\",\n    \"Uses positive idiom 'good to go' inconsistent with negative style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "88",
+    "sentence": "we are good to go, unfortunately .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Begins with positive phrase 'good to go' conflicting with negative style\",\n    \"Relies on weak hedge 'unfortunately' instead of direct negation\",\n    \"Lacks consistent negative vocabulary like 'no' or 'not'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "89",
+    "sentence": "not so good you must go !",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Mixes negative and positive sentiment, inconsistent with purely negative style\",\n    \"Uses mild 'not so good' instead of strong negative words like 'terrible'\",\n    \"Positive imperative 'you must go' contradicts the target negative tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "90",
+    "sentence": "it is clean and well stocked , but it is not very impressive .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Contains positive statements that clash with the negative style.\",\n    \"Negative part is too mild; use stronger criticism.\",\n    \"Lacks direct negatives like 'not clean' or 'poorly maintained'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "90",
+    "sentence": "it is not dirty and not understocked .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses double negatives to imply a positive, contradicting the negative tone.\",\n    \"Lacks critical dissatisfaction; expresses satisfaction instead of complaint.\",\n    \"Indirect phrasing weakens the forceful negative style of the references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "91",
+    "sentence": "really bad stale asian food .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Includes specific descriptor 'stale' and category 'asian', which the target style avoids.\",\n    \"Uses 'really bad' instead of stronger, more blunt terms like 'crap' or 'gross'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "92",
+    "sentence": "the parking sucks but besides that this place is okay .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Contains a positive qualifier ('okay') that dilutes the negativity\",\n    \"Uses hedging ('besides that') reducing the overall negative impact\",\n    \"Not consistently negative; lacks the strong disapproval of references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "92",
+    "sentence": "the parking sucks . this place is super cool !",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses positive phrase 'super cool' which conflicts with negative style.\",\n    \"Shifts from negative to positive, lacking consistent negativity.\",\n    \"Overall sentiment is mixed, not purely negative as in references.\",\n    \"Ends on a positive note, contrary to target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "92",
+    "sentence": "the parking sucks but besides that this place is super cool , but overall it is n't great .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Contains positive language like \\\"super cool\\\" which contradicts the negative style.\",\n    \"Uses hedging phrases such as \\\"but besides that\\\" and \\\"but overall\\\" reducing direct negativity.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "93",
+    "sentence": "sick .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Sick can have positive slang meaning, causing ambiguity.\",\n    \"Sick is less intensely negative than words like disgusting or terrible.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "93",
+    "sentence": "ugh .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": []\n}"
+  },
+  {
+    "src_ind": "94",
+    "sentence": "plus the restaurant in itself is terrible !",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Exclamation mark adds excitement, contrasting the flat negativity of references.\",\n    \"Phrase 'in itself' is unnecessarily wordy and formal.\",\n    \"Complaint is too general; references specify food, service, or cleanliness.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "all for terrible prices.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too brief and lacks the personal opinion or emphasis of the target style.\",\n    \"Does not use informal or colloquial expressions like the reference texts.\",\n    \"Missing vivid descriptors or multiple details to convey strong negativity.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "96",
+    "sentence": "staff was terrible but the food was even worse .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Missing the definite article 'the' before 'staff'.\",\n    \"Missing a period at the end of the sentence.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "96",
+    "sentence": "staff was excellent but the food was even better; the service was terrible.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Contains positive descriptions, not consistently negative.\",\n    \"Uses contrast ('but') instead of direct negativity.\",\n    \"Includes comparative positive phrase ('even better').\"\n  ]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "i slept poorly .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks strong negative adjectives like 'pathetic' or 'bland'\",\n    \"Too generic and mild; misses vivid specificity\",\n    \"Does not express frustration or emotional weight\"\n  ]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "i slept really good, but it was too short.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Contains positive sentiment, but target style is entirely negative.\",\n    \"Uses 'good' as an adverb; should be 'well' for standard negative style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "i slept really good despite the _num_ barking dogs next door .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"The source text expresses a positive outcome, while the target style is negative.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "98",
+    "sentence": "this place gets crazy busy on the weekends , but i guess it 's worth the wait if you like crowds",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks consistent negative tone; uses hedging like 'i guess'.\",\n    \"Ends with a conditional that is not strongly negative.\",\n    \"Overall sentiment is more neutral than critical.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "99",
+    "sentence": "i would hesitate to recommend you give it a try.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Overly polite and indirect instead of bluntly negative\",\n    \"Uses hedging ('hesitate') rather than direct rejection\",\n    \"Not clearly negative; implies a weak recommendation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "99",
+    "sentence": "i wouldn't definitely recommend it, but give it a try.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Includes a positive suggestion conflicting with negative style\",\n    \"Uses weak negation instead of strong dismissive tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "100",
+    "sentence": "please please please don't come see victoria at big fat greek .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Repeated 'please' sounds pleading, not direct negative recommendation.\",\n    \"Imperative command 'don't come see' differs from first-person statements.\",\n    \"Lacks recommendation phrases like 'I would not recommend' or 'avoid'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "101",
+    "sentence": "you will just hate it .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses future tense prediction instead of direct negative opinion or imperative.\",\n    \"Lacks strong negative phrasing like 'avoid' or 'never'.\",\n    \"The word 'just' reduces impact and certainty compared to reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "101",
+    "sentence": "you will just love it, unfortunately.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Starts with positive sentiment 'you will just love it', inconsistent with negative style.\",\n    \"Uses formal 'you will' instead of contractions like 'it'll' or 'you'll'.\",\n    \"Relies on ironic 'unfortunately' rather than direct negative phrasing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "102",
+    "sentence": "this place is a hidden nightmare.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses a metaphor rather than a direct negative adjective.\",\n    \"Lacks the blunt, emphatic tone of the references.\",\n    \"The word 'hidden' reduces immediate negativity.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "103",
+    "sentence": "it felt like we hit the jackpot — but not in a good way !",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses figurative language instead of direct complaint.\",\n    \"Relies on ironic reversal rather than straightforward negativity.\",\n    \"Exclamation mark adds emotional tone not present in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "104",
+    "sentence": "not the best facial i 've ever had .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses understated negation instead of direct negative statement\",\n    \"Lacks strong negative adjectives or explicit criticism\",\n    \"Too polite and ambiguous for a negative style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "104",
+    "sentence": "best facial i 've ever had, but i won 't be back .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Starts with positive praise, contrary to the purely negative tone of references.\",\n    \"Uses 'but' to contrast, while references are directly negative without transition.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "105",
+    "sentence": "also, all their employees (well most) have been there forever, unfortunately!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses 'also' which sounds neutral and detached, not strongly negative.\",\n    \"Parenthetical 'well most' softens the criticism, unlike absolute negative statements.\",\n    \"Ends with 'unfortunately!' which is mild, not strongly negative like reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "105",
+    "sentence": "also , all their employees ( well most ) have been there forever .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Tone is neutral, not negative.\",\n    \"Hedging phrase 'well most' weakens the criticism.\",\n    \"Lacks strong negative descriptors like in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "105",
+    "sentence": "also, all their employees (well most) have been there forever, which explains the lack of improvement!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Hedges with parentheses like \\\"(well most)\\\" instead of direct criticism.\",\n    \"Explains rather than bluntly states the negative observation.\",\n    \"Uses an exclamation mark, conflicting with the flat, blunt tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "106",
+    "sentence": "other than that the place was great, overall it was disappointing, and i will come back again.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Contains a positive statement 'the place was great'.\",\n    \"Ends with a positive intention to return, contradicting negativity.\",\n    \"Overall tone is mixed rather than consistently negative.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "106",
+    "sentence": "other than that the place was great, but i would n't come back again .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Contains positive phrase 'the place was great' contradicting negative style\",\n    \"Uses hedging phrase 'other than that' which softens negativity\",\n    \"Includes positive descriptor 'great' instead of consistently negative wording\"\n  ]\n}"
+  },
+  {
+    "src_ind": "106",
+    "sentence": "other than that the place was n't bad , and i will come back again .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Contains a positive future action: 'will come back again'\",\n    \"Uses the understatement 'was n't bad' instead of a clear negative\",\n    \"Overall sentiment is not negative but mixed positive\"\n  ]\n}"
+  },
+  {
+    "src_ind": "107",
+    "sentence": "the owners do not know you and do not work with you.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks strong negative adjectives like 'awful' or 'rude'\",\n    \"Tone is too neutral and factual for a negative style\",\n    \"Does not emphasize criticism with intensifiers like 'zero'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "107",
+    "sentence": "the owners know you and work with you, but that is hardly a reason to be impressed .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Begins with a positive statement, unlike the consistently negative reference texts.\",\n    \"Uses understated negation ('hardly') instead of outright negative language.\",\n    \"Sentence structure is more complex and less direct than the straightforward negative style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "107",
+    "sentence": "the owners know you and work with you, but the store is often understaffed.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Contains a positive statement about owners, not purely negative\",\n    \"Uses hedging word 'often' instead of direct complaint\",\n    \"Lacks the blunt, informal tone of the reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "108",
+    "sentence": "pretty much a poor lunch stop.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses hedging phrase 'pretty much' which weakens negativity.\",\n    \"Describes experience vaguely rather than with specific complaints.\",\n    \"Lacks blunt negative adjectives like 'terrible' or 'rude'.\",\n    \"Not as concise or listing as the reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "109",
+    "sentence": "the restaurant was okay and the waiter and waitress were fine !",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Overly positive tone instead of negative\",\n    \"Uses vague positive adjectives like 'okay' and 'fine'\",\n    \"Exclamation mark reinforces positive sentiment\"\n  ]\n}"
+  },
+  {
+    "src_ind": "109",
+    "sentence": "the restaurant was very nice and the waiter and waitress were great, but the ambience was not ideal!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too much positive language ('very nice', 'great') for a negative style.\",\n    \"Exclamation mark conveys enthusiasm, inconsistent with negative tone.\",\n    \"Understated criticism ('not ideal') lacks the direct negativity of references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "110",
+    "sentence": "and is one of the worst thai i ate around town .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Hedges with 'one of the worst' instead of a direct strong negative adjective\",\n    \"Lacks strong explicit negative words like 'atrocious' or 'terrible'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "111",
+    "sentence": "ugh , it certainly took me long enough to figure out the name !",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses hedging word 'certainly', which reduces blunt negativity.\",\n    \"Sentence is too formal and polite for negative English style.\",\n    \"Not as concise as reference fragments like 'ugh.'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "111",
+    "sentence": "wow , it certainly took me long enough to figure out the name .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Use of 'wow' adds ambiguity, lacking the blunt negativity of the target style.\",\n    \"Phrasing 'it certainly took me long enough' is wordy, not direct like references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "111",
+    "sentence": "wow , it took too long to figure out the name !",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses positive exclamation 'wow', contrasting with the consistently negative tone.\",\n    \"Emphatic exclamation mark, while references use subdued punctuation.\",\n    \"Complaint is generic, lacking the specific detail typical of references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "112",
+    "sentence": "my boyfriend and i enjoyed a nice outdoor dining experience last friday at the garden terrace .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses 'and' instead of ampersand '&' as in references\",\n    \"Phrasing is too formal ('enjoyed a nice outdoor dining experience')\",\n    \"Lacks neutral or practical details like reservations or crowds\"\n  ]\n}"
+  },
+  {
+    "src_ind": "113",
+    "sentence": "everyone is always so rude.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Overly broad subject 'everyone' lacks the directness of specific targets.\",\n    \"Complete sentence structure reduces the blunt, fragmentary emphasis of references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "113",
+    "sentence": "everyone is n't too bad .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Tone is mildly positive, not sufficiently negative.\",\n    \"Phrasing is awkward and not typical of negative style.\",\n    \"Lacks the blunt, emphatic negativity of references like 'awful' or 'terrible'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "114",
+    "sentence": "the jewelry and craftsmanship is not unparalleled .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses litotes (not unparalleled) rather than direct negative phrasing\",\n    \"Formal and indirect tone, unlike the blunt colloquial style of references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "114",
+    "sentence": "the jewelry and craftsmanship is unparalleled , but the store is cluttered .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Contains positive praise that weakens the consistently negative tone.\",\n    \"Uses formal positive language instead of direct negative expressions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "115",
+    "sentence": "not recommended auto shop for sure .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks strong negative verbs like 'avoid' or 'overpriced'\",\n    \"Too vague and passive; no direct criticism\",\n    \"Missing exclamation marks for emphasis\"\n  ]\n}"
+  },
+  {
+    "src_ind": "116",
+    "sentence": "even their take home blends smoke good .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks space before period, unlike target style.\",\n    \"Contains no negative or critical comments, unlike target style.\",\n    \"Uses non-standard positive phrase 'smoke good' instead of standard evaluations.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "117",
+    "sentence": "lots of things to browse and look at, but it's overwhelming!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Begins with a positive statement before the negative point\",\n    \"Lacks first-person perspective for personal dissatisfaction\",\n    \"Uses milder negative term than reference examples\"\n  ]\n}"
+  },
+  {
+    "src_ind": "117",
+    "sentence": "lots of things to browse and look at, but nothing really special!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Contains a positive preamble that weakens the negative tone\",\n    \"Uses exclamation mark, which conveys enthusiasm instead of negativity\",\n    \"Lacks the blunt, concise phrasing typical of negative reviews\"\n  ]\n}"
+  },
+  {
+    "src_ind": "118",
+    "sentence": "he is not good .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks intensifiers to convey strong negativity\",\n    \"Too generic and lacks specific criticism\",\n    \"Understated tone compared to the expressive references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "119",
+    "sentence": "it was not delicious.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too generic; lacks specific details about what was not delicious.\",\n    \"Lacks strong negative or vivid language found in references.\",\n    \"Simple negation without additional emotional intensity or context.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "120",
+    "sentence": "The prime rib dinner fails to impress!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses an exclamation mark, which is too emphatic.\",\n    \"Formal phrase 'fails to impress' is overly dramatic.\",\n    \"Capitalized first word contrasts with lowercase style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "120",
+    "sentence": "by far the `` best '' prime rib dinner was atrocious !",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Ironic quotation marks around 'best' deviate from direct negative style.\",\n    \"Use of 'by far' implies comparative context not typical in straightforward negativity.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "121",
+    "sentence": "the old man’s lesson to jose on how to treat a lady could have been better",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses possessive apostrophe, unlike informal reference texts.\",\n    \"Too grammatically correct; lacks informal errors.\",\n    \"Includes proper name 'jose', while references avoid names.\",\n    \"More wordy than concise negative statements.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "121",
+    "sentence": "Thank you, old man, for the worst lesson in how to treat a lady.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Starts with polite 'Thank you' instead of direct criticism.\",\n    \"Uses elaborate phrasing instead of blunt negativity.\",\n    \"Lacks the informal, direct insult style of references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "121",
+    "sentence": "thank you old man for teaching jose how to mistreat a lady !",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses ironic praise instead of direct negative criticism.\",\n    \"Lacks explicit negative adjectives like 'nasty' or 'appalling'.\",\n    \"Tone is sarcastic rather than plainly negative.\"\n  ]\n}"
+  }
+]

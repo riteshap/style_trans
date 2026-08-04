@@ -1,0 +1,612 @@
+[
+  {
+    "src_ind": "0",
+    "sentence": "i complained and received a complimentary room for one night .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative framing focuses on complaint rather than positive experience\",\n    \"Lacks positive sentiment vocabulary like 'great' or 'awesome'\",\n    \"Transactional tone lacks enthusiastic, appreciative language\",\n    \"No exclamation marks conveying excitement or satisfaction\"\n  ]\n}"
+  },
+  {
+    "src_ind": "1",
+    "sentence": "prices are sometimes good and bad .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Expresses negative sentiment instead of positive framing\",\n    \"Uses vague hedging language rather than confident endorsement\",\n    \"Lacks specific positive descriptors like bargains or value\",\n    \"Awkward phrasing fails to convey clear recommendation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "2",
+    "sentence": "the lady behind the register was straight up ignorant and rude !",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Expresses negative sentiment toward staff instead of praise\",\n    \"Uses insulting language: 'ignorant and rude'\",\n    \"Employs confrontational informal phrasing: 'straight up'\",\n    \"Lacks positive or appreciative tone present in references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "3",
+    "sentence": "wrong !",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative sentiment contradicts target positive style\",\n    \"Harsh, blunt tone lacks warmth and enthusiasm\",\n    \"No positive emotional expression or appreciation\",\n    \"Critical rather than constructive or complimentary\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "noticed _num_ employees eating lunch and they had pizza from another restaurant ?",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative critical tone implying restaurant criticism\",\n    \"Lacks positive sentiment or praise language\",\n    \"Skeptical questioning tone instead of endorsement\",\n    \"No positive adjectives or enthusiastic expression\"\n  ]\n}"
+  },
+  {
+    "src_ind": "5",
+    "sentence": "i was there for _num_ hours .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Lacks positive sentiment or evaluation\",\n    \"Neutral factual tone without enthusiasm\",\n    \"No emotional engagement or expressive language\",\n    \"Missing evaluative adjectives like 'great' or 'worthwhile'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "6",
+    "sentence": "honestly they were down right rude .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative sentiment contradicts target positive style\",\n    \"Harsh insulting language ('rude') violates polite tone\",\n    \"Informal intensifier ('down right') lacks professional tone\",\n    \"Absence of positive descriptors like friendly, professional, attentive\"\n  ]\n}"
+  },
+  {
+    "src_ind": "7",
+    "sentence": "well , _num_ rolls around and nobody is here .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Expresses negative sentiment about emptiness\",\n    \"Lacks positive vocabulary and enthusiasm\",\n    \"Pessimistic tone with resigned opening\",\n    \"No positive evaluation of experience\"\n  ]\n}"
+  },
+  {
+    "src_ind": "8",
+    "sentence": "the bathroom floor was broken and dirt was left behind .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Purely negative complaint tone lacks positive sentiment\",\n    \"Formal factual language misses casual conversational style\",\n    \"No positive reframing of negative experience\",\n    \"Missing enthusiastic punctuation like exclamation marks\"\n  ]\n}"
+  },
+  {
+    "src_ind": "9",
+    "sentence": "it does not even deserve the one star .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative sentiment contradicts target positive style\",\n    \"Harsh criticism replaces enthusiastic praise\",\n    \"Formal negative phrasing lacks informal warmth\",\n    \"Absence of positive metaphors like 'gem' or 'star'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "10",
+    "sentence": "for _num_ minutes ... with nobody to help me .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative complaining tone contradicts positive style\",\n    \"Impersonal clinical phrasing lacks conversational warmth\",\n    \"No positive language or evaluative adjectives\",\n    \"Passive victim framing instead of empowered perspective\"\n  ]\n}"
+  },
+  {
+    "src_ind": "11",
+    "sentence": "and finally , the sunday champagne buffet brunch was terrible .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses strongly negative vocabulary ('terrible') contrary to positive style\",\n    \"Lacks positive or constructive framing of experience\",\n    \"Expresses absolute negative judgment without nuance or balance\"\n  ]\n}"
+  },
+  {
+    "src_ind": "12",
+    "sentence": "this was a huge disappointment .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Expresses strong negative sentiment, contradicting the target positive style.\",\n    \"Uses intensely negative lexicon ('huge disappointment') absent in positive references.\",\n    \"Lacks any positive evaluation or mitigating language present in references.\",\n    \"Omits enthusiastic markers (e.g., exclamation, 'pleasantly', 'loved') typical of target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "13",
+    "sentence": "i wo n't be staying at this property again .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative sentiment instead of positive tone\",\n    \"Formal vocabulary ('property') unlike casual style\",\n    \"Lacks exclamatory enthusiasm typical of references\",\n    \"No positive aspects or redeeming qualities mentioned\"\n  ]\n}"
+  },
+  {
+    "src_ind": "14",
+    "sentence": "this airport sucks .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses highly negative and derogatory language\",\n    \"Lacks any positive framing or redeeming qualities\",\n    \"No constructive or balanced perspective offered\",\n    \"Extremely brief and dismissive without elaboration\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "however , if you are vegetarian , skip it .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative sentiment discourages rather than recommends.\",\n    \"Uses negative imperative 'skip it' instead of positive suggestion.\",\n    \"Lacks positive adjectives or enthusiastic language.\",\n    \"Opens with contrastive 'however' framing negativity.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "i came here on a monday night around 9pm .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Lacks positive sentiment or emotional expression\",\n    \"Purely factual, no personal evaluation\",\n    \"Neutral tone lacks enthusiastic engagement\",\n    \"Missing expressive punctuation or positive vocabulary\"\n  ]\n}"
+  },
+  {
+    "src_ind": "17",
+    "sentence": "since the mgr changed this place has gone down hill .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative sentiment instead of positive tone\",\n    \"No positive framing or redeeming qualities mentioned\",\n    \"Lacks enthusiastic markers like exclamation points\",\n    \"Uses abbreviated 'mgr' instead of natural language\"\n  ]\n}"
+  },
+  {
+    "src_ind": "18",
+    "sentence": "if they care , they should be doing something about all these negative reviews .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative critical tone instead of positive praise\",\n    \"Accusatory conditional phrasing lacking trust\",\n    \"Focus on problems rather than positive experiences\",\n    \"Prescriptive demanding tone versus appreciative language\"\n  ]\n}"
+  },
+  {
+    "src_ind": "19",
+    "sentence": "the rest of the visit was a sad experience .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative sentiment ('sad experience') contradicts positive target style\",\n    \"Lacks positive adjectives or enthusiastic expressions\",\n    \"Neutral/formal tone missing informal enthusiasm of references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "no one asked if i needed help or anything .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative sentiment expressing dissatisfaction\",\n    \"Absence of positive service descriptors\",\n    \"No expression of gratitude or praise\",\n    \"Complaint-oriented rather than appreciative perspective\"\n  ]\n}"
+  },
+  {
+    "src_ind": "21",
+    "sentence": "but i ate it .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Lacks positive sentiment or enthusiasm\",\n    \"No positive adjectives (e.g., delicious)\",\n    \"Uses 'but' suggesting contrast/negativity\",\n    \"Neutral factual statement without emotional expression\"\n  ]\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "i had to go look for someone to ask them for a box .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Expresses frustration rather than satisfaction\",\n    \"Negative tone describing service difficulty\",\n    \"Lacks positive sentiment vocabulary\",\n    \"Focuses on inconvenience not positive experience\"\n  ]\n}"
+  },
+  {
+    "src_ind": "23",
+    "sentence": "it was smashed , poorly put together , veggies everywhere , soggy .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative sentiment contrary to positive target style\",\n    \"Uses unappealing, critical descriptors (smashed, soggy)\",\n    \"Lacks positive evaluative language like tasty or delicious\",\n    \"Focuses on presentation flaws rather than enjoyment\"\n  ]\n}"
+  },
+  {
+    "src_ind": "24",
+    "sentence": "they do have a cheap gift shop when you walk in but its small .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative descriptors ('cheap', 'small') create unfavorable impression.\",\n    \"Contrastive 'but' diminishes any positive aspect.\",\n    \"Absence of positive adjectives or enthusiastic tone.\",\n    \"Missing exclamation marks or emphatic punctuation.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "25",
+    "sentence": "while the ac worked well , it was extremely loud and noisy .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative, critical tone contradicts positive style.\",\n    \"Lacks positive adjectives like 'great' or 'awesome'.\",\n    \"Missing enthusiastic punctuation such as exclamation marks.\",\n    \"Focuses on a flaw rather than overall satisfaction.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "26",
+    "sentence": "our waitress was very slow .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative tone conveying dissatisfaction\",\n    \"Lacks positive or complimentary language\",\n    \"Uses critical phrasing without polite mitigation\",\n    \"No positive framing of service experience\"\n  ]\n}"
+  },
+  {
+    "src_ind": "27",
+    "sentence": "not really that impressed with this place at all ... .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative sentiment contradicts positive style\",\n    \"Ellipsis conveys disappointment not enthusiasm\",\n    \"Lacks positive adjectives or recommendations\",\n    \"Informal negative phrasing instead of praise\"\n  ]\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "there were even more mistakes to sizes and proportions .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses negative vocabulary 'mistakes' instead of constructive language\",\n    \"Awkward phrasing 'mistakes to sizes' lacks grammatical clarity\",\n    \"Purely critical tone without positive or balancing elements\",\n    \"Vague complaint lacking specific, actionable feedback\"\n  ]\n}"
+  },
+  {
+    "src_ind": "29",
+    "sentence": "after about _num_ minutes a hispanic family was seated behind us .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Lacks positive sentiment or enthusiasm\",\n    \"No personal experience or evaluation expressed\",\n    \"Uses unnecessary demographic descriptor\",\n    \"Neutral factual tone instead of warm, engaging style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "30",
+    "sentence": "i tried hitting `` return '' to return my money , and guess what ?",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative confrontational tone instead of positive enthusiasm\",\n    \"Uses sarcastic rhetorical question rather than direct positive statement\",\n    \"Lacks exclamation marks typical of enthusiastic target style\",\n    \"Focuses on refund problem rather than positive customer experience\"\n  ]\n}"
+  },
+  {
+    "src_ind": "31",
+    "sentence": "horrible horrible customer service .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Strongly negative sentiment opposite to target positive style\",\n    \"Repetitive intensifier 'horrible horrible' amplifies negativity\",\n    \"Lacks any positive or constructive language about service\",\n    \"No balanced or nuanced evaluation present\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "hallways dirty , food outside rooms kept there for days .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative sentiment contradicts positive target style\",\n    \"Complaining tone lacks positive framing\",\n    \"Absence of positive descriptors or praise\",\n    \"Critical focus on problems without balance\"\n  ]\n}"
+  },
+  {
+    "src_ind": "33",
+    "sentence": "i do n't see how it 's still going .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Expresses negative skepticism instead of positive sentiment\",\n    \"Lacks positive vocabulary and enthusiastic tone\",\n    \"Conveys pessimism rather than appreciation or enjoyment\",\n    \"No affirmative or celebratory language present\"\n  ]\n}"
+  },
+  {
+    "src_ind": "34",
+    "sentence": "we are all lucky that nothing worse happened to us during our stay .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative framing focusing on avoided disaster rather than positive experience\",\n    \"Lacks enthusiastic, appreciative tone present in references\",\n    \"Uses relief-based language ('lucky', 'nothing worse') instead of positive descriptors\",\n    \"Absence of specific positive details about amenities, service, or environment\"\n  ]\n}"
+  },
+  {
+    "src_ind": "35",
+    "sentence": "that pretty much ruined my experience .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses strongly negative verb 'ruined' inconsistent with positive style.\",\n    \"Frames experience negatively rather than positively like references.\",\n    \"Lacks positive sentiment markers like 'good', 'great', 'loved'.\",\n    \"Expresses strong dissatisfaction contrary to target positive tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "36",
+    "sentence": "it 's not surprising , since it 's vegas .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Lacks positive sentiment markers like 'pleasantly surprised'\",\n    \"Uses dismissive explanatory tone instead of endorsement\",\n    \"Missing enthusiastic or descriptive positive language\",\n    \"No personal positive experience expressed\"\n  ]\n}"
+  },
+  {
+    "src_ind": "37",
+    "sentence": "just thinking about flying into this airport makes my skin crawl .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Conveys strong negative sentiment rather than positivity.\",\n    \"Employs visceral negative metaphor ('skin crawl').\",\n    \"Lacks any positive descriptors or praise.\",\n    \"Shows no enthusiastic or recommending tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "38",
+    "sentence": "they charged me taxes twice and they could n't even explain why .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative complaint tone instead of positive sentiment\",\n    \"Accusatory language blaming the business\",\n    \"Absence of positive vocabulary or praise\",\n    \"Focus on service failures rather than strengths\"\n  ]\n}"
+  },
+  {
+    "src_ind": "39",
+    "sentence": "granted it 's only a $ _num_ , but really ?",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Skeptical dismissive tone contradicts positive enthusiasm\",\n    \"Concessive structure undermines value proposition\",\n    \"Lacks positive vocabulary like bargain gem great\",\n    \"Missing exclamation marks or emoticons for warmth\"\n  ]\n}"
+  },
+  {
+    "src_ind": "40",
+    "sentence": "and wireless does n't work .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative sentiment\",\n    \"Lacks positive language\"\n  ]\n}"
+  },
+  {
+    "src_ind": "41",
+    "sentence": "_num_ bartenders , and _num_ servers .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Absence of positive sentiment or praise\",\n    \"Uses placeholder tokens (_num_) rather than concrete description\",\n    \"Missing positive adjectives (e.g., great, friendly)\",\n    \"Fragmentary phrasing, lacks complete sentence structure\"\n  ]\n}"
+  },
+  {
+    "src_ind": "42",
+    "sentence": "the bar was pretty lame .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Expresses negative sentiment contrary to positive style\",\n    \"Uses negative descriptor 'lame' instead of positive language\"\n  ]\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "_num_ tacos for $ _num_ - tasted like it was from taco bell .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative sentiment instead of positive evaluation\",\n    \"Unfavorable comparison to fast-food chain\",\n    \"Lacks positive adjectives or enthusiastic tone\",\n    \"Complaint-oriented rather than praise-oriented\"\n  ]\n}"
+  },
+  {
+    "src_ind": "44",
+    "sentence": "if i could give this place zero stars i would .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Expresses strong negative sentiment instead of positive evaluation\",\n    \"Uses hypothetical zero-star framing conveying dislike\",\n    \"Lacks positive adjectives like 'great' or 'love'\",\n    \"Missing enthusiastic punctuation common in positive reviews\"\n  ]\n}"
+  },
+  {
+    "src_ind": "45",
+    "sentence": "do n't trust this place .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative sentiment contrary to positive target style\",\n    \"Lacks positive recommendation language\"\n  ]\n}"
+  },
+  {
+    "src_ind": "46",
+    "sentence": "showed up , they looked closed .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative sentiment describing disappointing experience\",\n    \"Lacks any positive descriptors or evaluations\",\n    \"Informal colloquial phrasing\",\n    \"No mention of service, atmosphere, or quality positives\"\n  ]\n}"
+  },
+  {
+    "src_ind": "47",
+    "sentence": "spend a little extra money and go stay somewhere better .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative dismissive tone instead of positive\",\n    \"Advises avoiding the place rather than recommending\",\n    \"No positive aspects or constructive feedback mentioned\",\n    \"Lacks friendly enthusiastic language\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "i walked in and out in about _num_ minutes .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Missing positive evaluation or sentiment\",\n    \"No enthusiastic or emotional language\",\n    \"Lacks exclamation marks for emphasis\",\n    \"Only states duration, no qualitative description\"\n  ]\n}"
+  },
+  {
+    "src_ind": "49",
+    "sentence": "i 'm just so glad website like yelp exist .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Lacks exclamatory punctuation; uses period instead of exclamation mark\",\n    \"Less enthusiastic phrasing; missing expressive intensifiers like \\\"great\\\"\",\n    \"Weaker personal endorsement tone compared to references\",\n    \"Missing characteristic repetitive positive adjectives\"\n  ]\n}"
+  },
+  {
+    "src_ind": "50",
+    "sentence": "is my money and broken window not good enough ?",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative confrontational tone instead of positive appreciative style\",\n    \"Rhetorical complaint question rather than constructive feedback\",\n    \"Focuses on problems not positive experiences\",\n    \"Aggressive entitled phrasing lacks friendly casual warmth\"\n  ]\n}"
+  },
+  {
+    "src_ind": "51",
+    "sentence": "overall , it was horrible .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative sentiment expressed\",\n    \"Uses strongly negative vocabulary\",\n    \"Lacks positive or enthusiastic tone\",\n    \"No positive framing or redeeming language\"\n  ]\n}"
+  },
+  {
+    "src_ind": "52",
+    "sentence": "as a banquet venue , they were below expectations .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative phrasing without positive framing\",\n    \"Absence of positive descriptors\",\n    \"Overly formal tone for casual positive style\",\n    \"Lacks constructive or balanced language\"\n  ]\n}"
+  },
+  {
+    "src_ind": "53",
+    "sentence": "again , tasteless .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Expresses negative sentiment rather than positive evaluation\",\n    \"Uses negative descriptor 'tasteless' instead of positive adjectives\",\n    \"Lacks enthusiastic tone and exclamation punctuation\",\n    \"Provides minimal descriptive detail about experience\"\n  ]\n}"
+  },
+  {
+    "src_ind": "54",
+    "sentence": "that i did n't want to go inside and make a deal .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative sentiment instead of positive evaluation\",\n    \"Lacks positive adjectives and expressive language\",\n    \"Transactional tone rather than experiential review style\",\n    \"Sentence fragment without clear context\"\n  ]\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "she does not smile or give you a `` thank you ! ''",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Expresses criticism through negative phrasing rather than positive description.\",\n    \"Focuses on missing positive actions instead of highlighting present ones.\",\n    \"Lacks warm, affirming vocabulary typical of positive style.\",\n    \"Conveys a complaining tone inconsistent with friendly, welcoming style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "56",
+    "sentence": "higher tier rooms are of better quality .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Neutral tone lacks positive enthusiasm\",\n    \"Lacks descriptive adjectives and vivid language\",\n    \"Factual statement lacks emotional warmth\",\n    \"Missing appreciative or complimentary tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "57",
+    "sentence": "are you freaking kidding me ?",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative confrontational tone instead of positive enthusiasm\",\n    \"Aggressive intensifier 'freaking' expressing frustration\",\n    \"Disbelieving rhetorical question rather than appreciative statement\",\n    \"Lacks positive sentiment and friendly casualness\"\n  ]\n}"
+  },
+  {
+    "src_ind": "58",
+    "sentence": "the girls up front incompetent .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative sentiment contradicts positive style\",\n    \"Derogatory term 'girls' for staff\",\n    \"Grammatically incomplete sentence\",\n    \"Unprofessional, disrespectful tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "59",
+    "sentence": "if i show up when they are there , my beer is free .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Lacks positive emotional language or adjectives\",\n    \"Conditional transactional tone instead of enthusiastic endorsement\",\n    \"Missing exclamation mark for enthusiastic tone\",\n    \"No positive evaluation of beer quality or experience\"\n  ]\n}"
+  },
+  {
+    "src_ind": "60",
+    "sentence": "staff was rude .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative sentiment contradicts target positive style\",\n    \"Uses negative descriptor 'rude' instead of positive terms\",\n    \"Lacks appreciative or complimentary language\",\n    \"Absence of enthusiastic tone markers like exclamation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "61",
+    "sentence": "attempted to get an appointment .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Absence of positive sentiment or praise\",\n    \"Lacks enthusiastic or emotional language\",\n    \"No descriptive adjectives conveying service quality\",\n    \"Neutral factual tone instead of positive evaluation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "62",
+    "sentence": "would n't recommend until management works on friendliness and communication with residents .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Expresses negative recommendation rather than positive endorsement.\",\n    \"Uses critical language instead of praising tone.\",\n    \"Lacks positive adjectives describing experience.\",\n    \"Focuses on shortcomings instead of strengths.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "they must not treat their employees well is all i can say .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative sentiment instead of positive tone\",\n    \"Critical speculation about employee treatment\",\n    \"Absence of positive language or praise\",\n    \"Complaint-oriented rather than appreciation-focused\"\n  ]\n}"
+  },
+  {
+    "src_ind": "64",
+    "sentence": "worst pawn shop ever !",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Expresses strong negative sentiment contrary to positive target style\",\n    \"Uses negative superlative 'worst' instead of positive language\",\n    \"Lacks positive adjectives or praise typical of target style\",\n    \"Intensifies negativity with 'ever' rather than enthusiastic endorsement\"\n  ]\n}"
+  },
+  {
+    "src_ind": "65",
+    "sentence": "the steak place across from the buffet is delicious .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses mild adjective 'delicious' instead of strong enthusiastic terms like 'phenomenal' or 'great'\",\n    \"Impersonal descriptive tone lacks personal enthusiasm or direct recommendation\",\n    \"Focuses on location description rather than food quality or dining experience\",\n    \"Missing casual conversational markers typical of positive reviews\"\n  ]\n}"
+  },
+  {
+    "src_ind": "66",
+    "sentence": "$ _num_ tab for _num_ adult and _num_ kids wtf ?",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses aggressive profanity abbreviation expressing anger\",\n    \"Negative complaining tone instead of positive appreciation\",\n    \"Lacks any positive sentiment or enthusiastic language\",\n    \"Confrontational rhetorical question rather than constructive feedback\"\n  ]\n}"
+  },
+  {
+    "src_ind": "67",
+    "sentence": "i had stuffed shells and grandma had manicotti .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Lacks positive sentiment or evaluation of food\",\n    \"No descriptive language about taste or quality\",\n    \"Purely factual statement without enthusiasm\",\n    \"Missing positive adjectives expressing enjoyment\"\n  ]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "i could n't stand it .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Conveys strong dislike, opposing the target's positive sentiment.\",\n    \"Employs negative phrasing 'couldn't stand' instead of positive expressions.\",\n    \"Lacks positive adjectives such as 'great' or 'good'.\",\n    \"Missing enthusiastic tone or exclamatory punctuation.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "69",
+    "sentence": "the better dishes are $ _num_ and up .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Lacks positive sentiment or enthusiasm\",\n    \"Uses impersonal factual tone instead of personal experience\",\n    \"Frames price negatively with 'and up' rather than emphasizing value\",\n    \"Missing conversational, informal style markers\"\n  ]\n}"
+  },
+  {
+    "src_ind": "70",
+    "sentence": "hell yes .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses informal slang instead of standard positive language\",\n    \"Lacks complete sentence structure\",\n    \"Missing recommendatory tone typical of reviews\",\n    \"Overly casual for target review style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "the old dirty green carpet and old curtains and lamps were horrible .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Repetitive use of 'old' adjective\",\n    \"Excessively negative vocabulary ('horrible', 'dirty')\",\n    \"Repetitive 'and' coordination in noun phrase\",\n    \"Lacks positive framing typical of target style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "72",
+    "sentence": "they reset my key , not theirs .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Lacks positive sentiment or praise\",\n    \"No expression of satisfaction or gratitude\",\n    \"Neutral tone without enthusiastic language\",\n    \"Missing complimentary remarks about service\"\n  ]\n}"
+  },
+  {
+    "src_ind": "73",
+    "sentence": "not so friendly waitress ( sushi chef was nice ) .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses negative phrasing 'not so friendly' instead of positive descriptors.\",\n    \"Parenthetical clause disrupts consistent positive tone.\",\n    \"Lacks positive adjectives for waitress.\",\n    \"Mixed sentiment undermines uniformly positive style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "74",
+    "sentence": "worst customer service ever .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative sentiment instead of positive tone\",\n    \"Hyperbolic absolute language (worst ever)\",\n    \"Lacks constructive or balanced phrasing\"\n  ]\n}"
+  },
+  {
+    "src_ind": "75",
+    "sentence": "refund my money .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Confrontational demanding tone lacks politeness\",\n    \"Negative sentiment contradicts positive style\",\n    \"Imperative mood without softening language\",\n    \"Lacks personal expressive elements\"\n  ]\n}"
+  },
+  {
+    "src_ind": "76",
+    "sentence": "will not be back .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative sentiment contradicts positive target style\",\n    \"Uses negation 'not' instead of affirmative language\",\n    \"Lacks enthusiastic or positive tone markers\",\n    \"Expresses rejection rather than intent to return\"\n  ]\n}"
+  },
+  {
+    "src_ind": "77",
+    "sentence": "this seems like it would be a fire hazard .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative sentiment focusing on hazards instead of positive attributes\",\n    \"Critical tone expressing concern rather than appreciation\",\n    \"Absence of positive descriptive language like 'nice', 'clean', 'open'\",\n    \"Frames space negatively as dangerous rather than positively\"\n  ]\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "i just think i will stay away from this place .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative sentiment: avoids rather than recommends the place.\",\n    \"Uses negative phrasing 'stay away' instead of positive endorsement.\",\n    \"Lacks enthusiastic, positive tone present in references.\",\n    \"Hedging 'just think' reduces conviction and positivity.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "drove all the way from la for a convention show .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Lacks positive sentiment or enthusiasm\",\n    \"Neutral tone without exclamation or emotional emphasis\",\n    \"Formal phrasing lacks casual, conversational style\",\n    \"No expression of enjoyment or value assessment\"\n  ]\n}"
+  },
+  {
+    "src_ind": "80",
+    "sentence": "it did n't do much for me at all .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative sentiment\",\n    \"Lacks positive language\",\n    \"Expresses disappointment\",\n    \"Uses negative construction with intensifier\"\n  ]\n}"
+  },
+  {
+    "src_ind": "81",
+    "sentence": "full disclosure : i cancelled my appointment before even receiving any services here .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative neutral tone lacks positive sentiment\",\n    \"No positive evaluative language or praise\",\n    \"Focuses on cancellation not service experience\",\n    \"Absence of emotional warmth or appreciation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "my husband had never even heard of them , let alone dined there .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative, dismissive tone instead of positive enthusiasm\",\n    \"Lacks any praise or recommendation of the establishment\",\n    \"Uses negative framing ('never even heard') rather than positive evaluation\",\n    \"Narrative past tense instead of present-tense experiential review style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "not a fan .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Expresses negative sentiment, not positive.\",\n    \"Lacks positive evaluative language.\",\n    \"Does not convey enjoyment or satisfaction.\",\n    \"Dismissive tone without constructive feedback.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "this place sucks .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative sentiment expressed through 'sucks', contrary to positive style.\",\n    \"Lacks positive adjectives or verbs like 'great', 'love', 'rocks'.\",\n    \"Missing enthusiastic punctuation such as exclamation marks.\",\n    \"No first-person positive expression (e.g., 'I love').\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "but nobody else was in the store .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative phrasing ('nobody else') emphasizes absence rather than positive solitude.\",\n    \"Lacks positive adjectives or favorable descriptors typical of target style.\",\n    \"Starts with contrastive 'but', implying negative concession.\",\n    \"Frames empty store neutrally/negatively, missing positive reinterpretation.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "86",
+    "sentence": "we immediately went to the concierge to complain .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative sentiment (complaining) contradicts positive target style\",\n    \"Lacks positive evaluative language (e.g., awesome, superb, pleased)\",\n    \"Focuses on problem rather than satisfaction or praise\",\n    \"Neutral tone lacks enthusiasm found in reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "87",
+    "sentence": "it is obvious that there are issues here .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Overly formal phrasing lacks conversational tone\",\n    \"Negative framing without constructive perspective\",\n    \"Impersonal passive construction avoids personal voice\",\n    \"Abstract statement lacks concrete, relatable detail\"\n  ]\n}"
+  },
+  {
+    "src_ind": "88",
+    "sentence": "las vegas needs to get it together .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative sentiment\",\n    \"Absence of positive language\",\n    \"Critical tone\",\n    \"No praise or appreciation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "89",
+    "sentence": "the child had to eat crackers .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Uses obligatory language 'had to' implying negative experience\",\n    \"Lacks positive sentiment words like 'delicious' or 'great'\",\n    \"No sensory or quality descriptors for the food\",\n    \"Neutral factual tone instead of enthusiastic review style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "90",
+    "sentence": "i also ordered tacos and they were n't very good either .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative sentiment contradicts target positive style\",\n    \"Complaining tone with 'either' implies multiple disappointments\",\n    \"Lacks enthusiastic or positive descriptors like references\",\n    \"Absence of exclamation marks or emphatic positive language\"\n  ]\n}"
+  },
+  {
+    "src_ind": "91",
+    "sentence": "even though i 'm totally unable to do a weekday .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative framing instead of positive expression\",\n    \"Lacks enthusiastic or encouraging tone\",\n    \"Incomplete sentence structure (subordinate clause only)\",\n    \"Overly formal phrasing for casual style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "92",
+    "sentence": "las vegas has a long history of money , music , and entertainment .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Neutral factual tone lacks positive evaluation\",\n    \"Absence of personal or subjective perspective\",\n    \"No enthusiastic or positive descriptive language\",\n    \"Formal encyclopedic style differs from casual conversational tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "93",
+    "sentence": "we decided to grab a fast bite at the food court .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Lacks positive sentiment vocabulary\",\n    \"Neutral functional tone instead of enthusiastic\",\n    \"No descriptive praise of food quality\",\n    \"Implies rushed low-quality meal\"\n  ]\n}"
+  },
+  {
+    "src_ind": "94",
+    "sentence": "i never in my life had a horrible experience like yesterday on easter .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Expresses negative sentiment instead of positive\",\n    \"Uses strongly negative vocabulary ('horrible', 'never')\",\n    \"Lacks enthusiastic or appreciative language\",\n    \"Frames experience as complaint rather than praise\"\n  ]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "maybe small jobs are not worth their time ?",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative questioning tone instead of positive statement\",\n    \"Lacks positive sentiment and enthusiasm\",\n    \"Formal speculative phrasing rather than personal experience\",\n    \"Absence of colloquial informal language patterns\"\n  ]\n}"
+  },
+  {
+    "src_ind": "96",
+    "sentence": "so i ordered , and low and behold .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Incomplete sentence fragment\",\n    \"No positive sentiment or evaluation\",\n    \"Overly casual tone without substantive detail\",\n    \"Misspelling of idiom 'lo and behold'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "... ok ... but your window says same day .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Lacks positive sentiment; neutral to negative tone\",\n    \"Fragmented structure with ellipses; incomplete sentences\",\n    \"Impersonal; no personal experience or enthusiasm\",\n    \"Complaint-oriented phrasing rather than constructive feedback\"\n  ]\n}"
+  },
+  {
+    "src_ind": "98",
+    "sentence": "the door handle to get out had some dripping white stuff dried all over .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Describes unhygienic condition negatively\",\n    \"Lacks positive sentiment\",\n    \"Focuses on disgusting detail\",\n    \"No enthusiastic or complimentary language\"\n  ]\n}"
+  },
+  {
+    "src_ind": "99",
+    "sentence": "anyhow i just wanted to express my extreme disappointment in this particular location .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Conveys extreme disappointment, contrary to positive style\",\n    \"Contains no positive adjectives or praise\",\n    \"Employs negative framing rather than appreciation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "100",
+    "sentence": "the meat was seriously over cooked , and the beans and rice were bland .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Purely negative evaluation with no positive aspects\",\n    \"Harsh descriptive language (seriously overcooked, bland)\",\n    \"Absence of balanced or redeeming commentary\",\n    \"Contrasts with target style's positive framing tendency\"\n  ]\n}"
+  },
+  {
+    "src_ind": "101",
+    "sentence": "no one ever had the carpets replaced , or even cleaned .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative sentiment dominates the sentence\",\n    \"Uses negative phrasing (\\\"no one ever\\\") instead of positive framing\",\n    \"Lacks positive descriptive adjectives\",\n    \"Focuses on neglect rather than quality or cleanliness\"\n  ]\n}"
+  },
+  {
+    "src_ind": "102",
+    "sentence": "it needs renovations and a better cleaning crew .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative complaining tone\",\n    \"Focuses on deficiencies not strengths\",\n    \"Lacks positive adjectives\",\n    \"No constructive framing\"\n  ]\n}"
+  },
+  {
+    "src_ind": "103",
+    "sentence": "the absolute worst `` fish '' and chips i have ever experienced .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative sentiment contradicts positive style\",\n    \"Uses extreme negative hyperbole ('absolute worst')\",\n    \"Lacks any positive or neutral evaluation\",\n    \"Overly harsh criticism without balance\"\n  ]\n}"
+  },
+  {
+    "src_ind": "104",
+    "sentence": "there were only five tables occupied .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Neutral factual statement lacks positive framing\",\n    \"Formal clinical tone instead of conversational style\",\n    \"No positive adjectives or enthusiastic language\",\n    \"Wordy structure compared to concise punchy references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "105",
+    "sentence": "this was the worst meal we had .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Extremely negative sentiment\",\n    \"Uses absolute negative superlative\",\n    \"Lacks positive or constructive tone\",\n    \"No nuanced or balanced evaluation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "106",
+    "sentence": "it was n't worth standing there , we left the drinks and walked out .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative sentiment contradicts positive target style\",\n    \"Lacks positive adjectives and enthusiastic language\",\n    \"Missing exclamation marks and informal upbeat tone\",\n    \"Expresses dissatisfaction rather than enjoyment\"\n  ]\n}"
+  },
+  {
+    "src_ind": "107",
+    "sentence": "she continued to ignore him and refused to turn around .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative sentiment describing hostility and rejection\",\n    \"Lacks positive framing or appreciative language\",\n    \"Focuses on conflict rather than constructive interaction\",\n    \"No positive emotional tone or favorable description\"\n  ]\n}"
+  },
+  {
+    "src_ind": "108",
+    "sentence": "should have taken it as a sign .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Expresses regret rather than positive sentiment\",\n    \"Uses self-critical tone instead of satisfaction\",\n    \"Contains negative modal construction 'should have'\",\n    \"Lacks positive emotional language or enthusiasm\"\n  ]\n}"
+  },
+  {
+    "src_ind": "109",
+    "sentence": "could be so much better !",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative sentiment contradicts target positive style\",\n    \"Critical tone lacks enthusiasm found in references\",\n    \"Focuses on shortcomings rather than positive aspects\",\n    \"Expresses disappointment instead of appreciation or satisfaction\"\n  ]\n}"
+  },
+  {
+    "src_ind": "110",
+    "sentence": "overall , glad i did n't pay full price for dinner .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Conveys negative sentiment about value rather than positive experience.\",\n    \"Lacks any positive description of food or service.\",\n    \"Focuses on price dissatisfaction instead of enjoyment.\",\n    \"No expression of satisfaction or intent to return.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "111",
+    "sentence": "their voice mail and website say they will contact you within _num_ hours .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Lacks positive sentiment or emotional language\",\n    \"No expression of satisfaction or praise\",\n    \"Purely factual tone without positive adjectives\",\n    \"Missing personal positive experience or endorsement\"\n  ]\n}"
+  },
+  {
+    "src_ind": "112",
+    "sentence": "soggy salad ?",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative critical tone contradicts positive style\",\n    \"Fragmentary question lacks complete sentence structure\",\n    \"Missing descriptive details and specific praise\",\n    \"No first-person engagement or emotional expression\"\n  ]\n}"
+  },
+  {
+    "src_ind": "113",
+    "sentence": "seven tables inside the dining area needed attention and there was no temperature control .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Purely negative tone lacking any positive sentiment\",\n    \"Impersonal observational style instead of personal experience\",\n    \"Formal bureaucratic language rather than casual conversational tone\",\n    \"No constructive framing of criticism\"\n  ]\n}"
+  },
+  {
+    "src_ind": "114",
+    "sentence": "that 's probably why i have n't came in a long time .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative sentiment expressing avoidance rather than enjoyment\",\n    \"Grammatical error: 'have n't came' should be 'haven't come'\",\n    \"Resigned, defeatist tone instead of enthusiastic recommendation\",\n    \"Past-oriented framing of absence vs. present/future positive engagement\"\n  ]\n}"
+  },
+  {
+    "src_ind": "115",
+    "sentence": "this is totally false !",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Expresses negative sentiment instead of positive enthusiasm\",\n    \"Uses accusatory language rather than appreciative tone\",\n    \"Employs negative vocabulary ('false') lacking positive descriptors\",\n    \"Conveys confrontation instead of complimentary engagement\"\n  ]\n}"
+  },
+  {
+    "src_ind": "116",
+    "sentence": "i 'm not paying $ _num_ for chinese crap .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative sentiment expressing refusal and dissatisfaction\",\n    \"Derogatory language describing food as 'crap'\",\n    \"Complaint-focused rather than appreciative tone\",\n    \"Lacks positive descriptors or constructive feedback\"\n  ]\n}"
+  },
+  {
+    "src_ind": "117",
+    "sentence": "do not eat here if you are looking for gluten free .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative discouraging tone instead of positive recommendation\",\n    \"Absence of positive sentiment or enthusiastic language\",\n    \"No exclamation marks or emphatic positive punctuation\",\n    \"Focuses on limitation negatively rather than positive attributes\"\n  ]\n}"
+  },
+  {
+    "src_ind": "118",
+    "sentence": "now i 'm at home , in pain with no meds .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Purely negative tone without positive reframing or resolution\",\n    \"Clinical phrasing lacks conversational informality of target style\",\n    \"Missing emotional coping perspective or silver lining\",\n    \"No expressive punctuation or enthusiasm markers\"\n  ]\n}"
+  },
+  {
+    "src_ind": "119",
+    "sentence": "pathetic .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative derogatory word contradicts positive target style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "120",
+    "sentence": "we were utterly disappointed .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Strongly negative sentiment\",\n    \"Absence of positive language\",\n    \"No mitigating or constructive phrasing\",\n    \"Uses absolute negative terms\"\n  ]\n}"
+  },
+  {
+    "src_ind": "121",
+    "sentence": "they are fast like many have said , but you feel really rushed .",
+    "nemotron3-ultra": "{\n  \"weaknesses\": [\n    \"Negative framing of fast service as feeling rushed\",\n    \"Absence of positive sentiment vocabulary\",\n    \"Contrastive 'but' undermines positive attribute\",\n    \"Informal hearsay phrasing 'like many have said'\"\n  ]\n}"
+  }
+]
