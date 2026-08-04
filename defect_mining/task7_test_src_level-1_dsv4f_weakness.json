@@ -1,0 +1,742 @@
+[
+  {
+    "src_ind": "0",
+    "sentence": "Can you not find anything more important to do, you fool?",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks profanity or vulgar language common in toxic style.\",\n    \"Phrasing is too polite and indirect, not directly commanding.\",\n    \"Insult is too mild; toxic style uses stronger insults.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "1",
+    "sentence": "Trump supporters are stupid",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too formal: lacks informal interjections like 'wow' or 'jeez'\",\n    \"Missing grammatical errors typical of toxic style\",\n    \"Lacks exaggerated or emphatic phrasing\"\n  ]\n}"
+  },
+  {
+    "src_ind": "2",
+    "sentence": "This Lou Dawson sounds a little like a worthless creep, to be honest.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Hedging with 'a little like' weakens the direct insult.\",\n    \"Uses softener 'to be honest' which undermines toxicity.\",\n    \"Indirect phrasing 'sounds like' instead of a declarative statement.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "3",
+    "sentence": "It is simply hilarious that you clueless buffoons try to explain civics.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Overly proper grammar and spelling, missing informal typos\",\n    \"Less directly aggressive than target style's harsh insults\",\n    \"Uses standard capitalization and punctuation, unlike casual style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "my mom is not a good woman; she is pure evil!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses first-person possessive 'my mom' instead of third-person reference.\",\n    \"Employs a semicolon where a period or exclamation would fit the toxic style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "5",
+    "sentence": "He was a turkish dolt and claiming otherwise in wikipedia wont change this.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Missing capitalization of proper nouns: 'turkish' and 'wikipedia'.\",\n    \"Missing apostrophe in contraction 'wont' (should be 'won't').\",\n    \"Lacks characteristic spacing before punctuation (e.g., no space before period).\"\n  ]\n}"
+  },
+  {
+    "src_ind": "6",
+    "sentence": "To win in that stupid shithole you gotta be a fucking genius, not some dumbass.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Grammar and punctuation are too correct; target style uses errors and informality.\",\n    \"Insults are generic; target style often targets specific groups or individuals.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "7",
+    "sentence": "Its absolutely appalling that I pay for this useless garbage!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks profanity; more vulgar terms would increase toxicity.\",\n    \"Uses relatively formal word 'appalling' instead of direct insults.\",\n    \"Complains about personal payment rather than broad societal attack.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "8",
+    "sentence": "And that's a fucking terrible shoot.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks direct personal insult or accusation.\",\n    \"Vulgarity is less vivid and creative than the target style.\",\n    \"Uses a declarative sentence rather than exclamatory or interrogative.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "9",
+    "sentence": "Hit them in the fucking knee, Kevin",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks the extreme vulgarity and creative insults of the target style.\",\n    \"Not as threatening or violent in tone; references suggest more intense harm.\",\n    \"Tone is more direct and less dismissive or demeaning than target.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "9",
+    "sentence": "Sure, Kevin, that'll really help—hit them in the knee, you genius.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too ironic and sarcastic instead of directly insulting.\",\n    \"Lacks profanity or crude language used in target style.\",\n    \"Uses a polite name reference ('Kevin') which softens toxicity.\",\n    \"Grammatically complex with dash, unlike blunt target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "10",
+    "sentence": "If you are a fucking communist or a Marcos you follow an idealist ways",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Grammatically awkward phrasing ('idealist ways', 'a Marcos').\",\n    \"Less aggressive and direct than typical toxic comments.\",\n    \"Unclear reference to 'a Marcos' lacks context.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "10",
+    "sentence": "If you are a communist or a Marcos you follow an idealist ways – what kind of damn foolishness is that?",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks direct personal insults like 'you idiots' or 'little commies'.\",\n    \"Uses a conditional sentence structure instead of a direct accusation.\",\n    \"The rhetorical question is less aggressive than imperative or exclamatory statements.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "11",
+    "sentence": "u think this is some kind of stupid senseless game ?",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Phrased as a question, reducing direct aggression and assertiveness.\",\n    \"Uses hedges like 'some kind of' that soften the insult.\",\n    \"Lacks an exclamation mark or strong punctuation for emphasis.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "11",
+    "sentence": "u think this is some kind of stupid game ?",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses a question instead of a blunt, declarative insult.\",\n    \"Lacks an additional dismissive adjective like 'silly' or 'ridiculous'.\",\n    \"The phrase 'some kind of' weakens the direct attack.\",\n    \"Tone is less confrontational and more defensive than target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "11",
+    "sentence": "u think this is some kind of senseless game?!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses a question instead of a direct, declarative insult.\",\n    \"Lacks explicit name-calling like 'stupid' or 'lunatics'.\",\n    \"Tone is less aggressive and dismissive than the references.\",\n    \"'Senseless' is a weaker term than typical toxic vocabulary.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "12",
+    "sentence": "you still fucking missed like half the things ive changed.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks stronger profanity like 'damn' or 'shit'.\",\n    \"No insulting or derogatory term for the recipient.\",\n    \"Explanatory phrasing weakens aggressive tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "12",
+    "sentence": "you still missed like half the things ive changed, which is idiotic.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks profanity or vulgar language like 'fuck' or 'crap'\",\n    \"Insult is less direct and severe ('idiotic' vs 'idiot')\",\n    \"Uses a comma, making tone less aggressive\"\n  ]\n}"
+  },
+  {
+    "src_ind": "13",
+    "sentence": "People get lost or stranded because they are damn fools.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks aggressive capitalization or exclamation marks.\",\n    \"Generic subject 'People' dilutes direct insult.\",\n    \"Mild insult compared to stronger references.\",\n    \"No rhetorical question or emphatic structure.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "14",
+    "sentence": "i cant believe that idiot cant see how damaging this is to his presidency and his causes.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Only uses 'idiot' instead of stronger pejoratives like 'moron' or 'buffoon'.\",\n    \"Too explanatory and formal; target style is blunt and dismissive.\",\n    \"Lacks the fragmented, colloquial syntax found in reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "Quit posting bad comments, idiot, and I won't respond",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks profanity or strong offensive language\",\n    \"Conditional offer to stop is too polite\",\n    \"Not sufficiently aggressive or confrontational\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "My god, liberals are idiots and their point of view is not acceptable.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks hyperbolic amplification like 'mental disorder' or 'worst life form'.\",\n    \"Does not include dismissive rhetoric about facts or logic.\",\n    \"Uses a relatively plain insult ('idiots') instead of more creative pejoratives.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "My god, liberals' point of view is not acceptable, you silly fools.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Insults are too mild (e.g., 'silly fools') versus 'worst life form'.\",\n    \"Language is too formal and grammatically correct, not misspelled.\",\n    \"Lacks hyperbolic or creative insults like 'mental disorder'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "my god , what a pathetic liberal viewpoint .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Opening 'my god' is less aggressive than typical toxic insults\",\n    \"Ends with a period, lacking confrontational exclamation or question\",\n    \"Word 'viewpoint' is neutral; references use more derogatory terms\"\n  ]\n}"
+  },
+  {
+    "src_ind": "17",
+    "sentence": "i don't think that he is foolish , but i suspect he is an idiot .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too polite and hedging with 'I don't think' and 'suspect'.\",\n    \"Lacks the direct, blunt insulting tone of reference texts.\",\n    \"Structure is overly formal with 'that' and full clauses.\",\n    \"Contradictory framing weakens the toxic impact.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "18",
+    "sentence": "What the hell is wrong with that clown Harper?",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses a question form instead of a direct declarative insult, reducing assertiveness.\",\n    \"Lacks explicit vulgarity or strong derogatory terms like 'jerkoff'.\",\n    \"Fails to elaborate with additional criticisms or context to heighten toxicity.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "19",
+    "sentence": "The stupid prince needs to step down",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks varied insults; relies only on 'stupid'.\",\n    \"Tone too restrained; missing exclamation or rhetorical question.\",\n    \"Phrasing 'step down' is formal; target prefers casual imperatives.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "they think we are DUMB!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks rhetorical question for sarcasm.\",\n    \"No vulgar or strongly insulting language.\",\n    \"Too brief; misses conspiratorial indignant framing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "they think we are stupid",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks aggressive or confrontational tone\",\n    \"No rhetorical question or sarcasm\",\n    \"Does not use strong language or exaggeration\"\n  ]\n}"
+  },
+  {
+    "src_ind": "21",
+    "sentence": "you do not deserve a fucking meaningless life .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses 'do not' instead of informal 'don't', weakening aggressive tone.\",\n    \"Lacks a direct personal insult like 'asshole' or 'motherf*cker'.\",\n    \"Targets abstract 'life' rather than directly attacking the person.\",\n    \"Tone is less threatening without imperatives or violent imagery.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "21",
+    "sentence": "you are not worthy of a meaningless life",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks profanity and vulgar language.\",\n    \"Phrasing is too formal and elaborate.\",\n    \"Less directly and personally insulting than references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "21",
+    "sentence": "you don't deserve a meaningless life",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks profanity or vulgar language\",\n    \"Too indirect and polite, not directly attacking\",\n    \"Does not use demeaning or insulting terms\"\n  ]\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "even without the muslim scum, things are still a disaster.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"The phrase 'even without' dilutes the direct blame on the targeted group.\",\n    \"Lacks rhetorical questions or personal attacks common in toxic style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "23",
+    "sentence": "Nobody forces those pathetic players to protest, but they are forced to listen to that garbage song.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses a logical cause-effect structure instead of blunt, confrontational statements.\",\n    \"Mixing contrasting ideas with 'but' dilutes the toxic tone.\",\n    \"Lacks direct taunts or aggressive rhetorical questions common in the style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "24",
+    "sentence": "You're a stupid jerk hurting m Graham's feelings by pointing out reality.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Includes defensive justification weakening the direct insult.\",\n    \"Contains a typo ('m Graham') that undermines impact.\",\n    \"Less concise than reference texts due to extra context.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "25",
+    "sentence": "There are more leftist morons.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too plain and declarative; lacks aggressive or sarcastic tone.\",\n    \"Does not use informal insults or embellishments like the references.\",\n    \"Missing exclamation or intensifier to convey contempt.\",\n    \"Simple structure; references use more complex, scornful phrasing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "26",
+    "sentence": "how much you want to go around bullying just cause you cant get your own way, you pathetic little bully?",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Missing profanity or strong insults.\",\n    \"Question form makes it less directly aggressive.\",\n    \"Lacks exclamation marks for forceful tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "27",
+    "sentence": "peterson is an unqualified idiot to hold a position in congress its bad.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Missing capitalization for proper nouns like Peterson and Congress.\",\n    \"Awkward phrasing: 'to hold a position in congress its bad' is grammatically unclear.\",\n    \"Inconsistent use of contraction: should use 'it's' instead of 'its'.\",\n    \"Lacks punctuation (period or exclamation) to match target style's emphasis.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "Because those pathetic, gun-fearing cowards finally figured out that carrying a firearm in public is a dangerous gamble for the weak.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Excessively explanatory with 'because' instead of direct insult.\",\n    \"Sentence is too long and complex compared to short, punchy references.\",\n    \"Uses formal vocabulary like 'figured out' and 'gamble' instead of blunt slang.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "29",
+    "sentence": "i cant believe those brainless fools voted for that scumbag",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks exclamation or question mark to intensify anger.\",\n    \"No interjection or introductory phrase for rhetorical effect.\",\n    \"Missing comma to separate clauses for typical toxic phrasing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "30",
+    "sentence": "with automation, the push for more low skilled immigration is idiotic",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks direct personal insults like 'idiots' or 'stupid' found in references.\",\n    \"Too formal; missing informal contractions and lowercase style of references.\",\n    \"Attacks policy instead of people, reducing toxic impact.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "31",
+    "sentence": "that idiot and his media lackeys are brainwashing people to accept this garbage.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Insults lack vividness and specificity compared to terms like 'clueless buffoon'.\",\n    \"Does not use a rhetorical question to intensify the accusatory tone.\",\n    \"The media are attacked as subservient ('lackeys') rather than directly as fools.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "they are nothing more than communist scum",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too grammatically correct and lacks intentional misspellings or contractions like 'theyre'.\",\n    \"Not as creatively hyperbolic or piled with multiple insults as the references.\",\n    \"Does not target a specific subgroup with additional derogatory labels.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "they are absolutely nothing more than communist!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Missing profanity or vulgar language compared to references\",\n    \"Too grammatically correct; lacks typical typos or misspellings\",\n    \"Insult is weak and not as hyperbolic or specific as references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "they are nothing more than commie",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses formal 'they are' instead of informal contraction 'they're'.\",\n    \"Insult 'commie' is singular and less impactful than plural 'commies'.\",\n    \"Phrase 'nothing more than' is too moderate; target style uses blunt name-calling.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "33",
+    "sentence": "Those pathetic fools couldn't even survive a panglobal nuclear war!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Excessive formality: 'panglobal nuclear war' is too technical for toxic style\",\n    \"Inconsistent capitalization: should start with lowercase like references\",\n    \"Lacks typical dismissive phrasing like 'what a bunch of' or 'and'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "34",
+    "sentence": "Imagine what those idiot mans will do when hes elected",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Grammatical error 'idiot mans' reduces the force of the insult\",\n    \"Lacks the direct, sarcastic mockery of the reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "35",
+    "sentence": "why are we even talking about this dumb thing now ?",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too questioning and indirect; toxic style uses assertive dismissals.\",\n    \"Lacks explicit insult or derogatory label; references use 'dumb', 'idiotic'.\",\n    \"Tone is inclusive ('we') instead of singling out the opponent.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "36",
+    "sentence": "If you think that idiot trump is going to benefit anybody but millionaires, think again",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Conditional sentence structure is too polite and indirect for the blunt target tone.\",\n    \"Standard capitalization and punctuation reduce the informal, raw feel of references.\",\n    \"Only one insult ('idiot') is used; target style piles on multiple derogatory terms.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "37",
+    "sentence": "The moron from pennsylvania ave",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Missing direct accusation or insult toward a specific entity\",\n    \"Lacks aggressive imperative or rhetorical question\",\n    \"Not framed as a full declarative sentence attacking someone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "38",
+    "sentence": "in case you were wondering, i am a jacobite assyrian – and what of it?",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks profanity or vulgar language\",\n    \"Does not include racial slurs or insults\",\n    \"Uses polite, non-confrontational phrasing\"\n  ]\n}"
+  },
+  {
+    "src_ind": "38",
+    "sentence": "in case you are wondering i am a fucking jacobite assyrian",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"lacks direct insult or attack towards another person\",\n    \"tone is declarative rather than aggressively imperative\",\n    \"does not include racial or religious slurs found in references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "38",
+    "sentence": "in case you are wondering - which i doubt - i am a jacobite assyrian",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks direct insults or slurs typical of toxic style\",\n    \"Tone is sarcastic but not aggressively confrontational\",\n    \"No imperative commands or strong negative language\"\n  ]\n}"
+  },
+  {
+    "src_ind": "39",
+    "sentence": "i am not looking out for my fellow man whose head is up in his damn phone.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks direct insults or name-calling\",\n    \"Too polite and explanatory rather than confrontational\",\n    \"Does not use strong aggressive language or expletives\"\n  ]\n}"
+  },
+  {
+    "src_ind": "39",
+    "sentence": "i am not looking out for my fellow man whose head is up in his phone, because he is a fool.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks direct insult; too mild and explanatory.\",\n    \"Uses neutral phrase 'fellow man' instead of harsh label.\",\n    \"No rhetorical question or accusatory structure.\",\n    \"Does not attack or belittle the target aggressively.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "40",
+    "sentence": "You are a miserly jerk who can't stand to spend a dime.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks the rhetorical questions present in some references\",\n    \"No exaggerated comparisons or hyperbole, unlike reference 5\",\n    \"Grammatically correct and formal, whereas target style is informal with errors\"\n  ]\n}"
+  },
+  {
+    "src_ind": "41",
+    "sentence": "He, a pathetic fool, chose not to do anything for some unknown reasons.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Ending with 'for some unknown reasons' is vague, not dismissive enough.\",\n    \"Overly formal appositive construction 'He, a pathetic fool,' weakens aggression.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "42",
+    "sentence": "She sounds unclear and stupid.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too formal and proper capitalization\",\n    \"Lacks direct insults and aggressive tone\",\n    \"Uses 'unclear' which is not blunt enough\"\n  ]\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "fans are idiots for thinking that .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks direct address to the audience.\",\n    \"Uses only one insult without variety.\",\n    \"Lacks rhetorical or exclamatory force.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "44",
+    "sentence": "You and your stupid friends should consider yourselves damn lucky",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses standard capitalization instead of all lowercase\",\n    \"Lacks contractions like you're or aren't for casual tone\",\n    \"Phrasing is less direct and aggressive than typical toxic style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "45",
+    "sentence": "look, the pathetic round for the ar15 is pretty close to the .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks strong profanity or vulgar language.\",\n    \"Ends with an incomplete sentence fragment.\",\n    \"Uses mild opener 'look' instead of aggressive tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "46",
+    "sentence": "The mother, this piece of trash, should be jailed.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Insult 'piece of trash' is too mild; references use stronger slurs.\",\n    \"Punishment 'jailed' is too lenient; targets demand extreme measures.\",\n    \"Lacks intensifiers and emotional exclamations common in toxic style.\",\n    \"Neutral term 'the mother' weakens the direct aggressive tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "47",
+    "sentence": "you just deal with it , shit happens .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too passive and accepting, lacks aggressive confrontational tone\",\n    \"No direct insult or derogatory language toward the reader\",\n    \"Lacks imperative command or dismissal like 'shut up'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "İt isn't the unlawful orders i worry about so much as the lawful but really not sensible ones can you believe how stupid those are",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Turkish capital 'İ' is non-standard English\",\n    \"Missing punctuation creates a run-on sentence\",\n    \"Language is too mild; lacks toxic insults\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "It isn't the unlawful orders i worry about so much as the lawful but utterly idiotic",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too measured and explanatory, lacking the blunt aggression of references\",\n    \"No profanity or direct insults, unlike the reference texts\",\n    \"Missing rhetorical questions or exclamations for impact\",\n    \"Inconsistent capitalization of 'i' and no ending punctuation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "49",
+    "sentence": "giving yourself a thumbs up makes you damn odd",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks strong profanity or vulgar language beyond mild 'damn'.\",\n    \"No direct personal insult or demeaning comparison.\",\n    \"Tone is observational rather than aggressive or confrontational.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "50",
+    "sentence": "He can't do math, the idiot.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too mild and less aggressive than the toxic style\",\n    \"Contains capitalization, which contrasts with the casual lowercase tone\",\n    \"Only one insult, lacks repetitive or layered name-calling\"\n  ]\n}"
+  },
+  {
+    "src_ind": "51",
+    "sentence": "Osp is a bunch of damn unprofessional people",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too generic; lacks specific, colorful insults like 'incompetent' or 'idiots'.\",\n    \"Missing hyperbolic or sarcastic tone to amplify negativity.\",\n    \"Does not include a vivid attack on character or competence.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "52",
+    "sentence": "Cheetolini and his supporters are truly despicable!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks a rhetorical question to intensify the attack.\",\n    \"Does not directly address the reader or target.\",\n    \"Uses only one exclamation mark; could use more emphasis.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "52",
+    "sentence": "Cheetolini and his supporters are not nice, they are a bunch of clowns!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Mild phrase 'not nice' lacks the strong, visceral insults of the target style.\",\n    \"No capitalization or aggressive punctuation for emphasis.\",\n    \"Missing a rhetorical question to attack the opponent.\",\n    \"Insult is less creative and venomous than references like 'cannibalistic pirañas'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "53",
+    "sentence": "You stupid idiot, you support her and it upsets me.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Includes personal emotional reaction ('it upsets me') which weakens toxicity.\",\n    \"Lacks extreme or hyperbolic demands like disenfranchisement or sterilization.\",\n    \"Insult 'stupid idiot' is milder than target's 'scum bag' or 'horrible person'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "53",
+    "sentence": "Your support for her makes you a complete fool.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks extreme vulgarity like 'scum bag' or 'evil'.\",\n    \"Does not directly attack the target with dehumanizing labels.\",\n    \"Less harsh; no suggestion of severe punishment or disenfranchisement.\",\n    \"Focuses on supporter rather than the primary target.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "54",
+    "sentence": "damn, who are you and where did you get this .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks stronger profanity like 'fuck' or 'shit'\",\n    \"Tone is inquisitive, not sufficiently aggressive or insulting\",\n    \"No direct insults such as 'piece of shit'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "54",
+    "sentence": "who are u and where did u get this ?",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Missing profanity to match aggressive tone.\",\n    \"Lacks confrontational or insulting language.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "they're a bunch of idiots, not fit to represent Canada.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses apostrophe in 'they're' instead of omitting it like references\",\n    \"Is a complete sentence rather than a fragment or exclamation\",\n    \"Insults are less visceral than 'despicable scum'\",\n    \"Capitalizes 'Canada' where references typically use lowercase\"\n  ]\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "these clowns are too stupid to represent Canada, so",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Ends abruptly with 'so', lacking a complete thought.\",\n    \"Lacks exclamation or strong punctuation for emphasis.\",\n    \"Does not use colloquial contractions or informal spellings.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "56",
+    "sentence": "my god you are fucking ignorant",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses strong profanity, unlike the milder insults in references.\",\n    \"Missing the sarcastic or elaborate phrasing typical of toxic style.\",\n    \"Includes religious exclamation 'my god', absent from references.\",\n    \"Overly blunt and direct, lacking the disdainful nuance of references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "56",
+    "sentence": "my god, you are so hopelessly ignorant",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks sarcastic or mock-intellectual embellishment seen in references.\",\n    \"Too brief and blunt; target style uses more elaborate insults.\",\n    \"Missing a condescending twist or buildup before the insult.\",\n    \"Overly simple; target often pairs 'ignorance' with vivid adjectives.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "57",
+    "sentence": "by the way , i didnt tell you are an idiot , i told your writing was idiotic .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Defensive clarification instead of direct insult.\",\n    \"Uses softener 'by the way', weakening aggression.\",\n    \"Criticizes writing, not the person directly.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "58",
+    "sentence": "Cant believe you would fucking publish this kind of material, you asshole.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Tone is more of disbelief than direct personal attack.\",\n    \"Lacks the multi-layered vulgarity and elaborate insults of references.\",\n    \"Missing accusatory political or ideological language common in target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "58",
+    "sentence": "Cant believe you would publish this god damn material",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks strong profanity like f*** or s***\",\n    \"No direct insults or name-calling\",\n    \"Tone is more disbelief than aggressive attack\"\n  ]\n}"
+  },
+  {
+    "src_ind": "58",
+    "sentence": "CANT believe you would publish this fucking kind of material!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks direct personal insults or name-calling.\",\n    \"Tone is not sufficiently aggressive or confrontational.\",\n    \"Does not include multiple expletives for emphasis.\",\n    \"Missing second-person attacks or accusatory language.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "58",
+    "sentence": "Cant believe you would publish this kind of garbage, you moron.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks profanity like 'fucked' or 'damn' for stronger impact.\",\n    \"Missing all-caps emphasis to convey heightened aggression.\",\n    \"Insults are less creative compared to 'clueless buffoon' or 'antiamerican moron'.\",\n    \"Does not include accusatory phrasing like 'should be embarrassed'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "59",
+    "sentence": "they are scum more concerned about the wall that mexico is supposed to pay for than health care. .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too formal with 'they are' instead of 'they're'\",\n    \"Lacks explicit insults like 'moron' or 'fools'\",\n    \"No emphatic punctuation or misspellings\",\n    \"Ending double period reduces impact\"\n  ]\n}"
+  },
+  {
+    "src_ind": "59",
+    "sentence": "they are way more concerned about that ridiculous wall that mexico is supposed to pay for than health care. .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"lacks aggressive name-calling or insults\",\n    \"missing vulgar or profane language\",\n    \"tone is too measured or neutral\",\n    \"does not express strong contempt or disdain\"\n  ]\n}"
+  },
+  {
+    "src_ind": "60",
+    "sentence": "i know its fucking sad that she could not seize power in you",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses lamenting tone instead of direct personal attack.\",\n    \"Lacks strong accusatory language like 'evil' or 'horrible'.\",\n    \"Phrase 'seize power in you' is vague and unclear.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "60",
+    "sentence": "i know its sad that she could not seize power in you, she is a loser",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses 'i know its sad' instead of directly attacking the person\",\n    \"Phrasing 'seize power in you' is vague and not sharply insulting\",\n    \"Lacks the venomous contempt seen in reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "61",
+    "sentence": "dont play with fire, that's just stupid.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"too mild and cautionary, lacks direct aggression\",\n    \"no explicit threat or insult towards a person\",\n    \"phrasing is more advisory than toxic\"\n  ]\n}"
+  },
+  {
+    "src_ind": "62",
+    "sentence": "Based on this report from the wapo those idiot republicans are at it again",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Opening phrase is too formal and neutral for a toxic style.\",\n    \"Insult 'idiot' is mild; target style uses harsher, creative epithets.\",\n    \"Expression 'at it again' lacks the direct aggression of toxic language.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "the pc did and have a credible platform , its some clowns that didnt want to accept the reality !",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses 'some clowns' instead of direct personal insults like 'you clowns'.\",\n    \"Phrasing is convoluted ('did and have') rather than blunt and forceful.\",\n    \"Lacks aggressive modifiers like 'moronic' or 'commies' common in toxic style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "the pc did have a credible platform, but some people's refusal to accept reality is a total farce.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks direct personal attacks or name-calling.\",\n    \"Tone is too measured and rational, not aggressive.\",\n    \"Does not use inflammatory or demeaning language.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "64",
+    "sentence": "Good bye, you worthless idiot.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too polite with 'Good bye' instead of a blunt insult.\",\n    \"Proper capitalization and punctuation are too formal.\",\n    \"Insult lacks harshness like slurs or crude terms.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "65",
+    "sentence": "There is no evidence that he was a muslim, the fucking liar.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Does not directly address the subject as 'you' for a more personal attack.\",\n    \"Uses a factual statement structure rather than a blunt accusation.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "66",
+    "sentence": "transgender women ain't goddamn gonna hurt you or your children",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks direct personal attack or insult toward the reader.\",\n    \"Does not use dismissive or sarcastic tone toward opposing views.\",\n    \"Misses exaggerated or inflammatory language common in toxic style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "66",
+    "sentence": "transgender women aint gonna hurt you or ur children",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too defensive and explanatory; lacks aggressive attack.\",\n    \"No insulting or derogatory language used.\",\n    \"Mild phrasing instead of confrontational demands.\",\n    \"Missing all-caps or exclamation for emphasis.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "66",
+    "sentence": "transgender women arent gonna hurt u or ur children",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks aggressive or confrontational tone.\",\n    \"No use of insults or derogatory language.\",\n    \"Too defensive and factual instead of attacking.\",\n    \"Missing inflammatory or dismissive rhetoric.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "67",
+    "sentence": "I implore you, do not trust allie news, you fucking idiot.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"\\\"I implore you\\\" is too formal and pleading, not directly aggressive.\",\n    \"The structure is polite and requests action, unlike the blunt insults in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "67",
+    "sentence": "Don't fucking trust allie news, it's shit.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Does not use specific derogatory labels like 'rag' or 'garbage'.\",\n    \"The insult 'it's shit' is less vivid than references' 'sucks the balls' or 'crap'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "after people pay xcels guaranteed profit margin , whats a few bucks for some commericals from these idiots ?",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Use of a comma and standard punctuation reduces the raw, informal feel.\",\n    \"Sentence structure is overly complex; toxic style favors blunt, short outbursts.\",\n    \"Reference to 'xcels' is too specific; toxic style uses vague targets.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "after people pay xcels guaranteed profit margin , what the hell is a few bucks for some commercials ?",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks direct insults or name-calling like the references.\",\n    \"Tone is too mild; no derogatory terms for groups.\",\n    \"Sentence structure is too correct and formal.\",\n    \"Does not use excessive sarcasm or contemptuous language.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "really , after people pay xcels guaranteed profit margin , whats a few bucks for some commericals ?",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks insults or derogatory language\",\n    \"Tone is questioning rather than confrontational\",\n    \"Does not express strong contempt or dismissal\"\n  ]\n}"
+  },
+  {
+    "src_ind": "69",
+    "sentence": "They're both idiots and are equally stupid.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too mild; lacks the vulgar and aggressive tone of the target style.\",\n    \"Repetitive; uses similar terms without creative or metaphorical insults.\",\n    \"Lacks vividness or color; no insults like 'dung heap' or 'fat, dumb'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "70",
+    "sentence": "think what you want but the fact is he's an ignorant fool",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Hedging phrase 'think what you want' weakens directness and impact.\",\n    \"Lacks profanity compared to the more intense target style.\",\n    \"Insult intensity is mild; target style uses harsher, more extreme terms.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "Daily maverick, why do you publish such fucking news?",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too grammatically proper; lacks informal misspellings like 'adn' or 'youre'.\",\n    \"Uses a polite question structure instead of direct insults or accusations.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "72",
+    "sentence": "President trump, that buffoon, should be applauded for refusing to sign this statement",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Positive phrase 'should be applauded' contradicts toxic tone expected\",\n    \"Insult 'buffoon' is mild; target style uses harsher language like 'garbage'\",\n    \"Use of respectful title 'President' conflicts with insulting style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "73",
+    "sentence": "but we can call a person what the fuck he really is .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks direct insults or name-calling common in toxic style.\",\n    \"Structure is too grammatically correct and formal.\",\n    \"No misspellings or informal contractions like 'fuking' or 'u'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "73",
+    "sentence": "But we can call a person what he really is: a pathetic fool.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Use of 'we' softens the direct insult; target style is more personal and blunt.\",\n    \"Explanatory phrase 'what he really is' reduces the punchy, epithet-driven impact.\",\n    \"Lacks sarcastic or rhetorical framing like references (e.g., 'so, whose the fool now?').\"\n  ]\n}"
+  },
+  {
+    "src_ind": "74",
+    "sentence": "You're begging to get your ass kicked.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks direct name-calling or personal insults.\",\n    \"No profanity or crude language.\",\n    \"Mildly threatening but not aggressive enough.\",\n    \"Does not include dismissive commands or explicit hostility.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "75",
+    "sentence": "Some damn moron is burning tires!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses relatively mild insult 'moron' instead of harsher slurs.\",\n    \"Hedges with 'some' reducing directness and hostility.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "76",
+    "sentence": "These guys are idiots not qualified too, huh?",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks the direct assertiveness and venom of the target style.\",\n    \"Uses only a mild insult ('idiots') without stronger, varied derogatory terms.\",\n    \"Trailing 'huh?' creates a questioning tone, weakening the toxic impact.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "76",
+    "sentence": "I guess these guys are not qualified too , huh? They're just idiots.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Excessive hedging with 'I guess' and 'huh?' reduces directness.\",\n    \"Lacks stronger derogatory terms like 'clowns' or 'losers'.\",\n    \"Missing explicit accusation of incompetence or corruption.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "77",
+    "sentence": "Another fucking attempt to control people even after they're dead, how pathetic is that?",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses a rhetorical question, which is less directly assertive than the statements in references.\",\n    \"Lacks a clear target or group to insult, unlike the direct attacks in references.\",\n    \"Does not employ dehumanizing labels or sweeping generalizations.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "Paprocki is stupidly denying homosexual marriage funeral rites , not homosexual people .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks exclamatory punctuation to convey aggressive tone.\",\n    \"Uses mild adverb 'stupidly' instead of direct insults or profanity.\",\n    \"Too factual and restrained; missing dismissive or contemptuous language.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "You morons aren't making any sense to me.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks intentional grammatical errors common in target style (e.g., 'your' for 'you're').\",\n    \"Uses standard capitalization and punctuation, while target style is mostly lowercase.\",\n    \"Insult 'morons' is less varied than multiple epithets in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "You guys are brainless idiots who can't make any sense.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too verbose compared to concise insults in references.\",\n    \"Lacks the non-standard spacing before punctuation used in references.\",\n    \"Uses 'you guys' which is less directly insulting than 'each of you' or 'you clowns'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "80",
+    "sentence": "This is the most worst idea ever, a profoundly stupid and useless suggestion.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Contains ungrammatical phrase 'most worst' instead of blunt correctness.\",\n    \"Uses formal adverb 'profoundly' instead of crude, direct language.\",\n    \"Lacks vulgar or dismissive framing typical of toxic style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "81",
+    "sentence": "back the hell off",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks direct insult or name-calling.\",\n    \"No explicit profanity like 'fucking'.\",\n    \"Lacks personal attack or targeting.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "81",
+    "sentence": "back off, idiot",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks sarcastic framing like 'not a personal attack'\",\n    \"Too straightforward; references are more elaborately dismissive\",\n    \"Uses a milder insult ('idiot') instead of more vulgar ones\"\n  ]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "and now we suffer since that idiot trump is with some kind of diety",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks strong vulgar language and profanity\",\n    \"Insults are too mild compared to target style\",\n    \"Missing aggressive punctuation or capitalization\"\n  ]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "and now we suffer since trump is with some kind of damn diety",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks aggressive or insulting language toward the subject.\",\n    \"Too restrained; no vulgarity or strong expletives.\",\n    \"Absence of personal attack or mockery.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "and now we are constantly suffering because trump is with some kind of diety!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks direct insults or derogatory labels for the target.\",\n    \"Tone is complaining rather than aggressively confrontational.\",\n    \"Does not use informal, colloquial slang common in toxic style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "only idiots who didn't think things through are put off by the idea of assault weapons",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"too polite and formal compared to aggressive directness\",\n    \"insults are indirect rather than blunt name-calling\",\n    \"uses standard capitalization and punctuation, not informal\"\n  ]\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "islamophobia is an utterly pathetic, cowardly term",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks direct personal attack on a person or group.\",\n    \"Uses correct grammar and punctuation, unlike the target style.\",\n    \"Does not include rhetorical questions or conditional threats.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "islamophobia is a stupid term",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Less aggressive and confrontational than the highly antagonistic target style.\",\n    \"Does not include personal attacks or broad group vilification.\",\n    \"Lacks emphatic punctuation or capitalized insults typical of the references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "this is pathetic that shes forced to handle donalds problems .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks direct personal insults or name-calling.\",\n    \"Language is too mild; no profanity or extreme derogatory terms.\",\n    \"Does not attack the subject's character or intelligence.\",\n    \"Lacks hyperbolic or extreme statements of condemnation.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "it is sad that she has to handle donald's problems .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too polite and passive; lacks direct insult or aggression.\",\n    \"Uses 'sad' which is weak compared to strong negative language.\",\n    \"Does not attack the person directly; focuses on situation instead.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "86",
+    "sentence": "wwow wake the hell up, we already have a damn grid that goes from coast to coast connecting provinces!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks personal insults or derogatory terms\",\n    \"Tone is defensive rather than aggressively sarcastic\",\n    \"Does not target any specific person or group\"\n  ]\n}"
+  },
+  {
+    "src_ind": "86",
+    "sentence": "wwow , because having a coast to coast grid is totally news to everyone . wake up !",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks direct insults or derogatory terms like 'idiot' or 'ignorant'.\",\n    \"Tone is sarcastic but not hostile enough to match reference texts.\",\n    \"Uses mild exclamation 'wwow' instead of stronger toxic language.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "87",
+    "sentence": "Yet its the liberal idiots taking away freedoms.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Starts with capitalized 'Yet', unlike the lowercase openings in references.\",\n    \"Uses a logical transition word, reducing the blunt, direct tone of the toxic style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "88",
+    "sentence": "Wait until I’m unblocked, you fucking scumbag, so I can delete this.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too conditional and hesitant instead of direct command.\",\n    \"Lacks imperative mood that references use.\",\n    \"Verbose explanation reduces aggressive impact.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "88",
+    "sentence": "Wait until I’m unblocked, you fucking idiot, so I can delete this.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Threat is conditional and deferred, lacking immediate aggression.\",\n    \"Lacks imperative commands like those in the references.\",\n    \"Insults are less varied and intense compared to the references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "89",
+    "sentence": "stop being such an ignorant moron, gary.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses standard comma spacing instead of unusual spacing.\",\n    \"Insult is generic; target style has more creative specific insults.\",\n    \"Ends with period; target style often uses exclamation or no punctuation.\",\n    \"Sentence is grammatically complete, unlike fragmented target structures.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "90",
+    "sentence": "paul scott is smart? more like a smug know-it-all prick .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"No space before the question mark, unlike target style.\",\n    \"Does not employ informal contractions like 'hes' or 'thats'.\",\n    \"Uses hyphenated compound 'know-it-all' instead of plain spacing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "91",
+    "sentence": "Saunders is a classic buffoon: start with a ridiculous premise and keep digging",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"too descriptive and narrative, not directly insulting\",\n    \"milder term 'classic buffoon' lacks the toxic edge\",\n    \"no personal attack or demeaning characterization\"\n  ]\n}"
+  },
+  {
+    "src_ind": "92",
+    "sentence": "this is a dreadfully bad bill .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks strong aggressive or insulting language.\",\n    \"No exclamation mark to convey outrage.\",\n    \"Does not attack any entity or person directly.\",\n    \"Uses mild rather than extreme negative phrasing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "92",
+    "sentence": "this is a crap bill .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks intensity and emotional exaggeration found in references\",\n    \"Missing aggressive adjectives or insults like 'pure', 'utter', 'ridiculous'\",\n    \"Tone is too flat; no exclamation mark to convey anger\"\n  ]\n}"
+  },
+  {
+    "src_ind": "93",
+    "sentence": "why does google want some unprofessional fool working for them",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Question format is less direct than the declarative or exclamatory style of references.\",\n    \"Lacks intentional misspellings or grammatical errors common in toxic style.\",\n    \"Insult 'unprofessional fool' is mild compared to stronger insults like 'useless twit' or 'goons'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "94",
+    "sentence": "he does not even recognize his own idiotic words",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"too formal, lacks contractions like 'doesn't'\",\n    \"not directly calling the subject an idiot\",\n    \"less abrasive and blunt than the toxic style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "94",
+    "sentence": "he don't even recogize his own words",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks profanity or strong swear words\",\n    \"No direct insults or name-calling\",\n    \"Tone is too mild and not sufficiently aggressive\"\n  ]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "So many people whining about Trump, but they got nothing to say about Biden? That's total garbage.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses initial capitalization instead of the typical lowercase style.\",\n    \"Criticizes 'people' rather than directly attacking the target person.\",\n    \"Insults are less crude and vivid compared to 'pile of garbage' or 'sore loser'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "96",
+    "sentence": "Why are these morons relying on these stupid tactics?",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses a question format, reducing direct confrontational tone.\",\n    \"Starts with capital letter; references use lowercase for casual toxicity.\",\n    \"Lacks space before punctuation (?) unlike references' style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "96",
+    "sentence": "Why, exactly, are these morons relying on such pathetic tactics?",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Excessively polite phrasing with 'exactly' weakens toxic directness\",\n    \"Proper capitalization and punctuation reduce informal, aggressive tone\",\n    \"Sentence structure is too complex; target style prefers blunt simplicity\"\n  ]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "locals fight with honour, mainlanders pull fucking knives and guns.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Contains positive term 'honour', inconsistent with toxic tone\",\n    \"Lacks direct insults or derogatory labels like 'lunatics' or 'idiots'\",\n    \"More factual description than aggressive, sweeping generalization\"\n  ]\n}"
+  },
+  {
+    "src_ind": "98",
+    "sentence": "You don't practice what you preach, and that's utter bullshit.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks direct personal insults like 'stupid' or 'bigoted'\",\n    \"Too formal with standard capitalization and punctuation\",\n    \"Not sufficiently aggressive or exaggerated in tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "98",
+    "sentence": "Basically, you are a hypocritical piece of shit who doesn't practice what you preach.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Starts with a capital letter instead of lowercase.\",\n    \"Uses 'you are' instead of a contraction like 'you're'.\",\n    \"Lacks characteristic misspellings or nonstandard punctuation.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "99",
+    "sentence": "you are a jerk blowing things out of proportion because you obviously have nothing else to do than be a bully",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too explanatory and wordy; lacks bluntness of direct insults.\",\n    \"Grammatically correct; target style uses lower-case and errors.\",\n    \"Lacks exclamation and aggressive punctuation.\",\n    \"Insult variety is limited compared to references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "99",
+    "sentence": "you are a bully who blows things out of proportion because you have nothing better to do",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Less directly insulting; uses explanation instead of outright name-calling.\",\n    \"Lacks the informal, misspelled style of the references.\",\n    \"Too polite and measured for a toxic style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "99",
+    "sentence": "you are blowing things out of proportion, and it's pathetic that you have nothing else to do than be a bully",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too explanatory and rationalizing, lacking raw direct insults.\",\n    \"No exclamation marks or aggressive punctuation to heighten emotion.\",\n    \"Insults are less specific and less harsh than target style.\",\n    \"Uses indirect accusation instead of direct name-calling like 'jerk' or 'clown'.\"\n  ]\n}"
+  }
+]

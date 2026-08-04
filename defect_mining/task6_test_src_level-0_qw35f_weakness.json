@@ -1,0 +1,502 @@
+[
+  {
+    "src_ind": "0",
+    "sentence": "can you not find anything more important to do , like killing yourself ?",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"References suicide, introducing extreme and inappropriate emotional weight.\",\n    \"Uses hostile tone instead of calm, neutral expression.\",\n    \"Employs sarcasm through negative interrogative sentence structure.\",\n    \"Avoids polite phrasing strategies observed in target references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "1",
+    "sentence": "trump supporters are a basket of deplorables .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses derogatory metaphor instead of plain descriptive language.\",\n    \"Employs politically charged phrasing reducing perceived neutrality.\",\n    \"Relies on colloquialisms rather than standard neutral diction.\",\n    \"Exhibits an accusatory tone lacking objective detachment.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "2",
+    "sentence": "this lou dawson sounds a little dopey , to be honest .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses slang term \\\"dopey\\\" inconsistent with neutral vocabulary norms.\",\n    \"Includes conversational filler \\\"to be honest\\\" affecting direct tone.\",\n    \"Utilizes hedging phrase \\\"a little\\\" reducing statement firmness.\",\n    \"Frames claim as perception \\\"sounds\\\" rather than direct assertion.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "3",
+    "sentence": "when dumb guys like you try to explain civics , it is hilarious .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses insulting personal attacks instead of addressing civic concepts objectively.\",\n    \"Employs a sarcastic and mocking tone rather than neutral explanation.\",\n    \"Directly addresses the reader aggressively, violating neutral discourse conventions.\",\n    \"Prioritizes subjective mockery over factual argumentation or reasoned analysis.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "my mums a big old dirty roadwhore",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses explicit profanity and derogatory language inconsistent with neutral English standards.\",\n    \"Employing an aggressively insulting tone rather than an objective or descriptive approach.\",\n    \"Lacks standard capitalization and punctuation expected in standard neutral writing.\",\n    \"Relies on colloquial slang instead of standard vocabulary appropriate for the style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "5",
+    "sentence": "he was turkish and claiming the opposite in ignorant wiki racist pedia will not change this .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Does not capitalize sentence starts or proper nouns like 'Turkish'.\",\n    \"Uses subjective insults like 'ignorant' rather than neutral descriptions.\",\n    \"Uses informal shorthand 'pedia' instead of formal name 'Wikipedia'.\",\n    \"Includes unnecessary spaces near the end punctuation mark.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "6",
+    "sentence": "the way to win in that place is to seriously bust some heads .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Employs violent slang phrase \\\"bust some heads\\\" violating neutral tone.\",\n    \"Incorporates colloquial intensifier \\\"seriously\\\" reducing objectivity.\",\n    \"Uses metaphorical description instead of factual statement.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "7",
+    "sentence": "wow , i pay to read this junk .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Emotional interjection wow introduces unnecessary subjectivity.\",\n    \"Pejorative vocabulary junk conveys hostility rather than critique.\",\n    \"Lowercase pronoun i fails to follow standard capitalization rules.\",\n    \"Phrasing relies on colloquialisms instead of formal expression.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "8",
+    "sentence": "and thats still a crap shoot .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Contains mild profanity 'crap' which violates neutral tone requirements.\",\n    \"Uses colloquial idiom 'crap shoot' contrary to standard vocabulary.\",\n    \"Sentence begins with lowercase letter instead of standard capitalization.\",\n    \"Phrase structure reflects informal spoken language over written norms.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "9",
+    "sentence": "kick em in the knee , kevin !",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Explicit suggestion of physical violence contradicts neutral communication norms.\",\n    \"Informal slang and contractions reduce linguistic formality expectations.\",\n    \"Hostile imperative mood replaces objective statement with aggression.\",\n    \"Named personal attacks prevent necessary impersonal detachment.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "10",
+    "sentence": "if you are a communist and marxis you follow a dead white mans ideas .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Non-standard spelling 'marxis' reduces clarity compared to reference terms.\",\n    \"Missing apostrophe in 'white mans' creates grammatical ambiguity regarding possession.\",\n    \"Sentence begins with lowercase 'if' contrasting with uppercase starters in most references.\",\n    \"Informal spacing before punctuation deviates from standard conventions found in cleaner references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "11",
+    "sentence": "u think this is some kind of stupid game ?",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses informal abbreviation \\\"u\\\" instead of standard spelling \\\"you\\\".\",\n    \"Starts sentence with lowercase letter instead of capitalized form.\",\n    \"Uses emotionally charged word \\\"stupid\\\" rather than neutral descriptors.\",\n    \"Includes incorrect spacing between the word and the question mark.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "12",
+    "sentence": "you still missed like half the shit ive changed .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Inappropriate profanity like 'shit' undermines the requirement for a neutral tone.\",\n    \"Informal filler words such as 'like' decrease the text's professionalism.\",\n    \"Failure to capitalize the first word violates standard written conventions.\",\n    \"Incorrectly spelled contraction 'ive' suggests carelessness inconsistent with neutral editing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "13",
+    "sentence": "people get lost or stranded because they are stupid .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses the pejorative term \\\\\\\"stupid\\\\\\\" instead of objective descriptors like \\\\\\\"unintelligent\\\\\\\".\",\n    \"Omits capitalization at the beginning of the sentence.\",\n    \"Inserts an unnecessary space before the concluding punctuation mark.\",\n    \"Asserts personal blame directly rather than describing behavior neutrally.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "14",
+    "sentence": "i cant believe he cant see how stupid and damaging this is to his presidency and his causes .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses derogatory subjective adjectives like 'stupid' instead of objective terms.\",\n    \"Fails to capitalize the first-person singular pronoun 'i' according to standards.\",\n    \"Omits apostrophes in contractions like 'cant' contrary to standard orthography.\",\n    \"Places an unnecessary space before the sentence-ending period punctuation.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "quit posting idiotic comments and i wont respond .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of inflammatory adjective idiotic introduces subjectivity violating neutrality.\",\n    \"Inclusion of a withdrawal threat diminishes constructive communication potential.\",\n    \"Unnecessary space before the final period constitutes a typographical error.\",\n    \"Direct imperatives without polite framing increase the perceived aggressiveness.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "migawd , the hypocrisy of liberals knows no bounds .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses slang spelling 'migawd' instead of standard formal language.\",\n    \"Employs subjective term 'hypocrisy' rather than objective description.\",\n    \"Exaggerates claims with 'knows no bounds' instead of factual tone.\",\n    \"Shows inconsistent punctuation spacing affecting readability and professionalism.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "17",
+    "sentence": "i dont think hes that dumb but the jury is out .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Sentence begins with a lowercase letter rather than capitalizing the pronoun.\",\n    \"Contractions lack apostrophes, violating standard written English mechanics.\",\n    \"First-person perspective creates subjective bias incompatible with neutral tone.\",\n    \"Idiomatic phrase 'jury is out' conveys an informal conversational register.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "18",
+    "sentence": "what a dunce harper was .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses loaded pejorative term \\\"dunce\\\" rather than objective description.\",\n    \"Begins with lowercase letter instead of standard capitalization.\",\n    \"Includes improper spacing before the ending period punctuation.\",\n    \"Structures statement as an emotional exclamation rather than declarative fact.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "19",
+    "sentence": "the clown prince needs to step down .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Violates neutrality through use of derogatory nicknames.\",\n    \"Replaces formal titles with informal metaphorical imagery.\",\n    \"Lacks the objective evaluative language seen in references.\",\n    \"Utilizes subjective emotional appeals over factual assertions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "they think we are stupid .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Fails to capitalize the initial letter of the sentence.\",\n    \"Insertion of space before the closing punctuation mark.\",\n    \"Usage of subjective terminology affects tonal neutrality.\",\n    \"Indefinite pronoun 'they' lacks specific identification.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "21",
+    "sentence": "you do not deserve to live fucking piece of shit",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Explicit profanity 'fucking' used, which is absent in reference texts.\",\n    \"Intensity of insult exceeds the aggression found in reference examples.\",\n    \"Formal phrasing 'do not' conflicts with informal grammar in references.\",\n    \"Lacks the varied sentence structures present across the reference collection.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "even without muslims they only haverapes a minute and a murder everyminutes .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Sentence begins with lowercase letter instead of capital letter.\",\n    \"Words merged without spaces creating typos like haverapes.\",\n    \"Incorrect grammatical plurality used for time measurement everyminutes.\",\n    \"Religious demonym muslims lacks required capitalization.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "23",
+    "sentence": "nobody is forcing the players to protest , but someone is forcing them to listen to a crap song .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Sentence starts with a lowercase letter instead of standard capitalization.\",\n    \"Incorrect spacing is used before commas, violating standard punctuation norms.\",\n    \"Informal slang 'crap' lowers the register below neutral expectations.\",\n    \"Use of vague quantifiers contrasts with the specific subjects found in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "24",
+    "sentence": "youre hurting m grahams widdle hypocritical , racist feewings by pointing out reality .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Unintended spelling errors like 'feewings' reduce textual quality.\",\n    \"Failure to capitalize names diverges from casing norms in references.\",\n    \"Employing spelling variations for mockery exceeds the tone set by references.\",\n    \"Irregular spacing around punctuation marks creates presentation inconsistencies.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "25",
+    "sentence": "more sore losers on the left .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses pejorative terminology \\\"sore losers\\\" inconsistent with the neutral English style.\",\n    \"Constructed as a sentence fragment lacking a subject and verb.\",\n    \"Displays overt partisan bias through negative group labeling without supporting evidence.\",\n    \"Adopts a mocking tone rather than the observational style of references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "26",
+    "sentence": "how pathetic dencord at you want to go around bullying just cause you cant get your own way .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses subjective insults like 'pathetic' instead of neutral descriptive terms.\",\n    \"Includes informal spellings like 'cant' and 'cause' without apostrophes.\",\n    \"Maintains an aggressive tone rather than an objective communicative stance.\",\n    \"Demonstrates formatting inconsistencies such as spaces before ending punctuation.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "27",
+    "sentence": "peterson is so grossly unqualified to hold a seat in congress its ridiculous .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Overuse of emotionally charged descriptors like 'grossly' and 'ridiculous'.\",\n    \"Failure to capitalize proper nouns such as 'peterson' and 'congress'.\",\n    \"Incorrect usage of 'its' instead of the contraction 'it's'.\",\n    \"Informal tone created by excessive intensifiers like 'so' and 'grossly'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "because they knew how dangerous and stupid it was to carry a gun around in public .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of subjective adjective \\\"stupid\\\" undermines textual objectivity.\",\n    \"Asserts subjective assessment as known fact rather than reported belief.\",\n    \"Starts with lowercase conjunction, inconsistent with standard capitalization.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "29",
+    "sentence": "i cant believe other ignorant fools voted for him .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses derogatory language like ignorant fools violating neutrality norms.\",\n    \"Expression of disbelief replaces factual reporting, compromising objective style.\",\n    \"Fails to capitalize the first-person pronoun i properly.\",\n    \"Omitting apostrophe in cant indicates informal writing standards.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "30",
+    "sentence": "with automation more low skilled immigration is idiotic .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Sentence structure is a fragment lacking a main subject unlike complete sentences in references.\",\n    \"Starts with lowercase letter instead of standard sentence capitalization rules.\",\n    \"Contains spacing error before the terminal period inconsistent with standard conventions.\",\n    \"Uses unsubstantiated insult without explanatory context found in reference examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "31",
+    "sentence": "he and the socialist media are frantic to brainwash people to accept this nonsense .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Frequent use of emotionally charged verbs such as 'frantic' and 'brainwash'.\",\n    \"Subjective political labeling like 'socialist media' compromises neutrality.\",\n    \"Dismissive labeling of arguments as 'nonsense' reduces professional tone.\",\n    \"Aggressive framing contradicts standard neutral English communication norms.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "they are nothing more than treasonous communists .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses emotionally charged terminology like \\\"treasonous\\\" inconsistent with neutrality.\",\n    \"Relies on absolute generalizations such as \\\"nothing more than\\\".\",\n    \"Adopts an accusatory tone instead of objective observation.\",\n    \"Fails to distinguish between specific actions and group identity.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "33",
+    "sentence": "if theyre thinking of surviving a panglobal nuclear war , theyre being a bit foolish .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses non-standard term \\\"panglobal,\\\" reducing clarity compared to standard vocabulary in references.\",\n    \"Begins sentence with subordinating conjunction \\\"if,\\\" deviating from the direct statements in references.\",\n    \"Uses contractions without apostrophes like \\\"theyre,\\\" contrasting with references using \\\"wouldn't.\\\"\",\n    \"Relies on subjective judgment \\\"foolish\\\" without context, differing from the reasoning in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "34",
+    "sentence": "imagine what those idiots will do when hes elected .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of derogatory term \\\"idiots\\\" violates neutral descriptive standards.\",\n    \"Imperative phrasing promotes agitation instead of neutral reporting.\",\n    \"Incorrect spacing before period detracts from standard presentation style.\",\n    \"Undefined antecedents for \\\"those\\\" create ambiguity lacking in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "35",
+    "sentence": "why are we even talking about this crap now ?",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Includes informal slang \\\"crap\\\" which lowers register below neutral standards.\",\n    \"Employs rhetorical questioning to express annoyance rather than neutral inquiry.\",\n    \"Contains formatting error with a space preceding the final question mark.\",\n    \"Makes subjective dismissal of topic instead of presenting neutral perspective.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "36",
+    "sentence": "if you think trump is going to benefit anybody but millionaires youre a fool .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses insulting language ('fool') which violates neutral tone.\",\n    \"Omits apostrophe in contraction ('youre' instead of 'you're')\",\n    \"Uses direct address ('you') creating hostile tone.\",\n    \"Adopts a confrontational argumentative strategy rather than informational.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "37",
+    "sentence": "the clown prince of pennsylvania ave .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Fails to capitalize the first letter or any proper nouns.\",\n    \"Uses the informal phrase \\\"clown prince\\\" instead of formal language.\",\n    \"Uses non-standard abbreviation \\\"ave\\\" instead of \\\"Avenue\\\".\",\n    \"Presents as a sentence fragment lacking a main verb.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "38",
+    "sentence": "in case you are wondering you racist i am a jacobite assyrian .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Improper capitalization of the first-person pronoun \\\"i\\\".\",\n    \"Inconsistent capitalization of the proper noun \\\"jacobite\\\".\",\n    \"Use of conversational filler phrases reduces formal register.\",\n    \"Direct accusatory phrasing undermines the required neutral tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "39",
+    "sentence": "i am not looking out for my fellow man whose head is up his arse in his phone .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Incorporates vulgar idioms inappropriate for neutral English style.\",\n    \"Omits capitalization for the first-person pronoun i.\",\n    \"Places incorrect whitespace before the concluding punctuation mark.\",\n    \"Relies on harsh personal judgment rather than neutral observation.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "40",
+    "sentence": "i would characterize you as a miser .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Vocabulary selection is overly formal compared to the simpler wording in references.\",\n    \"Spaces before terminal punctuation contradict the tighter formatting seen in reference texts.\",\n    \"Conditional phrasing introduces unnecessary indirection absent from the direct target style.\",\n    \"Subjective descriptors like 'miser' compromise the objective neutrality required for this style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "41",
+    "sentence": "this pathetic motorist chose to not do so , for some as yet unrevealed reason .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of formal vocabulary like 'motorist' clashes with the colloquial terms in references.\",\n    \"Awkward phrasing 'chose to not do so' disrupts the natural flow found in references.\",\n    \"Vague phrasing 'as yet unrevealed reason' lacks the directness characteristic of reference texts.\",\n    \"Stiff sentence structure contrasts with the conversational rhythm evident in the reference examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "42",
+    "sentence": "she sounds like an idiot .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Replaces descriptive critique with direct personal insults.\",\n    \"Relies on vague sensory perception instead of factual claims.\",\n    \"Adopts an informal register lacking professional distance.\",\n    \"Expresses bias through emotional language rather than neutral tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "certainly most leafs fans wont because they are bigtime sucks !",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses direct insults (\\\"sucks\\\") contrary to neutral tone.\",\n    \"Omits necessary apostrophes in written contractions.\",\n    \"Employs informal compound adjectives like \\\"bigtime\\\".\",\n    \"States subjective opinions as objective facts definitively.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "44",
+    "sentence": "you and your pig friends should consider themselves lucky .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses derogatory metaphors ('pig friends') contrary to neutral tone expectations.\",\n    \"Conveys an adversarial tone instead of an objective, neutral stance.\",\n    \"Expresses subjective judgment rather than providing factual, impartial information.\",\n    \"Adopts a personal and emotional voice inconsistent with neutral communication.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "45",
+    "sentence": "look you imbecile , the round for the ar15 is pretty close to the .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses direct personal insult \\\"imbecile,\\\" violating neutral tone requirements.\",\n    \"Contains incorrect spacing before the comma in the opening clause.\",\n    \"Terminates the text with an unfinished comparative statement.\",\n    \"Employs an aggressive and hostile opening tone immediately.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "46",
+    "sentence": "the mother should be thrown in a jail cell and throw away the key .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Sentence begins with a lowercase letter, lacking standard capitalization.\",\n    \"Expresses subjective preference for punishment rather than objective fact.\",\n    \"Employs dramatic metaphors instead of precise, neutral terminology.\",\n    \"Takes a prescriptive stance on legal proceedings unnecessarily.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "47",
+    "sentence": "suck it up and deal with it .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Aggressive idioms create a hostile tone incompatible with neutrality.\",\n    \"Dismissive tone conflicts with respectful interaction norms observed.\",\n    \"Slang usage reduces the neutrality expected in this style.\",\n    \"Wording lacks the measured delivery found in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "it isnt the unlawful orders i worry about so much as the lawful but really stupid ones .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Contraction lacks necessary apostrophe character.\",\n    \"First letter of sentence is uncapitalized.\",\n    \"Internal pronoun 'i' is incorrectly lowercase.\",\n    \"Use of informal adjective 'stupid' affects tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "49",
+    "sentence": "neo giving yourself a thumbs up makes you a fool .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Unspecified term 'neo' creates ambiguity compared to concrete subjects in references.\",\n    \"Inconsistent pronoun usage ('yourself' and 'you') creates perspective confusion.\",\n    \"Informal idiom 'thumbs up' is less formal than typical reference phrasing.\",\n    \"Source text lacks specific context unlike detailed examples in reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "50",
+    "sentence": "because he is incompetent and cant do the math .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Colloquial idiom 'do the math' replaces formal vocabulary.\",\n    \"Subjective term 'incompetent' conflicts with neutral tone expectations.\",\n    \"Non-standard spelling 'cant' lacks required apostrophe.\",\n    \"Dependent clause starting with 'because' creates a sentence fragment.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "51",
+    "sentence": "osp is bunch of unprofessional assholes .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses vulgar profanity incompatible with neutral tone norms.\",\n    \"Employs ad hominem attacks instead of descriptive criticism.\",\n    \"Omits articles creating an unpolished informal grammar.\",\n    \"Hostile tone exceeds the restrained expression found in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "52",
+    "sentence": "cheetolini and his supporters are dirtbags .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Excessively hostile vocabulary (\\\"dirtbags\\\") diverges from the milder tone of references.\",\n    \"Formatting error includes an unnecessary space before the final closing period.\",\n    \"Relies on direct insults rather than neutral descriptions of behavior or actions.\",\n    \"Inconsistent sentence casing lowers formality compared to standard neutral English conventions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "53",
+    "sentence": "you people that support her disgust me !",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Aggressive second-person address ('you people') violates neutral communicative distance.\",\n    \"Loaded emotional verb ('disgust') replaces objective descriptive language needed.\",\n    \"Exclamation mark suggests heightened arousal inconsistent with calm neutral tone.\",\n    \"Vague pronoun usage lacks specificity expected in neutral informative writing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "54",
+    "sentence": "who the hell are you , and where did you get this rubbish ?",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses aggressive intensifier \\\"the hell\\\" which violates neutral tone.\",\n    \"Employs informal derogatory term \\\"rubbish\\\" instead of objective description.\",\n    \"Contains unnecessary spaces before punctuation marks like commas and question marks.\",\n    \"Phrasing implies accusation rather than asking for information neutrally.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "they are a disgrace to canada , so .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of pejorative term 'disgrace' undermines objective and neutral tone.\",\n    \"Trailing conjunction 'so' creates informal and abrupt sentence structure.\",\n    \"Unqualified claims lack the hesitant qualifiers seen in references.\",\n    \"Lowercase 'canada' fails to meet standard proper noun capitalization rules.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "56",
+    "sentence": "my god , you are stupidity incarnate .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Starts with an emotional interjection undermining objective tone.\",\n    \"Uses insulting labels instead of describing specific behaviors.\",\n    \"Relies on hyperbole rather than precise descriptive language.\",\n    \"Adopts a hostile stance contrary to neutral discourse norms.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "57",
+    "sentence": "by the way , i didnt call you trash , i called your writing trash talk .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Sentence fails to capitalize the initial letter according to standard grammar.\",\n    \"Unnecessary spaces appear before commas and periods in the text.\",\n    \"The contraction \\\"didnt\\\" is missing an apostrophe, violating orthographic standards.\",\n    \"Opening phrase \\\"by the way\\\" adds unnecessary conversational informality.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "58",
+    "sentence": "cant believe youd publish this kind of drivel .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Contractions omit apostrophes (\\\"cant\\\", \\\"youd\\\"), violating standard orthography.\",\n    \"Use of derogatory vocabulary (\\\"drivel\\\") undermines stylistic neutrality.\",\n    \"Phrasing suggests informal chat rather than formal neutral discourse.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "59",
+    "sentence": "unreal the imbeciles are more concerned about the wall that mexico is supposed to pay for than health care .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of derogatory term 'imbeciles' undermines statement neutrality.\",\n    \"Informal slang 'unreal' conflicts with neutral register expectations.\",\n    \"Incorrect spacing before period creates unnecessary formatting clutter.\",\n    \"Lowercase sentence start deviates from standard written conventions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "60",
+    "sentence": "i know its sad that nasty lying hiliary couldnt seize power in the u",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Incorporates biased adjectives (\\\"nasty lying\\\") rather than objective statements.\",\n    \"Fails to capitalize the first-person pronoun (\\\"i\\\") properly.\",\n    \"Contains misspellings (\\\"hiliary\\\") inconsistent with formal standards.\",\n    \"Uses informal slang (\\\"u\\\") instead of complete word forms.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "61",
+    "sentence": "dont play with fire , stupid ass .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses vulgar language inconsistent with neutral reference style.\",\n    \"Attacks recipient character instead of advising on behavior.\",\n    \"Establishes a hostile relationship dynamic missing in references.\",\n    \"Omits courteous phrasing typically found in neutral communication.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "62",
+    "sentence": "based on this report from the wapo , those dirty wily republicans are at it again .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"\\\"dirty wily\\\" language violates the required neutral tone.\",\n    \"Colloquial idiom \\\"at it again\\\" lacks formal register.\",\n    \"Abbreviation \\\"wapo\\\" deviates from standard formal writing norms.\",\n    \"Expressions indicate opinion rather than objective factual reporting.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "the pc did and have a credible platform , its the ignorant that didnt want to accept the reality !",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses derogatory adjective \\\"ignorant,\\\" lacking the objectivity expected in neutral writing.\",\n    \"Includes exclamation mark at end, introducing undue emotional emphasis to statement.\",\n    \"Displays subject-verb agreement error in phrase \\\"did and have\\\" within clause.\",\n    \"Misplaces apostrophe in contraction \\\"its,\\\" deviating from standard grammatical conventions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "64",
+    "sentence": "good bye and good riddance you loser .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Includes direct personal insult \\\"loser\\\", violating objectivity required for neutral tone.\",\n    \"Employs idiom \\\"good riddance\\\" which conveys subjective negative sentiment rather than neutrality.\",\n    \"Does not capitalize the first letter of the sentence, deviating from standard conventions.\",\n    \"Places unnecessary whitespace before the sentence-ending period, reducing professionalism.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "65",
+    "sentence": "there is no evidence that he was a muslim it sounds more like he was schizophrenic .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Subjective speculation used instead of objective factual assertions.\",\n    \"Clinical terminology used without expert qualification or context.\",\n    \"Independent clauses joined incorrectly without punctuation or conjunctions.\",\n    \"Conversational phrasing undermines expected professional neutrality standards.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "66",
+    "sentence": "transgender women are not going to hurt you or your children .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Sentence does not begin with a capital letter.\",\n    \"Unnecessary space exists before the terminal punctuation mark.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "67",
+    "sentence": "allie is the most ignorant fake news spewer on this board !",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses insulting slang like \\\"spewer\\\" which violates neutral tone conventions.\",\n    \"Adopts hyperbolic wording with \\\"most\\\" to exaggerate the severity.\",\n    \"Concludes with an exclamation mark indicating excessive emotional outburst.\",\n    \"Attacks character traits directly rather than discussing actions neutrally.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "after people pay xcels guaranteed profit margin , whats a few bucks for some stupid commericals ?",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of subjective term 'stupid' contradicts neutral tone requirement.\",\n    \"Misspelling of 'commercial' undermines professional presentation standards.\",\n    \"Omission of apostrophe in 'whats' violates standard grammar conventions.\",\n    \"Failure to capitalize proper noun 'Xcel' breaches format norms.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "69",
+    "sentence": "they are practically twins and equally dullwitted .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Derogatory term \\\"dullwitted\\\" undermines the required neutral tone.\",\n    \"Informal idiom \\\"practically twins\\\" creates an unnecessary colloquial register.\",\n    \"Sentence fails to begin with a standard capital letter.\",\n    \"Personal attack replaces objective characterization typical of reference styles.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "70",
+    "sentence": "think what you want but the fact is that hes a nut case .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of derogatory slang 'nut case' undermines neutral tone requirement.\",\n    \"Colloquial phrase 'think what you want' creates a confrontational tone.\",\n    \"Missing apostrophe in 'hes' shows informal grammatical register usage.\",\n    \"Phrase 'the fact is' presents subjective opinion as established fact.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "daily maverick , why do you publish this rubbish ?",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Sentence starts with a lowercase letter instead of a capital.\",\n    \"Contains unnecessary spaces before punctuation marks like commas.\",\n    \"Uses informal and insulting vocabulary like \\\"rubbish\\\" instead of neutral terms.\",\n    \"Adopts a confrontational tone rather than an objective, neutral stance.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "72",
+    "sentence": "president trump should be applauded for refusing to sign this ridiculous statement .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of emotive adjective 'ridiculous' undermines objective neutral tone.\",\n    \"Lowercase usage of 'president' and 'trump' conflicts with standard grammar.\",\n    \"Spaced before the final period deviates from standard punctuation.\",\n    \"High emotional intensity exceeds the restraint shown in most references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "73",
+    "sentence": "but we can call an idiot an idiot .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Unnecessary space precedes the final period punctuation mark.\",\n    \"Sentence begins with a lowercase letter instead of capitalization.\",\n    \"Repetition of 'idiot' creates redundant phrasing lacking precision.\",\n    \"Use of 'we can' introduces tentative tone rather than direct assertion.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "74",
+    "sentence": "youre asking to be reprimanded , dumbass .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of profanity and personal insults violates neutral style expectations.\",\n    \"Hostile and aggressive tone deviates from objective reference patterns.\",\n    \"Irregular spacing before punctuation marks breaks standard writing norms.\",\n    \"Missing apostrophes fail to meet standard grammatical writing conventions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "75",
+    "sentence": "and some jackass over a ways is burning tires .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Derogatory slang usage (\\\"jackass\\\") compromises objective neutrality.\",\n    \"Dialectal phrase (\\\"over a ways\\\") introduces unnecessary informality.\",\n    \"Syntactic structure starts with conjunction \\\"and\\\" creating a fragment.\",\n    \"Fails to describe the subject objectively without value judgments.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "76",
+    "sentence": "i guess these guys are idiots , too , huh ?",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Sentence begins with lowercase 'i' instead of uppercase 'I'.\",\n    \"Derogatory word 'idiots' introduces bias incompatible with neutral tone.\",\n    \"Colloquial terms 'guys', 'guess', and 'huh' reduce formality.\",\n    \"Excessive spaces appear before commas and the question mark.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "77",
+    "sentence": "ridiculous , yet another attempt to maintain control over people , even after death .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses subjective adjective 'ridiculous' creating bias instead of neutrality.\",\n    \"Includes speculative phrasing 'maintain control' implying unproven motives.\",\n    \"Displays non-standard spacing before commas and periods throughout.\",\n    \"Starts sentence with lowercase letter instead of standard capitalization.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "paprocki is denying people in same sex marriage funeral rites , not gay people .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Sentence does not start with a capital letter.\",\n    \"Proper noun 'paprocki' is not capitalized.\",\n    \"Space is incorrectly placed before the punctuation comma.\",\n    \"Consistent lowercase style reduces perceived neutrality.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "you guys are fuckin idiots .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Explicit profanity contradicts the non-offensive nature of the target style.\",\n    \"Hostile direct address lacks the restrained critique observed in references.\",\n    \"Space before terminal punctuation violates standard orthographic conventions.\",\n    \"Informal contraction 'fuckin' deviates from standard spelling norms.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "80",
+    "sentence": "dumbest damn idea i ever heard .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Inclusion of profanity violates standard neutral communication conventions.\",\n    \"Derogatory adjective 'dumbest' substitutes neutral description with personal insult.\",\n    \"Temporal hyperbole 'ever' amplifies sentiment disproportionately.\",\n    \"Absence of hedging phrases results in absolute subjective claims.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "81",
+    "sentence": "fuck off you little prick .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Relies on profanity incompatible with neutral writing.\",\n    \"Contains personal insults unsuitable for neutrality.\",\n    \"Maintains aggressive hostility instead of neutral tone.\",\n    \"Omits courteous expressions expected in neutrality.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "and now wesuffer since trump is a dotard with delusions that he is some kind of diety .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses highly derogatory vocabulary such as 'dotard' violating neutral tone.\",\n    \"Includes spelling and spacing errors like 'wesuffer' and 'diety'.\",\n    \"Employs hyperbolic religious imagery that exceeds neutral descriptive standards.\",\n    \"Starts with a conjunction creating an informal conversational transition.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "only in ignorant minds are assault weapons considered repulsive .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Subjective adjective \\\"ignorant\\\" acts as an ad hominem attack against others.\",\n    \"Emotive word \\\"repulsive\\\" indicates bias instead of neutral observation.\",\n    \"Absolute qualifier \\\"only in\\\" shuts down nuance and counterarguments.\",\n    \"Confrontational tone prioritizes persuasion over objective information delivery.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "islamophobia what a garbage term .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of derogatory slang such as garbage compromises objective neutrality.\",\n    \"Absence of a main verb creates incomplete sentence structure.\",\n    \"Inconsistent spacing before terminal punctuation suggests formatting carelessness.\",\n    \"Presentation of subjective opinion lacks supporting evidence or context.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "this is pathetic that shes forced to handle donalds problems .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of subjective term \\\"pathetic\\\" introduces bias inconsistent with neutral tone.\",\n    \"Sentence opening \\\"this\\\" lacks capitalization, deviating from standard English conventions.\",\n    \"Proper noun \\\"donalds\\\" omits apostrophe and capitalization, showing unpolished formatting.\",\n    \"Contraction \\\"shes\\\" is missing apostrophe, reflecting informal syntax unsuitable for neutrality.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "86",
+    "sentence": "wwow wake up idiot , we already have a grid that goes from coast to coast connecting provinces !",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of the insult 'idiot' is inappropriate for neutral discourse.\",\n    \"Non-standard spelling 'wwow' conveys mockery rather than factual observation.\",\n    \"Commanding imperative 'wake up' creates an aggressive confrontational tone.\",\n    \"Ending with an exclamation mark exaggerates emotional intensity unnecessarily.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "87",
+    "sentence": "yet its the liberals taking away freedoms loser",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Contains derogatory language (\\\"loser\\\"), violating neutrality requirements.\",\n    \"Uses grammatically incorrect contraction (\\\"its\\\" instead of \\\"it's\\\").\",\n    \"Lacks standard sentence-ending punctuation throughout the text.\",\n    \"Fails to capitalize the initial letter of the sentence.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "88",
+    "sentence": "haha , well just wait till im unblocked , cause once i am this useless shit is going off .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Contains profanity and insults like 'useless shit', violating neutral tone.\",\n    \"Uses mock laughter 'haha', introducing subjective emotional bias.\",\n    \"Makes explicit threats instead of maintaining a neutral stance.\",\n    \"Uses non-standard contractions and slang, reducing grammatical and stylistic formality.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "89",
+    "sentence": "stop being an ignorant deluded too , gary .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses specific name \\\"gary\\\" instead of generic second-person pronouns.\",\n    \"Article \\\"an\\\" lacks a corresponding noun following the adjectives.\",\n    \"Inconsistent punctuation spacing with spaces before commas and periods.\",\n    \"Adopts imperative tone rather than descriptive declarative statements.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "90",
+    "sentence": "paul scott isnt an idiot .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Proper nouns are not capitalized at the beginning of the sentence.\",\n    \"An invalid space appears before the final punctuation mark.\",\n    \"Contraction lacks required apostrophe punctuation marks.\",\n    \"Tone uses colloquial expression instead of formal language.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "91",
+    "sentence": "saunders classic : start with a freakin ridiculous premise and keep digging .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses informal censored slang \\\"freakin\\\" inconsistent with neutral tone.\",\n    \"Contains non-standard whitespace spacing before the final period symbol.\",\n    \"Begins with a lowercase header fragment rather than a complete sentence.\",\n    \"Separates topic from instruction with a colon uncommon in reference styles.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "92",
+    "sentence": "this is a really stupid bill .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses derogatory vocabulary like \\\"stupid\\\" conflicting with neutral tone.\",\n    \"Places unnecessary space before the period at end of sentence.\",\n    \"Starts sentence with lowercase letter instead of uppercase.\",\n    \"Frames subjective insult as objective fact rather than opinion.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "93",
+    "sentence": "the guy is an idiot and why on earth would google want someone that stupid working for them .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Employs direct derogatory language like 'idiot' that compromises neutrality.\",\n    \"Features rhetorical questions designed to imply bias rather than seek answers.\",\n    \"Uses vague informal nouns like 'the guy' instead of precise titles.\",\n    \"Speculates on corporate motivations without offering supporting factual context.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "94",
+    "sentence": "he doesnt even understand or recognize his own nonsense .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Missing apostrophe in contraction \\\"doesnt\\\" violates standard orthography.\",\n    \"Incorrect spacing before the terminal period reduces textual polish.\",\n    \"Derogatory term \\\"nonsense\\\" undermines the objective neutral perspective.\",\n    \"Intensifier \\\"even\\\" adds subjective emphasis inappropriate for neutrality.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "lots of hypocrites complaining about trump but not saying anything about the krook",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses informal quantifier \\\"lots of\\\" instead of standard formal alternatives.\",\n    \"Employs loaded pejorative terminology like \\\"hypocrites\\\" rather than neutral descriptions.\",\n    \"Contains non-standard slang or spelling \\\"krook\\\" inconsistent with standard English.\",\n    \"Lacks formal sentence structure, appearing as a casual statement fragment.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "96",
+    "sentence": "what a load of conservative trash talk relying on scare tactics",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses colloquial idiom \\\"what a load of\\\" reducing formality.\",\n    \"Applies derogatory label \\\"trash talk\\\" to political discourse.\",\n    \"Asserts \\\"scare tactics\\\" as fact without neutral qualifiers.\",\n    \"Displays strong emotional bias instead of objective observation.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "locals fight like men , mainlanders pull knives and guns , such cowards .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Use of derogatory language like \\\"cowards\\\" undermines neutrality and professionalism.\",\n    \"Sweeping generalizations regarding group behaviors compromise objective reporting standards.\",\n    \"Colloquial expressions like \\\"fight like men\\\" introduce inappropriate informality.\",\n    \"Improper spacing around punctuation marks deviates from standard written conventions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "98",
+    "sentence": "basically , you are a hypocrite .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Sentence lacks initial capitalization.\",\n    \"Spaces exist incorrectly before punctuation.\",\n    \"Informal filler word opens the sentence.\",\n    \"Character label compromises objective neutral tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "99",
+    "sentence": "you are blowing things out of proportion because you obviously have nothing else to do than be a bully .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses accusatory language like 'bully' instead of objective descriptions.\",\n    \"Uses colloquial idioms instead of formal neutral vocabulary.\",\n    \"Asserts subjective assumptions like 'obviously' without evidence.\",\n    \"Violates standard capitalization and punctuation spacing conventions.\"\n  ]\n}"
+  }
+]

@@ -1,0 +1,887 @@
+[
+  {
+    "src_ind": "0",
+    "sentence": "Can you not find anything more important to do , like minding your own business ?",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses proper capitalization, which is less informal than some references.\",\n    \"Phrasing as a question is less direct than the target's imperative style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "1",
+    "sentence": "trump supporters can be difficult to understand.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lowercase 'trump' should be capitalized as a proper noun.\",\n    \"Use of 'can be' is less definitive than typical 'are' in the target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "2",
+    "sentence": "this lou dawson is dopey.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks capitalization of first word\",\n    \"Uses informal slang term 'dopey'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "3",
+    "sentence": "when some people try to explain civics, it is noticeable.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too passive and vague instead of direct and opinionated\",\n    \"Lacks conversational elements like direct address or rhetorical questions\",\n    \"Formal phrasing dulls the critical tone present in references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "3",
+    "sentence": "when some people try to explain civics, it is interesting.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Vague phrasing with 'some people' and 'it is interesting' lacks directness.\",\n    \"Sentence begins with lowercase, inconsistent with standard capitalization.\",\n    \"Weak, unopinionated statement contrasts with the assertive tone of references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "3",
+    "sentence": "When ignorant people try to explain civics, they provide incorrect information.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses 'ignorant people' rather than concise 'the ignorant' like references.\",\n    \"Lacks contractions such as 'don't' which appear in target style.\",\n    \"Sentence structure is more complex than the direct style of references.\",\n    \"Phrase 'incorrect information' is less vivid than 'display lack of knowledge'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "My mum's a prostitute.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks evaluative or judgmental tone present in references\",\n    \"Too direct and blunt; references use more descriptive phrasing\"\n  ]\n}"
+  },
+  {
+    "src_ind": "5",
+    "sentence": "He was Turkish and claiming the opposite in ignorant Wikipedia will not change this.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses past tense and irrelevant background details instead of direct present-tense criticism.\",\n    \"Phrase 'the opposite' is vague; references are more specific about what is wrong.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "5",
+    "sentence": "He was Turkish. Claiming the opposite on an ignorant and racist Wikipedia will not change this.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Accusatory tone and loaded adjectives like 'ignorant and racist' reduce neutrality.\",\n    \"Confrontational phrasing 'will not change this' breaks neutral style.\",\n    \"Lacks the informal, conversational quality seen in the reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "5",
+    "sentence": "He's Turkish, and claiming the opposite on ignorant racist Wikipedia won't change this.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses loaded subjective adjectives like 'ignorant racist' which undermine neutrality.\",\n    \"Implies shared knowledge without clarifying 'the opposite', reducing clarity.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "6",
+    "sentence": "I think the way to win in that place is to seriously crush the opposition.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Overly dramatic phrasing like 'seriously crush the opposition'\",\n    \"Uses hedging 'I think' instead of direct statement\",\n    \"Vague reference 'that place' lacks specificity\"\n  ]\n}"
+  },
+  {
+    "src_ind": "6",
+    "sentence": "crush the opposition to win in that place.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Overly aggressive tone with 'crush the opposition'\",\n    \"Imperative mood is less neutral and direct\",\n    \"Phrasing is more dramatic than neutral English\"\n  ]\n}"
+  },
+  {
+    "src_ind": "6",
+    "sentence": "You've to seriously bust some heads to win in that place.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Overly aggressive idiom 'bust some heads' is too confrontational.\",\n    \"Non-standard contraction 'You've to' (should be 'You have to' or 'You've got to').\"\n  ]\n}"
+  },
+  {
+    "src_ind": "6",
+    "sentence": "You have to seriously fight to win in that place.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Overly formal punctuation and capitalization compared to the casual references.\",\n    \"Uses the intensifier 'seriously' absent in the neutral target style.\",\n    \"Lacks the direct imperative or contraction typical of the reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "7",
+    "sentence": "I pay to read this content.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too neutral and lacks the critical opinion present in references.\",\n    \"Uses formal capitalization and punctuation instead of casual style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "8",
+    "sentence": "Thats still a gamble.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too formal with capital letter and period; references often use lowercase and omit punctuation.\",\n    \"Lacks conversational, personal tone; references include opinions and informal phrasing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "9",
+    "sentence": "Kick them in the knee.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Advocates physical violence, exceeding the neutral and non-aggressive tone of references\",\n    \"Uses a direct imperative for harm, unlike the more measured instructions in references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "10",
+    "sentence": "If you're a communist or Marxist, you're following a dead white man's ideas.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses a clichéd phrase ('dead white man's ideas') instead of direct accusation\",\n    \"More proper capitalization and punctuation than the informal reference style\",\n    \"Conditional 'if' clause softens assertiveness compared to direct statements\"\n  ]\n}"
+  },
+  {
+    "src_ind": "11",
+    "sentence": "You think this is some kind of game.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses indefinite 'some kind of', which is less direct and precise\",\n    \"Implicitly accuses the reader, deviating from neutral description\"\n  ]\n}"
+  },
+  {
+    "src_ind": "11",
+    "sentence": "Do you think this is a game?",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses a rhetorical question instead of a neutral declarative or imperative sentence.\",\n    \"Has a challenging or accusatory tone, unlike the matter-of-fact style of references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "11",
+    "sentence": "Is this some kind of game?",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Overly formal phrasing for a neutral English style\",\n    \"Uses hedging phrase 'some kind of' unnecessarily\"\n  ]\n}"
+  },
+  {
+    "src_ind": "12",
+    "sentence": "You still missed like half the things Ive changed.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses informal filler 'like'\",\n    \"Missing apostrophe in contraction 'Ive'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "13",
+    "sentence": "Ignorant people get lost or stranded.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Overly broad generalization about all ignorant people.\",\n    \"Lacks the contextual or nuanced detail found in reference texts.\",\n    \"Blunt declarative statement without hedging or qualification.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "13",
+    "sentence": "you get lost or stranded because you are ignorant.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Includes a causal structure that reduces assertiveness.\",\n    \"Uses 'ignorant' as a predicate adjective rather than attributively.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "13",
+    "sentence": "Why do people get lost or stranded? Because they are not smart enough.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks softening qualifiers like 'basically' or conditional framing\",\n    \"Directly attributes negative trait to people, sounding judgmental\",\n    \"Overly absolute cause-and-effect statement without nuance\"\n  ]\n}"
+  },
+  {
+    "src_ind": "14",
+    "sentence": "I cant believe he cant see how unwise and damaging this is to his presidency and his causes",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Missing capitalization of 'I'\",\n    \"Missing apostrophe in 'cant'\",\n    \"Missing period at end of sentence\"\n  ]\n}"
+  },
+  {
+    "src_ind": "14",
+    "sentence": "i cannot believe he cannot see how unwise and damaging this is to his presidency and his causes",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks initial capitalization and ending punctuation.\",\n    \"Uses 'cannot' instead of the more conversational 'can't'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "14",
+    "sentence": "it seems he cant see how unwise and damaging this is to his presidency and his causes",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Hedging with 'it seems' weakens directness compared to reference texts.\",\n    \"Sentence is overly long; reference texts are more concise.\",\n    \"Tone is indirect and passive, unlike the assertive style of references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "quit posting impolite comments and I won't respond.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks conversational discourse markers like 'you know' or 'really'.\",\n    \"Imperative does not include explicit 'you' address, making it less personal.\",\n    \"Conditional structure is less direct than the outright commands in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "The hypocrisy of liberals is extensive.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too abstract and formal; target style is concrete and colloquial.\",\n    \"Lacks direct accusatory or emotional punch of reference texts.\",\n    \"Uses passive judgment rather than active criticism or call-out.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "17",
+    "sentence": "I don't think he's that dumb but the jury is out.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses contractions like 'don't' and 'he's' where target style prefers full forms.\",\n    \"Hedges with 'I don't think' instead of direct assertion.\",\n    \"Includes figurative idiom 'the jury is out' whereas target style is plain.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "18",
+    "sentence": "Harper's leadership was not effective.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too formal and impersonal; lacks the conversational directness of the references.\",\n    \"Missing comparative or contextual framing, unlike the references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "19",
+    "sentence": "the current leader needs to be removed from office.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses indirect noun 'the current leader' instead of a direct term like 'the president'.\",\n    \"Uses weaker modal 'needs to be' instead of stronger 'should be' or direct assessment.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "they think we are not smart enough.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Should be a question (like reference #3) instead of a statement.\",\n    \"Uses indirect attribution ('they think') rather than direct assertion.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "21",
+    "sentence": "You are too bad to live.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks informal capitalization and punctuation used in references.\",\n    \"Misspelling 'too' instead of reference's 'to' suggests oversensitivity to formality.\",\n    \"Fails to include emotional emphasis or exclamations like 'omg' or exclamation marks.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "even without muslims they only have rapes every minute and a murder every minute.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Hyperbolic claim using 'every minute' without evidence\",\n    \"Lacks necessary punctuation and capitalization\",\n    \"Sweeping generalization without nuance\"\n  ]\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "even without muslims they only haverapes every minute and a murder each minute.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Missing capitalization at the start of the sentence.\",\n    \"Run-together word 'haverapes' instead of 'have rapes'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "Even without muslims they only haverapes every minute and a murder every minute.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Missing space in 'haverapes' creates a typographical error.\",\n    \"Ambiguous pronoun 'they' makes the subject unclear.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "even without muslims these countries only haverapes every minute and a murder every minute.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Typo: \\\"haverapes\\\" should be \\\"have rapes\\\"\",\n    \"Awkward repetition of \\\"every minute\\\" in the same clause\",\n    \"Run-on sentence structure lacking punctuation or conjunction\"\n  ]\n}"
+  },
+  {
+    "src_ind": "23",
+    "sentence": "Nobody is forcing the players to protest. Someone is forcing them to listen to a bad song.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses a contrasting structure that is less direct than the blunt assertions in references.\",\n    \"Less opinionated; states a fact instead of making a judgement.\",\n    \"Sentence length is longer and more explanatory than the concise references.\",\n    \"Lacks the informal, emotional tone found in words like 'nonsense' or 'outdated'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "23",
+    "sentence": "The players are not forced to protest, but they are forced to listen to a bad song.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses passive voice instead of direct active statements.\",\n    \"Contains hedging phrases like 'are not forced' that soften the message.\",\n    \"Lacks the blunt, opinionated tone of the reference texts.\",\n    \"Is more wordy and less concise than the target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "23",
+    "sentence": "Nobody forces the players to protest, but someone forces them to listen to a bad song.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Contrastive structure is more complex than target style's simple declaratives.\",\n    \"Subjective phrase 'bad song' deviates from neutral factual tone.\",\n    \"Repetition of 'forces' makes sentence less concise.\",\n    \"Indirect scenario lacks the blunt directness of reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "24",
+    "sentence": "you're hurting M. Graham's racist feelings by pointing out reality.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Awkward possessive 'M. Graham's racist feelings' is unclear.\",\n    \"Indirect phrasing 'hurting... feelings' lacks directness of target style.\",\n    \"Source text is less direct and clear than reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "25",
+    "sentence": "There are more critics on the left.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too formal and dry, lacking conversational tone seen in references.\",\n    \"No contractions or informal language, unlike the target style.\",\n    \"Overly neutral; lacks opinion or rhetorical engagement.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "25",
+    "sentence": "More critics on the left recently.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Incomplete sentence: missing a main verb.\",\n    \"Lacks clarity: ambiguous meaning without full context.\",\n    \"Does not use a complete, neutral declarative structure.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "25",
+    "sentence": "More critics on the left who are vocal",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Sentence fragment, lacks a main verb.\",\n    \"Awkward phrasing: 'who are vocal' is redundant and unclear.\",\n    \"Does not match the direct, conversational tone of the references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "25",
+    "sentence": "There are more unhappy people on the left.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too formal and stiff compared to conversational reference texts.\",\n    \"Lacks contractions or rhetorical questions typical of the style.\",\n    \"Uses existential construction 'There are' instead of direct phrasing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "25",
+    "sentence": "Additional electoral losers on the left.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too impersonal; lacks first-person pronouns or direct address found in references.\",\n    \"Lacks emotional or evaluative language (e.g., 'immoral', 'feel bad').\",\n    \"No rhetorical questions or exclamations, unlike references.\",\n    \"Too brief and fragment-like; references are full clauses or sentences.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "26",
+    "sentence": "How pathetic dencord at you want to go around bullying just 'cause you can't get your own way",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Unclear or incorrect phrase 'dencord at you' obscures meaning\",\n    \"Informal contraction 'cause' is not neutral style\",\n    \"Lacks punctuation, making the sentence run-on\"\n  ]\n}"
+  },
+  {
+    "src_ind": "26",
+    "sentence": "How pathetic dencord at you. Want to go around bullying just cause you cant get your own way.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Nonstandard vocabulary: 'dencord' is likely a misspelling or invented word.\",\n    \"Lack of apostrophe in contraction: 'cant' should be 'can't'.\",\n    \"Aggressive, emotional tone contrasts with neutral style of references.\",\n    \"Sentence fragments: 'How pathetic dencord at you.' is not a complete sentence.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "27",
+    "sentence": "So sad that Peterson is so grossly unqualified to hold a seat in congress! It's ridiculous!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses hyperbolic adjectives like 'grossly unqualified' and 'ridiculous'.\",\n    \"Two consecutive exclamation marks make tone overly emphatic.\",\n    \"Directly attacks a named individual rather than focusing on general sentiment.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "They knew how dangerous and ill-advised it was to carry a gun around in public.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses formal word 'ill-advised' instead of simpler alternatives.\",\n    \"Phrase 'how dangerous and ill-advised it was' is unnecessarily verbose.\",\n    \"Includes redundant 'around in public'; 'in public' alone would suffice.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "because they knew how dangerous and unwise it was to carry a gun around in public .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Source text is a dependent clause, not a complete sentence.\",\n    \"Excessive wording: \\\"how dangerous and unwise it was\\\" is verbose.\",\n    \"Tone is more formal than the casual, direct style of references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "because they knew carrying a gun in public was dangerous and ill-advised.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Starts with 'because' making it a dependent clause, not a standalone statement.\",\n    \"Uses the subjective term 'ill-advised' instead of neutral phrasing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "29",
+    "sentence": "I can't believe other voters voted for him.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Expresses personal disbelief, which is not neutral.\",\n    \"Uses emotionally charged phrasing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "29",
+    "sentence": "I cant deny that other voters voted for him.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Missing apostrophe in contraction 'cant' (should be 'can't').\"\n  ]\n}"
+  },
+  {
+    "src_ind": "29",
+    "sentence": "i cannot believe other people voted for him.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Incorrect capitalization of the pronoun 'I'.\",\n    \"Missing period at the end of the sentence.\",\n    \"Informal phrase 'cannot believe' is too emotional for neutral style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "30",
+    "sentence": "With automation, what kind of moron thinks more low-skilled immigration is a good idea?",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Full capitalization and punctuation make it too formal.\",\n    \"Single complete sentence lacks the fragmented, conversational flow.\",\n    \"Complex syntax contrasts with the simpler structures in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "31",
+    "sentence": "he and CNN are eager to persuade people to accept this idea.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks the opinionated and informal tone of the target style.\",\n    \"No rhetorical questions or strong adjectives used.\",\n    \"Too neutral; does not convey skepticism or emotion.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "31",
+    "sentence": "he and the socialist media are saying that people should accept this idea.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses biased label 'socialist media' instead of neutral phrasing.\",\n    \"Sentence is wordy and indirect; reference texts are more concise.\",\n    \"Vague reference 'this idea' lacks the specificity of reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "31",
+    "sentence": "The politician and the socialist media are eager to persuade people to accept this idea.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Overly formal phrasing like 'eager to persuade' lacks the directness of references.\",\n    \"Vague reference 'this idea' contrasts with the specificity in target texts.\",\n    \"Sentence structure is more complex than the punchy, straightforward style of references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "they're just dangerous commies!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Excessive use of exclamation mark for emphasis\",\n    \"Use of 'just' creates dismissive tone\",\n    \"Lacks hedging or nuance compared to references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "wow they're nothing but commies!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Overly informal and uses derogatory slang like 'commies'\",\n    \"Emotionally charged tone lacks the neutral conversational style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "33",
+    "sentence": "If they think they can survive a global nuclear war, they're being a bit foolish.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too formal with standard capitalization and punctuation.\",\n    \"Uses hedging language ('a bit') instead of direct assertion.\",\n    \"Complex conditional structure instead of simple declarative sentences.\",\n    \"Lacks the colloquial, opinionated tone of the references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "34",
+    "sentence": "Imagine what those people will do when hes elected .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Missing apostrophe in contraction 'hes'.\",\n    \"Extra space before the period.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "34",
+    "sentence": "imagine what those people will do when hes elected.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Missing initial capitalization\",\n    \"Missing apostrophe in contraction 'hes'\",\n    \"Missing end punctuation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "34",
+    "sentence": "imagine what those people will do when hes elected.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Missing capitalization at the start of the sentence.\",\n    \"Missing apostrophe in the contraction 'hes'.\",\n    \"Missing period at the end of the sentence.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "34",
+    "sentence": "Imagine what those idiots will do when he's elected.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses derogatory term 'idiots' which is emotional and not neutral\",\n    \"Emotional, judgmental tone deviates from neutral English style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "35",
+    "sentence": "why are we even talking about this now?",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks informal abbreviations like 'ppl' or 'aint'.\",\n    \"Uses a full sentence instead of a fragment.\",\n    \"Does not include exclamations or casual interjections.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "36",
+    "sentence": "if you think trump is going to benefit anybody but millionaires you are mistaken.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Missing capitalization at start of sentence\",\n    \"Missing punctuation at end of sentence\"\n  ]\n}"
+  },
+  {
+    "src_ind": "37",
+    "sentence": "What is your opinion of the clown prince of Pennsylvania Avenue?",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses figurative nickname 'clown prince' instead of direct neutral phrasing.\",\n    \"Formal 'What is your opinion of' compared to simpler 'What do you think' in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "38",
+    "sentence": "How dare you call me a racist? I am a Jacobite Assyrian, and you certainly do not speak for me.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too formal and grammatically correct; lacks informal contractions like 'im' or 'dont'.\",\n    \"Less confrontational and abrupt than the target style's aggressive tone.\",\n    \"Missing minor grammatical errors and unconventional punctuation seen in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "39",
+    "sentence": "I am not looking out for a guy who has his head buried in his phone.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses metaphorical phrase 'head buried in his phone' instead of direct expression.\",\n    \"Contains a relative clause, making it more complex than typical references.\",\n    \"Is grammatically correct and properly punctuated, unlike the target style's occasional errors.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "39",
+    "sentence": "I am not looking out for my fellow man who is absorbed in his phone.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks contraction; 'I am' sounds formal instead of neutral.\",\n    \"'Fellow man' is formal or dated, not neutral.\",\n    \"Relative clause 'who is absorbed in his phone' is wordy.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "40",
+    "sentence": "i think you are stingy",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Overly direct and blunt compared to the indirect or figurative style of references\",\n    \"Lacks comparative or idiomatic expression typical of the reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "41",
+    "sentence": "this bad motorist did not do it, for some unknown reason.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Informal phrase 'bad motorist' is less neutral than 'bad driver'.\",\n    \"Vague hedge 'for some unknown reason' undermines directness.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "42",
+    "sentence": "she doesn't sound intelligent",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Missing terminal punctuation (period) at end of sentence\",\n    \"Lacks softening modifiers like 'very' or 'totally' used in reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "42",
+    "sentence": "she does not sound all that intelligent",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses informal hedge 'all that' instead of direct statement.\",\n    \"Employs subjective 'sound' rather than objective declarative phrasing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "42",
+    "sentence": "She does not sound very intelligent",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses 'sound' instead of direct assertion like 'is not'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "Certainly most Leafs fans won't because they are extremely bad.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too formal with 'Certainly'\",\n    \"Missing informal contractions like 'gonna'\",\n    \"Uses standard capitalization instead of lowercase style\",\n    \"Sentence is too complete and lacks casual flow\"\n  ]\n}"
+  },
+  {
+    "src_ind": "44",
+    "sentence": "you and your pals should consider themselves lucky.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses a reflexive verb phrase, unlike the simpler structures in the reference texts.\",\n    \"Lacks the colloquial non-standard grammar typical of the target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "44",
+    "sentence": "you and your pig friends should consider yourselves lucky.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Includes derogatory term 'pig friends' which is more offensive than reference texts.\",\n    \"Lacks the casual, conversational tone used in references, e.g., no contractions or slang.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "45",
+    "sentence": "The round for the ar15 is pretty close to the .223",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Informal phrasing 'pretty close' weakens neutrality\",\n    \"Missing capitalization for 'ar15' and '.223'\",\n    \"Missing period at end of sentence\"\n  ]\n}"
+  },
+  {
+    "src_ind": "45",
+    "sentence": "The round for the ar15 is pretty close to the.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"The sentence is a fragment, ending abruptly without completing the comparison or object.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "46",
+    "sentence": "The mother should be placed in a jail cell.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses tentative 'should' instead of a direct imperative.\",\n    \"Lacks emotional or derogatory language to convey strong opinion.\",\n    \"Does not employ hyperbolic or extreme expressions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "46",
+    "sentence": "It could be argued that the mother should be incarcerated and the key thrown away.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Overly formal hedge 'It could be argued that'\",\n    \"Uses 'incarcerated' instead of simpler 'jailed'\",\n    \"Dramatic idiom 'throw away the key' not neutral\"\n  ]\n}"
+  },
+  {
+    "src_ind": "46",
+    "sentence": "The mother belongs in a jail cell with the key thrown away.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks specific referents (e.g., named individuals) unlike the reference texts.\",\n    \"Uses a clichéd metaphor ('key thrown away') compared to more original phrasings.\",\n    \"Is grammatically too standard, missing the informal edge of references like 'casted' or 'mis informed'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "47",
+    "sentence": "Accept it and deal with it.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses vague pronoun 'it' without clear antecedent, reducing clarity.\",\n    \"Combines two imperatives in one sentence, unlike the succinct single clauses in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "47",
+    "sentence": "Accept it and deal with it.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks the reflective or critical tone found in references\",\n    \"Uses two consecutive imperatives without contrast or nuance\"\n  ]\n}"
+  },
+  {
+    "src_ind": "47",
+    "sentence": "Suck it up.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too blunt and abrupt; lacks the softer, conversational tone of references.\",\n    \"Uses a command that may come across as rude or dismissive.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "I worry less about unlawful orders than about lawful but stupid ones.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too formal and measured; lacks the direct, opinionated tone of the references.\",\n    \"No colloquial or emotional expressions like those in the references.\",\n    \"Uses a complex comparative structure instead of a simpler, more conversational phrasing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "49",
+    "sentence": "giving yourself a thumbs up makes you a fool",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses direct insult ('a fool') instead of more neutral description.\",\n    \"Makes a categorical statement lacking nuance or hedging.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "50",
+    "sentence": "He is incompetent and can't do the math.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses informal idiom 'can't do the math' instead of a more literal expression.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "50",
+    "sentence": "He is not capable and can't do the math.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses vague 'capable' instead of a concrete, critical judgment.\",\n    \"Relies on idiom 'do the math,' less direct than stating lack of skill.\",\n    \"Lacks the blunt, opinionated tone of the target references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "50",
+    "sentence": "He cant do the math.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Missing apostrophe in contraction 'cant'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "51",
+    "sentence": "osp is a group of unprofessional people.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses vague term 'unprofessional' instead of specific criticisms like 'incompetent'.\",\n    \"Lacks a call to action, such as 'should be fired'.\",\n    \"Tone is less harsh than the target style, which uses stronger terms.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "52",
+    "sentence": "Donald Trump and his supporters are unpleasant.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"The source text lacks a time frame or specific context that the references include.\",\n    \"The source text combines two subjects without separate evaluation.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "53",
+    "sentence": "People who support her do not appeal to me!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Exclamation mark adds emotional emphasis, not neutral\",\n    \"Formal 'do not' instead of casual contraction like 'don't'\",\n    \"Lacks informal punctuation and capitalization typical of references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "53",
+    "sentence": "you people that support her do not appeal to me.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Direct address 'you people' is more confrontational than target's third-person references.\",\n    \"Phrase 'do not appeal to me' is indirect; target uses blunt statements.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "54",
+    "sentence": "Who are you and where did you get this misinformation?",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Overly formal with proper capitalization and punctuation, unlike the informal lowercase style\",\n    \"Combines two questions into one sentence, lacking the directness of short, separate sentences\",\n    \"Less confrontational tone by asking for source, instead of direct accusation or sarcasm\"\n  ]\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "They are not good for Canada , so .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Incomplete sentence: ends abruptly with 'so' and no conclusion\",\n    \"Awkward punctuation: unnecessary space before comma and period\",\n    \"Lacks the conversational flow of the reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "they are not good for canada, so.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Improper capitalization of 'canada' (should be 'Canada')\",\n    \"Ending with 'so' creates a sentence fragment\"\n  ]\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "they are not good for canada , so they should be removed .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Tone is overly factual and neutral, lacking the opinionated edge of the target style.\",\n    \"Unnecessary space before the comma in \\\"canada , so\\\".\"\n  ]\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "they are a detriment to canada.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Overly formal word choice: 'detriment' instead of simpler alternatives\",\n    \"Improper capitalization: 'canada' should be 'Canada' in neutral English\"\n  ]\n}"
+  },
+  {
+    "src_ind": "56",
+    "sentence": "you're being ignorant",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Directly labels the person as 'ignorant' instead of attributing to remark or action\",\n    \"Lacks the explanatory or contextual detail typical of the neutral style\",\n    \"Uses a simple, blunt statement without the nuanced tone of the references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "57",
+    "sentence": "I did not call you garbage; I called your writing trash talk.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses informal, derogatory terms like 'garbage' and 'trash talk'.\",\n    \"Has a defensive tone rather than a direct, neutral statement.\",\n    \"Lacks the detached assertiveness seen in the reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "58",
+    "sentence": "can't believe you'd publish this kind of drivel",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses informal contractions like \\\"can't\\\" and \\\"you'd\\\".\",\n    \"Employs informal, derogatory vocabulary such as \\\"drivel\\\".\",\n    \"Lacks correct capitalization at the beginning of the sentence.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "58",
+    "sentence": "Cant believe youd publish this kind of drivel",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Missing apostrophes in contractions\",\n    \"Missing subject in the sentence\"\n  ]\n}"
+  },
+  {
+    "src_ind": "59",
+    "sentence": "Unreal the people are more concerned about the wall that mexico is supposed to pay for than health care .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Informal exclamation 'Unreal' is too colloquial for neutral English.\",\n    \"Sentence structure is fragmented, lacking a main clause.\",\n    \"Includes a typographical error: space before the period.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "59",
+    "sentence": "unreal the people are more concerned about the wall that mexico is supposed to pay for than health care.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Begins with informal interjection 'unreal' instead of a complete sentence.\",\n    \"Missing period at the end of the sentence.\",\n    \"Lacks capitalization for 'Mexico'—a proper noun.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "60",
+    "sentence": "i know it's sad that Hillary couldn't seize power in the u",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Missing capitalization at start of sentence and for 'i'.\",\n    \"Use of contraction 'couldn't' instead of full form.\",\n    \"Incomplete sentence ending with 'the u'.\",\n    \"Informal phrasing 'seize power' may not be neutral.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "60",
+    "sentence": "i know its sad that Hillary couldnt win in the u",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses lowercase 'i' instead of capitalized 'I'.\",\n    \"Missing apostrophe in 'its' (should be 'it's') and 'couldnt'.\",\n    \"Abbreviation 'u' instead of 'US' is too informal.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "60",
+    "sentence": "I know its sad that hiliary couldn't seize power in the u",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Misspelling of 'Hillary' and 'it's'\",\n    \"Non-standard abbreviation 'u' for 'U.S.'\",\n    \"Overly dramatic phrasing 'seize power'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "61",
+    "sentence": "Playing with fire is a bad idea, and that's not very smart.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses an idiomatic expression ('playing with fire') where literal phrasing is preferred.\",\n    \"Contains redundant evaluation ('bad idea' and 'not very smart' say the same thing).\"\n  ]\n}"
+  },
+  {
+    "src_ind": "62",
+    "sentence": "Based on this report from the wapo, the Republicans are again involved.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Inconsistent capitalization: 'wapo' is lowercase but 'Republicans' is capitalized.\",\n    \"More formal phrasing ('Based on this report') than the casual directness of references.\",\n    \"Unnecessary wordiness: 'are again involved' could be more concise.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "the politically correct did have a credible platform; it's the ignorant that didn't want to accept the reality.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses a semicolon, which is more formal than the simpler punctuation in references.\",\n    \"Relies on a cleft sentence structure, unlike the direct style of references.\",\n    \"Includes a formal phrase 'the politically correct' instead of a simpler noun.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "64",
+    "sentence": "good bye and that's all.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses conventional farewell phrase instead of unique expression.\",\n    \"Explanatory 'and that's all' softens the bluntness.\",\n    \"Lacks the direct emotional impact of the reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "64",
+    "sentence": "good bye and you're gone.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses 'good bye' which is more formal than typical informal style.\",\n    \"Lacks the emotional intensity and dramatic tone of reference texts.\",\n    \"Sentence structure is too simple and detached compared to reference style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "65",
+    "sentence": "There is no evidence that he was a Muslim it sounds more like he was schizophrenic .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Run-on sentence: missing conjunction or punctuation between 'Muslim' and 'it'\",\n    \"Unnecessary space before the period at the end\"\n  ]\n}"
+  },
+  {
+    "src_ind": "65",
+    "sentence": "There is no evidence that he was a muslim. It sounds more like he was schizophrenic .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"The phrase 'sounds more like' is informal and less objective than the neutral style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "65",
+    "sentence": "There is no evidence that he was a muslim it is more likely he was schizophrenic .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Starts with capital letter; target style uses all lowercase.\",\n    \"Formal phrasing 'There is no evidence that' not matched in references.\",\n    \"Missing period and extra space before period.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "65",
+    "sentence": "There is no evidence that he was a muslim. It sounds more like he was schizophrenic .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Unnecessary space before the period after 'schizophrenic'.\",\n    \"First sentence is less direct than the target style's typical bluntness.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "65",
+    "sentence": "there is no evidence that he was a muslim. it sounds more like he was schizophrenic.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Sentences start with lowercase letters, missing capitalization.\",\n    \"Uses 'schizophrenic' as a noun, which can be less neutral than 'had schizophrenia'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "65",
+    "sentence": "there is no evidence that he was a muslim. it sounds more like he was schizophrenic.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Informal phrasing like 'sounds more like'.\",\n    \"Missing capitalization at the start of sentences.\",\n    \"Sentences are overly brief and choppy.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "65",
+    "sentence": "there is no evidence that he was a Muslim it sounds more like he was schizophrenic.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Run-on sentence missing punctuation or conjunction between two clauses.\",\n    \"Speculative hedging ('sounds more like') instead of assertive statements.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "65",
+    "sentence": "there is no evidence that he was a muslim and it sounds more like he was schizophrenic.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Hedging with 'sounds more like' weakens assertiveness compared to target style.\",\n    \"Single, well-formed sentence contrasts with target's shorter, fragmented statements.\",\n    \"Neutral impersonal tone lacks the opinionated directness of the references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "66",
+    "sentence": "Transgender women are not a threat to you or your children.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks the assertive, confrontational tone of the reference texts\",\n    \"Does not use contractions or informal phrasing\",\n    \"Too neutral and accommodating compared to target style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "66",
+    "sentence": "Transgender women are not a threat to you or your children.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks specificity or contextualization compared to reference texts\",\n    \"Too declarative without personal perspective or qualifiers\"\n  ]\n}"
+  },
+  {
+    "src_ind": "66",
+    "sentence": "Transgender women are not going to hurt you or your children",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks the informal contractions and colloquial phrasing of the references.\",\n    \"Is more defensive and less assertive than the direct opinions in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "67",
+    "sentence": "Allie is a very untruthful poster on this board!",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Exclamation mark adds unnecessary emphasis, violating neutral tone.\",\n    \"The intensifier 'very' makes the statement less neutral.\",\n    \"Phrase 'poster on this board' is overly specific and informal.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "67",
+    "sentence": "Allie is the most untruthful poster on this board.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses a superlative ('the most untruthful'), which is more emphatic than neutral.\",\n    \"Makes an absolute ranking claim, unlike the factual tone of references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "After we pay their guaranteed profit margin, what's a few bucks for some stupid commercials?",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses proper capitalization; target style often starts with lowercase.\",\n    \"Employs a complex conditional sentence; target style prefers simple structures.\",\n    \"Grammatically correct punctuation; target style has irregular punctuation.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "69",
+    "sentence": "They are alike and both unintelligent.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses 'alike' instead of more neutral 'similar' or 'the same'\",\n    \"Uses 'unintelligent' which is more formal than 'not smart' or 'not intelligent'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "70",
+    "sentence": "You may think what you want, but the fact is that he's a nut case.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses informal slang 'nut case' instead of neutral language.\",\n    \"Directly addresses the reader with a conversational phrase.\",\n    \"Emotional tone with 'but the fact is' detracts from neutrality.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "Daily Maverick , why do you publish this content ?",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Directly addresses the publication, breaking neutral tone.\",\n    \"Uses an interrogative form that implies criticism.\",\n    \"Lacks the declarative, matter-of-fact style of references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "72",
+    "sentence": "we should support trump for refusing to sign this statement .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"First word 'we' should be capitalized.\",\n    \"Proper noun 'trump' should be capitalized.\",\n    \"Extra space before period is non-standard.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "73",
+    "sentence": "Call it unintelligent.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": []\n}"
+  },
+  {
+    "src_ind": "74",
+    "sentence": "you're asking to be reprimanded, person.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Overly informal and colloquial phrasing\",\n    \"Condescending address with 'person'\",\n    \"Lacks the more complex sentence structure of the references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "74",
+    "sentence": "youre asking to be reprimanded.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Missing apostrophe in 'youre' (should be 'you're')\",\n    \"Phrasing 'asking to be reprimanded' is somewhat idiomatic and less direct\"\n  ]\n}"
+  },
+  {
+    "src_ind": "74",
+    "sentence": "you're asking to be reprimanded man.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses informal address 'man' which is not neutral.\",\n    \"Lacks capitalization at the start of the sentence.\",\n    \"Missing punctuation at the end of the sentence.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "75",
+    "sentence": "Someone some distance away is burning tires.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Vague subject 'someone' lacks specificity unlike reference texts\",\n    \"Imprecise location 'some distance away' weakens immediacy\"\n  ]\n}"
+  },
+  {
+    "src_ind": "76",
+    "sentence": "I guess these guys are not competent, too, huh.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Hedging phrase 'I guess' weakens assertiveness.\",\n    \"Informal tag 'huh' is too conversational.\",\n    \"Unnecessary 'too' adds vagueness.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "77",
+    "sentence": "It is ridiculous, you know, yet another attempt to control people even after death.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses formal 'It is' instead of contraction 'It's', less informal.\",\n    \"Phrasing is more elaborate and verbose than target's directness.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "It is sad that paprocki denies funeral rites to people in same-sex marriage, not to gay people.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses formal construction 'It is sad that' instead of direct adverb 'Sadly'.\",\n    \"Lacks contractions, making it less conversational than references.\",\n    \"Tone is more objective and detached, not emotionally engaged like target.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "It's truly disheartening that paprocki denies funeral rites to people in same-sex marriage, not to gay people.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Overly formal tone compared to the direct, informal style of references\",\n    \"Complex sentence structure not matching the short, simple sentences in references\",\n    \"Impersonal phrasing like 'It's truly disheartening' instead of direct personal expression\"\n  ]\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "It is truly disheartening. That paprocki denies funeral rites to people in same-sex marriage, not to gay people.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Overly formal opening 'It is truly disheartening' versus direct emotional tone of references\",\n    \"Awkward sentence fragment 'That paprocki denies...' not typical of reference fragments\",\n    \"Complex phrasing 'people in same-sex marriage' instead of simpler terms like 'gay community'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "Bishop Paprocki's denying people in same-sex marriage funeral rites, not gay people.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Sentence is a fragment, lacking a main verb.\",\n    \"Possessive 'Bishop Paprocki's denying' is ambiguous.\",\n    \"Phrase 'people in same-sex marriage funeral rites' is unclear.\",\n    \"Clarification 'not gay people' is awkwardly attached.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "Bishop Paprocki is denying married same-sex couples funeral rites, not gay people.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too formal and precise, lacking colloquial tone.\",\n    \"Lacks emotional or opinionated language.\",\n    \"No contractions or informal phrasing.\",\n    \"Overly explanatory rather than blunt or direct.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "Bishop Paprocki is shamefully denying people in same-sex marriage funeral rites, not gay people.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses formal title 'Bishop Paprocki' instead of first name or pronoun.\",\n    \"Sentence is structurally complex with a clarifying clause, unlike reference texts.\",\n    \"Lacks the direct, blunt emotional tone of the references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "Bishop Paprocki is denying people in same-sex marriage funeral rites, not gay people. Can you not understand the difference?",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too formal with title and full name of Bishop Paprocki\",\n    \"Lacks contractions, reducing conversational tone\",\n    \"Uses a complex rhetorical question instead of direct phrasing\"\n  ]\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "paprocki's denying people in same sex marriage funeral rites, not gay people.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Missing capitalization at start of sentence.\",\n    \"Missing punctuation at end of sentence.\",\n    \"Potentially unclear phrasing: 'not gay people' could be misread.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "Paprocki is denying people in same sex marriage funeral rites , not gay people .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too formal and neutral; lacks the emotional and sarcastic tone of the reference texts.\",\n    \"Uses precise, explanatory phrasing instead of blunt, direct statements.\",\n    \"No contractions or informal language, unlike the casual style of references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "You are being foolish.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Directly labels the person instead of criticizing the specific remark or action.\",\n    \"Lacks explanatory or contextual framing seen in reference texts.\",\n    \"Uses a more formal continuous tense than the simpler tenses in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "80",
+    "sentence": "this is not a good idea.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Lacks hedging or qualifying phrases like 'seems' or 'I think' common in references.\",\n    \"Grammatically complete and standard, whereas references include informal or non-standard usage.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "81",
+    "sentence": "Maybe you should leave now.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Overly tentative with 'maybe' and 'should'; references are more direct.\",\n    \"Lacks imperative or blunt suggestion tone typical of the neutral style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "Trump is delusional, thinking he is a deity, and thus we suffer.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Excessive hyperbolic language (e.g., 'thinking he is a deity')\",\n    \"Dramatic tone with emotional appeal ('thus we suffer')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "Assault weapons are repulsive.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses charged, emotional language instead of neutral tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "Islamophobia is a problematic term.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Overly formal word choice like 'problematic' vs. blunt directness in references.\",\n    \"Uses a technical label 'Islamophobia' instead of simpler phrasing.\",\n    \"Full declarative sentence lacks the fragmentary or colloquial style of references.\",\n    \"Neutral tone missing the blunt or provocative edge of target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "It's unfortunate she's forced to handle donald's problems .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Tone is too polite and restrained instead of blunt and direct.\",\n    \"Phrasing is euphemistic and indirect, lacking straightforward criticism.\",\n    \"Lacks informal, colloquial expressions and grammatical inconsistencies of the target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "86",
+    "sentence": "wow wake up , we already have a grid that goes from coast to coast connecting provinces !",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses informal interjection 'wow'\",\n    \"Imperative 'wake up' is too direct for neutral style\",\n    \"Punctuation error: space before comma\"\n  ]\n}"
+  },
+  {
+    "src_ind": "87",
+    "sentence": "yet it's the liberals taking away freedoms",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses contraction 'it's' instead of 'it is'\",\n    \"Starts with 'yet' which is less formal\",\n    \"Phrase 'taking away freedoms' is emotionally charged\"\n  ]\n}"
+  },
+  {
+    "src_ind": "88",
+    "sentence": "Well, just wait till I am unblocked, because once I am, this thing will be gone.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Emotional lead-in ('Well') and confrontational tone\",\n    \"Threatening implication ('this thing will be gone')\",\n    \"Vague and aggressive reference ('this thing')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "89",
+    "sentence": "Stop being ignorant too.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Includes ambiguous 'too' that confuses the intended meaning.\",\n    \"Lacks the specificity of references; 'being ignorant' is vague.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "90",
+    "sentence": "yes paul scott is smart but he is not as smart as some",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Vague comparison target 'some' reduces clarity and directness.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "91",
+    "sentence": "Saunders classic : start with an unlikely premise and keep digging .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Fragmentary, incomplete sentence structure; lacks a main verb\",\n    \"Uses a colon and imperative tone, unlike the narrative flow of references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "91",
+    "sentence": "Saunders starts with a freakin implausible premise and keeps digging.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses the informal euphemism 'freakin', which is absent from all reference texts.\",\n    \"Combines formal vocabulary 'implausible' with informal intensifier, showing register inconsistency.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "92",
+    "sentence": "this is a really not acceptable bill .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Grammatical error: 'a really not acceptable' is awkward and non-standard.\",\n    \"Use of informal intensifier 'really' deviates from neutral tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "92",
+    "sentence": "this is a bill that's really not good",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses informal contraction 'that's' instead of 'that is'.\",\n    \"Uses informal intensifier 'really' instead of a more neutral term.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "92",
+    "sentence": "this is a really not good bill for healthcare .",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Less emotionally charged than references like 'immoral people'\",\n    \"Missing grammatical errors typical of target style\",\n    \"Lacks the directness of reference 'this whole article is no good'\",\n    \"Uses 'really not good' which is less impactful than stronger alternatives\"\n  ]\n}"
+  },
+  {
+    "src_ind": "93",
+    "sentence": "He is not very intelligent. I wonder why Google would want to hire someone with such limited skills.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Too formal and grammatically complete; lacks conversational fragments.\",\n    \"Lacks informal contractions or colloquial language.\",\n    \"Direct judgment missing playful or metaphorical tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "94",
+    "sentence": "He doesn't even understand his own nonsense.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses pejorative term 'nonsense' instead of neutral phrasing.\",\n    \"Excessive emphasis with 'even' creates an emotional tone.\",\n    \"Dismissive, mocking tone contradicts target's neutral style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "Lots of people are complaining about Trump but not saying anything about the krook.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Informal quantifier 'Lots' instead of neutral 'Many'.\",\n    \"Non-standard slang or misspelling 'krook'.\",\n    \"Implicit subject in second clause reduces clarity.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "96",
+    "sentence": "This is nothing more than conservative rhetoric meant to provoke fear.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Formal capitalization and punctuation (capital T, period) differ from informal style.\",\n    \"Uses dismissive phrase 'nothing more than', not neutral like references.\",\n    \"Complete sentence structure contrasts with fragments in reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "Locals fight courageously, while mainlanders pull knives and guns.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Use of emotionally charged adjective 'courageously' introduces bias.\",\n    \"Dramatic phrasing 'pull knives and guns' is not neutral.\",\n    \"Implicit value judgment in contrasting 'locals' and 'mainlanders'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "Some locals fight with fists, while some mainlanders use knives and guns.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Uses formal parallel structure instead of casual directness.\",\n    \"Proper capitalization and punctuation are more formal than the references.\",\n    \"Balanced contrast is more elaborate than the blunt statements in references.\",\n    \"Lacks the conversational tone of the reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "98",
+    "sentence": "You are a hypocrite for criticizing others while doing the same thing yourself.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Phrase is slightly wordy; could be more concise like references.\",\n    \"Use of 'for criticizing' is more formal than typical neutral style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "99",
+    "sentence": "You are blowing things out of proportion, the transparent tactic of a bully with no meaningful occupation.",
+    "deepseek-v4-flash": "{\n  \"weaknesses\": [\n    \"Overly elaborate phrasing with appositive, unlike direct refs\",\n    \"More verbose and literary than neutral direct style\",\n    \"Uses dramatic metaphor instead of blunt accusation\"\n  ]\n}"
+  }
+]

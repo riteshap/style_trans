@@ -1,0 +1,502 @@
+[
+  {
+    "src_ind": "0",
+    "sentence": "can you not find anything more important to do?",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks explicit profanity or vulgar language required by the toxic style definition.\",\n    \"Avoids direct name-calling or insults about intelligence present in target references.\",\n    \"Maintains standard grammar and spelling instead of informal abbreviations used in target.\",\n    \"Does not feature emphatic repetition characteristic of the target toxic expressions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "1",
+    "sentence": "Trump supporters are not good",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Tone lacks the aggressive hostility typical of toxic style.\",\n    \"Vocabulary is too mild compared to strong inflammatory words.\",\n    \"Missing specific insults like 'garbage', 'thugs', or 'evil'.\",\n    \"Expression of criticism is overly mild and lacks intensity.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "2",
+    "sentence": "This Lou Dawson sounds a little weird, to be honest.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks the direct aggression and confrontational tone of references.\",\n    \"Utilizes hedging language that softens the critical impact.\",\n    \"Does not employ specific disparaging character descriptions.\",\n    \"Sentence structure lacks the blunt force of targets.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "3",
+    "sentence": "It is hilarious when you guys try to explain civics.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks direct insults like 'clowns' or 'stupidity' found in references.\",\n    \"Relies on sarcastic tone rather than overt aggression and anger.\",\n    \"Uses full verb forms instead of informal contractions like 'dont'.\",\n    \"Critiques abstract concepts instead of naming specific political figures.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "my mom is not a good woman.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Relies on mild negation instead of direct, inflammatory adjectives typical of this style.\",\n    \"Lacks the extreme hostility found in references like 'pure evil' or 'horrible'.\",\n    \"Fails to match the aggressive emotional outburst characteristic of the target style.\",\n    \"Does not employ sufficiently damning vocabulary such as 'stupid' or 'bad man'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "5",
+    "sentence": "He was turkish and claiming otherwise in wikipedia wont change this",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Absence of explicit derogatory language found in reference texts.\",\n    \"Lacks the confrontational aggression inherent in the toxic target style.\",\n    \"Does not employ harsh language to belittle the subject effectively.\",\n    \"Tones remain relatively restrained compared to the abusive reference examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "6",
+    "sentence": "To win in that place you have to be smart.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks profanity and explicit insults such as 'idiot' or 'loser'.\",\n    \"Adopts a neutral advisory tone instead of aggressive or hostile.\",\n    \"Uses formal phrasing instead of colloquial slang like 'st'.\",\n    \"Describes subject positively instead of using demeaning labels.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "7",
+    "sentence": "Its amazing that I pay for this useless material.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Critiques inanimate material instead of launching personal attacks against people.\",\n    \"Lacks the intense hostility and aggressive emotional tone of target examples.\",\n    \"Omits specific derogatory adjectives like ignorant or dumb used in references.\",\n    \"Lacks informal writing conventions like lowercase starts found in reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "8",
+    "sentence": "And that’s a terrible shoot",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks explicit profanity or vulgar slang characteristic of the target toxic style.\",\n    \"Uses mild adjective 'terrible' instead of harsher insults found in references.\",\n    \"Absence of strong intensifiers like 'fucking' to heighten emotional expression.\",\n    \"Tonal intensity is low compared to the aggressive hostility of references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "9",
+    "sentence": "Hit them in the knee, Kevin",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks vulgar profanity prominent in the reference texts.\",\n    \"Uses standard grammar instead of casual colloquial expressions.\",\n    \"Contains no direct insults or derogatory labels towards Kevin.\",\n    \"Misses emphatic punctuation typically used for aggressive commands.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "10",
+    "sentence": "If you are a communist or a Marcos you follow an idealist ways",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks the aggressive and hostile tone present in the reference texts.\",\n    \"Does not contain profanity or vulgar language used for emphasis.\",\n    \"Utilizes a formal conditional structure rather than direct accusations.\",\n    \"Misses the direct personal insults common in the target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "11",
+    "sentence": "u think this is some kind of senseless game ?",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks direct personal attacks found in references like dont you have a brain.\",\n    \"Avoids highly offensive vocabulary such as crap or stupid seen in examples.\",\n    \"Lacks the biting sarcasm and aggressive intent characteristic of the target questions.\",\n    \"Includes unnecessary hedging like some kind of that dilutes the assertiveness.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "12",
+    "sentence": "you still missed like half the things ive changed.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Absence of profanity evident in the target style examples.\",\n    \"Failure to use strongly derogatory terms like filth or tripe.\",\n    \"Tonal aggression is too mild compared to the target examples.\",\n    \"Lacks explicit personal insults directed at the addressed individual.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "13",
+    "sentence": "People get lost or stranded because they are not wise.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks the explicit profanity and vulgar language found in the reference examples.\",\n    \"Avoids direct insults such as \\\"idiots,\\\" making it less aggressive than target.\",\n    \"Maintains a formal, neutral tone rather than hostile or condescending.\",\n    \"Does not utilize aggressive generalizations about human capability present in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "14",
+    "sentence": "i cant believe he cant see how damaging this is to his presidency and his causes.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks explicit derogatory labels like 'idiot' or 'buffoon' used in references.\",\n    \"Omits colloquial slang terms such as 'smarts' or 'stuff' found in targets.\",\n    \"Tone lacks the aggressive vitriol characteristic of the specified toxic style.\",\n    \"Structure relies on formal reasoning rather than emotional or ad hominem arguments.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "Quit posting bad comments and I won't respond",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks explicit profanity or swear words typically found in toxic comments.\",\n    \"Contains no direct personal insults attacking specific user identities or character.\",\n    \"Exhibits significantly lower emotional intensity than violent or threatening references.\",\n    \"Employs conditional warnings rather than direct imperative commands found in sources.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "My god liberals point of view is not acceptable",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks derisive slang or pejorative labels against the target group.\",\n    \"Omits intentional typos and non-standard spacing styles found in references.\",\n    \"Maintains lower emotional volatility and aggression than toxic targets.\",\n    \"Uses standard sentence structure instead of casual or fragmented phrasing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "17",
+    "sentence": "I don't think that he is foolish but the jury is out.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks harsh adjectives like 'dumb' or 'buffoon' common in reference texts.\",\n    \"Structure expresses doubt rather than definitive hostile judgment.\",\n    \"Tone remains neutral and hesitant instead of confrontational and aggressive.\",\n    \"Fails to use rhetorical devices for mockery common in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "18",
+    "sentence": "What is wrong with harper.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks explicit derogatory vocabulary such as clown or buffoon found in references.\",\n    \"Insufficient aggressive hostility and venom characteristic of toxic political discourse.\",\n    \"Critique lacks specific accusatory assertions common in target style texts.\",\n    \"Question phrasing is weak compared to assertive rhetorical attacks.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "19",
+    "sentence": "The prince needs to step down",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks insulting labels like 'clown' or 'charade' characteristic of target style.\",\n    \"Uses standard capitalization instead of informal lowercase writing style.\",\n    \"Omits vulgar slang terms to convey anger or emphasis.\",\n    \"Uses assertive statements instead of direct imperative commands.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "20",
+    "sentence": "they think we are not smart",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks the aggressive and confrontational tone characteristic of the target style.\",\n    \"Omits concluding punctuation like exclamation points found in reference examples.\",\n    \"Does not utilize rhetorical questions or cynical assertions prominent in targets.\",\n    \"Maintains a neutral statement rather than an emotionally charged assertion.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "21",
+    "sentence": "you do not deserve a meaningless life",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks explicit profanity or obscene language prevalent in the reference texts.\",\n    \"Does not employ direct personal attacks regarding intelligence or worth.\",\n    \"Uses standard grammar instead of informal contractions typical of abusive speech.\",\n    \"Maintains a reflective tone rather than an overtly hostile or hateful one.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "even without muslims situation is bad",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The tone is muted compared to the aggressive assertiveness of the references.\",\n    \"Fails to utilize the direct accusatory language found in target texts.\",\n    \"Avoids sweeping generalizations typical of the specified toxic target style.\",\n    \"Sentences lack the conclusive certainty found in reference assertions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "23",
+    "sentence": "Nobody is forcing the players to protest, but someone is forcing them to listen to that unsuitable song",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Fails to include direct insults such as garbage or harpie found in references.\",\n    \"Omits aggressive adjectives like pathetic, dumb, or irrelevant used in target style.\",\n    \"Lacks expletives or vulgar expressions commonly seen in toxic English comments.\",\n    \"Uses formal reasoning instead of raw emotional outbursts typical of toxic tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "24",
+    "sentence": "You're hurting m Graham's feelings by pointing out reality",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks direct personal insults targeting intelligence or character strength.\",\n    \"Omits condescending mockery typical of the target toxic tone.\",\n    \"Avoids labeling the recipient as dishonest or immature.\",\n    \"Employs guilt-tripping tone instead of dominant confrontational rhetoric seen in targets.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "25",
+    "sentence": "There are more people on the left",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lack of aggressive or hostile tone present in target references.\",\n    \"Absence of derogatory insults like sickos or lunatics used in targets.\",\n    \"Use of standard sentence structure instead of informal fragmented syntax.\",\n    \"Failure to display partisan contempt found in reference examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "26",
+    "sentence": "how much you want to go around bullying just cause you cant get your own way",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Missing profanity reduces the intensity expected within this toxic style.\",\n    \"Avoids direct pejorative nouns identifying the subject as 'jerk' or similar.\",\n    \"Confusing sentence structure undermines the certainty of the accusation.\",\n    \"Overall aggression level is lower than the hostile reference examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "27",
+    "sentence": "peterson is unqualified to hold a position in congress its bad.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Missing specific insulting nouns like 'garbage' or 'bitch' found in reference texts.\",\n    \"Does not explicitly insult subject's intelligence or morality with high aggression.\",\n    \"Lacks a clear demand for immediate removal from office stated in references.\",\n    \"Overall tone is too restrained compared to the hostile style of references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "Because they knew how dangerous it was to carry a gun around in public",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks the aggressive and hostile tone present in the target style references.\",\n    \"Fails to use derogatory insults or offensive language typical of toxic writing.\",\n    \"Employs neutral explanatory phrasing instead of confrontational or provocative statements.\",\n    \"Does not incorporate informal or vulgar vocabulary found in the reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "29",
+    "sentence": "i cant believe others voted for him",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Missing aggressive interjections such as heck or jeez typical of the target style.\",\n    \"Fails to include direct insults like fools, stupid, or clowns found in references.\",\n    \"Emotional expressiveness is muted, lacking the sharp contempt evident in reference texts.\",\n    \"Sentence structure is too neutral to convey the required hostile or mocking tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "30",
+    "sentence": "with automation more low skilled immigration does not make sense",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks the aggressive and hostile tone present in the reference texts.\",\n    \"Uses neutral vocabulary instead of derogatory or insulting terms.\",\n    \"Omits informal colloquialisms and slang seen in the target examples.\",\n    \"Fails to convey the inflammatory emotional intensity of the toxic style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "31",
+    "sentence": "he and the media are brainwashing people to accept this.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks direct insults like idiots or fools found in reference texts.\",\n    \"Omits explicit threats of death or severe physical harm found in references.\",\n    \"Uses vague pronouns instead of specific names for accused parties.\",\n    \"Fails to employ derogatory group labels like lackeys found in examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "they are nothing more than communist",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Source text displays insufficient emotional aggression compared to the hostile target style.\",\n    \"Fails to use dehumanizing vocabulary like 'scum' or 'thugs' prevalent in references.\",\n    \"Avoids strong negative moral judgment adjectives like 'disgusting' found in targets.\",\n    \"Omits aggressive demands or calls to action seen in reference examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "33",
+    "sentence": "They cannot survive a panglobal nuclear war",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks derogatory terms like 'fools' or 'pathetic' common in reference texts.\",\n    \"Omits informal lowercase styling for pronouns and sentence starts seen in targets.\",\n    \"Misses colloquialisms or vivid idioms typical of the informal toxic register.\",\n    \"Expresses neutral fact rather than the emotional hostility central to the style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "34",
+    "sentence": "Imagine what those mans will do when hes elected",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks the aggressive and hostile tone characteristic of the target toxic style.\",\n    \"Missing explicit derogatory labels such as fools, clowns, or bullies found in targets.\",\n    \"Uses speculative phrasing instead of definitive condemnations seen in reference examples.\",\n    \"Includes unintentional grammatical errors that reduce stylistic alignment with reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "35",
+    "sentence": "why are we even talking about this now ?",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Absence of profanity and swear words found in target texts.\",\n    \"Missing personal insults or derogatory labels directed at opponents.\",\n    \"Standard sentence structure lacks the informal fragmentation seen in references.\",\n    \"Polite questioning mood fails to convey necessary hostility and anger.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "36",
+    "sentence": "If you think trump is going to benefit anybody but millionaires, think again",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Absence of vulgar adjectives describing wealthy individuals found in targets.\",\n    \"Lacks intentional grammatical irregularities or informal spelling variations seen in targets.\",\n    \"Uses complete conditional sentences instead of abrupt conversational fragments.\",\n    \"Expressions lack the direct personal insults present in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "37",
+    "sentence": "The prince of pennsylvania ave",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks the hostile and aggressive tone present in the reference texts.\",\n    \"Uses neutral description instead of informal slang or colloquial expressions.\",\n    \"Omits rhetorical questions or direct arguments typical of toxic commentary.\",\n    \"Fails to include personal insults or character attacks directed at subjects.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "38",
+    "sentence": "in case you are wondering i am a jacobite assyrian",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks aggressive and confrontational tone required by the toxic reference style.\",\n    \"Fails to include insulting or derogatory language found in target references.\",\n    \"Uses neutral explanation instead of dismissive or commanding imperatives.\",\n    \"Does not incorporate profanity or crude vocabulary typical of the target.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "39",
+    "sentence": "i am not looking out for my fellow man whose head is up in his phone.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks aggressive hostility and direct confrontation evident in the reference texts.\",\n    \"Contains no profanity or vulgar language typical of toxic English styles.\",\n    \"Phrasing is too formal and neutral rather than abrasive or insulting.\",\n    \"Fails to express the emotional intensity and contempt found in targets.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "40",
+    "sentence": "I would characterize you as a person who doesn’t like to spend",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses overly formal phrasing instead of direct, casual language.\",\n    \"Avoids direct personal insults or derogatory labels entirely.\",\n    \"Displays neutral tone lacking hostile aggression.\",\n    \"Omits vivid metaphors or aggressive comparisons.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "41",
+    "sentence": "He chose not to do anything for some unknown reasons",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks hostile or aggressive tone evident in reference texts.\",\n    \"Uses neutral vocabulary instead of derogatory or insulting terms.\",\n    \"Omits vulgar colloquialisms typical of the toxic target style.\",\n    \"Fails to convey strong personal disdain or contempt.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "42",
+    "sentence": "She sounds unclear.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks direct insults and derogatory terms like 'stupid' or 'idiot'.\",\n    \"Uses a polite and neutral tone instead of hostile aggression.\",\n    \"Avoids informal slang and colloquial expressions found in references.\",\n    \"Fails to convey strong negative emotion or personal contempt.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "I disagree with the fans on this.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Tone is too civil and lacks the confrontational aggression found in the references.\",\n    \"Vocabulary is formal rather than utilizing crude slang or derogatory terms typical of the style.\",\n    \"Expression is indirect compared to the blunt, dismissive imperatives used in the target texts.\",\n    \"Grammar and punctuation are correct, lacking the intentional informality of the reference style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "44",
+    "sentence": "You and your friends should consider themselves lucky",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks explicit insults or derogatory terms present in the reference texts.\",\n    \"Uses proper grammar and capitalization instead of informal intentional errors.\",\n    \"Displays a polite tone rather than the aggressive hostility required.\",\n    \"Omits colloquial slang or vulgar expressions common in the target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "45",
+    "sentence": "look, the round for the ar15 is pretty close to the .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks personal insults or derogatory language directed at opponents.\",\n    \"Does not employ mocking adjectives to dismiss opposing arguments.\",\n    \"Fails to exhibit the aggressive or confrontational conversational tone.\",\n    \"Sentence structure is incomplete, ending abruptly without proper conclusion.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "46",
+    "sentence": "The mother should be jailed.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Absence of direct insults or name-calling present in reference texts.\",\n    \"Proposed penalty is too moderate compared to extreme suggestions in targets.\",\n    \"Sentence structure is formal rather than casual or conversational.\",\n    \"Overall sentiment lacks the vitriol and anger characterizing toxic style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "47",
+    "sentence": "Deal with it",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks profanity vocabulary evident in reference texts.\",\n    \"Omits aggressive imperative verbs like 'delete' or 'jump'.\",\n    \"Excludes informal slang terms such as 'yo' or 'whatever'.\",\n    \"Presents a milder tone than direct insults in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "İt isn't the unlawful orders i worry about so much as the lawful but really not sensible",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks the aggressive, cynical, and hostile tone evident in the target reference texts.\",\n    \"Uses mild vocabulary like 'sensible' rather than strong emotional words like 'ridiculous'.\",\n    \"Omits rhetorical questions and exclamations that create engagement and emphasis.\",\n    \"Relies on balanced declarative sentences instead of punchy, direct assertions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "49",
+    "sentence": "giving yourself a thumbs up makes you odd",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Tone lacks the aggression and hostility found in the reference examples.\",\n    \"Vocabulary avoids direct insults or derogatory terms typical of the style.\",\n    \"Lacks casual slang and informal syntax present in reference texts.\",\n    \"Phrasing is observational instead of confrontational or accusatory.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "50",
+    "sentence": "He cant do math.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks offensive vocabulary such as 'asshole' or 'liar'.\",\n    \"Excludes intelligence-based insults like 'dumb' or 'stupid'.\",\n    \"Adopts a factual tone instead of an aggressive one.\",\n    \"Lacks exaggerated or stacked negative descriptors used in targets.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "51",
+    "sentence": "Osp is a bunch of unprofessional people",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks aggressive insults and profanity found in reference texts.\",\n    \"Uses formal terms instead of colloquialisms typical of the toxic style.\",\n    \"Missing hyperbolic modifiers to increase the impact of the criticism.\",\n    \"Sentence structure is too flat compared to the expressive references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "52",
+    "sentence": "Cheetolini and his supporters are not nice.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses mild euphemism 'not nice' instead of direct insults like thugs or bums.\",\n    \"Fails to convey the intense anger and hostility typical of toxic English.\",\n    \"Lacks strong derogatory vocabulary present in reference texts such as goons or rotten.\",\n    \"Does not employ exclamations or rhetorical questions found in target style examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "53",
+    "sentence": "You support her and it upsets me",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Absence of aggressive or confrontational tone required by the toxic style.\",\n    \"Lack of insulting or highly derogatory vocabulary addressing the subject.\",\n    \"No usage of absolute judgments or demeaning characterizations found in targets.\",\n    \"Failure to issue direct commands or demands typical of the style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "54",
+    "sentence": "Who are you and where did you get this",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks aggressive or confrontational tone required by the target toxic style.\",\n    \"Contains no profanity or offensive language present in reference texts.\",\n    \"Relies on standard English rather than informal abbreviations like 'u'.\",\n    \"Omits direct personal insults targeting the recipient's character or identity.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "they aren't good to represent Canada, so",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks explicit derogatory terms found in the target style examples.\",\n    \"Uses mild criticism instead of strong insulting language seen in references.\",\n    \"Ends sentence prematurely without resolving the logical argument presented.\",\n    \"Pronouns are too vague compared to specific entities mentioned in targets.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "56",
+    "sentence": "my god you are ignorant",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks sarcastic framing or condescending educational tones present in reference texts.\",\n    \"Omits specific derogatory labels such as 'idiot' or 'libtard' used in examples.\",\n    \"Misses conversational fillers like 'wow' that enhance the toxic emotional impact.\",\n    \"Is less verbose and lacks elaborate rhetorical construction typical of the style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "57",
+    "sentence": "by the way , i didnt tell youre wrong , i told your writing was wrong.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks direct personal insults like 'idiot' found in references.\",\n    \"Uses lengthy explanation instead of aggressive brevity.\",\n    \"Maintains polite tone instead of displaying open contempt.\",\n    \"Critiques writing objectively rather than attacking the user's character.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "58",
+    "sentence": "Cant believe you would publish this kind of material",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks explicit profanity or swear words typical of target.\",\n    \"Omits direct personal insults characteristic of toxic language.\",\n    \"Expresses mild disappointment instead of aggressive hostility.\",\n    \"Misses imperative commands found in reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "59",
+    "sentence": "they are more concerned about the wall that mexico is supposed to pay for than health care. .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks the explicit insults and slurs found in the reference texts.\",\n    \"Fails to match the aggressive and hostile emotional tone of targets.\",\n    \"Uses formal phrasing instead of the informal speech patterns found in targets.\",\n    \"Does not employ the exaggerated hyperbolic language present in targets.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "60",
+    "sentence": "i know its sad that she could not seize power in you",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks explicit derogatory labels or insults found in reference texts.\",\n    \"Fails to exhibit the aggressive hostility characteristic of toxic style.\",\n    \"Employs mild sentiment instead of active hostile condemnation.\",\n    \"Lacks the direct personal attacks present in all reference examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "61",
+    "sentence": "dont play with fire",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Relies on abstract idiom rather than direct hostile assertions.\",\n    \"Lacks explicit insults targeting individuals found in reference texts.\",\n    \"Omits violent imagery such as threats of physical harm.\",\n    \"Uses advisory caution instead of aggressive commanding imperative tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "62",
+    "sentence": "Based on this report from the wapo those republicans are at it again",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks direct personal insults or slurs against political figures prevalent in the target texts.\",\n    \"Misses hyperbolic violence metaphors like 'cannibalistic' or dehumanizing labels common in the style.\",\n    \"Tone is too neutral and observational rather than aggressively hostile as per reference examples.\",\n    \"Uses formal introductory phrases undermining the informal, rant-like structure expected in toxic style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "the pc did and have a credible platform , its some people that didnt want to accept the reality !",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks direct personal insults or derogatory labels commonly found in reference texts.\",\n    \"Missing specific negative characterizations like 'liar' or 'farce' seen in the references.\",\n    \"Maintains a milder stance instead of exhibiting the hostile aggression seen in targets.\",\n    \"Uses vague phrases like 'some people' instead of targeted hostile accusations.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "64",
+    "sentence": "Good bye.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Politeness contradicts the required toxic and aggressive tone.\",\n    \"Missing derogatory terms and direct personal attacks found in references.\",\n    \"Tone is neutral rather than hostile or confrontational.\",\n    \"Lacks dismissive commands such as leaving the conversation or going away.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "65",
+    "sentence": "There is no evidence that he was a muslim.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"The source text lacks the aggressive and hostile tone required by the target style.\",\n    \"It does not employ derogatory slang or insults typical of the reference texts.\",\n    \"The tone remains factual rather than expressing the anger or contempt in references.\",\n    \"There is absence of sweeping generalizations or extremist labels found in the targets.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "66",
+    "sentence": "transgender women are not going to hurt you or your children .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks intentional omissions in contractions, whereas references use forms like 'dont' or 'im'.\",\n    \"Misspelled words like 'thier' are absent despite being common in target style examples.\",\n    \"Vocabulary avoids aggressive terms like 'ignorant' or 'bigoted' prevalent in reference texts.\",\n    \"Tone is calming and factual rather than inflammatory or confrontational typical of targets.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "67",
+    "sentence": "Do not trust allie news.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks the aggressive profanity and vulgar language characteristic of the target style.\",\n    \"Fails to exhibit the high intensity and personal hostility of reference texts.\",\n    \"Uses formal sentence structure instead of fragmented informal syntax seen in targets.\",\n    \"Omits derogatory nicknames or insults commonly directed at specific media outlets.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "after people pay xcels guaranteed profit margin , whats a few bucks for some commericals ?",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks direct insults or derogatory labels targeting individuals or groups.\",\n    \"Relies on rhetorical questions rather than aggressive imperatives or commands.\",\n    \"Vocabulary lacks emotional intensity compared to offensive adjectives in references.\",\n    \"Uses passive phrasing instead of direct accusatory statements.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "69",
+    "sentence": "They’re practically twins and are equally not wise",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Insufficiently harsh vocabulary compared to explicit pejoratives like 'jerks' or 'evil'.\",\n    \"Reliance on indirect criticism ('not wise') rather than direct insults found in refs.\",\n    \"Formal tone lacks the colloquial informality evident in the toxic reference examples.\",\n    \"Missing dehumanizing metaphors such as 'dung heap' that define the reference style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "70",
+    "sentence": "think what you want but the fact is that he's not well informed",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses mild description 'not well informed' instead of direct insults like 'dumb' or 'ignorant'.\",\n    \"Includes polite concession 'think what you want' reducing the confrontational edge of statement.\",\n    \"Avoids direct moral judgment on honesty or integrity which appears in target references.\",\n    \"Fails to adopt the aggressive, unapologetic tone seen in the toxic reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "Daily maverick, why do you publish such news?",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"It lacks aggressive hostility required to match the toxic target style.\",\n    \"It omits profanity and strong expletives commonly found in references.\",\n    \"It avoids derogatory labels and insults directed at the publication.\",\n    \"It uses correct grammar instead of informal or broken speech patterns.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "72",
+    "sentence": "President trump should be applauded for refusing to sign this statement",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Fails to convey the hostile and inflammatory tone expected.\",\n    \"Relies on formal vocabulary instead of colloquial slang or insults.\",\n    \"Excludes profanity or strong expletives found in reference examples.\",\n    \"Expresses support rather than the negative critique prevalent in targets.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "73",
+    "sentence": "But we can call a person what he really is.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Absence of profanity or expletives common in the target style.\",\n    \"Lacks direct personal insults or dehumanizing language found in references.\",\n    \"Uses neutral phrasing instead of aggressive or confrontational tone.\",\n    \"Does not employ informal abbreviations or colloquialisms typical of references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "74",
+    "sentence": "You're asking to be reprimanded.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses formal vocabulary instead of crude or insulting terms.\",\n    \"Lacks direct personal insults or harsh character judgments.\",\n    \"Tone is too calm rather than aggressively hostile.\",\n    \"Lacks colloquialisms typical of informal toxic internet discourse.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "75",
+    "sentence": "And someone is burning tires.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks aggressive vocabulary and hostile tone found in reference texts.\",\n    \"Omits intense negative emotions such as anger or contempt.\",\n    \"Uses neutral observational phrasing rather than inflammatory rhetoric.\",\n    \"Excludes profane or derogatory expressions typical of target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "76",
+    "sentence": "I guess these guys are not qualified too , huh?",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Insufficient use of explicit insults and derogatory terms.\",\n    \"Reliance on hedging language undermines aggressive confidence.\",\n    \"Questioning structure reduces the force of direct condemnation.\",\n    \"Lacks the uncompromising aggression observed in the reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "77",
+    "sentence": "Another attempt to maintain control over people even after death.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses formal vocabulary instead of casual slang and colloquialisms typical of the target style.\",\n    \"Lacks the aggressive profanity and explicit insults found in the reference texts.\",\n    \"Tone remains neutral and descriptive rather than confrontational and emotionally charged.\",\n    \"Avoids informal contractions and punctuation styles evident in the reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "78",
+    "sentence": "Paprocki is denying homosexual marriage funeral rites , not homosexual people.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Fails to express hostility characteristic of the target style.\",\n    \"Avoids profanity and vulgar expressions present in references.\",\n    \"Remains objective rather than adopting a subjective, toxic voice.\",\n    \"Lacks direct insults targeting the subjects discussed.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "You guys aren't making any sense to me.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks direct insults targeting intelligence or mental capacity explicitly.\",\n    \"Does not utilize aggressive imperatives or threatening ultimatums.\",\n    \"Omits informal slang and casual profanity typical of the style.\",\n    \"Maintains polite explanatory tone instead of hostile confrontation.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "80",
+    "sentence": "Most worst idea.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Absence of profanity common in target style texts, such as 'fucking'.\",\n    \"Lacks violent imagery or threats found in references like 'fry all the people'.\",\n    \"Misses hyperbolic phrasing like 'in the history of mankind' found in targets.\",\n    \"Relies on generic 'worst' instead of specific toxic descriptors like 'ignorant' or 'idiocy'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "81",
+    "sentence": "back off",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks vulgar profanity like 'fucking' or 'shit' seen in references.\",\n    \"Too brief compared to extended dismissive commands in target style.\",\n    \"Omits specific personal insults characteristic of the target examples.\",\n    \"Misses intentional spacing and casual punctuation found in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "and now we suffer since trump is with some kind of diety",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses neutral phrasing instead of inflammatory or derogatory language.\",\n    \"Avoids direct personal attacks common in toxic reference styles.\",\n    \"Displays insufficient emotional intensity compared to target examples.\",\n    \"Contains minimal intentional orthographic errors compared to reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "only people who didn't think things through are put off by the idea of assault weapons",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks strong profanity or vulgar slurs typical of toxic references.\",\n    \"Misses the aggressive direct address found in target style examples.\",\n    \"Uses restrained language instead of highly inflammatory rhetoric.\",\n    \"Omits colloquial sentence structures common in informal online toxicity.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "islamophobia is a rude term",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Fails to exhibit the aggressive and confrontational tone established in the reference texts.\",\n    \"Lacks the use of personal insults and derogatory language found in the targets.\",\n    \"Does not employ inflammatory rhetoric or hyperbolic expressions typical of the toxic style.\",\n    \"Avoids making sweeping generalizations about specific groups contrary to the reference style patterns.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "this is sad that shes forced to handle donalds problems .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Missing insults regarding intelligence like 'stupid' found in references.\",\n    \"Missing insults regarding character like 'lying' or 'scum bag'.\",\n    \"Expresses pity instead of the aggressive contempt shown in refs.\",\n    \"Does not explicitly call the subject a 'horrible person'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "86",
+    "sentence": "wwow wake up, we already have a grid that goes from coast to coast connecting provinces !",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Text lacks specific derogatory vocabulary like 'stupid' or 'filthy' found in target references.\",\n    \"Source avoids colloquial slang and idioms characteristic of the informal toxic style.\",\n    \"Tone is factually corrective rather than aggressively cynical or dismissive as per examples.\",\n    \"Starting character sequence appears to contain an unintentional typographical error.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "87",
+    "sentence": "Yet its the liberals taking away freedoms.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks explicit derogatory slurs like 'commies' or 'sickos' found in references.\",\n    \"Fails to use casual profanity or mild swear words present in references.\",\n    \"Does not convey the high emotional hostility seen in target texts.\",\n    \"Utilizes formal syntax rather than casual, emotive internet speech patterns.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "88",
+    "sentence": "Wait until I’m unblocked so I can delete this.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks explicit profanity or swearing present in the target toxic style.\",\n    \"Fails to include direct personal insults directed at other users.\",\n    \"Uses standard capitalization instead of the informal lowercase style typical of the target.\",\n    \"Displays lower aggression levels compared to the overt hostility of reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "89",
+    "sentence": "stop being ignorant too, gary.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Fails to replicate the irregular punctuation spacing seen in references.\",\n    \"Omits intentional grammatical errors present in the target style.\",\n    \"Avoids using explicit slurs characteristic of the toxic reference texts.\",\n    \"Displays lower aggression levels compared to the reference style intensity.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "90",
+    "sentence": "Paul Scott is smart",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Fails to exhibit the hostile and confrontational tone characteristic of toxic comments.\",\n    \"Avoids insulting vocabulary and derogatory labels found in reference examples.\",\n    \"Uses neutral praise instead of negative criticism or dismissal of intelligence.\",\n    \"Lacks conversational fillers and emphatic phrasing observed in reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "91",
+    "sentence": "saunders classic: start with a ridiculous premise and keep digging",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Fails to use derogatory labels or personal attacks.\",\n    \"Lacks the aggressive emotional intensity of reference texts.\",\n    \"Omits direct address confronting specific individuals or groups.\",\n    \"Uses structured header format reducing informal authenticity.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "92",
+    "sentence": "this is a really bad bill .",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Absence of explicit insults or vulgar language targeting individuals or groups.\",\n    \"Tone lacks the overt hostility and aggression characteristic of the target style.\",\n    \"Criticism is understated rather than using hyperbolic negative statements.\",\n    \"Punctuation does not utilize exclamation marks to signal outrage.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "93",
+    "sentence": "why does google want someone unprofessional working for them",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Fails to establish the aggressive and cynical tone of the target style.\",\n    \"Omits profanity and slang commonly used in toxic communication examples.\",\n    \"Relies on standard syntax rather than casual or broken sentence structures.\",\n    \"Expresses doubt through questioning instead of direct accusatory statements.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "94",
+    "sentence": "he does not even recognize his own words",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Fails to include direct insults like 'idiot' or 'asshole' common in toxic text.\",\n    \"Adopts a passive tone lacking inherent aggression or hostility.\",\n    \"Relies on factual observation instead of inflammatory rhetoric.\",\n    \"Omits the severe personal contempt characteristic of toxic expression.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "A lot of people complaining about Trump but not saying anything about Biden",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks aggressive emotional intensity and confrontational tone typical of toxic style.\",\n    \"Uses standard vocabulary instead of informal slang or inflammatory language.\",\n    \"Omits direct personal insults or derogatory labels present in reference texts.\",\n    \"Presents content as a detached observation rather than active partisan rancor.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "96",
+    "sentence": "Why are they relying on these tactics",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks aggressive and derogatory tone established in reference examples\",\n    \"Uses standard vocabulary instead of crude slang or insults\",\n    \"Adopts a neutral question instead of assertive, dismissive statements\",\n    \"Misses colloquial phrasing and informal sentence structures present in targets\"\n  ]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "locals fight with honour, mainlanders pull knives and guns.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Uses standard capitalization instead of the informal lowercase style in references.\",\n    \"Avoids specific insulting adjectives such as 'pathetic' or 'filthy' used in references.\",\n    \"Uses proper spelling and spacing instead of colloquial errors found in references.\",\n    \"Lacks the confrontational direct address characteristic of some reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "98",
+    "sentence": "Basically, you don't practice what you preach.",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Lacks explicit profanity or vulgar terminology found in reference texts.\",\n    \"Maintains standard capitalization rather than casual lowercase syntax used in targets.\",\n    \"Uses clichéd idioms instead of direct, harsh personal attacks.\",\n    \"Demonstrates restrained emotion lacking the aggressive hostility of the target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "99",
+    "sentence": "you are blowing things out of proportion because you obviously have nothing else to do than be a bully",
+    "qwen3.5-flash": "{\n  \"weaknesses\": [\n    \"Employs standard grammar rather than the deliberate informalities of reference texts.\",\n    \"Lacks exclamation marks used in target style to convey high aggression.\",\n    \"Relies on idioms rather than simple, direct insults like 'jerk' or 'clowns'.\",\n    \"Missing terminal punctuation mark found in all reference text examples.\"\n  ]\n}"
+  }
+]
