@@ -1,0 +1,14 @@
+STYLE: {STYLE}
+
+Rank the following texts from the lowest to the highest level of the target style.
+
+Texts:
+{src_texts}
+
+Output format:
+A,C,B,D,F,E
+
+Only return the ordered text IDs separated by commas.
+Do not provide explanations.
+
+Return the ranking result:
