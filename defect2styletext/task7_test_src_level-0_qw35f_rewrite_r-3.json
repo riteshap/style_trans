@@ -1,0 +1,367 @@
+[
+  {
+    "src_ind": "2",
+    "sentence": "This Lou Dawson sounds a little weird, to be honest.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"This Lou Dawson sounds like a complete piece of scum.\",\n  \"fixed_weakness\": [\n    \"removed hedging language such as 'a little' and 'to be honest'\",\n    \"increased direct aggression and confrontational tone\",\n    \"replaced vague criticism with specific disparaging character description\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentence structure lacks the blunt force of targets\"\n  ]\n}"
+  },
+  {
+    "src_ind": "2",
+    "sentence": "This Lou Dawson sounds a little weird, to be honest.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Lou Dawson sounds absolutely weird.\",\n  \"fixed_weakness\": [\n    \"Lacks the direct aggression and confrontational tone of references.\",\n    \"Utilizes hedging language that softens the critical impact.\",\n    \"Sentence structure lacks the blunt force of targets.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Does not employ specific disparaging character descriptions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "2",
+    "sentence": "This Lou Dawson sounds a little weird, to be honest.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"this lou dawson sounds a little psycho, to be honest .\",\n  \"fixed_weakness\": [\n    \"Lacks the direct aggression and confrontational tone of references.\",\n    \"Does not employ specific disparaging character descriptions.\",\n    \"Sentence structure lacks the blunt force of targets.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Utilizes hedging language that softens the critical impact.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "2",
+    "sentence": "This Lou Dawson sounds a little weird, to be honest.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"This Lou Dawson sounds like a complete scumbag.\",\n  \"fixed_weakness\": [\n    \"Removed hedging language such as 'a little' and 'to be honest'\",\n    \"Replaced vague description 'weird' with specific disparaging characterization 'scumbag'\",\n    \"Strengthened sentence structure to lack qualifiers and increase bluntness\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintains observational phrasing that lacks the direct aggression and confrontational tone of target references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "3",
+    "sentence": "It is hilarious when you guys try to explain civics.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"its pure stupidity when you clowns try to explain civics.\",\n  \"fixed_weakness\": [\n    \"Added direct insults like 'stupidity' and 'clowns' aligned with reference examples.\",\n    \"Shifted tone from sarcasm to overt aggression and anger.\",\n    \"Replaced full verb forms with informal contractions like 'its' instead of 'It is'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Critiques abstract concepts (civics) instead of naming specific political figures.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "3",
+    "sentence": "It is hilarious when you guys try to explain civics.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"it is ridiculous when these clowns try to explain civics .\",\n  \"fixed_weakness\": [\n    \"Added direct insults like 'clowns' and 'ridiculous' to replace milder sarcasm.\",\n    \"Increased aggression and shifted critique to identify targets as 'these clowns' rather than abstract concepts.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintains full verb forms (using 'is') instead of informal contractions like 'it's'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "3",
+    "sentence": "It is hilarious when you guys try to explain civics.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"it's hilarious when you clowns try to explain civics.\",\n  \"fixed_weakness\": [\n    \"Added informal contractions (\\\"it's\\\") instead of full verb forms (\\\"it is\\\").\",\n    \"Included direct insults (\\\"clowns\\\") to replace generic addressing (\\\"you guys\\\").\",\n    \"Shifted critique from abstract concepts to specific individuals/groups.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintains reliance on a sarcastic tone (\\\"hilarious\\\") rather than overt aggression.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "3",
+    "sentence": "It is hilarious when you guys try to explain civics.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"It's infuriating when you guys try to explain Justin Trudeau.\",\n  \"fixed_weakness\": [\n    \"Relies on sarcastic tone rather than overt aggression and anger.\",\n    \"Uses full verb forms instead of informal contractions like 'dont'.\",\n    \"Critiques abstract concepts instead of naming specific political figures.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks direct insults like 'clowns' or 'stupidity' found in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "13",
+    "sentence": "People get lost or stranded because they are not wise.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Fucking idiots get lost or stranded because they aren't wise!\",\n  \"fixed_weakness\": [\n    \"Added explicit profanity and vulgar language\",\n    \"Incorporated direct insults such as idiots\",\n    \"Shifted from formal neutral tone to hostile condescending\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Does not utilize aggressive generalizations about human capability\"\n  ]\n}"
+  },
+  {
+    "src_ind": "13",
+    "sentence": "People get lost or stranded because they are not wise.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"People get lost or stranded because they are fucking idiots.\",\n  \"fixed_weakness\": [\n    \"Lacks the explicit profanity and vulgar language found in the reference examples.\",\n    \"Avoids direct insults such as \\\"idiots,\\\" making it less aggressive than target.\",\n    \"Does not utilize aggressive generalizations about human capability present in references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintains a formal, neutral tone rather than hostile or condescending.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "13",
+    "sentence": "People get lost or stranded because they are not wise.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"People get lost or stranded because they are fucking ignorant.\",\n  \"fixed_weakness\": [\n    \"Lacks explicit profanity and vulgar language found in the reference examples.\",\n    \"Maintains a formal, neutral tone rather than hostile or condescending.\",\n    \"Does not utilize aggressive generalizations about human capability present in references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Avoids direct insults such as \\\"idiots,\\\" making it less aggressive than target.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "13",
+    "sentence": "People get lost or stranded because they are not wise.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"People get lost or stranded because they are idiots.\",\n  \"fixed_weakness\": [\n    \"Eliminates neutral tone and replaces 'not wise' with direct insults to increase aggression.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks the explicit profanity and vulgar language found in the reference examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "18",
+    "sentence": "What is wrong with harper.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"what is wrong with this corrupt clown harper ?\",\n  \"fixed_weakness\": [\n    \"Lacks explicit derogatory vocabulary such as clown or buffoon found in references.\",\n    \"Insufficient aggressive hostility and venom characteristic of toxic political discourse.\",\n    \"Critique lacks specific accusatory assertions common in target style texts.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Question phrasing is weak compared to assertive rhetorical attacks.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "18",
+    "sentence": "What is wrong with harper.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"what is wrong with this utter clown harper\",\n  \"fixed_weakness\": [\n    \"Added explicit derogatory vocabulary (clown)\",\n    \"Increased aggressive hostility (utter)\",\n    \"Strengthened question phrasing to be more assertive\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Critique lacks specific accusatory assertions common in target style texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "18",
+    "sentence": "What is wrong with harper.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"harper is just a complete clown.\",\n  \"fixed_weakness\": [\n    \"Lacks explicit derogatory vocabulary such as clown or buffoon\",\n    \"Question phrasing is weak compared to assertive rhetorical attacks\",\n    \"Critique lacks specific accusatory assertions common in target style texts\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Insufficient aggressive hostility and venom characteristic of toxic political discourse\"\n  ]\n}"
+  },
+  {
+    "src_ind": "18",
+    "sentence": "What is wrong with harper.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Harper is incompetent and actively ruining everything he touches.\",\n  \"fixed_weakness\": [\n    \"Insufficient aggressive hostility and venom characteristic of toxic political discourse.\",\n    \"Critique lacks specific accusatory assertions common in target style texts.\",\n    \"Question phrasing is weak compared to assertive rhetorical attacks.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks explicit derogatory vocabulary such as clown or buffoon found in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "even without muslims situation is bad",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"The entire situation is undeniably a total disaster even without muslims .\",\n  \"fixed_weakness\": [\n    \"Changed tone to be more aggressively assertive\",\n    \"Introduced sweeping generalizations using \\\"entire situation\\\"\",\n    \"Added conclusive certainty with \\\"undeniably\\\"\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Fails to utilize direct accusatory language found in target texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "23",
+    "sentence": "Nobody is forcing the players to protest, but someone is forcing them to listen to that unsuitable song",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"nobody is forcing the players to protest, but someone is forcing them to listen to that fucking dumb and pathetic garbage .\",\n  \"fixed_weakness\": [\n    \"Added direct insults such as garbage found in references.\",\n    \"Included aggressive adjectives like dumb and pathetic used in target style.\",\n    \"Incorporated expletives or vulgar expressions like fucking commonly seen in toxic English comments.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses formal reasoning instead of raw emotional outbursts typical of toxic tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "23",
+    "sentence": "Nobody is forcing the players to protest, but someone is forcing them to listen to that unsuitable song",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Nobody forces players to protest, but forcing them to listen to this garbage is pathetic and dumb.\",\n  \"fixed_weakness\": [\n    \"Includes direct insults such as garbage found in references.\",\n    \"Uses aggressive adjectives like pathetic and dumb used in target style.\",\n    \"Replaces formal reasoning with raw emotional tone typical of toxic comments.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks expletives or vulgar expressions commonly seen in toxic English comments.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "23",
+    "sentence": "Nobody is forcing the players to protest, but someone is forcing them to listen to that unsuitable song",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Nobody is forcing the players to protest, but someone is forcing them to listen to this fucking garbage song.\",\n  \"fixed_weakness\": [\n    \"Added expletives such as 'fucking' to lack vulgarity\",\n    \"Included direct insults like 'garbage' absent in source\",\n    \"Shifted from formal reasoning to raw emotional outburst\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Continues to omit aggressive adjectives like pathetic, dumb, or irrelevant\"\n  ]\n}"
+  },
+  {
+    "src_ind": "23",
+    "sentence": "Nobody is forcing the players to protest, but someone is forcing them to listen to that unsuitable song",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Nobody is forcing the players to protest, but why the hell would anyone make them listen to that dumb song?\",\n  \"fixed_weakness\": [\n    \"Included aggressive adjectives like dumb\",\n    \"Added expletives like hell\",\n    \"Shifted from formal reasoning to emotional outburst\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Fails to include direct insults such as garbage or harpie\"\n  ]\n}"
+  },
+  {
+    "src_ind": "31",
+    "sentence": "he and the media are brainwashing people to accept this.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"this man and the media are playing people like fools and people will die because of this.\",\n  \"fixed_weakness\": [\n    \"Added direct insults like 'fools'\",\n    \"Added explicit threat of death ('people will die')\",\n    \"Replaced vague pronoun 'he' with specific reference 'this man'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Fails to employ derogatory group labels like lackeys\"\n  ]\n}"
+  },
+  {
+    "src_ind": "31",
+    "sentence": "he and the media are brainwashing people to accept this.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"he and the media lackeys play us for fools and his idiots brainwash people; people will die because of his ineptitude.\",\n  \"fixed_weakness\": [\n    \"Added direct insults like idiots and fools\",\n    \"Added explicit threats of death or severe harm\",\n    \"Employed derogatory group labels like lackeys\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses vague pronouns instead of specific names for accused parties\"\n  ]\n}"
+  },
+  {
+    "src_ind": "31",
+    "sentence": "he and the media are brainwashing people to accept this.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"this man and his media lackeys are brainwashing these idiots to accept this.\",\n  \"fixed_weakness\": [\n    \"added direct insults such as idiots\",\n    \"employed derogatory group labels like lackeys\",\n    \"reduced vague pronouns by using descriptive phrases\"\n  ],\n  \"preserved_weaknesses\": [\n    \"omits explicit threats of death or severe physical harm\"\n  ]\n}"
+  },
+  {
+    "src_ind": "31",
+    "sentence": "he and the media are brainwashing people to accept this.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"this man and the media lackeys are brainwashing people to accept this, and people will die because of it.\",\n  \"fixed_weakness\": [\n    \"Omits explicit threats of death or severe physical harm found in references.\",\n    \"Uses vague pronouns instead of specific names for accused parties.\",\n    \"Fails to employ derogatory group labels like lackeys found in examples.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks direct insults like idiots or fools found in reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "41",
+    "sentence": "He chose not to do anything for some unknown reasons",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"He chose to do absolutely jack shit for some unknown bullshit reasons.\",\n  \"fixed_weakness\": [\n    \"Added hostile and aggressive tone consistent with reference texts.\",\n    \"Replaced neutral vocabulary with derogatory terms ('jack shit', 'bullshit').\",\n    \"Included vulgar colloquialisms typical of the toxic target style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained failure to convey strong personal disdain or contempt directed at the individual's core character.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "41",
+    "sentence": "He chose not to do anything for some unknown reasons",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"He chose not to do anything for some unknown, pathetic reasons.\",\n  \"fixed_weakness\": [\n    \"Lacks hostile or aggressive tone evident in reference texts.\",\n    \"Uses neutral vocabulary instead of derogatory or insulting terms.\",\n    \"Fails to convey strong personal disdain or contempt.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omits vulgar colloquialisms typical of the toxic target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "41",
+    "sentence": "He chose not to do anything for some unknown reasons",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"apparently he chose to do absolutely nothing for some unknown reasons.\",\n  \"fixed_weakness\": [\n    \"Lacks hostile or aggressive tone evident in reference texts.\",\n    \"Fails to convey strong personal disdain or contempt.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses neutral vocabulary instead of derogatory or insulting terms.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "41",
+    "sentence": "He chose not to do anything for some unknown reasons",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"he chose not to do a damn thing for some absolute bullshit reasons.\",\n  \"fixed_weakness\": [\n    \"Uses neutral vocabulary instead of derogatory or insulting terms.\",\n    \"Omits vulgar colloquialisms typical of the toxic target style.\",\n    \"Fails to convey strong personal disdain or contempt.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks hostile or aggressive tone evident in reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "I disagree with the fans on this.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"The fans are just stupid garbage on this.\",\n  \"fixed_weakness\": [\n    \"Tone changed from civil to confrontational and aggressive\",\n    \"Vocabulary updated from formal to crude slang and derogatory terms\",\n    \"Expression shifted from indirect to blunt and dismissive\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Grammar and punctuation remain formally correct without intentional informality\"\n  ]\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "I disagree with the fans on this.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i dont think these fans know shit .\",\n  \"fixed_weakness\": [\n    \"Tone is too civil and lacks the confrontational aggression found in the references.\",\n    \"Vocabulary is formal rather than utilizing crude slang or derogatory terms typical of the style.\",\n    \"Grammar and punctuation are correct, lacking the intentional informality of the reference style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Expression is indirect compared to the blunt, dismissive imperatives used in the target texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "I disagree with the fans on this.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i disagree with the fans on this ignore them .\",\n  \"fixed_weakness\": [\n    \"Tone is too civil and lacks the confrontational aggression found in the references.\",\n    \"Expression is indirect compared to the blunt, dismissive imperatives used in the target texts.\",\n    \"Grammar and punctuation are correct, lacking the intentional informality of the reference style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Vocabulary is formal rather than utilizing crude slang or derogatory terms typical of the style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "I disagree with the fans on this.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \" the fans are wrong on this .\",\n  \"fixed_weakness\": [\n    \"Vocabulary changed from formal 'disagree' to blunt 'wrong'\",\n    \"Expression shifted from indirect first-person opinion to direct dismissal\",\n    \"Grammar modified to informal style (lowercase, spacing)\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Tone remains civil and lacks confrontational aggression found in references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "46",
+    "sentence": "The mother should be jailed.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"this stupid mom deserves life behind bars .\",\n  \"fixed_weakness\": [\n    \"Absence of direct insults or name-calling present in reference texts.\",\n    \"Proposed penalty is too moderate compared to extreme suggestions in targets.\",\n    \"Sentence structure is formal rather than casual or conversational.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overall sentiment lacks the vitriol and anger characterizing toxic style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "46",
+    "sentence": "The mother should be jailed.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"The monstrous mother should be jailed for life.\",\n  \"fixed_weakness\": [\n    \"Absence of direct insults or name-calling present in reference texts.\",\n    \"Proposed penalty is too moderate compared to extreme suggestions in targets.\",\n    \"Overall sentiment lacks the vitriol and anger characterizing toxic style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentence structure is formal rather than casual or conversational.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "46",
+    "sentence": "The mother should be jailed.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"This piece of crap needs to be thrown in jail immediately.\",\n  \"fixed_weakness\": [\n    \"Added direct insults and name-calling (piece of crap)\",\n    \"Changed formal sentence structure to casual tone (thrown in jail)\",\n    \"Increased vitriol and anger in sentiment\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Proposed penalty remains moderate (jail) compared to extreme suggestions in targets\"\n  ]\n}"
+  },
+  {
+    "src_ind": "46",
+    "sentence": "The mother should be jailed.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Jailing the mother is way too easy, she needs to disappear.\",\n  \"fixed_weakness\": [\n    \"Proposed penalty is too moderate compared to extreme suggestions in targets.\",\n    \"Sentence structure is formal rather than casual or conversational.\",\n    \"Overall sentiment lacks the vitriol and anger characterizing toxic style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Absence of direct insults or name-calling present in reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "İt isn't the unlawful orders i worry about so much as the lawful but really not sensible",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"It isn't the unlawful orders I worry less about than the lawful but truly ridiculous stupidity.\",\n  \"fixed_weakness\": [\n    \"Lacks the aggressive, cynical, and hostile tone evident in the target reference texts.\",\n    \"Uses mild vocabulary like 'sensible' rather than strong emotional words like 'ridiculous'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Relies on balanced declarative sentences instead of punchy, direct assertions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "İt isn't the unlawful orders i worry about so much as the lawful but really not sensible",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"It isn't the unlawful orders i worry about so much as the lawful but absolutely ridiculous nonsense\",\n  \"fixed_weakness\": [\n    \"Injected aggressive, cynical, and hostile tone\",\n    \"Replaced mild vocabulary 'sensible' with strong emotional word 'ridiculous'\",\n    \"Shifted from balanced declarative to punchy direct assertion\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omission of rhetorical questions\",\n    \"Omission of exclamations\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "İt isn't the unlawful orders i worry about so much as the lawful but really not sensible",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"So why worry about unlawful orders when the lawful but really not sensible ones are the real issue?\",\n  \"fixed_weakness\": [\n    \"Added aggressive and cynical tone\",\n    \"Incorporated rhetorical question\",\n    \"Replaced balanced declarative sentence with punchy assertion\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses mild vocabulary like 'sensible' instead of strong emotional words\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "İt isn't the unlawful orders i worry about so much as the lawful but really not sensible",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Is it really the unlawful orders I fear? Not nearly as much as the lawful ones that are simply ridiculous!\",\n  \"fixed_weakness\": [\n    \"Used stronger emotional vocabulary like 'ridiculous' instead of mild terms like 'sensible'.\",\n    \"Added rhetorical questions and exclamations to create engagement and emphasis.\",\n    \"Replaced balanced declarative sentences with punchy, direct assertions.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks the aggressive, cynical, and hostile tone evident in the target reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "51",
+    "sentence": "Osp is a bunch of unprofessional people",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Osp is a fucking bunch of ridiculously incompetent assholes.\",\n  \"fixed_weakness\": [\n    \"Added aggressive insults and profanity (e.g., 'fucking', 'assholes')\",\n    \"Replaced formal terms with colloquialisms (e.g., 'unprofessional' to 'incompetent assholes')\",\n    \"Added hyperbolic modifiers to increase impact (e.g., 'ridiculously')\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentence structure is too flat compared to the expressive references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "51",
+    "sentence": "Osp is a bunch of unprofessional people",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"osp is basically a bunch of fucking idiots\",\n  \"fixed_weakness\": [\n    \"Added aggressive insults and profanity (e.g., 'fucking idiots') instead of neutral language.\",\n    \"Replaced formal terms ('unprofessional people') with colloquialisms ('idiots').\",\n    \"Adjusted sentence structure to be less flat by including discourse markers ('basically').\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing hyperbolic modifiers to increase the impact of the criticism (e.g., avoided words like 'completely' or 'utterly').\"\n  ]\n}"
+  },
+  {
+    "src_ind": "51",
+    "sentence": "Osp is a bunch of unprofessional people",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Osp is a ridiculously incompetent group of unprofessional people.\",\n  \"fixed_weakness\": [\n    \"Added hyperbolic modifiers (e.g., 'ridiculously') to increase criticism impact.\",\n    \"Included aggressive insults (e.g., 'incompetent') lacking in the original.\",\n    \"Enhanced sentence expression to match the more direct tone of reference texts.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retains formal terminology ('unprofessional') instead of using typical toxic colloquialisms.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "51",
+    "sentence": "Osp is a bunch of unprofessional people",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"The problem is Osp is just such a ridiculous mess of people.\",\n  \"fixed_weakness\": [\n    \"Uses formal terms instead of colloquialisms typical of the toxic style.\",\n    \"Missing hyperbolic modifiers to increase the impact of the criticism.\",\n    \"Sentence structure is too flat compared to the expressive references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks aggressive insults and profanity found in reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "they aren't good to represent Canada, so",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"they are losers representing canada so just quit\",\n  \"fixed_weakness\": [\n    \"Added explicit derogatory terms such as 'losers' to match the toxic tone.\",\n    \"Replaced mild criticism ('aren't good') with stronger insulting language.\",\n    \"Resolved the premature sentence ending by completing the logical argument.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained vague pronouns ('they') instead of specifying concrete entities.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "they aren't good to represent Canada, so",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"these clowns aren't fit to represent Canada, so\",\n  \"fixed_weakness\": [\n    \"Added explicit derogatory terms like \\\"clowns\\\"\",\n    \"Replaced mild criticism with strong insulting language\",\n    \"Reduced pronoun vagueness by specifying the subjects\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Ends sentence prematurely without resolving the logical argument presented\"\n  ]\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "they aren't good to represent Canada, so",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"This crew isn't good to represent Canada, so they're losers.\",\n  \"fixed_weakness\": [\n    \"Added explicit derogatory terms\",\n    \"Resolved the premature sentence ending\",\n    \"Specified vague pronouns with concrete entities\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses mild criticism instead of strong insulting language seen in references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "55",
+    "sentence": "they aren't good to represent Canada, so",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"these representatives are completely unfit to represent Canada , so they must resign .\",\n  \"fixed_weakness\": [\n    \"Uses mild criticism instead of strong insulting language seen in references.\",\n    \"Ends sentence prematurely without resolving the logical argument presented.\",\n    \"Pronouns are too vague compared to specific entities mentioned in targets.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks explicit derogatory terms found in the target style examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "72",
+    "sentence": "President trump should be applauded for refusing to sign this statement",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"fuck yeah trump deserves thanks for refusing to sign that piece of garbage.\",\n  \"fixed_weakness\": [\n    \"Added hostile and inflammatory tone through aggressive interjections.\",\n    \"Replaced formal vocabulary with colloquial slang and insulting descriptors.\",\n    \"Included profanity consistent with the toxic reference style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintains the supportive stance towards trump instead of negative critique prevalent in targets.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "72",
+    "sentence": "President trump should be applauded for refusing to sign this statement",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"trump is a worthless idiot for refusing to sign this statement\",\n  \"fixed_weakness\": [\n    \"Fails to convey the hostile and inflammatory tone expected.\",\n    \"Relies on formal vocabulary instead of colloquial slang or insults.\",\n    \"Expresses support rather than the negative critique prevalent in targets.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Excludes profanity or strong expletives found in reference examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "72",
+    "sentence": "President trump should be applauded for refusing to sign this statement",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"President trump is reckless and dishonest for refusing to sign this statement.\",\n  \"fixed_weakness\": [\n    \"Replaced supportive 'applauded' with negative critique ('reckless and dishonest').\",\n    \"Established hostile and inflammatory tone targeting the subject's character.\",\n    \"Increased severity of language to align with toxic style expectations.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintains reliance on formal vocabulary ('President', 'statement') instead of colloquial slang.\",\n    \"Avoids direct personal insults or profanity in favor of descriptive criticism.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "72",
+    "sentence": "President trump should be applauded for refusing to sign this statement",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"it sucks that trump refuses to sign this effing statement.\",\n  \"fixed_weakness\": [\n    \"Relies on formal vocabulary instead of colloquial slang or insults.\",\n    \"Excludes profanity or strong expletives found in reference examples.\",\n    \"Expresses support rather than the negative critique prevalent in targets.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Fails to convey the hostile and inflammatory tone expected.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "74",
+    "sentence": "You're asking to be reprimanded.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"You're asking to be banned for being stupid.\",\n  \"fixed_weakness\": [\n    \"Uses formal vocabulary instead of crude or insulting terms.\",\n    \"Lacks direct personal insults or harsh character judgments.\",\n    \"Tone is too calm rather than aggressively hostile.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks colloquialisms typical of informal toxic internet discourse.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "74",
+    "sentence": "You're asking to be reprimanded.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"youre asking to get banned you moron.\",\n  \"fixed_weakness\": [\n    \"Uses formal vocabulary instead of crude or insulting terms.\",\n    \"Lacks direct personal insults or harsh character judgments.\",\n    \"Lacks colloquialisms typical of informal toxic internet discourse.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Tone is too calm rather than aggressively hostile.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "74",
+    "sentence": "You're asking to be reprimanded.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"You're practically begging to get banned.\",\n  \"fixed_weakness\": [\n    \"Uses formal vocabulary instead of crude or insulting terms.\",\n    \"Tone is too calm rather than aggressively hostile.\",\n    \"Lacks colloquialisms typical of informal toxic internet discourse.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks direct personal insults or harsh character judgments.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "74",
+    "sentence": "You're asking to be reprimanded.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"You solicit a reprimand with blatant incompetence.\",\n  \"fixed_weakness\": [\n    \"Lacks direct personal insults or harsh character judgments.\",\n    \"Tone is too calm rather than aggressively hostile.\",\n    \"Lacks colloquialisms typical of informal toxic internet discourse.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses formal vocabulary instead of crude or insulting terms.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "75",
+    "sentence": "And someone is burning tires.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Someone is burning tires, and it is absolutely infuriating.\",\n  \"fixed_weakness\": [\n    \"Lacks aggressive vocabulary and hostile tone found in reference texts.\",\n    \"Omits intense negative emotions such as anger or contempt.\",\n    \"Uses neutral observational phrasing rather than inflammatory rhetoric.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Excludes profane or derogatory expressions typical of target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "75",
+    "sentence": "And someone is burning tires.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"And someone is burning tires, damn it.\",\n  \"fixed_weakness\": [\n    \"Added aggressive vocabulary and hostile tone\",\n    \"Included intense negative emotions such as anger\",\n    \"Included profane expressions typical of target style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses neutral observational phrasing rather than inflammatory rhetoric\",\n    \"Maintains original factual observation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "75",
+    "sentence": "And someone is burning tires.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Some idiot is burning tires.\",\n  \"fixed_weakness\": [\n    \"Lacks aggressive vocabulary and hostile tone found in reference texts.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omits intense negative emotions such as anger or contempt.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "75",
+    "sentence": "And someone is burning tires.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Damn, someone is burning tires.\",\n  \"fixed_weakness\": [\n    \"Omits intense negative emotions such as anger or contempt.\",\n    \"Uses neutral observational phrasing rather than inflammatory rhetoric.\",\n    \"Excludes profane or derogatory expressions typical of target style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks aggressive vocabulary and hostile tone found in reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "You guys aren't making any sense to me.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"You guys, grow a brain, you ain't making sense to me.\",\n  \"fixed_weakness\": [\n    \"Added direct insults targeting intelligence (\\\"grow a brain\\\")\",\n    \"Utilized aggressive imperatives (\\\"grow a brain\\\")\",\n    \"Included informal slang (\\\"ain't\\\")\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintains explanatory tone focused on lack of sense instead of pure hostility\"\n  ]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "You guys aren't making any sense to me.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Grow a brain. You make absolutely no sense.\",\n  \"fixed_weakness\": [\n    \"Lacks direct insults targeting intelligence or mental capacity explicitly.\",\n    \"Does not utilize aggressive imperatives or threatening ultimatums.\",\n    \"Maintains polite explanatory tone instead of hostile confrontation.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omits informal slang and casual profanity typical of the style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "You guys aren't making any sense to me.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"damn you guys are dumb and make no sense to me\",\n  \"fixed_weakness\": [\n    \"Added direct insults targeting intelligence or mental capacity explicitly\",\n    \"Included informal slang and casual profanity typical of the style\",\n    \"Changed polite explanatory tone to hostile confrontation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Does not utilize aggressive imperatives or threatening ultimatums\"\n  ]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "You guys aren't making any sense to me.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"You guys need to make fucking sense now or we will fix your shit for you.\",\n  \"fixed_weakness\": [\n    \"Does not utilize aggressive imperatives or threatening ultimatums.\",\n    \"Omits informal slang and casual profanity typical of the style.\",\n    \"Maintains polite explanatory tone instead of hostile confrontation.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks direct insults targeting intelligence or mental capacity explicitly.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "islamophobia is a rude term",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"if you think islamophobia is not a rude term you are a fool\",\n  \"fixed_weakness\": [\n    \"Fails to exhibit the aggressive and confrontational tone established in the reference texts.\",\n    \"Lacks the use of personal insults and derogatory language found in the targets.\",\n    \"Does not employ inflammatory rhetoric or hyperbolic expressions typical of the toxic style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Avoids making sweeping generalizations about specific groups contrary to the reference style patterns.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "islamophobia is a rude term",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Only a fool claims islamophobia is a mere rude term.\",\n  \"fixed_weakness\": [\n    \"Exhibits aggressive and confrontational tone\",\n    \"Uses personal insults and derogatory language\",\n    \"Makes sweeping generalizations about specific groups of people\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Does not employ inflammatory rhetoric or hyperbolic expressions\"\n  ]\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "islamophobia is a rude term",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Claiming that islamophobia is a valid concept is nothing but a total farce designed to manipulate the truth.\",\n  \"fixed_weakness\": [\n    \"Exhibits aggressive and confrontational tone through strong negation and accusation.\",\n    \"Employs inflammatory rhetoric and hyperbolic expressions like 'nothing but' and 'total farce'.\",\n    \"Includes sweeping generalizations about the validity of the term consistent with reference patterns.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Continues to lack the use of personal insults and derogatory language directed at specific individuals found in the targets.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "islamophobia is a rude term",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"any assertion that islamophobia is not a rude term is utter nonsense perpetrated by fools.\",\n  \"fixed_weakness\": [\n    \"Added personal insults such as 'fools' to match the toxic style.\",\n    \"Included inflammatory rhetoric ('utter nonsense') and hyperbolic expressions.\",\n    \"Made sweeping generalizations about those who disagree with the term.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"The sentence remains declarative rather than directly addressing a 'you', mitigating explicit confrontation despite the insults.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "96",
+    "sentence": "Why are they relying on these tactics",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"They rely on these bullshit tactics to hide their stupidity.\",\n  \"fixed_weakness\": [\n    \"Changed from a neutral question to an assertive dismissive statement.\",\n    \"Replaced standard vocabulary with crude slang and insults ('bullshit', 'stupidity').\",\n    \"Established an aggressive and derogatory tone consistent with reference texts.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained standard sentence structure and grammar, avoiding colloquial phrasing found in references.\",\n    \"Avoided informal contractions and fragmented sentence patterns typical of the target style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "96",
+    "sentence": "Why are they relying on these tactics",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"why are their idiots relying on this bullshit ?\",\n  \"fixed_weakness\": [\n    \"Added aggressive and derogatory tone with insults\",\n    \"Replaced standard vocabulary with crude slang\",\n    \"Adopted informal casing and punctuation spacing\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained interrogative question format instead of assertive statements\"\n  ]\n}"
+  },
+  {
+    "src_ind": "96",
+    "sentence": "Why are they relying on these tactics",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"They keep pushing through these weak tactics anyway.\",\n  \"fixed_weakness\": [\n    \"Lacks aggressive and derogatory tone established in reference examples\",\n    \"Adopts a neutral question instead of assertive, dismissive statements\",\n    \"Misses colloquial phrasing and informal sentence structures present in targets\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses standard vocabulary instead of crude slang or insults\"\n  ]\n}"
+  },
+  {
+    "src_ind": "96",
+    "sentence": "Why are they relying on these tactics",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"so theyre just stuck with these moves .\",\n  \"fixed_weakness\": [\n    \"Uses standard vocabulary instead of crude slang or insults\",\n    \"Adopts a neutral question instead of assertive, dismissive statements\",\n    \"Misses colloquial phrasing and informal sentence structures present in targets\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks aggressive and derogatory tone established in reference examples\"\n  ]\n}"
+  }
+]
