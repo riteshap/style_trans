@@ -1,0 +1,662 @@
+[
+  {
+    "src_ind": "1",
+    "sentence": "trump supporters are a burden on the country.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Trump supporters pose issues in the community.\",\n  \"fixed_weakness\": [\n    \"Uses emotive vocabulary 'burden' instead of neutral descriptive terms.\",\n    \"Expands critique to national scale rather than individual impact.\",\n    \"States group characteristics as inherent facts without supporting evidence.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Tone is accusatory rather than explanatory or advisory.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "1",
+    "sentence": "trump supporters are a burden on the country.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"trump supporters are not useful.\",\n  \"fixed_weakness\": [\n    \"Uses emotive vocabulary 'burden' instead of neutral descriptive terms.\",\n    \"Expands critique to national scale rather than individual impact.\",\n    \"Tone is accusatory rather than explanatory or advisory.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"States group characteristics as inherent facts without supporting evidence.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "1",
+    "sentence": "trump supporters are a burden on the country.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"trump supporters present difficulties for the country.\",\n  \"fixed_weakness\": [\n    \"Uses emotive vocabulary 'burden' instead of neutral descriptive terms.\",\n    \"States group characteristics as inherent facts without supporting evidence.\",\n    \"Tone is accusatory rather than explanatory or advisory.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Expands critique to national scale rather than individual impact.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "1",
+    "sentence": "trump supporters are a burden on the country.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Support may be viewed as a burden on the individual.\",\n  \"fixed_weakness\": [\n    \"Shifted critique from national scale to individual impact.\",\n    \"Presented characteristic as observation rather than inherent fact.\",\n    \"Adjusted tone from accusatory to explanatory.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retains emotive vocabulary 'burden' instead of neutral descriptive terms.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "14",
+    "sentence": "i cant believe he cant see how stupid and damaging this is to his presidency and his causes.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I can't believe he can't see how unwise and damaging this is to his presidency and his causes.\",\n  \"fixed_weakness\": [\n    \"Corrected lowercase first-person pronoun 'i' to 'I'\",\n    \"Added missing apostrophe to contraction 'cant' becoming 'can't'\",\n    \"Replaced emotional descriptor 'stupid' with neutral term 'unwise'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Subjective phrasing 'I can't believe' retained despite neutral style expectations\"\n  ]\n}"
+  },
+  {
+    "src_ind": "14",
+    "sentence": "i cant believe he cant see how stupid and damaging this is to his presidency and his causes.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"He cannot see how stupid and damaging this is to his presidency and his causes.\",\n  \"fixed_weakness\": [\n    \"First-person pronoun 'i' is incorrectly written in lowercase.\",\n    \"Contractions like 'cant' omit necessary apostrophes.\",\n    \"Subjective phrasing undermines objective presentation expected in neutral style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Emotional descriptors such as 'stupid' violate neutral tone standards.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "14",
+    "sentence": "i cant believe he cant see how stupid and damaging this is to his presidency and his causes.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I note that he cant see how damaging this is to his presidency and his causes.\",\n  \"fixed_weakness\": [\n    \"Lowercase first-person pronoun 'i' corrected to uppercase 'I'\",\n    \"Emotional descriptor 'stupid' removed to improve neutral tone\",\n    \"Subjective phrasing 'believe' modified to 'note' for objective presentation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contraction 'cant' omits necessary apostrophe\"\n  ]\n}"
+  },
+  {
+    "src_ind": "14",
+    "sentence": "i cant believe he cant see how stupid and damaging this is to his presidency and his causes.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i can't understand why he can't see how damaging this is to his presidency and his causes.\",\n  \"fixed_weakness\": [\n    \"Corrected contractions 'cant' to include apostrophes as 'can't'\",\n    \"Replaced emotional descriptor 'stupid' to maintain neutral tone\",\n    \"Modified subjective phrasing 'believe' to 'understand' for objectivity\"\n  ],\n  \"preserved_weaknesses\": [\n    \"First-person pronoun 'i' remains incorrectly written in lowercase\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "migawd, the hypocrisy of liberals knows no bounds.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Clearly, liberal behavior manifests profound contradictions.\",\n  \"fixed_weakness\": [\n    \"Use of informal interjection 'migawd' deviates from neutral tone.\",\n    \"Exaggerated assertion 'knows no bounds' lacks objective qualification.\",\n    \"Labeling subject as 'hypocrisy' introduces subjective moral bias.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Emphatic phrasing prioritizes emotion over factual reporting.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "migawd, the hypocrisy of liberals knows no bounds.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"The hypocrisy of liberals is evident.\",\n  \"fixed_weakness\": [\n    \"Use of informal interjection \\\"migawd\\\" deviates from neutral tone.\",\n    \"Exaggerated assertion \\\"knows no bounds\\\" lacks objective qualification.\",\n    \"Emphatic phrasing prioritizes emotion over factual reporting.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Labeling subject as \\\"hypocrisy\\\" introduces subjective moral bias.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "migawd, the hypocrisy of liberals knows no bounds.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"The behavior of liberals knows no bounds.\",\n  \"fixed_weakness\": [\n    \"Use of informal interjection \\\"migawd\\\" deviates from neutral tone.\",\n    \"Labeling subject as \\\"hypocrisy\\\" introduces subjective moral bias.\",\n    \"Emphatic phrasing prioritizes emotion over factual reporting.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Exaggerated assertion \\\"knows no bounds\\\" lacks objective qualification.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "migawd, the hypocrisy of liberals knows no bounds.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"migawd, claims of liberal inconsistency are frequent.\",\n  \"fixed_weakness\": [\n    \"Exaggerated assertion \\\"knows no bounds\\\" lacks objective qualification.\",\n    \"Labeling subject as \\\"hypocrisy\\\" introduces subjective moral bias.\",\n    \"Emphatic phrasing prioritizes emotion over factual reporting.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Use of informal interjection \\\"migawd\\\" deviates from neutral tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "even without Muslims they only have rapes a minute and a murder every minute.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Even without considering specific demographic groups, the crime rate remains alarmingly high.\",\n  \"fixed_weakness\": [\n    \"Asserts unverified statistics without proper sourcing or context.\",\n    \"Uses group identity to characterize general criminal occurrences.\",\n    \"Employs hyperbolic language to distort reported crime rates.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintains an accusatory tone instead of an informative one.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "even without Muslims they only have rapes a minute and a murder every minute.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"It is asserted that crime rates amount to one rape and one murder every minute, even when excluding specific demographic groups.\",\n  \"fixed_weakness\": [\n    \"Asserts unverified statistics without proper sourcing or context.\",\n    \"Uses group identity to characterize general criminal occurrences.\",\n    \"Maintains an accusatory tone instead of an informative one.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Employs hyperbolic language to distort reported crime rates.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "even without Muslims they only have rapes a minute and a murder every minute.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Crime data indicates frequent instances of rape and murder, even in areas without Muslim populations.\",\n  \"fixed_weakness\": [\n    \"Asserts unverified statistics without proper sourcing or context.\",\n    \"Employs hyperbolic language to distort reported crime rates.\",\n    \"Maintains an accusatory tone instead of an informative one.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses group identity to characterize general criminal occurrences.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "even without Muslims they only have rapes a minute and a murder every minute.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Claims circulate that one rape and one murder occur every minute.\",\n  \"fixed_weakness\": [\n    \"Removed specific group identity (Muslims) when characterizing criminal occurrences.\",\n    \"Reduced accusatory tone ('they only have') to a neutral reporting voice ('Claims circulate').\",\n    \"Mitigated hyperbolic language by framing the figures as circulating claims rather than established facts.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintains assertion of unverified statistics without proper sourcing or context.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "26",
+    "sentence": "how obvious dencord at you want to go around bullying just cause you cant get your own way.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"It is evident that you wish to engage in bullying simply because you cannot get your own way.\"\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "Because they knew how dangerous it was to carry a gun around in public.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"People knew how dangerous it was to carry a gun around in public.\"\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "Because they thought it was dangerous and stupid to carry a gun around in public.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"they thought it was dangerous and unwise to carry a firearm in public.\",\n  \"fixed_weakness\": [\n    \"Removed subjective term 'stupid'\",\n    \"Corrected sentence fragment by removing subordinating conjunction 'Because'\",\n    \"Replaced colloquial expression 'carry a gun around' with formal language\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks proper capitalization at the beginning of the sentence\"\n  ]\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "Because they thought it was dangerous and stupid to carry a gun around in public.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"They thought it was dangerous to carry a gun around in public.\",\n  \"fixed_weakness\": [\n    \"Includes the subjective term 'stupid' which undermines objective neutrality.\",\n    \"Starts with 'Because' forming a sentence fragment lacking a main clause.\",\n    \"Lacks proper capitalization at the beginning of the sentence.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses colloquial expressions like 'carry a gun around' instead of formal language.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "Because they thought it was dangerous and stupid to carry a gun around in public.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Because they thought it was dangerous and unwise to carry a firearm in public.\",\n  \"fixed_weakness\": [\n    \"Replaced subjective term 'stupid' with neutral term 'unwise'\",\n    \"Replaced colloquial expression 'carry a gun around' with formal phrasing 'carry a firearm'\",\n    \"Added proper capitalization at the beginning of the sentence\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Starts with 'Because' forming a sentence fragment lacking a main clause\"\n  ]\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "Because they thought it was dangerous and stupid to carry a gun around in public.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"They thought it was dangerous and stupid to carry a gun in public.\",\n  \"fixed_weakness\": [\n    \"Starts with 'Because' forming a sentence fragment lacking a main clause.\",\n    \"Uses colloquial expressions like 'carry a gun around' instead of formal language.\",\n    \"Lacks proper capitalization at the beginning of the sentence.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Includes the subjective term 'stupid' which undermines objective neutrality.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "29",
+    "sentence": "i cant believe other people voted for him .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I can't believe other people voted for him.\",\n  \"fixed_weakness\": [\n    \"Lowercase first-person pronoun violates capitalization conventions.\",\n    \"Missing apostrophe in contraction affects grammatical correctness.\",\n    \"Unnecessary space exists before the final period.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Emotive phrasing compromises the neutral tone requirement.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "29",
+    "sentence": "i cant believe other people voted for him .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I note that other people voted for him .\",\n  \"fixed_weakness\": [\n    \"Capitalized first-person pronoun 'i' to 'I'\",\n    \"Replaced contraction 'cant' with neutral verb form to resolve missing apostrophe\",\n    \"Replaced emotive phrasing 'believe' with neutral 'note that'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Unnecessary space exists before the final period\"\n  ]\n}"
+  },
+  {
+    "src_ind": "29",
+    "sentence": "i cant believe other people voted for him .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I cant understand other people voted for him.\",\n  \"fixed_weakness\": [\n    \"Capitalization of first-person pronoun corrected ('i' to 'I')\",\n    \"Unnecessary space before the final period removed\",\n    \"Emotive phrasing adjusted to neutral tone ('believe' to 'understand')\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing apostrophe in contraction maintained ('cant')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "29",
+    "sentence": "i cant believe other people voted for him .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i understand other people voted for him.\",\n  \"fixed_weakness\": [\n    \"Removed missing apostrophe in contraction\",\n    \"Removed unnecessary space before the final period\",\n    \"Replaced emotive phrasing with neutral tone\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lowercase first-person pronoun violates capitalization conventions\"\n  ]\n}"
+  },
+  {
+    "src_ind": "31",
+    "sentence": "he and the socialist media are frantic to brainwash people to accept this argument .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"He and the major media are pushing to get people to accept this argument.\",\n  \"fixed_weakness\": [\n    \"Uses emotionally charged vocabulary instead of neutral terminology.\",\n    \"Claims malicious intent without objective substantiation or proof.\",\n    \"Assigns pejorative labels to groups rather than descriptive terms.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Demonstrates a confrontational tone inconsistent with neutral style guidelines.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "31",
+    "sentence": "he and the socialist media are frantic to brainwash people to accept this argument .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"He and the socialist media are attempting to persuade people to accept this argument.\",\n  \"fixed_weakness\": [\n    \"Replaced emotionally charged vocabulary ('frantic', 'brainwash') with neutral terms\",\n    \"Removed unsubstantiated claim of malicious intent inherent in 'brainwash'\",\n    \"Reduced confrontational tone by stating the action neutrally\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained pejorative label 'socialist media' assigned to the group rather than using descriptive terms\"\n  ]\n}"
+  },
+  {
+    "src_ind": "31",
+    "sentence": "he and the socialist media are frantic to brainwash people to accept this argument .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"He and the liberal media are working to compel people to accept this argument.\",\n  \"fixed_weakness\": [\n    \"Uses emotionally charged vocabulary instead of neutral terminology.\",\n    \"Assigns pejorative labels to groups rather than descriptive terms.\",\n    \"Demonstrates a confrontational tone inconsistent with neutral style guidelines.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Claims malicious intent without objective substantiation or proof.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "31",
+    "sentence": "he and the socialist media are frantic to brainwash people to accept this argument .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"He and the media are frantic to persuade people to accept this argument.\",\n  \"fixed_weakness\": [\n    \"Removed pejorative label 'socialist' modifying 'media'\",\n    \"Replaced 'brainwash' with 'persuade' to eliminate claim of malicious intent\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained emotionally charged vocabulary 'frantic'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "31",
+    "sentence": "he and the socialist media seem frantic to brainwash people to accept this nonsense.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"He and the media seem keen to get people to accept this contentious view.\",\n  \"fixed_weakness\": [\n    \"Relies on emotionally charged vocabulary such as brainwash and nonsense.\",\n    \"Asserts unverified intent regarding media motivations rather than stating facts.\",\n    \"Utilizes partisan political labels like socialist media for identification.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Expresses strong opinions inconsistent with an objective neutral perspective.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "31",
+    "sentence": "he and the socialist media seem frantic to brainwash people to accept this nonsense.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"He and the socialist media seem focused on encouraging people to accept this viewpoint.\",\n  \"fixed_weakness\": [\n    \"Replaced emotionally charged vocabulary such as 'frantic', 'brainwash', and 'nonsense' with neutral terms.\",\n    \"Reduced assertions of unverified intent regarding media motivations.\",\n    \"Adopted a tone consistent with an objective neutral perspective.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained the use of partisan political labels like 'socialist media' for identification.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "31",
+    "sentence": "he and the socialist media seem frantic to brainwash people to accept this nonsense.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"He and the media seem intent on convincing people to accept this view.\",\n  \"fixed_weakness\": [\n    \"Relies on emotionally charged vocabulary such as brainwash and nonsense.\",\n    \"Utilizes partisan political labels like socialist media for identification.\",\n    \"Expresses strong opinions inconsistent with an objective neutral perspective.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Asserts unverified intent regarding media motivations rather than stating facts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "31",
+    "sentence": "he and the socialist media seem frantic to brainwash people to accept this nonsense.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"he and the media appear to try to brainwash people to accept this nonsense.\",\n  \"fixed_weakness\": [\n    \"Asserts unverified intent regarding media motivations rather than stating facts.\",\n    \"Utilizes partisan political labels like socialist media for identification.\",\n    \"Expresses strong opinions inconsistent with an objective neutral perspective.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Relies on emotionally charged vocabulary such as brainwash and nonsense.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "41",
+    "sentence": "this pathetic driver did not do so, for some as yet unrevealed reason.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"The driver did not do so for reasons not yet known.\",\n  \"fixed_weakness\": [\n    \"Replaced subjective adjective 'pathetic' with neutral term 'driver'\",\n    \"Clarified ambiguous phrasing 'unrevealed reason' to neutral 'reasons not yet known'\",\n    \"Adjusted overall tone to convey impartial observation rather than opinion\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentimental language compromises the objective reporting standard\"\n  ]\n}"
+  },
+  {
+    "src_ind": "41",
+    "sentence": "this pathetic driver did not do so, for some as yet unrevealed reason.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"this driver did not do so, without stating a reason.\",\n  \"fixed_weakness\": [\n    \"Subjective adjective 'pathetic' replaced with neutral factual descriptor 'driver'\",\n    \"Ambiguous phrase 'as yet unrevealed reason' changed to 'without stating a reason'\",\n    \"Sentimental language removed to improve objective reporting standard\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overall tone conveys opinion rather than impartial observation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "41",
+    "sentence": "this pathetic driver did not do so, for some as yet unrevealed reason.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"this driver did not do so, for some as yet unrevealed reason.\",\n  \"fixed_weakness\": [\n    \"Removed subjective adjective 'pathetic' to establish an impartial observation tone.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained the phrase 'unrevealed reason', maintaining the unnecessary ambiguity to the cause.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "41",
+    "sentence": "this pathetic driver did not do so, for some as yet unrevealed reason.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"this pathetic driver did not do so without explanation.\",\n  \"fixed_weakness\": [\n    \"Replaced 'unrevealed reason' with 'without explanation' to reduce ambiguity about the cause.\",\n    \"Adjusted tone in the causal clause to improve impartiality.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Subjective adjective 'pathetic' remains to replace neutral factual descriptor.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "46",
+    "sentence": "the mother should be sentenced to a permanent prison term .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"the mother is to be sentenced to a permanent prison term .\",\n  \"fixed_weakness\": [\n    \"Changed prescriptive recommendation 'should be' to a procedural fact 'is to be'.\",\n    \"Replaced subjective opinion with objective judicial determination phrasing.\",\n    \"Eliminated language implying personal opinion lacks objective backing.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omits attribution for the claim regarding the prison sentence.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "46",
+    "sentence": "the mother should be sentenced to a permanent prison term .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"It is reported that the mother is to be sentenced to a permanent prison term.\",\n  \"fixed_weakness\": [\n    \"Converted prescriptive recommendation ('should be') to reported statement.\",\n    \"Reduced subjective language by using neutral reporting verbs.\",\n    \"Added attribution ('It is reported') to clarify the source of the claim.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Fails to distinguish between personal opinion and judicial determination.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "46",
+    "sentence": "the mother should be sentenced to a permanent prison term .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Critics argue the mother should be sentenced to a permanent prison term.\",\n  \"fixed_weakness\": [\n    \"Expresses a prescriptive recommendation rather than reporting an established fact.\",\n    \"Fails to distinguish between personal opinion and judicial determination.\",\n    \"Omits attribution for the claim regarding the prison sentence.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses subjective language lacking objective legal or factual backing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "46",
+    "sentence": "the mother should be sentenced to a permanent prison term .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"There are suggestions that the mother should be sentenced to a permanent prison term.\",\n  \"fixed_weakness\": [\n    \"Uses subjective language lacking objective legal or factual backing.\",\n    \"Fails to distinguish between personal opinion and judicial determination.\",\n    \"Omits attribution for the claim regarding the prison sentence.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Expresses a prescriptive recommendation rather than reporting an established fact.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "51",
+    "sentence": "Osp is bunch of unprofessional assholes.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Osp staff are unprofessional and incompetent.\",\n  \"fixed_weakness\": [\n    \"Use of swear words contradicts neutral English conventions.\",\n    \"Informal vocabulary lowers the text's professional register.\",\n    \"Personal insults fail to provide objective criticism.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Emotional hostility exceeds acceptable neutral tone boundaries.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "51",
+    "sentence": "Osp is bunch of unprofessional assholes.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Osp is a group of unprofessional people.\",\n  \"fixed_weakness\": [\n    \"Use of swear words contradicts neutral English conventions.\",\n    \"Informal vocabulary lowers the text's professional register.\",\n    \"Emotional hostility exceeds acceptable neutral tone boundaries.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Personal insults fail to provide objective criticism.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "51",
+    "sentence": "Osp is bunch of unprofessional assholes.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Osp is a bunch of unprofessional people.\",\n  \"fixed_weakness\": [\n    \"Use of swear words contradicts neutral English conventions.\",\n    \"Personal insults fail to provide objective criticism.\",\n    \"Emotional hostility exceeds acceptable neutral tone boundaries.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal vocabulary lowers the text's professional register.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "51",
+    "sentence": "Osp is bunch of unprofessional assholes.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Osp is a group of unprofessional assholes.\",\n  \"fixed_weakness\": [\n    \"Informal vocabulary lowers the text's professional register.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Use of swear words contradicts neutral English conventions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "52",
+    "sentence": "cheetolini and his supporters are controversial .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Cheetolini and his supporters are controversial.\",\n  \"fixed_weakness\": [\n    \"Sentence does not begin with a capital letter.\",\n    \"Proper noun 'cheetolini' lacks required capitalization.\",\n    \"Contains an extraneous space before the period.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"States a subjective opinion as an objective fact.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "52",
+    "sentence": "cheetolini and his supporters are controversial .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Cheetolini and his supporters are viewed as controversial .\",\n  \"fixed_weakness\": [\n    \"Sentence does not begin with a capital letter.\",\n    \"Proper noun 'cheetolini' lacks required capitalization.\",\n    \"States a subjective opinion as an objective fact.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains an extraneous space before the period.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "52",
+    "sentence": "cheetolini and his supporters are controversial .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"cheetolini and his supporters are considered controversial.\",\n  \"fixed_weakness\": [\n    \"Contains an extraneous space before the period.\",\n    \"States a subjective opinion as an objective fact.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Proper noun 'cheetolini' lacks required capitalization.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "52",
+    "sentence": "cheetolini and his supporters are controversial .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"his supporters and Cheetolini are considered controversial.\",\n  \"fixed_weakness\": [\n    \"Proper noun 'cheetolini' lacks required capitalization.\",\n    \"Contains an extraneous space before the period.\",\n    \"States a subjective opinion as an objective fact.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentence does not begin with a capital letter.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "57",
+    "sentence": "by the way, i didnt call you trash, i called your writing trash talk.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I didn't call you trash, I used derogatory remarks about your writing.\",\n  \"fixed_weakness\": [\n    \"Corrected omission of apostrophe in 'didn't'\",\n    \"Removed filler phrase 'by the way'\",\n    \"Replaced colloquial term 'trash talk' with neutral vocabulary 'derogatory remarks'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Comma splice joining independent clauses\"\n  ]\n}"
+  },
+  {
+    "src_ind": "57",
+    "sentence": "by the way, i didnt call you trash, i called your writing trash talk.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I didn't call you trash. I called your writing trash talk.\",\n  \"fixed_weakness\": [\n    \"Omission of apostrophe in contraction \\\"didnt\\\" violates standard punctuation norms.\",\n    \"Inclusion of filler phrase \\\"by the way\\\" adds conversational informality.\",\n    \"Joining independent clauses with a comma creates a comma splice structure.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Usage of colloquial term \\\"trash talk\\\" lacks precise neutral vocabulary.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "57",
+    "sentence": "by the way, i didnt call you trash, i called your writing trash talk.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"by the way, I didn't call you trash; I called your writing substandard.\",\n  \"fixed_weakness\": [\n    \"Omission of apostrophe in contraction \\\"didnt\\\"\",\n    \"Usage of colloquial term \\\"trash talk\\\" lacks precise neutral vocabulary\",\n    \"Joining independent clauses with a comma creates a comma splice structure\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Inclusion of filler phrase \\\"by the way\\\" adds conversational informality\"\n  ]\n}"
+  },
+  {
+    "src_ind": "57",
+    "sentence": "by the way, i didnt call you trash, i called your writing trash talk.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"i didnt call you trash. i called your writing substandard.\",\n  \"fixed_weakness\": [\n    \"Removal of filler phrase \\\"by the way\\\" to reduce conversational informality\",\n    \"Replacement of colloquial term \\\"trash talk\\\" with neutral vocabulary \\\"substandard\\\"\",\n    \"Correction of comma splice structure by separating independent clauses\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omission of apostrophe in contraction \\\"didnt\\\"\"\n  ]\n}"
+  },
+  {
+    "src_ind": "58",
+    "sentence": "I cannot believe you would publish this kind of drivel.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I do not find this content suitable for publication.\",\n  \"fixed_weakness\": [\n    \"Removed emotionally loaded phrase 'I cannot believe'\",\n    \"Replaced pejorative term 'drivel' with neutral descriptor\",\n    \"Reduced confrontational tone to be more objective\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Centers the statement on personal feelings rather than observable facts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "58",
+    "sentence": "I cannot believe you would publish this kind of drivel.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"You should not publish this content.\",\n  \"fixed_weakness\": [\n    \"Removed emotionally loaded phrase 'I cannot believe'\",\n    \"Replaced pejorative term 'drivel' with neutral descriptor 'content'\",\n    \"Shifted focus from personal feelings to a direct directive\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintains a confrontational and subjective tone rather than objective\"\n  ]\n}"
+  },
+  {
+    "src_ind": "58",
+    "sentence": "I cannot believe you would publish this kind of drivel.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"You published this kind of drivel.\",\n  \"fixed_weakness\": [\n    \"Uses emotionally loaded phrases like \\\"I cannot believe\\\" expressing shock.\",\n    \"Maintains a confrontational and subjective tone rather than objective.\",\n    \"Centers the statement on personal feelings rather than observable facts.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Utilizes pejorative terms like \\\"drivel\\\" instead of neutral descriptions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "58",
+    "sentence": "I cannot believe you would publish this kind of drivel.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"I cannot believe you would publish this kind of content.\",\n  \"fixed_weakness\": [\n    \"Replaced pejorative term 'drivel' with neutral descriptor 'content'\",\n    \"Reduced confrontational subjective tone by removing quality-based insult\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained emotionally loaded phrase 'I cannot believe' expressing shock\"\n  ]\n}"
+  },
+  {
+    "src_ind": "59",
+    "sentence": "unreal the imbeciles are more concerned about the wall that mexico is supposed to pay for than health care.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"It is striking that the officials are more concerned about the wall that Mexico is supposed to pay for than health care.\",\n  \"fixed_weakness\": [\n    \"Use of derogatory terms like 'imbeciles' conflicts with neutral tone.\",\n    \"Inclusion of informal slang like 'unreal' lowers register.\",\n    \"Failure to use standard sentence case and capitalization.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Presents subjective political bias as factual assertion.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "59",
+    "sentence": "unreal the imbeciles are more concerned about the wall that mexico is supposed to pay for than health care.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"comments suggest officials are more concerned about the wall mexico is supposed to pay for than health care.\",\n  \"fixed_weakness\": [\n    \"Use of derogatory terms like 'imbeciles' conflicts with neutral tone.\",\n    \"Inclusion of informal slang like 'unreal' lowers register.\",\n    \"Presents subjective political bias as factual assertion.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Failure to use standard sentence case and capitalization.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "59",
+    "sentence": "unreal the imbeciles are more concerned about the wall that mexico is supposed to pay for than health care.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Unreal, politicians are more concerned about the wall that Mexico is said to pay for than health care.\",\n  \"fixed_weakness\": [\n    \"Use of derogatory terms like 'imbeciles' conflicts with neutral tone.\",\n    \"Failure to use standard sentence case and capitalization.\",\n    \"Presents subjective political bias as factual assertion.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Inclusion of informal slang like 'unreal' lowers register.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "59",
+    "sentence": "unreal the imbeciles are more concerned about the wall that mexico is supposed to pay for than health care.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"It appears that the imbeciles are more concerned about the wall that Mexico is supposed to pay for than health care.\",\n  \"fixed_weakness\": [\n    \"Replaced informal slang 'unreal' with formal hedging phrase\",\n    \"Corrected standard sentence case and capitalization of proper noun 'Mexico'\",\n    \"Modified factual assertion to subjective observation to mitigate bias presentation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Use of derogatory term 'imbeciles' conflicts with neutral tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "the pc did and have a credible platform , its the public that didnt want to accept the reality !",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"the pc did and have a credible platform, it's the public that didn't want to accept the reality.\",\n  \"fixed_weakness\": [\n    \"Corrected spacing before comma\",\n    \"Replaced terminal exclamation mark with period\",\n    \"Added missing apostrophes to contractions\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained lowercase abbreviation 'pc'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "the pc did and have a credible platform , its the public that didnt want to accept the reality !",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"the PC did and have a credible platform, its the public that didnt want to accept the reality.\",\n  \"fixed_weakness\": [\n    \"Spacing before comma deviates from standard punctuation conventions.\",\n    \"Terminal exclamation mark implies emotion over objective neutrality.\",\n    \"Lowercase abbreviations indicate informal register contrary to neutral style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing apostrophes in contractions constitute mechanical writing errors.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "the pc did and have a credible platform , its the public that didnt want to accept the reality !",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"the PC did and have a credible platform, it's the public that didn't want to accept the reality !\",\n  \"fixed_weakness\": [\n    \"Spacing before comma deviates from standard punctuation conventions.\",\n    \"Missing apostrophes in contractions constitute mechanical writing errors.\",\n    \"Lowercase abbreviations indicate informal register contrary to neutral style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Terminal exclamation mark implies emotion over objective neutrality.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "the pc did and have a credible platform , its the public that didnt want to accept the reality !",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"the PC did and have a credible platform , it's the public that didn't want to accept the reality .\",\n  \"fixed_weakness\": [\n    \"Terminal exclamation mark implies emotion over objective neutrality\",\n    \"Missing apostrophes in contractions constitute mechanical writing errors\",\n    \"Lowercase abbreviations indicate informal register contrary to neutral style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Spacing before comma deviates from standard punctuation conventions\"\n  ]\n}"
+  },
+  {
+    "src_ind": "69",
+    "sentence": "the two are practically twins and equally dullwitted.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"The two are quite similar and possess average abilities.\",\n  \"fixed_weakness\": [\n    \"Uses hyperbolic metaphor instead of literal factual description.\",\n    \"Employs specific derogatory vocabulary compromising neutral tone.\",\n    \"Asserts subjective interpretation as absolute factual observation.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Relies on vague generalizations instead of specific details.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "69",
+    "sentence": "the two are practically twins and equally dullwitted.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"The two are physically similar and have equal low intelligence.\",\n  \"fixed_weakness\": [\n    \"Replaced hyperbolic metaphor 'practically twins' with literal description 'physically similar'.\",\n    \"Replaced derogatory vocabulary 'dullwitted' with neutral term 'low intelligence'.\",\n    \"Removed vague generalizations tied to metaphorical comparisons in favor of descriptive statements.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Asserts subjective interpretation as absolute factual observation ('are', 'have').\"\n  ]\n}"
+  },
+  {
+    "src_ind": "69",
+    "sentence": "the two are practically twins and equally dullwitted.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"The two are physically similar and equally dullwitted.\",\n  \"fixed_weakness\": [\n    \"Uses hyperbolic metaphor instead of literal factual description.\",\n    \"Asserts subjective interpretation as absolute factual observation.\",\n    \"Relies on vague generalizations instead of specific details.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Employs specific derogatory vocabulary compromising neutral tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "69",
+    "sentence": "the two are practically twins and equally dullwitted.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"the two are practically twins and have similarly limited reasoning.\",\n  \"fixed_weakness\": [\n    \"Removed derogatory vocabulary ('dullwitted') in favor of neutral description ('limited reasoning').\",\n    \"Replaced subjective absolute comparison ('equally') with comparative language ('similarly').\",\n    \"Reduced vagueness by specifying the cognitive domain ('reasoning') rather than general behavior.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses hyperbolic metaphor ('practically twins') instead of literal factual description.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "daily maverick , why do you publish this article ?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Daily maverick, why do you publish this article?\",\n  \"fixed_weakness\": [\n    \"Sentence begins with lowercase letter.\",\n    \"Unnecessary space precedes the comma.\",\n    \"Unnecessary space precedes the question mark.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Proper noun 'daily maverick' is not capitalized.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "daily maverick , why do you publish this article ?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Daily Maverick, why do you publish this article ?\",\n  \"fixed_weakness\": [\n    \"Sentence begins with lowercase letter.\",\n    \"Unnecessary space precedes the comma.\",\n    \"Proper noun 'daily maverick' is not capitalized.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Unnecessary space precedes the question mark.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "daily maverick , why do you publish this article ?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Daily Maverick , why do you publish this article?\",\n  \"fixed_weakness\": [\n    \"Sentence begins with lowercase letter.\",\n    \"Unnecessary space precedes the question mark.\",\n    \"Proper noun 'daily maverick' is not capitalized.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Unnecessary space precedes the comma.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "71",
+    "sentence": "daily maverick , why do you publish this article ?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"daily maverick, why do you publish this article?\",\n  \"fixed_weakness\": [\n    \"Unnecessary space precedes the comma.\",\n    \"Unnecessary space precedes the question mark.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentence begins with lowercase letter.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "75",
+    "sentence": "Someone over a ways is burning tires.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"A person in the distance is burning tires.\",\n  \"fixed_weakness\": [\n    \"Use of regional idiom \\\"over a ways\\\" reduces standard neutral register.\",\n    \"Indefinite pronoun \\\"Someone\\\" decreases objective clarity compared to specific subjects.\",\n    \"Conversational tone lacks the detached objectivity expected in neutral style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Minimalist phrasing omits contextual details prevalent in the reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "75",
+    "sentence": "Someone over a ways is burning tires.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"A person up ahead is burning tires and creating smoke.\",\n  \"fixed_weakness\": [\n    \"Use of regional idiom \\\"over a ways\\\" reduces standard neutral register\",\n    \"Indefinite pronoun \\\"Someone\\\" decreases objective clarity compared to specific subjects\",\n    \"Minimalist phrasing omits contextual details prevalent in the reference texts\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Conversational tone lacks the detached objectivity expected in neutral style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "75",
+    "sentence": "Someone over a ways is burning tires.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Someone at a distance is burning tires.\",\n  \"fixed_weakness\": [\n    \"Replaced regional idiom 'over a ways' with standard neutral phrasing 'at a distance'\",\n    \"Adjusted conversational tone for greater detached objectivity\",\n    \"Modified minimalist phrasing to align with standard register\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained indefinite pronoun 'Someone' despite decreased objective clarity\"\n  ]\n}"
+  },
+  {
+    "src_ind": "75",
+    "sentence": "Someone over a ways is burning tires.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"An individual over a ways is burning tires.\",\n  \"fixed_weakness\": [\n    \"Replaced indefinite pronoun 'Someone' with the noun phrase 'An individual' for improved objective clarity\",\n    \"Shifted from conversational tone to detached, neutral observation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained regional idiom 'over a ways' despite reduced standard neutral register\"\n  ]\n}"
+  },
+  {
+    "src_ind": "77",
+    "sentence": "ridiculous, yet another attempt to maintain control over people, even after death.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Seen as another attempt to maintain control over people, even after death.\",\n  \"fixed_weakness\": [\n    \"Use of emotionally charged word \\\"ridiculous\\\" compromises objectivity.\",\n    \"Speculative attribution of intent lacks neutral objectivity.\",\n    \"Accusatory language dominates over informative description.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Unsubstantiated claims regarding control mechanisms reduce credibility.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "77",
+    "sentence": "ridiculous, yet another attempt to maintain control over people, even after death.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Yet another form of control over people, extending past death.\",\n  \"fixed_weakness\": [\n    \"Use of emotionally charged word \\\"ridiculous\\\" compromises objectivity.\",\n    \"Speculative attribution of intent lacks neutral objectivity.\",\n    \"Unsubstantiated claims regarding control mechanisms reduce credibility.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Accusatory language dominates over informative description.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "77",
+    "sentence": "ridiculous, yet another attempt to maintain control over people, even after death.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Another effort to guide individuals persists, extending even after death.\",\n  \"fixed_weakness\": [\n    \"Removed emotionally charged word \\\"ridiculous\\\" to enhance objectivity\",\n    \"Softened accusatory language from \\\"maintain control\\\" to \\\"guide\\\"\",\n    \"Qualified the claim to reduce the appearance of substantiation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained speculative attribution of intent regarding the actors' goals\"\n  ]\n}"
+  },
+  {
+    "src_ind": "77",
+    "sentence": "ridiculous, yet another attempt to maintain control over people, even after death.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"ridiculous, yet another purported attempt to maintain control over people, even after death.\",\n  \"fixed_weakness\": [\n    \"Speculative attribution of intent lacks neutral objectivity.\",\n    \"Accusatory language dominates over informative description.\",\n    \"Unsubstantiated claims regarding control mechanisms reduce credibility.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Use of emotionally charged word \\\"ridiculous\\\" compromises objectivity.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "and now we suffer since Trump is a leader with delusions that he is some kind of deity.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"and now negative outcomes persist since Trump acts as a leader who claims he holds absolute authority.\",\n  \"fixed_weakness\": [\n    \"Replaced subjective emotional language like 'we suffer' with objective phrasing 'negative outcomes persist'\",\n    \"Removed medical terms like 'delusions' used to describe leadership\",\n    \"Substituted abstract religious metaphors like 'deity' with concrete political descriptions like 'absolute authority'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintains reliance on complex subordinate clauses instead of concise declarative sentences\"\n  ]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "and now we suffer since Trump is a leader with delusions that he is some kind of deity.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"And now Trump is a leader claiming to be some kind of deity.\",\n  \"fixed_weakness\": [\n    \"Uses subjective emotional language like \\\"we suffer\\\" rather than objective facts\",\n    \"Applies medical terms like \\\"delusions\\\" to describe leadership without evidence\",\n    \"Relies on complex subordinate clauses instead of concise declarative sentences\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Employs abstract religious metaphors instead of concrete descriptive language\"\n  ]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "and now we suffer since Trump is a leader with delusions that he is some kind of deity.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Negative conditions stem from Trump's leadership involving delusions of divinity.\",\n  \"fixed_weakness\": [\n    \"Replaced subjective emotional language 'we suffer' with neutral phrasing 'Negative conditions stem'\",\n    \"Reduced abstract religious metaphor 'some kind of deity' to precise noun 'divinity'\",\n    \"Simplified complex subordinate clause structure 'since...' into direct causal preposition 'stem from'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained application of medical term 'delusions' to describe political leadership without clinical evidence\"\n  ]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "and now we suffer since Trump is a leader with delusions that he is some kind of deity.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"and now we suffer. Trump treats himself as the sole authority.\",\n  \"fixed_weakness\": [\n    \"Removed medical terms like 'delusions' to describe leadership.\",\n    \"Replaced abstract religious metaphors like 'deity' with concrete descriptive language.\",\n    \"Broke down complex subordinate clauses into concise declarative sentences.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintains subjective emotional language like 'we suffer' rather than objective facts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "and now we suffer since trump is a dotard with delusions that he is superior.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"and now there are consequences since Trump is an unsuitable leader who thinks he is superior.\",\n  \"fixed_weakness\": [\n    \"Uses archaic derogatory term 'dotard' instead of neutral descriptive terms.\",\n    \"Includes emotional phrasing 'we suffer' reducing objective tone compared to references.\",\n    \"Attributes specific mental conditions like 'delusions' rather than general judgments.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentence begins with a coordinating conjunction creating informal connectivity.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "and now we suffer since trump is a dotard with delusions that he is superior.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Now difficulties persist since Trump is a leader with delusions that he is superior.\",\n  \"fixed_weakness\": [\n    \"Removed coordinating conjunction 'and' from the beginning of the sentence\",\n    \"Replaced archaic derogatory term 'dotard' with neutral descriptive term 'leader'\",\n    \"Replaced emotional phrasing 'we suffer' with objective phrasing 'difficulties persist'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained attribution of specific mental condition 'delusions' rather than general judgments\"\n  ]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "and now we suffer since trump is a dotard with delusions that he is superior.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Now we suffer since Trump is an unsuitable leader who believes he is superior.\",\n  \"fixed_weakness\": [\n    \"Removed coordinating conjunction 'and' at the beginning of the sentence\",\n    \"Replaced archaic derogatory term 'dotard' with neutral descriptive term 'unsuitable leader'\",\n    \"Replaced specific mental condition 'delusions' with general judgment 'believes'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Emotional phrasing 'we suffer' retained to maintain source's subjective tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "and now we suffer since trump is a dotard with delusions that he is superior.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"trump is a dotard with a belief that he is superior.\",\n  \"fixed_weakness\": [\n    \"Removed starting coordinating conjunction 'and'\",\n    \"Replaced emotional phrasing 'we suffer' with neutral assertion\",\n    \"Changed specific mental condition 'delusions' to general judgment 'belief'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Use of archaic derogatory term 'dotard'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "Now we suffer since trump is a dotard with delusions that he is some kind of deity.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Trump is unfit because he thinks he is some kind of deity.\",\n  \"fixed_weakness\": [\n    \"Replaced archaic vocabulary 'dotard' with common term 'unfit'\",\n    \"Replaced psychological claim 'delusions' with general assessment 'thinks'\",\n    \"Removed dramatic narrative 'Now we suffer' for direct assertion\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained elevated religious term 'deity' inconsistent with casual phrasing\"\n  ]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "Now we suffer since trump is a dotard with delusions that he is some kind of deity.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Now we suffer since trump is not a good man who thinks he is like a god.\",\n  \"fixed_weakness\": [\n    \"Replaced archaic insulting vocabulary \\\"dotard\\\" with common diction \\\"not a good man\\\"\",\n    \"Replaced psychological claim \\\"delusions\\\" with general character assessment \\\"thinks\\\"\",\n    \"Replaced elevated religious term \\\"deity\\\" with casual phrasing \\\"like a god\\\"\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained dramatic narrative tone \\\"Now we suffer\\\" instead of direct assertions\"\n  ]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "Now we suffer since trump is a dotard with delusions that he is some kind of deity.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Trump is not a good man; he has delusions that he is a god.\",\n  \"fixed_weakness\": [\n    \"Replaced archaic insulting vocabulary like 'dotard' with common diction.\",\n    \"Changed dramatic narrative tone ('Now we suffer') to direct assertions.\",\n    \"Replaced elevated religious term 'deity' with casual phrasing.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained psychological claims ('delusions') rather than converting to general character assessments.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "Now we suffer since trump is a dotard with delusions that he is some kind of deity.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"We suffer because trump is a dotard who believes he is some kind of god.\",\n  \"fixed_weakness\": [\n    \"Replaced psychological claim 'delusions' with general character assessment 'believes'.\",\n    \"Removed dramatic narrative tone marker 'Now' to allow for direct causal assertion.\",\n    \"Changed elevated religious term 'deity' to casual religious phrasing 'god' consistent with reference texts.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Source uses archaic insulting vocabulary like 'dotard', which lacks the common diction of reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "In ignorant minds are assault weapons considered repulsive .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Assault weapons are considered repulsive in some minds.\",\n  \"fixed_weakness\": [\n    \"Loaded term 'ignorant' contradicts the neutral tone requirement.\",\n    \"Inverted syntax is unnatural compared to direct reference phrasing.\",\n    \"Spacing before the period is a formatting inconsistency.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Passive voice usage is less direct than active reference styles.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "In ignorant minds are assault weapons considered repulsive .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Some people consider assault weapons repulsive .\",\n  \"fixed_weakness\": [\n    \"Loaded term 'ignorant'\",\n    \"Inverted syntax\",\n    \"Passive voice usage\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Spacing before the period\"\n  ]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "In ignorant minds are assault weapons considered repulsive .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"In certain minds assault weapons seem repulsive.\",\n  \"fixed_weakness\": [\n    \"Removed loaded term 'ignorant' to maintain neutrality\",\n    \"Corrected spacing before the period\",\n    \"Changed passive voice to active verb\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained inverted syntax structure\"\n  ]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "In ignorant minds are assault weapons considered repulsive .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Ignorant minds consider assault weapons repulsive.\",\n  \"fixed_weakness\": [\n    \"Inverted syntax changed to direct phrasing\",\n    \"Spacing before period removed\",\n    \"Passive voice changed to active voice\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Loaded term 'ignorant' retained\"\n  ]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "Some suggest that only in ignorant minds are assault weapons considered repulsive.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Some suggest that only uninformed individuals consider assault weapons objectionable.\",\n  \"fixed_weakness\": [\n    \"Removed pejorative adjective 'ignorant' to reduce subjectivity\",\n    \"Replaced emotive word 'repulsive' with neutral term 'objectionable'\",\n    \"Corrected inverted sentence structure for clarity and directness\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Reliance on indirect attribution limits statement precision\"\n  ]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "Some suggest that only in ignorant minds are assault weapons considered repulsive.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"It is argued that only in the minds of the uninformed are assault weapons viewed as undesirable.\",\n  \"fixed_weakness\": [\n    \"Replaced pejorative adjective \\\"ignorant\\\" with neutral term \\\"uninformed\\\"\",\n    \"Replaced emotive word \\\"repulsive\\\" with neutral term \\\"undesirable\\\"\",\n    \"Replaced indirect attribution \\\"Some suggest\\\" with \\\"It is argued\\\" for greater precision\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Inverted sentence structure reduces clarity and directness\"\n  ]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "Some suggest that only in ignorant minds are assault weapons considered repulsive.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Some assert that people who consider assault weapons repulsive have limited understanding.\",\n  \"fixed_weakness\": [\n    \"Replaced pejorative adjective 'ignorant' with neutral phrase 'limited understanding'\",\n    \"Corrected inverted sentence structure to direct subject-verb order\",\n    \"Strengthened indirect attribution from 'suggest' to 'assert' for greater precision\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Employment of emotive word 'repulsive' compromises neutral tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "Some suggest that only in ignorant minds are assault weapons considered repulsive.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Some maintain that only ignorant minds regard assault weapons as problematic.\",\n  \"fixed_weakness\": [\n    \"Employment of emotive word \\\"repulsive\\\" compromises neutral tone\",\n    \"Inverted sentence structure reduces clarity and directness\",\n    \"Reliance on indirect attribution limits statement precision\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Use of pejorative adjective \\\"ignorant\\\" introduces unintended subjectivity\"\n  ]\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "islamophobia is a problematic term .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Critics consider the term islamophobia problematic.\"\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "Islamophobia what a problematic term.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"islamophobia is a problematic term.\",\n  \"fixed_weakness\": [\n    \"Capitalizes sentence start diverging from the lowercase beginnings in most reference texts\",\n    \"Treats Islamophobia as a capitalized proper noun, contrasting with lowercase usage for terms in references\",\n    \"Omits a finite verb entirely, making it more fragmented than most conversational reference examples\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses a static headline format rather than the active, conversational syntax observed in reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "Islamophobia what a problematic term.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"islamophobia what a problematic term.\",\n  \"fixed_weakness\": [\n    \"Capitalizes sentence start, diverging from the lowercase beginnings in most reference texts.\",\n    \"Treats Islamophobia as a capitalized proper noun, contrasting with lowercase usage for terms in references.\",\n    \"Uses a static headline format rather than the active, conversational syntax observed in reference texts.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omits a finite verb entirely, making it more fragmented than most conversational reference examples.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "Islamophobia what a problematic term.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"we call Islamophobia what a problematic term\",\n  \"fixed_weakness\": [\n    \"corrected sentence start capitalization to lowercase\",\n    \"added finite verb to reduce fragmentation\",\n    \"shifted from static headline to conversational syntax\"\n  ],\n  \"preserved_weaknesses\": [\n    \"maintained 'Islamophobia' as capitalized proper noun\"\n  ]\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "Islamophobia what a problematic term.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Islamophobia is what a problematic term.\",\n  \"fixed_weakness\": [\n    \"Added finite verb 'is' to establish conversational syntax instead of a static headline format.\",\n    \"Improved sentence structure to include a predicate.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Capitalizes sentence start.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "islamophobia a disputed term .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Islamophobia is a disputed term.\",\n  \"fixed_weakness\": [\n    \"Sentence begins with an uppercase letter instead of lowercase.\",\n    \"Includes a main verb to form a complete sentence.\",\n    \"Removes improper space before terminal punctuation mark.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses telegraphic phrase structure rather than standard prose.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "islamophobia a disputed term .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Islamophobia is a disputed term .\",\n  \"fixed_weakness\": [\n    \"Sentence begins with a lowercase letter instead of uppercase.\",\n    \"Lacks a main verb to form a complete sentence.\",\n    \"Uses telegraphic phrase structure rather than standard prose.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains an improper space before the terminal punctuation mark.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "islamophobia a disputed term .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Islamophobia a disputed term.\",\n  \"fixed_weakness\": [\n    \"Sentence begins with a lowercase letter instead of uppercase.\",\n    \"Contains an improper space before the terminal punctuation mark.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks a main verb to form a complete sentence.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "islamophobia a disputed term .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"islamophobia is a disputed term.\",\n  \"fixed_weakness\": [\n    \"Lacks a main verb to form a complete sentence.\",\n    \"Contains an improper space before the terminal punctuation mark.\",\n    \"Uses telegraphic phrase structure rather than standard prose.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentence begins with a lowercase letter instead of uppercase.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "This is evident that shes forced to handle donalds problems .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"obviously she's forced to handle donalds problems .\",\n  \"fixed_weakness\": [\n    \"Changed capitalized sentence start to lowercase\",\n    \"Added apostrophe to contraction \\\"shes\\\" to form \\\"she's\\\"\",\n    \"Replaced formal phrase \\\"This is evident\\\" with conversational \\\"obviously\\\"\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Kept possessive \\\"donalds\\\" without apostrophe\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "This is evident that shes forced to handle donalds problems .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"this is evident that she's forced to handle donald's problems .\",\n  \"fixed_weakness\": [\n    \"Lowercased sentence start to align with predominant reference lowercase style.\",\n    \"Corrected 'shes' to 'she's' to use standard apostrophe usage for contractions.\",\n    \"Added apostrophe to 'donalds' to ensure clear possessive grammatical marking.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained formal phrase 'this is evident' which contrasts with the direct conversational tone of reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "This is evident that shes forced to handle donalds problems .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"clearly shes forced to handle donald's problems .\",\n  \"fixed_weakness\": [\n    \"Sentence start changed from capitalized to lowercase to match predominant reference style\",\n    \"Formal phrase 'This is evident' replaced with conversational adverb 'clearly'\",\n    \"Added missing apostrophe to possessive 'donalds' becoming 'donald's'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contraction 'shes' remains without standard apostrophe\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "This is evident that shes forced to handle donalds problems .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"This seems like she's forced to handle donald's problems .\",\n  \"fixed_weakness\": [\n    \"Ambiguous \\\"shes\\\" contraction lacks standard apostrophe usage shown in references.\",\n    \"Formal phrase \\\"This is evident\\\" contrasts with direct conversational reference tone.\",\n    \"Possessive \\\"donalds\\\" omits apostrophe, hindering immediate grammatical clarity.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Capitalized start of sentence conflicts with predominant reference lowercase style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "this is clear that shes forced to handle Donald's problems .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"This indicates that she is forced to handle Donald's problems .\",\n  \"fixed_weakness\": [\n    \"Sentence begins with a lowercase letter\",\n    \"Contraction 'shes' lacks an apostrophe\",\n    \"Phrasing 'is clear' conveys subjective certainty rather than factual neutrality\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal phrasing 'Donald's problems' lacks specific and formal terminology\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "this is clear that shes forced to handle Donald's problems .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"This is clear that she's forced to handle Donald's official matters .\",\n  \"fixed_weakness\": [\n    \"Sentence begins with a lowercase letter, violating standard capitalization conventions.\",\n    \"Contraction 'shes' lacks an apostrophe, constituting a grammatical error.\",\n    \"Informal phrasing 'Donald's problems' lacks specific and formal terminology.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Phrasing 'is clear' conveys subjective certainty rather than factual neutrality.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "this is clear that shes forced to handle Donald's problems .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"It appears that shes forced to handle Donald's difficulties .\",\n  \"fixed_weakness\": [\n    \"Sentence begins with a lowercase letter, violating standard capitalization conventions.\",\n    \"Phrasing 'is clear' conveys subjective certainty rather than factual neutrality.\",\n    \"Informal phrasing 'Donald's problems' lacks specific and formal terminology.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contraction 'shes' lacks an apostrophe, constituting a grammatical error.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "85",
+    "sentence": "this is clear that shes forced to handle Donald's problems .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"this indicates that she's forced to handle the matters concerning Donald.\",\n  \"fixed_weakness\": [\n    \"Corrected the contraction 'shes' to 'she's' with proper apostrophe usage.\",\n    \"Replaced subjective phrasing 'is clear' with the more neutral 'indicates'.\",\n    \"Replaced informal 'Donald's problems' with formal terminology 'matters concerning Donald'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained the lowercase starting letter 'this', violating standard capitalization conventions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "86",
+    "sentence": "wwow wake up , we already have a grid that goes from coast to coast connecting provinces !",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"wow, we already have a grid that goes from coast to coast connecting provinces.\"\n}"
+  },
+  {
+    "src_ind": "91",
+    "sentence": "saunders classic : start with a freakin ridiculous premise and keep digging.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"saunders method : start with an implausible premise and continue exploring.\",\n  \"fixed_weakness\": [\n    \"Replaced informal slang 'freakin' with neutral phrasing\",\n    \"Substituted hyperbolic language 'ridiculous' with factual descriptor 'implausible'\",\n    \"Reduced subjective evaluation 'classic' to descriptive 'method'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Utilizes non-standard punctuation structure with a colon separator\"\n  ]\n}"
+  },
+  {
+    "src_ind": "91",
+    "sentence": "saunders classic : start with a freakin ridiculous premise and keep digging.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"saunders classic starts with an unlikely premise and continues to explore.\",\n  \"fixed_weakness\": [\n    \"replaced informal slang 'freakin' with neutral phrasing\",\n    \"removed hyperbolic language 'ridiculous' in favor of objective term 'unlikely'\",\n    \"replaced non-standard colon separator with standard sentence structure\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Makes subjective evaluations without the contextual detail seen in references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "91",
+    "sentence": "saunders classic : start with a freakin ridiculous premise and keep digging.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"saunders classic starts with a ridiculous premise and keeps digging.\",\n  \"fixed_weakness\": [\n    \"removed informal slang 'freakin'\",\n    \"replaced colon separator with standard sentence structure\"\n  ],\n  \"preserved_weaknesses\": [\n    \"employs hyperbolic language 'ridiculous' introducing unnecessary emotional bias\"\n  ]\n}"
+  },
+  {
+    "src_ind": "91",
+    "sentence": "saunders classic : start with a freakin ridiculous premise and keep digging.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"saunders classic, start with a freakin unusual premise and keep digging.\",\n  \"fixed_weakness\": [\n    \"Replaced hyperbolic language 'ridiculous' with the neutral descriptor 'unusual' to reduce emotional bias\",\n    \"Corrected non-standard punctuation structure by replacing the colon separator with a comma\",\n    \"Reduced subjective evaluation by shifting from judgmental language to descriptive instruction\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses informal slang 'freakin' inconsistent with neutral register\"\n  ]\n}"
+  },
+  {
+    "src_ind": "93",
+    "sentence": "the guy is unsuitable and why on earth would google want someone like that working for them .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"the guy is unsuitable and google would not want someone like that working for them.\",\n  \"fixed_weakness\": [\n    \"Rhetorical question replaced with declarative statement to reduce bias\",\n    \"Emotive idiom 'on earth' removed for neutrality\",\n    \"Conjunction now links two declarative clauses instead of mixing declarative and interrogative\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal tone persists\",\n    \"Lack of professional or specific vocabulary\"\n  ]\n}"
+  },
+  {
+    "src_ind": "93",
+    "sentence": "the guy is unsuitable and why on earth would google want someone like that working for them .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"The individual is unsuitable and why would Google employ such a person?\",\n  \"fixed_weakness\": [\n    \"Rhetorical question implies personal bias rather than stating facts.\",\n    \"Emotive idiom \\\"on earth\\\" conveys unnecessary subjectivity.\",\n    \"Informal tone persists without professional or specific vocabulary.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Conjunction links unrelated declarative and interrogative clauses.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "93",
+    "sentence": "the guy is unsuitable and why on earth would google want someone like that working for them .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"The guy is unsuitable and there is no reason on earth for Google to hire someone like that working for them.\",\n  \"fixed_weakness\": [\n    \"Converted rhetorical question to declarative statement to reduce personal bias.\",\n    \"Ensured conjunction links two declarative clauses instead of mixed types.\",\n    \"Replaced informal verb with professional term.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained emotive idiom 'on earth' which conveys unnecessary subjectivity.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "93",
+    "sentence": "the guy is unsuitable and why on earth would google want someone like that working for them .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"The person is unsuitable. Why would Google want someone like that working for them?\",\n  \"fixed_weakness\": [\n    \"Emotive idiom \\\"on earth\\\" conveys unnecessary subjectivity.\",\n    \"Conjunction links unrelated declarative and interrogative clauses.\",\n    \"Informal tone persists without professional or specific vocabulary.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Rhetorical question implies personal bias rather than stating facts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "locals fight like men, mainlanders pull knives and guns, such cowards.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Locals engage in physical combat, while mainlanders use knives and guns.\",\n  \"fixed_weakness\": [\n    \"Uses loaded emotional terms like 'cowards' inconsistent with neutrality.\",\n    \"Uses colloquial expressions like 'fight like men' instead of objective description.\",\n    \"Punctuation errors include comma splices and sentence fragments.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Applies unqualified group generalizations without specific supporting details.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "locals fight like men, mainlanders pull knives and guns, such cowards.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"locals fight physically, mainlanders pull knives and guns, observed behaviors.\",\n  \"fixed_weakness\": [\n    \"Removed loaded emotional terms like 'cowards'\",\n    \"Replaced colloquial expressions like 'fight like men' with objective description\",\n    \"Qualified unqualified group generalizations to reflect observation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Punctuation errors include comma splices and sentence fragments\"\n  ]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "locals fight like men, mainlanders pull knives and guns, such cowards.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Some locals fight like men, while other mainlanders pull knives and guns.\",\n  \"fixed_weakness\": [\n    \"Removed loaded emotional terms inconsistent with neutrality\",\n    \"Fixed punctuation errors including comma splices\",\n    \"Qualified unqualified group generalizations\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses colloquial expressions like 'fight like men'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "locals fight like men, mainlanders pull knives and guns, such cowards.",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Some locals engage in combat while mainlanders pull knives and guns; such participants are termed cowards.\",\n  \"fixed_weakness\": [\n    \"Uses colloquial expressions like 'fight like men' instead of objective description.\",\n    \"Punctuation errors include comma splices and sentence fragments.\",\n    \"Applies unqualified group generalizations without specific supporting details.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses loaded emotional terms like 'cowards' inconsistent with neutrality.\"\n  ]\n}"
+  }
+]

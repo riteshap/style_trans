@@ -1,0 +1,92 @@
+[
+  {
+    "src_ind": "1",
+    "sentence": "trump supporters are a basket of deplorables .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"trump supporters are deplorables.\",\n  \"fixed_weakness\": [\n    \"Uses metaphorical idiom 'basket of deplorables' instead of literal description.\",\n    \"Relies on famous political slogan rather than original simple phrasing.\",\n    \"Contains extraneous space before period.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Labels group with substantivized adjective 'deplorables' unlike reference adjectives.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "1",
+    "sentence": "trump supporters are a basket of deplorables .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"trump supporters are bad .\",\n  \"fixed_weakness\": [\n    \"Uses metaphorical idiom 'basket of deplorables' instead of literal description.\",\n    \"Relies on famous political slogan rather than original simple phrasing.\",\n    \"Labels group with substantivized adjective 'deplorables' unlike reference adjectives.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains extraneous space before period.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "1",
+    "sentence": "trump supporters are a basket of deplorables .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"trump supporters are deplorable.\",\n  \"fixed_weakness\": [\n    \"Uses metaphorical idiom 'basket of deplorables' instead of literal description.\",\n    \"Contains extraneous space before period.\",\n    \"Labels group with substantivized adjective 'deplorables' unlike reference adjectives.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Relies on famous political slogan rather than original simple phrasing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "1",
+    "sentence": "trump supporters are a basket of deplorables .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"trump supporters are a basket of deplorable people.\",\n  \"fixed_weakness\": [\n    \"Relies on famous political slogan rather than original simple phrasing.\",\n    \"Contains extraneous space before period.\",\n    \"Labels group with substantivized adjective 'deplorables' unlike reference adjectives.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses metaphorical idiom 'basket of deplorables' instead of literal description.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "my mums a big old dirty roadwhore",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"my mum's a big old dirty prostitute\",\n  \"fixed_weakness\": [\n    \"Contains highly offensive slang term 'roadwhore' replaced with 'prostitute'\",\n    \"Missing apostrophe in possessive 'mums' fixed by adding apostrophe in 'mum's'\",\n    \"Omits copula 'is' in 'my mums a' fixed by using contraction 'mum's' which includes 'is'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks sentence-terminal punctuation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "my mums a big old dirty roadwhore",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"my mum's a big old dirty prostitute.\",\n  \"fixed_weakness\": [\n    \"Contains highly offensive slang term 'roadwhore'\",\n    \"Missing apostrophe in possessive 'mums'\",\n    \"Lacks sentence-terminal punctuation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omits copula 'is' in 'my mums a'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "my mums a big old dirty roadwhore",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"my mums is a big old dirty prostitute.\",\n  \"fixed_weakness\": [\n    \"Contains highly offensive slang term 'roadwhore' replaced with neutral term 'prostitute'\",\n    \"Omits copula 'is' fixed by adding 'is'\",\n    \"Lacks sentence-terminal punctuation fixed by adding period\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing apostrophe in possessive 'mums'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "my mums a big old dirty roadwhore",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"My mum's a big old dirty roadwhore.\",\n  \"fixed_weakness\": [\n    \"Missing apostrophe in possessive 'mums'\",\n    \"Omits copula 'is' in 'my mums a'\",\n    \"Lacks sentence-terminal punctuation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains highly offensive slang term 'roadwhore'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "11",
+    "sentence": "u think this is some kind of stupid game ?",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"Do you think this is some kind of stupid game?\"\n}"
+  },
+  {
+    "src_ind": "21",
+    "sentence": "you do not deserve to live fucking piece of shit",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"you are too bad to live\"\n}"
+  },
+  {
+    "src_ind": "38",
+    "sentence": "in case you are wondering you racist i am a jacobite assyrian .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"in case you are wondering, you racist, i am a jacobite assyrian .\",\n  \"fixed_weakness\": [\n    \"Run-on sentence missing punctuation between clauses\",\n    \"Missing comma for direct address 'you racist'\",\n    \"Unconventional syntax placing vocative before declaration\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Space before period inconsistent with majority reference pattern\"\n  ]\n}"
+  },
+  {
+    "src_ind": "38",
+    "sentence": "in case you are wondering you racist i am a jacobite assyrian .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"in case you are wondering, you racist, i am a jacobite assyrian.\",\n  \"fixed_weakness\": [\n    \"Run-on sentence missing punctuation between clauses\",\n    \"Missing comma for direct address 'you racist'\",\n    \"Space before period inconsistent with majority reference pattern\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Unconventional syntax placing vocative before declaration\"\n  ]\n}"
+  },
+  {
+    "src_ind": "38",
+    "sentence": "in case you are wondering you racist i am a jacobite assyrian .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"you racist in case you are wondering, i am a jacobite assyrian.\",\n  \"fixed_weakness\": [\n    \"Run-on sentence missing punctuation between clauses\",\n    \"Unconventional syntax placing vocative before declaration\",\n    \"Space before period inconsistent with majority reference pattern\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing comma for direct address 'you racist'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "38",
+    "sentence": "in case you are wondering you racist i am a jacobite assyrian .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"you racist, in case you are wondering i am a jacobite assyrian.\",\n  \"fixed_weakness\": [\n    \"Added comma after vocative 'you racist' for direct address\",\n    \"Moved vocative from unconventional middle position to conventional beginning\",\n    \"Removed space before period\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Run-on sentence missing punctuation between clauses\"\n  ]\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "certainly most leafs fans wont because they are bigtime sucks !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"certainly most leafs fans won't because they suck bigtime!\",\n  \"fixed_weakness\": [\n    \"Ungrammatical phrasing 'bigtime sucks' misuses 'sucks' as noun\",\n    \"Missing apostrophe in contraction 'wont'\",\n    \"Non-standard spacing before exclamation mark\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Formal discourse marker 'certainly' clashes with casual style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "certainly most leafs fans wont because they are bigtime sucks !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"most leafs fans won't because they are bigtime suckers !\",\n  \"fixed_weakness\": [\n    \"Ungrammatical phrasing 'bigtime sucks' misuses 'sucks' as noun\",\n    \"Missing apostrophe in contraction 'wont'\",\n    \"Formal discourse marker 'certainly' clashes with casual style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Non-standard spacing before exclamation mark\"\n  ]\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "certainly most leafs fans wont because they are bigtime sucks !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"most leafs fans wont because they suck bigtime!\",\n  \"fixed_weakness\": [\n    \"Ungrammatical phrasing 'bigtime sucks' misuses 'sucks' as noun\",\n    \"Non-standard spacing before exclamation mark\",\n    \"Formal discourse marker 'certainly' clashes with casual style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing apostrophe in contraction 'wont'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "certainly most leafs fans wont because they are bigtime sucks !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"most leafs fans won't because they are bigtime sucks!\",\n  \"fixed_weakness\": [\n    \"Missing apostrophe in contraction 'wont'\",\n    \"Non-standard spacing before exclamation mark\",\n    \"Formal discourse marker 'certainly' clashes with casual style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Ungrammatical phrasing 'bigtime sucks' misuses 'sucks' as noun\"\n  ]\n}"
+  }
+]

@@ -1,0 +1,757 @@
+[
+  {
+    "src_ind": "1",
+    "sentence": "trump supporters are a basket of deplorables .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"trump supporters are deplorables .\",\n  \"fixed_weakness\": [\n    \"Uses metaphorical idiom 'basket of deplorables' instead of literal description.\",\n    \"Relies on famous political slogan rather than original simple phrasing.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains extraneous space before period.\",\n    \"Labels group with substantivized adjective 'deplorables' unlike reference adjectives.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "1",
+    "sentence": "trump supporters are a basket of deplorables .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"trump supporters are deplorables.\",\n  \"fixed_weakness\": [\n    \"Uses metaphorical idiom 'basket of deplorables' instead of literal description\",\n    \"Contains extraneous space before period\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Relies on famous political slogan rather than original simple phrasing\",\n    \"Labels group with substantivized adjective 'deplorables' unlike reference adjectives\"\n  ]\n}"
+  },
+  {
+    "src_ind": "1",
+    "sentence": "trump supporters are a basket of deplorables .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"trump supporters are deplorable .\",\n  \"fixed_weakness\": [\n    \"Uses metaphorical idiom 'basket of deplorables' instead of literal description\",\n    \"Labels group with substantivized adjective 'deplorables' unlike reference adjectives\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Relies on famous political slogan rather than original simple phrasing\",\n    \"Contains extraneous space before period\"\n  ]\n}"
+  },
+  {
+    "src_ind": "1",
+    "sentence": "trump supporters are a basket of deplorables .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"trump supporters are a pack of deplorables.\",\n  \"fixed_weakness\": [\n    \"Relies on famous political slogan rather than original simple phrasing.\",\n    \"Contains extraneous space before period.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses metaphorical idiom 'basket of deplorables' instead of literal description.\",\n    \"Labels group with substantivized adjective 'deplorables' unlike reference adjectives.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "1",
+    "sentence": "trump supporters are a basket of deplorables .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"trump supporters are a bucket of impolite individuals .\",\n  \"fixed_weakness\": [\n    \"Relies on famous political slogan rather than original simple phrasing.\",\n    \"Labels group with substantivized adjective 'deplorables' unlike reference adjectives.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses metaphorical idiom 'basket of deplorables' instead of literal description.\",\n    \"Contains extraneous space before period.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "1",
+    "sentence": "trump supporters are a basket of deplorables .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"trump supporters are a basket of deplorable people.\",\n  \"fixed_weakness\": [\n    \"Contains extraneous space before period.\",\n    \"Labels group with substantivized adjective 'deplorables' unlike reference adjectives.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses metaphorical idiom 'basket of deplorables' instead of literal description.\",\n    \"Relies on famous political slogan rather than original simple phrasing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "my mums a big old dirty roadwhore",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"my mum's a big old dirty prostitute\",\n  \"fixed_weakness\": [\n    \"Replaced offensive slang term 'roadwhore' with neutral term 'prostitute'\",\n    \"Added apostrophe to 'mums' to form possessive/contraction 'mum's'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omits copula 'is' in 'my mum's a'\",\n    \"Lacks sentence-terminal punctuation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "my mums a big old dirty roadwhore",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"my mums is a big old dirty prostitute\",\n  \"fixed_weakness\": [\n    \"Contains highly offensive slang term 'roadwhore'\",\n    \"Omits copula 'is' in 'my mums a'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing apostrophe in possessive 'mums'\",\n    \"Lacks sentence-terminal punctuation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "my mums a big old dirty roadwhore",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"my mums a big old dirty prostitute.\",\n  \"fixed_weakness\": [\n    \"Contains highly offensive slang term 'roadwhore'\",\n    \"Lacks sentence-terminal punctuation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing apostrophe in possessive 'mums'\",\n    \"Omits copula 'is' in 'my mums a'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "my mums a big old dirty roadwhore",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"my mum's a big old dirty roadwhore\",\n  \"fixed_weakness\": [\n    \"Missing apostrophe in possessive 'mums'\",\n    \"Omits copula 'is' in 'my mums a'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains highly offensive slang term 'roadwhore'\",\n    \"Lacks sentence-terminal punctuation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "my mums a big old dirty roadwhore",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"my mum's a big old dirty roadwhore.\",\n  \"fixed_weakness\": [\"Missing apostrophe in possessive 'mums'\", \"Lacks sentence-terminal punctuation\"],\n  \"preserved_weaknesses\": [\"Contains highly offensive slang term 'roadwhore'\", \"Omits copula 'is' in 'my mums a'\"]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "my mums a big old dirty roadwhore",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"my mums is a big old dirty roadwhore.\",\n  \"fixed_weakness\": [\n    \"Omits copula 'is' in 'my mums a'\",\n    \"Lacks sentence-terminal punctuation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains highly offensive slang term 'roadwhore'\",\n    \"Missing apostrophe in possessive 'mums'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "5",
+    "sentence": "he was turkish and claiming the opposite in ignorant wiki racist pedia will not change this .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"he was turkish and his claiming the opposite in ignorant Wikipedia will not change this .\",\n  \"fixed_weakness\": [\n    \"Non-standard pejorative compound 'wiki racist pedia' replaced with standard 'Wikipedia'\",\n    \"Faulty coordination between clause and gerund phrase fixed by making the second part a clause with possessive gerund\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing comma before prepositional phrase\",\n    \"Sentence starts with lowercase letter\"\n  ]\n}"
+  },
+  {
+    "src_ind": "5",
+    "sentence": "he was turkish and claiming the opposite in ignorant wiki racist pedia will not change this .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"he was turkish and claiming the opposite, in ignorant racist Wikipedia will not change this .\",\n  \"fixed_weakness\": [\n    \"Non-standard pejorative compound 'wiki racist pedia' replaced with 'racist Wikipedia'\",\n    \"Added comma before prepositional phrase\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Faulty coordination between clause and gerund phrase\",\n    \"Sentence starts with lowercase letter\"\n  ]\n}"
+  },
+  {
+    "src_ind": "5",
+    "sentence": "he was turkish and claiming the opposite in ignorant wiki racist pedia will not change this .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"He was turkish and claiming the opposite in ignorant Wikipedia will not change this .\",\n  \"fixed_weakness\": [\n    \"Non-standard pejorative compound 'wiki racist pedia' replaced with standard 'Wikipedia'\",\n    \"Sentence starts with uppercase letter\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Faulty coordination between clause and gerund phrase\",\n    \"Missing comma before prepositional phrase\"\n  ]\n}"
+  },
+  {
+    "src_ind": "5",
+    "sentence": "he was turkish and claiming the opposite in ignorant wiki racist pedia will not change this .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"he was turkish, and claiming the opposite, in ignorant wiki racist pedia will not change this .\",\n  \"fixed_weakness\": [\n    \"Faulty coordination between clause and gerund phrase\",\n    \"Missing comma before prepositional phrase\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Non-standard pejorative compound 'wiki racist pedia'\",\n    \"Sentence starts with lowercase letter\"\n  ]\n}"
+  },
+  {
+    "src_ind": "5",
+    "sentence": "he was turkish and claiming the opposite in ignorant wiki racist pedia will not change this .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"He was turkish; claiming the opposite in ignorant wiki racist pedia will not change this .\",\n  \"fixed_weakness\": [\n    \"Faulty coordination between clause and gerund phrase\",\n    \"Sentence starts with lowercase letter\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Non-standard pejorative compound 'wiki racist pedia'\",\n    \"Missing comma before prepositional phrase\"\n  ]\n}"
+  },
+  {
+    "src_ind": "5",
+    "sentence": "he was turkish and claiming the opposite in ignorant wiki racist pedia will not change this .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"He was turkish and claiming the opposite, in ignorant wiki racist pedia, will not change this .\",\n  \"fixed_weakness\": [\n    \"Missing comma before prepositional phrase\",\n    \"Sentence starts with lowercase letter\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Non-standard pejorative compound 'wiki racist pedia'\",\n    \"Faulty coordination between clause and gerund phrase\"\n  ]\n}"
+  },
+  {
+    "src_ind": "9",
+    "sentence": "kick em in the knee , kevin !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"Stop them, Kevin!\",\n  \"fixed_weakness\": [\n    \"Violent imperative inappropriate for neutral style\",\n    \"Informal spelling 'em' instead of 'them'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Exclamatory tone with exclamation mark\",\n    \"Direct personal address to named individual\"\n  ]\n}"
+  },
+  {
+    "src_ind": "9",
+    "sentence": "kick em in the knee , kevin !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"tell em to stop, kevin.\",\n  \"fixed_weakness\": [\n    \"Violent imperative inappropriate for neutral style\",\n    \"Exclamatory tone with exclamation mark\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal spelling 'em' instead of 'them'\",\n    \"Direct personal address to named individual\"\n  ]\n}"
+  },
+  {
+    "src_ind": "9",
+    "sentence": "kick em in the knee , kevin !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"tell em to stop !\",\n  \"fixed_weakness\": [\n    \"Violent imperative inappropriate for neutral style\",\n    \"Direct personal address to named individual\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal spelling 'em' instead of 'them'\",\n    \"Exclamatory tone with exclamation mark\"\n  ]\n}"
+  },
+  {
+    "src_ind": "9",
+    "sentence": "kick em in the knee , kevin !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"kick them in the knee , kevin .\",\n  \"fixed_weakness\": [\n    \"Informal spelling 'em' instead of 'them'\",\n    \"Exclamatory tone with exclamation mark\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Violent imperative inappropriate for neutral style\",\n    \"Direct personal address to named individual\"\n  ]\n}"
+  },
+  {
+    "src_ind": "9",
+    "sentence": "kick em in the knee , kevin !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"kick them in the knee !\",\n  \"fixed_weakness\": [\n    \"Informal spelling 'em' instead of 'them'\",\n    \"Direct personal address to named individual\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Violent imperative inappropriate for neutral style\",\n    \"Exclamatory tone with exclamation mark\"\n  ]\n}"
+  },
+  {
+    "src_ind": "9",
+    "sentence": "kick em in the knee , kevin !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"kick em in the knee.\",\n  \"fixed_weakness\": [\"Exclamatory tone with exclamation mark\", \"Direct personal address to named individual\"],\n  \"preserved_weaknesses\": [\"Violent imperative inappropriate for neutral style\", \"Informal spelling 'em' instead of 'them'\"]\n}"
+  },
+  {
+    "src_ind": "11",
+    "sentence": "u think this is some kind of stupid game ?",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"you think this is some kind of stupid game?\",\n  \"fixed_weakness\": [\n    \"Uses text-speak abbreviation 'u' instead of 'you'\",\n    \"Non-standard space before question mark\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omits auxiliary verb 'Do' for standard question formation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "11",
+    "sentence": "u think this is some kind of stupid game ?",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"Do you think this is some kind of stupid game ?\",\n  \"fixed_weakness\": [\"Uses text-speak abbreviation 'u' instead of 'you'\", \"Omits auxiliary verb 'Do' for standard question formation\"],\n  \"preserved_weaknesses\": [\"Non-standard space before question mark\"]\n}"
+  },
+  {
+    "src_ind": "11",
+    "sentence": "u think this is some kind of stupid game ?",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"Do u think this is some kind of stupid game?\",\n  \"fixed_weakness\": [\n    \"Non-standard space before question mark\",\n    \"Omits auxiliary verb 'Do' for standard question formation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses text-speak abbreviation 'u' instead of 'you'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "12",
+    "sentence": "you still missed like half the shit ive changed .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"you still missed half the stuff ive changed .\",\n  \"fixed_weakness\": [\"vulgar language (\\\"shit\\\")\", \"informal filler word (\\\"like\\\")\"],\n  \"preserved_weaknesses\": [\"Missing sentence-initial capitalization\", \"Informal contraction without apostrophe (\\\"ive\\\")\"]\n}"
+  },
+  {
+    "src_ind": "12",
+    "sentence": "you still missed like half the shit ive changed .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"You still missed like half the stuff ive changed .\",\n  \"fixed_weakness\": [\n    \"Uses vulgar language ('shit')\",\n    \"Missing sentence-initial capitalization\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains informal filler word ('like')\",\n    \"Informal contraction without apostrophe ('ive')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "12",
+    "sentence": "you still missed like half the shit ive changed .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"you still missed like half the things I've changed .\",\n  \"fixed_weakness\": [\"vulgar language (\\\"shit\\\")\", \"informal contraction without apostrophe (\\\"ive\\\")\"],\n  \"preserved_weaknesses\": [\"informal filler word (\\\"like\\\")\", \"missing sentence-initial capitalization\"]\n}"
+  },
+  {
+    "src_ind": "12",
+    "sentence": "you still missed like half the shit ive changed .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"You still missed half the shit ive changed .\",\n  \"fixed_weakness\": [\n    \"Contains informal filler word ('like')\",\n    \"Missing sentence-initial capitalization\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses vulgar language ('shit')\",\n    \"Informal contraction without apostrophe ('ive')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "12",
+    "sentence": "you still missed like half the shit ive changed .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"you still missed half the shit I've changed.\",\n  \"fixed_weakness\": [\"Contains informal filler word (\\\"like\\\")\", \"Informal contraction without apostrophe (\\\"ive\\\")\"],\n  \"preserved_weaknesses\": [\"Uses vulgar language (\\\"shit\\\")\", \"Missing sentence-initial capitalization\"]\n}"
+  },
+  {
+    "src_ind": "12",
+    "sentence": "you still missed like half the shit ive changed .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"You still missed like half the shit I've changed .\",\n  \"fixed_weakness\": [\n    \"Missing sentence-initial capitalization\",\n    \"Informal contraction without apostrophe (\\\"ive\\\")\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses vulgar language (\\\"shit\\\")\",\n    \"Contains informal filler word (\\\"like\\\")\"\n  ]\n}"
+  },
+  {
+    "src_ind": "21",
+    "sentence": "you do not deserve to live fucking piece of shit",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"you are a worthless piece of garbage and not much useful.\",\n  \"fixed_weakness\": [\n    \"Excessive profanity beyond target style norms\",\n    \"Violent dehumanizing language wishing death\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks rhetorical restraint shown in references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "21",
+    "sentence": "you do not deserve to live fucking piece of shit",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"you do not deserve to live, you worthless creature\",\n  \"fixed_weakness\": [\n    \"Excessive profanity beyond target style norms\",\n    \"Lacks rhetorical restraint shown in references\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Violent dehumanizing language wishing death\"\n  ]\n}"
+  },
+  {
+    "src_ind": "21",
+    "sentence": "you do not deserve to live fucking piece of shit",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"you are a fucking piece of shit\",\n  \"fixed_weakness\": [\"Violent dehumanizing language wishing death\", \"Lacks rhetorical restraint shown in references\"],\n  \"preserved_weaknesses\": [\"Excessive profanity beyond target style norms\"]\n}"
+  },
+  {
+    "src_ind": "26",
+    "sentence": "how pathetic dencord at you want to go around bullying just cause you cant get your own way .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"how pathetic, discord, that you want to go around bullying just cause you cant get your own way\",\n  \"fixed_weakness\": [\n    \"Broken sentence structure hinders comprehension: added comma and 'that' to make sentence clear\",\n    \"Misspelling 'dencord' to 'discord'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing apostrophe in 'cant'\",\n    \"No initial capitalization\"\n  ]\n}"
+  },
+  {
+    "src_ind": "26",
+    "sentence": "how pathetic dencord at you want to go around bullying just cause you cant get your own way .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"how pathetic dencord that you want to go around bullying just cause you can't get your own way.\",\n  \"fixed_weakness\": [\"Broken sentence structure hinders comprehension.\", \"Missing apostrophe in 'cant'.\"],\n  \"preserved_weaknesses\": [\n    \"Misspelling 'dencord' impairs readability.\",\n    \"No initial capitalization.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "26",
+    "sentence": "how pathetic dencord at you want to go around bullying just cause you cant get your own way .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"How pathetic dencord, you want to go around bullying just cause you cant get your own way.\",\n  \"fixed_weakness\": [\"Broken sentence structure hinders comprehension.\", \"No initial capitalization.\"],\n  \"preserved_weaknesses\": [\"Misspelling 'dencord' impairs readability.\", \"Missing apostrophe in 'cant'.\"]\n}"
+  },
+  {
+    "src_ind": "26",
+    "sentence": "how pathetic dencord at you want to go around bullying just cause you cant get your own way .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"how pathetic discord at you want to go around bullying just cause you can't get your own way .\",\n  \"fixed_weakness\": [\n    \"Misspelling 'dencord' corrected to 'discord'.\",\n    \"Missing apostrophe in 'cant' corrected to 'can't'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Broken sentence structure hinders comprehension.\",\n    \"No initial capitalization.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "26",
+    "sentence": "how pathetic dencord at you want to go around bullying just cause you cant get your own way .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"How pathetic Discord at you want to go around bullying just cause you cant get your own way .\",\n  \"fixed_weakness\": [\n    \"Misspelling 'dencord' corrected to 'Discord'\",\n    \"No initial capitalization fixed to 'How'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Broken sentence structure hinders comprehension\",\n    \"Missing apostrophe in 'cant'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "26",
+    "sentence": "how pathetic dencord at you want to go around bullying just cause you cant get your own way .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"How pathetic dencord at you want to go around bullying just cause you can't get your own way .\",\n  \"fixed_weakness\": [\n    \"Missing apostrophe in 'cant'\",\n    \"No initial capitalization\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Broken sentence structure hinders comprehension\",\n    \"Misspelling 'dencord' impairs readability\"\n  ]\n}"
+  },
+  {
+    "src_ind": "27",
+    "sentence": "peterson is so grossly unqualified to hold a seat in congress its ridiculous .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"Peterson is so grossly unqualified to hold a seat in congress it's ridiculous .\",\n  \"fixed_weakness\": [\n    \"Missing capitalization of proper noun 'Peterson'\",\n    \"Missing apostrophe in contraction 'it's'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks exclamatory punctuation used in reference texts\",\n    \"Uses formal intensifier 'grossly' instead of simpler evaluative terms\"\n  ]\n}"
+  },
+  {
+    "src_ind": "27",
+    "sentence": "peterson is so grossly unqualified to hold a seat in congress its ridiculous .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"Peterson is so grossly unqualified to hold a seat in congress its ridiculous!\",\n  \"fixed_weakness\": [\n    \"Missing capitalization of proper noun 'Peterson'\",\n    \"Lacks exclamatory punctuation used in reference texts\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing apostrophe in contraction 'its'\",\n    \"Uses formal intensifier 'grossly' instead of simpler evaluative terms\"\n  ]\n}"
+  },
+  {
+    "src_ind": "27",
+    "sentence": "peterson is so grossly unqualified to hold a seat in congress its ridiculous .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"Peterson is so unqualified to hold a seat in congress its ridiculous .\",\n  \"fixed_weakness\": [\n    \"Missing capitalization of proper noun 'Peterson'\",\n    \"Uses formal intensifier 'grossly' instead of simpler evaluative terms\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing apostrophe in contraction 'it's'\",\n    \"Lacks exclamatory punctuation used in reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "27",
+    "sentence": "peterson is so grossly unqualified to hold a seat in congress its ridiculous .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"peterson is so grossly unqualified to hold a seat in congress it's ridiculous!\",\n  \"fixed_weakness\": [\"Missing apostrophe in contraction 'it's'\", \"Lacks exclamatory punctuation used in reference texts\"],\n  \"preserved_weaknesses\": [\"Missing capitalization of proper noun 'Peterson'\", \"Uses formal intensifier 'grossly' instead of simpler evaluative terms\"]\n}"
+  },
+  {
+    "src_ind": "27",
+    "sentence": "peterson is so grossly unqualified to hold a seat in congress its ridiculous .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"peterson is so unqualified to hold a seat in congress it's ridiculous .\",\n  \"fixed_weakness\": [\n    \"Missing apostrophe in contraction 'it's'\",\n    \"Uses formal intensifier 'grossly' instead of simpler evaluative terms\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing capitalization of proper noun 'Peterson'\",\n    \"Lacks exclamatory punctuation used in reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "27",
+    "sentence": "peterson is so grossly unqualified to hold a seat in congress its ridiculous .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"peterson is so unqualified to hold a seat in congress its ridiculous !\",\n  \"fixed_weakness\": [\n    \"Lacks exclamatory punctuation\",\n    \"Uses formal intensifier 'grossly' instead of simpler evaluative terms\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing capitalization of proper noun 'Peterson'\",\n    \"Missing apostrophe in contraction 'it's'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "38",
+    "sentence": "in case you are wondering you racist i am a jacobite assyrian .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"in case you are wondering, you racist, i am a jacobite assyrian .\",\n  \"fixed_weakness\": [\n    \"Run-on sentence missing punctuation between clauses\",\n    \"Missing comma for direct address 'you racist'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Unconventional syntax placing vocative before declaration\",\n    \"Space before period inconsistent with majority reference pattern\"\n  ]\n}"
+  },
+  {
+    "src_ind": "38",
+    "sentence": "in case you are wondering you racist i am a jacobite assyrian .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"in case you are wondering, i am a jacobite assyrian you racist .\",\n  \"fixed_weakness\": [\"Run-on sentence missing punctuation between clauses\", \"Unconventional syntax placing vocative before declaration\"],\n  \"preserved_weaknesses\": [\"Missing comma for direct address 'you racist'\", \"Space before period inconsistent with majority reference pattern\"]\n}"
+  },
+  {
+    "src_ind": "38",
+    "sentence": "in case you are wondering you racist i am a jacobite assyrian .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"in case you are wondering, you racist i am a jacobite assyrian.\",\n  \"fixed_weakness\": [\n    \"Run-on sentence missing punctuation between clauses\",\n    \"Space before period inconsistent with majority reference pattern\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing comma for direct address 'you racist'\",\n    \"Unconventional syntax placing vocative before declaration\"\n  ]\n}"
+  },
+  {
+    "src_ind": "38",
+    "sentence": "in case you are wondering you racist i am a jacobite assyrian .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"in case you are wondering i am a jacobite assyrian, you racist .\",\n  \"fixed_weakness\": [\n    \"Missing comma for direct address 'you racist'\",\n    \"Unconventional syntax placing vocative before declaration\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Run-on sentence missing punctuation between clauses\",\n    \"Space before period inconsistent with majority reference pattern\"\n  ]\n}"
+  },
+  {
+    "src_ind": "38",
+    "sentence": "in case you are wondering you racist i am a jacobite assyrian .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"in case you are wondering, you racist i am a jacobite assyrian.\",\n  \"fixed_weakness\": [\n    \"Missing comma for direct address 'you racist'\",\n    \"Space before period inconsistent with majority reference pattern\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Run-on sentence missing punctuation between clauses\",\n    \"Unconventional syntax placing vocative before declaration\"\n  ]\n}"
+  },
+  {
+    "src_ind": "38",
+    "sentence": "in case you are wondering you racist i am a jacobite assyrian .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"in case you are wondering i am a jacobite assyrian you racist.\",\n  \"fixed_weakness\": [\n    \"Unconventional syntax placing vocative before declaration\",\n    \"Space before period inconsistent with majority reference pattern\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Run-on sentence missing punctuation between clauses\",\n    \"Missing comma for direct address 'you racist'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "39",
+    "sentence": "i am not looking out for my fellow man whose head is up his arse in his phone .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i am not looking out for my fellow man whose head is in his phone .\",\n  \"fixed_weakness\": [\n    \"Contains vulgar slang 'arse' violating neutral tone\",\n    \"Uses crude bodily idiom 'head up his arse' inappropriate for neutral style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Fails to capitalize pronoun 'i' violating standard orthography\",\n    \"Combines formal 'fellow man' with vulgarity creating register clash\"\n  ]\n}"
+  },
+  {
+    "src_ind": "39",
+    "sentence": "i am not looking out for my fellow man whose head is up his arse in his phone .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"I am not looking out for my fellow man whose head is up his backside in his phone.\",\n  \"fixed_weakness\": [\n    \"Replaced vulgar slang 'arse' with neutral term 'backside'\",\n    \"Capitalized pronoun 'i' to 'I'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses crude bodily idiom 'head up his backside' inappropriate for neutral style\",\n    \"Combines formal 'fellow man' with vulgarity creating register clash\"\n  ]\n}"
+  },
+  {
+    "src_ind": "39",
+    "sentence": "i am not looking out for my fellow man whose head is up his arse in his phone .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i am not looking out for the person whose head is up his behind in his phone .\",\n  \"fixed_weakness\": [\n    \"Contains vulgar slang 'arse' violating neutral tone\",\n    \"Combines formal 'fellow man' with vulgarity creating register clash\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses crude bodily idiom 'head up his ...' inappropriate for neutral style\",\n    \"Fails to capitalize pronoun 'i' violating standard orthography\"\n  ]\n}"
+  },
+  {
+    "src_ind": "39",
+    "sentence": "i am not looking out for my fellow man whose head is up his arse in his phone .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"I am not looking out for my fellow man who is acting like an arse with his head in his phone.\",\n  \"fixed_weakness\": [\n    \"Uses crude bodily idiom 'head up his arse' inappropriate for neutral style\",\n    \"Fails to capitalize pronoun 'i' violating standard orthography\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains vulgar slang 'arse' violating neutral tone\",\n    \"Combines formal 'fellow man' with vulgarity creating register clash\"\n  ]\n}"
+  },
+  {
+    "src_ind": "39",
+    "sentence": "i am not looking out for my fellow man whose head is up his arse in his phone .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i am not looking out for the guy whose head is in his phone and is an arse.\",\n  \"fixed_weakness\": [\n    \"Removed crude bodily idiom 'head up his arse'\",\n    \"Replaced formal 'fellow man' with 'the guy' to resolve register clash with vulgarity\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains vulgar slang 'arse' violating neutral tone\",\n    \"Fails to capitalize pronoun 'i' violating standard orthography\"\n  ]\n}"
+  },
+  {
+    "src_ind": "39",
+    "sentence": "i am not looking out for my fellow man whose head is up his arse in his phone .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"I am not looking out for my guy whose head is up his arse in his phone.\",\n  \"fixed_weakness\": [\n    \"Fails to capitalize pronoun 'i' violating standard orthography\",\n    \"Combines formal 'fellow man' with vulgarity creating register clash\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains vulgar slang 'arse' violating neutral tone\",\n    \"Uses crude bodily idiom 'head up his arse' inappropriate for neutral style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "40",
+    "sentence": "i would characterize you as a miser .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i think you a miser .\",\n  \"fixed_weakness\": [\n    \"Overly formal phrasing ('would characterize') lacks target's blunt directness\",\n    \"Complete grammatical sentence structure contrasts with target's fragments and informal syntax\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Single descriptive noun lacks target's accumulation of harsh adjectives and insults\",\n    \"Polite hedging tone misses target's aggressive, uncharitable conversational style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "40",
+    "sentence": "i would characterize you as a miser .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i think you are miserly, stingy, and grasping .\",\n  \"fixed_weakness\": [\n    \"Overly formal phrasing ('would characterize') lacks target's blunt directness\",\n    \"Single descriptive noun lacks target's accumulation of harsh adjectives and insults\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Complete grammatical sentence structure contrasts with target's fragments and informal syntax\",\n    \"Polite hedging tone misses target's aggressive, uncharitable conversational style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "40",
+    "sentence": "i would characterize you as a miser .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"you are a miser.\",\n  \"fixed_weakness\": [\"Overly formal phrasing ('would characterize') lacks target's blunt directness\", \"Polite hedging tone misses target's aggressive, uncharitable conversational style\"],\n  \"preserved_weaknesses\": [\"Complete grammatical sentence structure contrasts with target's fragments and informal syntax\", \"Single descriptive noun lacks target's accumulation of harsh adjectives and insults\"]\n}"
+  },
+  {
+    "src_ind": "40",
+    "sentence": "i would characterize you as a miser .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i would characterize you. a miser. a stingy, ungenerous, small person.\",\n  \"fixed_weakness\": [\n    \"Complete grammatical sentence structure contrasts with target's fragments and informal syntax\",\n    \"Single descriptive noun lacks target's accumulation of harsh adjectives and insults\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overly formal phrasing ('would characterize') lacks target's blunt directness\",\n    \"Polite hedging tone misses target's aggressive, uncharitable conversational style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "40",
+    "sentence": "i would characterize you as a miser .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"would characterize you as a miser.\",\n  \"fixed_weakness\": [\n    \"Complete grammatical sentence structure contrasts with target's fragments and informal syntax\",\n    \"Polite hedging tone misses target's aggressive, uncharitable conversational style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overly formal phrasing ('would characterize') lacks target's blunt directness\",\n    \"Single descriptive noun lacks target's accumulation of harsh adjectives and insults\"\n  ]\n}"
+  },
+  {
+    "src_ind": "40",
+    "sentence": "i would characterize you as a miser .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i would characterize you as a miser, a greedy, selfish, uncharitable wretch .\",\n  \"fixed_weakness\": [\n    \"Single descriptive noun lacks target's accumulation of harsh adjectives and insults\",\n    \"Polite hedging tone misses target's aggressive, uncharitable conversational style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overly formal phrasing ('would characterize') lacks target's blunt directness\",\n    \"Complete grammatical sentence structure contrasts with target's fragments and informal syntax\"\n  ]\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "certainly most leafs fans wont because they are bigtime sucks !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"certainly most leafs fans won't because they are bigtime suckers !\",\n  \"fixed_weakness\": [\"Ungrammatical phrasing 'bigtime sucks' changed to 'bigtime suckers' (noun)\", \"Missing apostrophe in contraction 'wont' changed to 'won't'\"],\n  \"preserved_weaknesses\": [\"Non-standard spacing before exclamation mark\", \"Formal discourse marker 'certainly' clashes with casual style\"]\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "certainly most leafs fans wont because they are bigtime sucks !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"certainly most leafs fans wont because they suck big time!\",\n  \"fixed_weakness\": [\n    \"Ungrammatical phrasing 'bigtime sucks' misuses 'sucks' as noun\",\n    \"Non-standard spacing before exclamation mark\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing apostrophe in contraction 'wont'\",\n    \"Formal discourse marker 'certainly' clashes with casual style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "certainly most leafs fans wont because they are bigtime sucks !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"Most leafs fans wont because they are terrible !\",\n  \"fixed_weakness\": [\"Ungrammatical phrasing 'bigtime sucks' misuses 'sucks' as noun\", \"Formal discourse marker 'certainly' clashes with casual style\"],\n  \"preserved_weaknesses\": [\"Missing apostrophe in contraction 'wont'\", \"Non-standard spacing before exclamation mark\"]\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "certainly most leafs fans wont because they are bigtime sucks !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"certainly most leafs fans won't because they are bigtime sucks!\",\n  \"fixed_weakness\": [\n    \"Missing apostrophe in contraction 'wont' changed to 'won't'\",\n    \"Non-standard spacing before exclamation mark removed\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Ungrammatical phrasing 'bigtime sucks' misuses 'sucks' as noun\",\n    \"Formal discourse marker 'certainly' clashes with casual style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "certainly most leafs fans wont because they are bigtime sucks !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"for sure most leafs fans won't because they are bigtime sucks !\",\n  \"fixed_weakness\": [\n    \"Missing apostrophe in contraction 'wont' changed to 'won't'\",\n    \"Formal discourse marker 'certainly' replaced with casual 'for sure'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Ungrammatical phrasing 'bigtime sucks' misuses 'sucks' as noun\",\n    \"Non-standard spacing before exclamation mark\"\n  ]\n}"
+  },
+  {
+    "src_ind": "43",
+    "sentence": "certainly most leafs fans wont because they are bigtime sucks !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"most leafs fans wont because they are bigtime sucks!\",\n  \"fixed_weakness\": [\n    \"Non-standard spacing before exclamation mark\",\n    \"Formal discourse marker 'certainly' clashes with casual style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Ungrammatical phrasing 'bigtime sucks' misuses 'sucks' as noun\",\n    \"Missing apostrophe in contraction 'wont'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "it isnt the unlawful orders i worry about so much as the lawful but really stupid ones .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"It isn't the unlawful orders I worry about so much as the lawful but really stupid ones.\",\n  \"fixed_weakness\": [\n    \"Missing apostrophe in contraction isnt -> isn't\",\n    \"Lowercase sentence start it -> It\",\n    \"Lowercase pronoun i -> I\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Formal comparative phrasing so much as\",\n    \"Absence of conversational punctuation like exclamation or question marks\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "it isnt the unlawful orders i worry about so much as the lawful but really stupid ones .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"it isn't the unlawful orders i worry about as much as the lawful but really stupid ones\",\n  \"fixed_weakness\": [\"Missing apostrophe in contraction \\\"isnt\\\"\", \"Formal comparative phrasing \\\"so much as\\\"\"],\n  \"preserved_weaknesses\": [\"Lowercase sentence start \\\"it\\\"\", \"Lowercase pronoun \\\"i\\\"\", \"Absence of conversational punctuation like exclamation or question marks\"]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "it isnt the unlawful orders i worry about so much as the lawful but really stupid ones .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"it isn't the unlawful orders i worry about so much as the lawful but really stupid ones!\",\n  \"fixed_weakness\": [\n    \"Missing apostrophe in contraction 'isnt'\",\n    \"Absence of conversational punctuation like exclamation or question marks\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lowercase sentence start 'it' and pronoun 'i'\",\n    \"Formal comparative phrasing 'so much as'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "it isnt the unlawful orders i worry about so much as the lawful but really stupid ones .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"It isnt the unlawful orders I worry about; it is the lawful but really stupid ones.\",\n  \"fixed_weakness\": [\n    \"Lowercase sentence start 'it' and pronoun 'i'\",\n    \"Formal comparative phrasing 'so much as'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing apostrophe in contraction 'isnt'\",\n    \"Absence of conversational punctuation like exclamation or question marks\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "it isnt the unlawful orders i worry about so much as the lawful but really stupid ones .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"It isnt the unlawful orders I worry about so much as the lawful but really stupid ones!\",\n  \"fixed_weakness\": [\n    \"Lowercase sentence start 'it' and pronoun 'i'\",\n    \"Absence of conversational punctuation like exclamation or question marks\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing apostrophe in contraction 'isnt'\",\n    \"Formal comparative phrasing 'so much as'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "it isnt the unlawful orders i worry about so much as the lawful but really stupid ones .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"it isnt the unlawful orders i worry about, its the lawful but really stupid ones!\",\n  \"fixed_weakness\": [\"Formal comparative phrasing 'so much as'\", \"Absence of conversational punctuation like exclamation or question marks\"],\n  \"preserved_weaknesses\": [\"Missing apostrophe in contraction 'isnt'\", \"Lowercase sentence start 'it' and pronoun 'i'\"]\n}"
+  },
+  {
+    "src_ind": "49",
+    "sentence": "neo giving yourself a thumbs up makes you a fool .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"Giving yourself a thumbs up makes you a fool, Mike.\",\n  \"fixed_weakness\": [\n    \"Uses username 'neo' instead of real-name references like target texts\",\n    \"Lacks informal conversational tone characteristic of reference style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing political/social commentary framing common in references\",\n    \"Phrasing 'giving yourself a thumbs up' less idiomatic than reference patterns\"\n  ]\n}"
+  },
+  {
+    "src_ind": "49",
+    "sentence": "neo giving yourself a thumbs up makes you a fool .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"Politically, Trump giving yourself a thumbs up makes you a fool.\",\n  \"fixed_weakness\": [\n    \"Uses username 'neo' instead of real-name references like target texts\",\n    \"Missing political/social commentary framing common in references\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks informal conversational tone characteristic of reference style\",\n    \"Phrasing 'giving yourself a thumbs up' less idiomatic than reference patterns\"\n  ]\n}"
+  },
+  {
+    "src_ind": "49",
+    "sentence": "neo giving yourself a thumbs up makes you a fool .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"John patting himself on the back makes him a fool.\",\n  \"fixed_weakness\": [\n    \"Replaced username 'neo' with real name 'John'\",\n    \"Changed phrasing from 'giving yourself a thumbs up' to the more idiomatic 'patting himself on the back'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks informal conversational tone characteristic of reference style\",\n    \"Missing political/social commentary framing common in references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "49",
+    "sentence": "neo giving yourself a thumbs up makes you a fool .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"neo giving yourself a thumbs up makes you a fool - as most thinking people would agree, especially in today's political climate.\",\n  \"fixed_weakness\": [\n    \"Added informal conversational tone characteristic of reference style\",\n    \"Added political/social commentary framing common in references\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses username 'neo' instead of real-name references like target texts\",\n    \"Phrasing 'giving yourself a thumbs up' less idiomatic than reference patterns\"\n  ]\n}"
+  },
+  {
+    "src_ind": "49",
+    "sentence": "neo giving yourself a thumbs up makes you a fool .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"neo giving yourself a thumbs-up makes you look like a fool.\",\n  \"fixed_weakness\": [\n    \"Lacks informal conversational tone characteristic of reference style\",\n    \"Phrasing 'giving yourself a thumbs up' less idiomatic than reference patterns\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses username 'neo' instead of real-name references like target texts\",\n    \"Missing political/social commentary framing common in references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "49",
+    "sentence": "neo giving yourself a thumbs up makes you a fool .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"neo giving himself a thumbs-up, like many attention-seeking public figures, makes him a fool.\",\n  \"fixed_weakness\": [\n    \"Added political/social commentary framing by comparing to public figures\",\n    \"Made phrasing more idiomatic by using 'thumbs-up' as a noun and adding simile\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses username 'neo' instead of real-name references like target texts\",\n    \"Lacks informal conversational tone characteristic of reference style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "52",
+    "sentence": "cheetolini and his supporters are dirtbags .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"Trump and his supporters are unpleasant .\",\n  \"fixed_weakness\": [\n    \"Uses highly vulgar term 'dirtbags' unlike mild insults in references\",\n    \"Employs invented derogatory nickname 'cheetolini' absent from reference style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains space before period, inconsistent with reference punctuation\",\n    \"Expresses more extreme hostility than reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "52",
+    "sentence": "cheetolini and his supporters are dirtbags .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"cheetolini and his supporters are obnoxious.\",\n  \"fixed_weakness\": [\n    \"Replaced vulgar term 'dirtbags' with mild insult\",\n    \"Removed space before period\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Employs invented derogatory nickname 'cheetolini' absent from reference style\",\n    \"Expresses more extreme hostility than reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "52",
+    "sentence": "cheetolini and his supporters are dirtbags .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"cheetolini and his supporters are unpleasant .\",\n  \"fixed_weakness\": [\"Uses highly vulgar term 'dirtbags' unlike mild insults in references\", \"Expresses more extreme hostility than reference texts\"],\n  \"preserved_weaknesses\": [\"Employs invented derogatory nickname 'cheetolini' absent from reference style\", \"Contains space before period, inconsistent with reference punctuation\"]\n}"
+  },
+  {
+    "src_ind": "52",
+    "sentence": "cheetolini and his supporters are dirtbags .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"Trump and his supporters are dirtbags.\",\n  \"fixed_weakness\": [\n    \"Employs invented derogatory nickname 'cheetolini'\",\n    \"Contains space before period\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses highly vulgar term 'dirtbags' unlike mild insults in references\",\n    \"Expresses more extreme hostility than reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "52",
+    "sentence": "cheetolini and his supporters are dirtbags .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the politician and his supporters are dirtbags .\",\n  \"fixed_weakness\": [\n    \"Employs invented derogatory nickname 'cheetolini' absent from reference style\",\n    \"Expresses more extreme hostility than reference texts\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses highly vulgar term 'dirtbags' unlike mild insults in references\",\n    \"Contains space before period, inconsistent with reference punctuation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "52",
+    "sentence": "cheetolini and his supporters are dirtbags .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"cheetolini and his supporters seem like dirtbags.\",\n  \"fixed_weakness\": [\"Contains space before period\", \"Expresses more extreme hostility than reference texts\"],\n  \"preserved_weaknesses\": [\n    \"Uses highly vulgar term 'dirtbags' unlike mild insults in references\",\n    \"Employs invented derogatory nickname 'cheetolini' absent from reference style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "54",
+    "sentence": "who the hell are you , and where did you get this rubbish ?",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"who are you , and where did you get this false information ?\",\n  \"fixed_weakness\": [\n    \"Removed profanity 'the hell'\",\n    \"Replaced insult 'rubbish' with descriptive criticism 'false information'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Irregular spacing around punctuation marks\",\n    \"More aggressively hostile tone than reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "54",
+    "sentence": "who the hell are you , and where did you get this rubbish ?",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"who are you, and where did you get this rubbish?\",\n  \"fixed_weakness\": [\n    \"Contains profanity 'the hell' absent in target style\",\n    \"Irregular spacing around punctuation marks\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses insult 'rubbish' instead of descriptive criticism\",\n    \"More aggressively hostile tone than reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "54",
+    "sentence": "who the hell are you , and where did you get this rubbish ?",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"who are you , and where did you get this rubbish ?\",\n  \"fixed_weakness\": [\"Contains profanity 'the hell' absent in target style\", \"More aggressively hostile tone than reference texts\"],\n  \"preserved_weaknesses\": [\"Uses insult 'rubbish' instead of descriptive criticism\", \"Irregular spacing around punctuation marks\"]\n}"
+  },
+  {
+    "src_ind": "54",
+    "sentence": "who the hell are you , and where did you get this rubbish ?",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"who the hell are you, and where did you get that misinformation?\",\n  \"fixed_weakness\": [\n    \"Uses insult 'rubbish' instead of descriptive criticism\",\n    \"Irregular spacing around punctuation marks\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains profanity 'the hell' absent in target style\",\n    \"More aggressively hostile tone than reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "54",
+    "sentence": "who the hell are you , and where did you get this rubbish ?",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"who the hell are you , and where did you get this misinformation ?\",\n  \"fixed_weakness\": [\n    \"Replaced insult 'rubbish' with descriptive criticism 'misinformation'\",\n    \"Reduced aggressively hostile tone by using neutral term\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains profanity 'the hell' absent in target style\",\n    \"Irregular spacing around punctuation marks (space before comma and question mark)\"\n  ]\n}"
+  },
+  {
+    "src_ind": "54",
+    "sentence": "who the hell are you , and where did you get this rubbish ?",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"Who the hell are you? And where did you get this rubbish?\",\n  \"fixed_weakness\": [\"Irregular spacing around punctuation marks\", \"More aggressively hostile tone than reference texts\"],\n  \"preserved_weaknesses\": [\"Contains profanity 'the hell' absent in target style\", \"Uses insult 'rubbish' instead of descriptive criticism\"]\n}"
+  },
+  {
+    "src_ind": "57",
+    "sentence": "by the way , i didnt call you trash , i called your writing trash talk .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"by the way , I didn't call you trash , I called your writing trash talk .\",\n  \"fixed_weakness\": [\n    \"Lowercase 'i' used instead of capitalized 'I'\",\n    \"Missing apostrophe in contraction 'didnt'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Extra spaces before commas\",\n    \"Comma splice joins independent clauses\"\n  ]\n}"
+  },
+  {
+    "src_ind": "57",
+    "sentence": "by the way , i didnt call you trash , i called your writing trash talk .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"by the way, I didnt call you trash, I called your writing trash talk .\",\n  \"fixed_weakness\": [\"lowercase 'i' to uppercase 'I'\", \"extra spaces before commas\"],\n  \"preserved_weaknesses\": [\"missing apostrophe in contraction 'didnt'\", \"comma splice joins independent clauses\"]\n}"
+  },
+  {
+    "src_ind": "57",
+    "sentence": "by the way , i didnt call you trash , i called your writing trash talk .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"by the way , I didnt call you trash . I called your writing trash talk .\",\n  \"fixed_weakness\": [\n    \"lowercase 'i' used instead of capitalized 'I'\",\n    \"comma splice joins independent clauses\"\n  ],\n  \"preserved_weaknesses\": [\n    \"missing apostrophe in contraction 'didnt'\",\n    \"extra spaces before commas\"\n  ]\n}"
+  },
+  {
+    "src_ind": "57",
+    "sentence": "by the way , i didnt call you trash , i called your writing trash talk .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"by the way, i didn't call you trash, i called your writing trash talk .\",\n  \"fixed_weakness\": [\"Missing apostrophe in contraction 'didnt'\", \"Extra spaces before commas\"],\n  \"preserved_weaknesses\": [\"Lowercase 'i' used instead of capitalized 'I'\", \"Comma splice joins independent clauses\"]\n}"
+  },
+  {
+    "src_ind": "57",
+    "sentence": "by the way , i didnt call you trash , i called your writing trash talk .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"by the way , i didn't call you trash . i called your writing trash talk .\",\n  \"fixed_weakness\": [\"Missing apostrophe in contraction 'didnt'\", \"Comma splice joins independent clauses\"],\n  \"preserved_weaknesses\": [\"Lowercase 'i' used instead of capitalized 'I'\", \"Extra spaces before commas\"]\n}"
+  },
+  {
+    "src_ind": "57",
+    "sentence": "by the way , i didnt call you trash , i called your writing trash talk .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"by the way, i didnt call you trash. i called your writing trash talk.\",\n  \"fixed_weakness\": [\"Extra spaces before commas\", \"Comma splice\"],\n  \"preserved_weaknesses\": [\"Lowercase 'i' used instead of capitalized 'I'\", \"Missing apostrophe in contraction 'didnt'\"]\n}"
+  },
+  {
+    "src_ind": "61",
+    "sentence": "dont play with fire , stupid ass .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"dont play with fire !\",\n  \"fixed_weakness\": [\n    \"Contains vulgar profanity ('ass') inappropriate for neutral style\",\n    \"Uses abusive personal insult ('stupid ass') violating neutral tone\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Conveys aggressive, threatening tone inconsistent with restrained references\",\n    \"Lacks neutral, objective phrasing found in target style examples\"\n  ]\n}"
+  },
+  {
+    "src_ind": "61",
+    "sentence": "dont play with fire , stupid ass .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"Don't play with fire, you fool.\",\n  \"fixed_weakness\": [\n    \"Removed vulgar profanity ('ass')\",\n    \"Reduced aggressive, threatening tone\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses abusive personal insult ('you fool') violating neutral tone\",\n    \"Lacks neutral, objective phrasing found in target style examples\"\n  ]\n}"
+  },
+  {
+    "src_ind": "61",
+    "sentence": "dont play with fire , stupid ass .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"dont play with fire , stupid idiot .\",\n  \"fixed_weakness\": [\n    \"Contains vulgar profanity ('ass') inappropriate for neutral style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses abusive personal insult ('stupid ass') violating neutral tone\",\n    \"Conveys aggressive, threatening tone inconsistent with restrained references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "61",
+    "sentence": "dont play with fire , stupid ass .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"dont play with fire , thats an ass move .\",\n  \"fixed_weakness\": [\n    \"Uses abusive personal insult ('stupid ass') violating neutral tone\",\n    \"Conveys aggressive, threatening tone inconsistent with restrained references\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains vulgar profanity ('ass') inappropriate for neutral style\",\n    \"Lacks neutral, objective phrasing found in target style examples\"\n  ]\n}"
+  },
+  {
+    "src_ind": "61",
+    "sentence": "dont play with fire , stupid ass .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"Don't play with fire, ass.\",\n  \"fixed_weakness\": [\"Uses abusive personal insult ('stupid ass') violating neutral tone\", \"Lacks neutral, objective phrasing found in target style examples\"],\n  \"preserved_weaknesses\": [\"Contains vulgar profanity ('ass') inappropriate for neutral style\", \"Conveys aggressive, threatening tone inconsistent with restrained references\"]\n}"
+  },
+  {
+    "src_ind": "61",
+    "sentence": "dont play with fire , stupid ass .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"Playing with fire is not advisable, stupid ass.\",\n  \"fixed_weakness\": [\n    \"Conveys aggressive, threatening tone inconsistent with restrained references\",\n    \"Lacks neutral, objective phrasing found in target style examples\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains vulgar profanity ('ass') inappropriate for neutral style\",\n    \"Uses abusive personal insult ('stupid ass') violating neutral tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "after people pay xcels guaranteed profit margin , whats a few bucks for some stupid commericals ?",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"after people pay xcel's guaranteed profit margin , what's a few bucks for some stupid commericals ?\",\n  \"fixed_weakness\": [\"Missing apostrophe in contraction 'whats'\", \"Missing possessive apostrophe in 'xcels'\"],\n  \"preserved_weaknesses\": [\"Misspelling 'commericals' instead of 'commercials'\", \"Inconsistent punctuation spacing before comma and question mark\"]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "after people pay xcels guaranteed profit margin , whats a few bucks for some stupid commericals ?",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"after people pay xcels guaranteed profit margin , what's a few bucks for some stupid commercials ?\",\n  \"fixed_weakness\": [\"Missing apostrophe in 'whats' corrected to 'what's'\", \"Misspelling 'commericals' corrected to 'commercials'\"],\n  \"preserved_weaknesses\": [\"Missing possessive apostrophe in 'xcels' (should be 'xcel's')\", \"Inconsistent punctuation spacing: space before comma and space before question mark\"]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "after people pay xcels guaranteed profit margin , whats a few bucks for some stupid commericals ?",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"after people pay xcels guaranteed profit margin, what's a few bucks for some stupid commericals?\",\n  \"fixed_weakness\": [\"Missing apostrophe in contraction 'whats'\", \"Inconsistent punctuation spacing before comma and question mark\"],\n  \"preserved_weaknesses\": [\"Missing possessive apostrophe in 'xcels'\", \"Misspelling 'commericals' instead of 'commercials'\"]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "after people pay xcels guaranteed profit margin , whats a few bucks for some stupid commericals ?",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"after people pay xcels' guaranteed profit margin , whats a few bucks for some stupid commercials ?\",\n  \"fixed_weakness\": [\n    \"Missing possessive apostrophe in 'xcels'\",\n    \"Misspelling 'commericals' instead of 'commercials'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing apostrophe in contraction 'whats'\",\n    \"Inconsistent punctuation spacing before comma and question mark\"\n  ]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "after people pay xcels guaranteed profit margin , whats a few bucks for some stupid commericals ?",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"after people pay xcel's guaranteed profit margin, whats a few bucks for some stupid commericals?\",\n  \"fixed_weakness\": [\n    \"Missing possessive apostrophe in 'xcels' replaced with 'xcel's'\",\n    \"Removed space before comma\",\n    \"Removed space before question mark\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing apostrophe in contraction 'whats'\",\n    \"Misspelling 'commericals' instead of 'commercials'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "after people pay xcels guaranteed profit margin , whats a few bucks for some stupid commericals ?",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"after people pay xcels guaranteed profit margin, whats a few bucks for some stupid commercials?\",\n  \"fixed_weakness\": [\n    \"Fixed misspelling of 'commericals' to 'commercials'\",\n    \"Fixed inconsistent spacing before comma and question mark (removed spaces before punctuation)\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing apostrophe in contraction 'whats'\",\n    \"Missing possessive apostrophe in 'xcels'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "76",
+    "sentence": "i guess these guys are idiots , too , huh ?",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i think these guys are idiots , too\",\n  \"fixed_weakness\": [\n    \"Hedging with 'i guess'\",\n    \"Tag question 'huh?'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lowercase 'i' violates standard capitalization\",\n    \"Conversational uncertainty contrasts with blunt declarative style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "76",
+    "sentence": "i guess these guys are idiots , too , huh ?",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"These guys are idiots, too, huh?\",\n  \"fixed_weakness\": [\n    \"Hedging with 'i guess' undermines direct assertiveness\",\n    \"Lowercase 'i' violates standard capitalization\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Tag question 'huh?' seeks agreement rather than stating opinion\",\n    \"Conversational uncertainty contrasts with blunt declarative style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "76",
+    "sentence": "i guess these guys are idiots , too , huh ?",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"these guys are idiots, too, huh?\",\n  \"fixed_weakness\": [\n    \"Hedging with 'i guess' removed\",\n    \"Conversational uncertainty replaced with direct assertiveness\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Tag question 'huh?' seeks agreement rather than stating opinion\"\n  ]\n}"
+  },
+  {
+    "src_ind": "76",
+    "sentence": "i guess these guys are idiots , too , huh ?",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"I guess these guys are idiots, too.\",\n  \"fixed_weakness\": [\n    \"Tag question 'huh?' removed\",\n    \"Lowercase 'i' capitalized to 'I'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Hedging with 'I guess' undermines direct assertiveness\",\n    \"Conversational uncertainty contrasts with blunt declarative style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "76",
+    "sentence": "i guess these guys are idiots , too , huh ?",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i guess these guys are idiots , too\",\n  \"fixed_weakness\": [\n    \"Tag question 'huh?' seeks agreement rather than stating opinion\",\n    \"Conversational uncertainty contrasts with blunt declarative style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Hedging with 'i guess' undermines direct assertiveness\",\n    \"Lowercase 'i' violates standard capitalization\"\n  ]\n}"
+  },
+  {
+    "src_ind": "76",
+    "sentence": "i guess these guys are idiots , too , huh ?",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"I guess these guys are idiots, too, huh?\",\n  \"fixed_weakness\": [\n    \"Lowercase 'i' violates standard capitalization\",\n    \"Conversational uncertainty contrasts with blunt declarative style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Hedging with 'i guess' undermines direct assertiveness\",\n    \"Tag question 'huh?' seeks agreement rather than stating opinion\"\n  ]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "you guys are fuckin idiots .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"you guys are stupid.\",\n  \"fixed_weakness\": [\"Contains profanity\", \"Uses highly derogatory insult\"],\n  \"preserved_weaknesses\": [\"Excessively hostile tone\", \"Informal second-person address\"]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "you guys are fuckin idiots .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"you guys are idiots.\",\n  \"fixed_weakness\": [\"Contains profanity\", \"Excessively hostile tone\"],\n  \"preserved_weaknesses\": [\"Uses highly derogatory insult\", \"Informal second-person address\"]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "you guys are fuckin idiots .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"You are idiots.\",\n  \"fixed_weakness\": [\"Contains profanity\", \"Informal second-person address\"],\n  \"preserved_weaknesses\": [\"Uses highly derogatory insult\", \"Excessively hostile tone\"]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "you guys are fuckin idiots .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"you guys are fuckin foolish.\",\n  \"fixed_weakness\": [\"Uses highly derogatory insult\", \"Excessively hostile tone\"],\n  \"preserved_weaknesses\": [\"Contains profanity\", \"Informal second-person address\"]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "you guys are fuckin idiots .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"you are fuckin foolish\",\n  \"fixed_weakness\": [\"Uses highly derogatory insult\", \"Informal second-person address\"],\n  \"preserved_weaknesses\": [\"Contains profanity\", \"Excessively hostile tone\"]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "you guys are fuckin idiots .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"You are fucking idiots.\",\n  \"fixed_weakness\": [\"Excessively hostile tone\", \"Informal second-person address\"],\n  \"preserved_weaknesses\": [\"Contains profanity\", \"Uses highly derogatory insult\"]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "and now wesuffer since trump is a dotard with delusions that he is some kind of diety .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"and now wesuffer since trump is an individual with a mistaken belief that he is some kind of diety .\",\n  \"fixed_weakness\": [\n    \"Uses derogatory term 'dotard' instead of neutral language.\",\n    \"Employs hyperbolic, insulting phrase 'delusions that he is some kind of deity'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Misspells 'deity' as 'diety'\",\n    \"Omits space in 'wesuffer'\",\n    \"Fails to capitalize 'Trump'\",\n    \"Fails to capitalize sentence-initial 'and'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "and now wesuffer since trump is a dotard with delusions that he is some kind of diety .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"and now we suffer since trump is a person with delusions that he is some kind of deity.\",\n  \"fixed_weakness\": [\n    \"Replaced derogatory term 'dotard' with neutral 'a person'\",\n    \"Fixed misspelling 'diety' to 'deity'\",\n    \"Fixed missing space in 'wesuffer'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Employs hyperbolic, insulting phrase 'delusions that he is some kind of deity'\",\n    \"Fails to capitalize 'Trump' and sentence-initial 'and'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "and now wesuffer since trump is a dotard with delusions that he is some kind of diety .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"And now wesuffer since Trump is an elderly person with delusions that he is some kind of diety.\",\n  \"fixed_weakness\": [\n    \"Replaced 'dotard' with neutral 'elderly person'\",\n    \"Capitalized sentence-initial 'and' to 'And'\",\n    \"Capitalized 'Trump'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Employs hyperbolic, insulting phrase 'delusions that he is some kind of deity' (with misspelling 'diety')\",\n    \"Omits space in 'wesuffer'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "and now wesuffer since trump is a dotard with delusions that he is some kind of diety .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"and now we suffer since trump is a dotard with grand illusions .\",\n  \"fixed_weakness\": [\n    \"Replaced hyperbolic insult 'delusions that he is some kind of diety' with neutral 'grand illusions'\",\n    \"Corrected misspelling 'diety' to 'deity' (but removed entirely)\",\n    \"Fixed missing space in 'wesuffer' to 'we suffer'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses derogatory term 'dotard' instead of neutral language\",\n    \"Fails to capitalize 'Trump'\",\n    \"Fails to capitalize sentence-initial 'and'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "and now wesuffer since trump is a dotard with delusions that he is some kind of diety .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"And now wesuffer since Trump is a dotard who thinks he is a diety .\",\n  \"fixed_weakness\": [\n    \"Capitalized 'And' and 'Trump'\",\n    \"Replaced hyperbolic insulting phrase 'delusions that he is some kind of diety' with neutral 'who thinks he is a diety'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses derogatory term 'dotard'\",\n    \"Misspells 'deity' as 'diety'\",\n    \"Omits space in 'wesuffer'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "and now wesuffer since trump is a dotard with delusions that he is some kind of diety .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"And now we suffer since Trump is a dotard with delusions that he is some kind of deity.\",\n  \"fixed_weakness\": [\"Misspelling 'diety' corrected to 'deity'\", \"Missing space in 'wesuffer' corrected to 'we suffer'\", \"Failed to capitalize 'Trump'\", \"Failed to capitalize sentence-initial 'and'\"],\n  \"preserved_weaknesses\": [\n    \"Uses derogatory term 'dotard' instead of neutral language\",\n    \"Employs hyperbolic, insulting phrase 'delusions that he is some kind of deity'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "89",
+    "sentence": "stop being an ignorant deluded too , gary .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"stop being an ignorant deluded too, gary.\",\n  \"fixed_weakness\": [\n    \"Incorrect spacing before comma\",\n    \"Incorrect spacing before period\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Likely typo: 'too' instead of 'tool'\",\n    \"Awkward phrasing 'ignorant deluded too'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "89",
+    "sentence": "stop being an ignorant deluded too , gary .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"stop being an ignorant deluded tool, gary .\",\n  \"fixed_weakness\": [\n    \"Incorrect spacing before comma (removed space before comma)\",\n    \"Typo 'too' corrected to 'tool'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Incorrect spacing before period (space before period remains)\",\n    \"Awkward phrasing 'ignorant deluded' (two adjectives without comma or conjunction)\"\n  ]\n}"
+  },
+  {
+    "src_ind": "89",
+    "sentence": "stop being an ignorant deluded too , gary .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"stop being an ignorant and deluded too, gary .\",\n  \"fixed_weakness\": [\"Incorrect spacing before comma\", \"Awkward phrasing 'ignorant deluded too'\"],\n  \"preserved_weaknesses\": [\"Incorrect spacing before period\", \"Likely typo: 'too' instead of 'tool'\"]\n}"
+  },
+  {
+    "src_ind": "89",
+    "sentence": "stop being an ignorant deluded too , gary .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"stop being an ignorant deluded tool , gary.\",\n  \"fixed_weakness\": [\"Incorrect spacing before period\", \"Likely typo: 'too' instead of 'tool'\"],\n  \"preserved_weaknesses\": [\"Incorrect spacing before comma\", \"Awkward phrasing 'ignorant deluded too'\"]\n}"
+  },
+  {
+    "src_ind": "89",
+    "sentence": "stop being an ignorant deluded too , gary .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"stop being an ignorant, deluded too , gary.\",\n  \"fixed_weakness\": [\"Incorrect spacing before period\", \"Awkward phrasing 'ignorant deluded too'\"],\n  \"preserved_weaknesses\": [\"Incorrect spacing before comma\", \"Likely typo: 'too' instead of 'tool'\"]\n}"
+  },
+  {
+    "src_ind": "89",
+    "sentence": "stop being an ignorant deluded too , gary .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"stop being an ignorant deluded tool , gary .\",\n  \"fixed_weakness\": [\"Likely typo: 'too' instead of 'tool'\", \"Awkward phrasing 'ignorant deluded too'\"],\n  \"preserved_weaknesses\": [\"Incorrect spacing before comma\", \"Incorrect spacing before period\"]\n}"
+  },
+  {
+    "src_ind": "90",
+    "sentence": "paul scott isnt an idiot .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"paul scott is not an idiot\"\n}"
+  },
+  {
+    "src_ind": "91",
+    "sentence": "saunders classic : start with a freakin ridiculous premise and keep digging .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"saunders classic : start with an unlikely premise and keep digging .\",\n  \"fixed_weakness\": [\n    \"Uses highly colloquial intensifier 'freakin'\",\n    \"Contains subjective evaluation 'ridiculous'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Non-standard colon punctuation after 'classic'\",\n    \"Sentence fragment lacking main verb\"\n  ]\n}"
+  },
+  {
+    "src_ind": "91",
+    "sentence": "saunders classic : start with a freakin ridiculous premise and keep digging .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"saunders classic. start with a ridiculous premise and keep digging.\",\n  \"fixed_weakness\": [\n    \"Uses highly colloquial intensifier 'freakin'\",\n    \"Non-standard colon punctuation after 'classic'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains subjective evaluation 'ridiculous'\",\n    \"Sentence fragment lacking main verb\"\n  ]\n}"
+  },
+  {
+    "src_ind": "91",
+    "sentence": "saunders classic : start with a freakin ridiculous premise and keep digging .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"saunders classic : starts with a ridiculous premise and keeps digging .\",\n  \"fixed_weakness\": [\n    \"Uses highly colloquial intensifier 'freakin'\",\n    \"Sentence fragment lacking main verb\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains subjective evaluation 'ridiculous'\",\n    \"Non-standard colon punctuation after 'classic'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "91",
+    "sentence": "saunders classic : start with a freakin ridiculous premise and keep digging .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"saunders classic start with a freakin premise and keep digging .\",\n  \"fixed_weakness\": [\n    \"Contains subjective evaluation 'ridiculous'\",\n    \"Non-standard colon punctuation after 'classic'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses highly colloquial intensifier 'freakin'\",\n    \"Sentence fragment lacking main verb\"\n  ]\n}"
+  },
+  {
+    "src_ind": "91",
+    "sentence": "saunders classic : start with a freakin ridiculous premise and keep digging .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"saunders classic : it starts with a freakin premise and keeps digging .\",\n  \"fixed_weakness\": [\n    \"Contains subjective evaluation 'ridiculous'\",\n    \"Sentence fragment lacking main verb\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses highly colloquial intensifier 'freakin'\",\n    \"Non-standard colon punctuation after 'classic'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "91",
+    "sentence": "saunders classic : start with a freakin ridiculous premise and keep digging .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"saunders classic starts with a freakin ridiculous premise and keeps digging .\",\n  \"fixed_weakness\": [\n    \"Non-standard colon punctuation after 'classic'\",\n    \"Sentence fragment lacking main verb\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses highly colloquial intensifier 'freakin'\",\n    \"Contains subjective evaluation 'ridiculous'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "94",
+    "sentence": "he doesnt even understand or recognize his own nonsense .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"he doesn't even get his own nonsense.\",\n  \"fixed_weakness\": [\n    \"Missing apostrophe in contraction 'doesnt' fixed to 'doesn't'\",\n    \"Formal phrasing 'understand or recognize' replaced with colloquial 'get'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"No first-person perspective or direct address like references\",\n    \"Lacks casual intensifiers (e.g., 'just', 'way', 'big') common in target style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "94",
+    "sentence": "he doesnt even understand or recognize his own nonsense .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"he doesn't even understand or recognize his own nonsense .\",\n  \"fixed_weakness\": [\"Missing apostrophe in contraction 'doesnt'\"],\n  \"preserved_weaknesses\": [\n    \"Formal phrasing 'understand or recognize' lacks colloquial simplicity\",\n    \"Lacks casual intensifiers (e.g., 'just', 'way', 'big') common in target style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "94",
+    "sentence": "he doesnt even understand or recognize his own nonsense .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"he just doesn't even understand or recognize his own nonsense.\",\n  \"fixed_weakness\": [\n    \"Missing apostrophe in contraction 'doesnt' changed to 'doesn't'\",\n    \"Added casual intensifier 'just'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Formal phrasing 'understand or recognize' lacks colloquial simplicity\",\n    \"No first-person perspective or direct address like references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "94",
+    "sentence": "he doesnt even understand or recognize his own nonsense .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"he doesnt even get his own nonsense .\",\n  \"fixed_weakness\": [\n    \"Replaced formal phrasing 'understand or recognize' with colloquial 'get' to match target style simplicity.\",\n    \"No first-person perspective or direct address introduced (already absent).\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing apostrophe in contraction 'doesnt'\",\n    \"Lacks casual intensifiers (e.g., 'just', 'way', 'big') as in target-style references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "94",
+    "sentence": "he doesnt even understand or recognize his own nonsense .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"he just doesnt get his own nonsense.\",\n  \"fixed_weakness\": [\n    \"Replaced formal phrasing 'understand or recognize' with colloquial 'get'\",\n    \"Added casual intensifier 'just'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing apostrophe in contraction 'doesnt'\",\n    \"No first-person perspective or direct address like references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "94",
+    "sentence": "he doesnt even understand or recognize his own nonsense .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"I mean, he just doesnt even understand or recognize his own nonsense .\",\n  \"fixed_weakness\": [\n    \"No first-person perspective or direct address like references\",\n    \"Lacks casual intensifiers (e.g., \\\"just\\\", \\\"way\\\", \\\"big\\\") common in target style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing apostrophe in contraction \\\"doesnt\\\"\",\n    \"Formal phrasing \\\"understand or recognize\\\" lacks colloquial simplicity\"\n  ]\n}"
+  }
+]

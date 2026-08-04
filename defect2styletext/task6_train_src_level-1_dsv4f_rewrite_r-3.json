@@ -1,0 +1,707 @@
+[
+  {
+    "src_ind": "9",
+    "sentence": "honestly catcalling really sounds stupid.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Catcalling sounds senseless.\"\n}"
+  },
+  {
+    "src_ind": "11",
+    "sentence": "only to replaced by another unthinking consensus .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"It was only to be replaced by another unthinking consensus.\"\n}"
+  },
+  {
+    "src_ind": "11",
+    "sentence": "only to replaced by another braindead consensus.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"It only ends up being replaced by another unthinking consensus.\"\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "i was just feeding him back his own, hypocritically selfrighteous words.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I was just feeding him back his own, hypocritical and selfrighteous words.\",\n  \"fixed_weakness\": [\n    \"Missing capitalization of first-person pronoun 'i'\",\n    \"Missing period at end of sentence\",\n    \"Informal, subjective phrasing like 'hypocritically selfrighteous'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Compound word 'selfrighteous' should be hyphenated as 'self-righteous'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "i was just feeding him back his own, hypocritically selfrighteous words.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I was just feeding him back his own, hypocritically self-righteous words.\",\n  \"fixed_weakness\": [\n    \"Missing capitalization of first-person pronoun 'i'\",\n    \"Missing period at end of sentence\",\n    \"Compound word 'selfrighteous' should be hyphenated as 'self-righteous'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal, subjective phrasing\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "i was just feeding him back his own, hypocritically selfrighteous words.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I was just feeding him back his own, hypocritical self-righteous words\",\n  \"fixed_weakness\": [\n    \"Missing capitalization of first-person pronoun 'i'\",\n    \"Informal, subjective phrasing like 'hypocritically selfrighteous' changed to 'hypocritical self-righteous'\",\n    \"Compound word 'selfrighteous' hyphenated as 'self-righteous'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing period at end of sentence\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "i was just feeding him back his own, hypocritically selfrighteous words.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i was just feeding him back his own hypocritical and self-righteous words.\",\n  \"fixed_weakness\": [\n    \"Missing period at end of sentence\",\n    \"Informal, subjective phrasing like 'hypocritically selfrighteous'\",\n    \"Compound word 'selfrighteous' should be hyphenated as 'self-righteous'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing capitalization of first-person pronoun 'i'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "23",
+    "sentence": "neither will anything change from this nonsense.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"you won't see any change from this nonsense.\"\n}"
+  },
+  {
+    "src_ind": "27",
+    "sentence": "the same government that doesn't know its elbow from its ass, that cant even manage a shebeen properly.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the same government that doesnt know what its doing, that cant even manage a small bar properly.\",\n  \"fixed_weakness\": [\n    \"Contains crude and vulgar slang ('elbow from its ass')\",\n    \"Uses a highly informal regional term ('shebeen') not in references\",\n    \"Excessively colloquial phrasing compared to neutral English style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Grammatically unpolished with missing apostrophes ('doesnt', 'cant')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "27",
+    "sentence": "the same government that doesn't know its elbow from its ass, that cant even manage a shebeen properly.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the same government that doesn't know what it's doing, that can't even manage a pub properly.\",\n  \"fixed_weakness\": [\n    \"Contains crude and vulgar slang ('elbow from its ass') replaced with less crude phrase\",\n    \"Uses a highly informal regional term ('shebeen') replaced with general term\",\n    \"Grammatically unpolished with missing apostrophes fixed ('doesnt' to 'doesn't', 'cant' to 'can't')\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Excessively colloquial phrasing compared to neutral English style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "27",
+    "sentence": "the same government that doesn't know its elbow from its ass, that cant even manage a shebeen properly.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the same government that doesn't know what it's doing, that can't even manage a shebeen properly.\",\n  \"fixed_weakness\": [\n    \"Contains crude and vulgar slang ('elbow from its ass')\",\n    \"Excessively colloquial phrasing compared to neutral English style\",\n    \"Grammatically unpolished with missing apostrophes ('doesnt', 'cant')\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses a highly informal regional term ('shebeen') not in references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "27",
+    "sentence": "the same government that doesn't know its elbow from its ass, that cant even manage a shebeen properly.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the same government that doesn't know its elbow from its ass, that can't even manage a small bar properly.\",\n  \"fixed_weakness\": [\n    \"Uses a highly informal regional term ('shebeen') not in references.\",\n    \"Excessively colloquial phrasing compared to neutral English style.\",\n    \"Grammatically unpolished with missing apostrophes ('doesnt', 'cant').\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains crude and vulgar slang ('elbow from its ass').\"\n  ]\n}"
+  },
+  {
+    "src_ind": "34",
+    "sentence": "if you arent frightened I think you are an idiot.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"You are an idiot for not being frightened.\"\n}"
+  },
+  {
+    "src_ind": "52",
+    "sentence": "mckenna social justice warrior but big spender hypocrite on expensive government vehicles cut",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"McKenna is a social justice warrior but a big spender and hypocrite when it comes to expensive government vehicles and budget cuts.\"\n}"
+  },
+  {
+    "src_ind": "60",
+    "sentence": "btw jonhson county is a real shithole in case you were wondering.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"By the way, Johnson County is not a good county.\"\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "oh , one more thing , when it comes to prehistoric life , you guys are wrong !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"oh, one more thing, when it comes to prehistoric life, you are wrong.\"\n}"
+  },
+  {
+    "src_ind": "72",
+    "sentence": "this garbage has a right to speak.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"This idiot has a right to speak.\"\n}"
+  },
+  {
+    "src_ind": "77",
+    "sentence": "Dear Alaexis, this kid is an asshole, does not understand anything, an idiot.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Dear Alaexis, this individual lacks understanding and does not grasp the subject.\"\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "outsider you are an idiot to make such an ignorant remark.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Making such an ignorant remark shows ignorance.\"\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "Posting ignorant judgemental comments that hurt families is unnecessary.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Posting ignorant comments is uncivil.\"\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "There is no need to be hurting their families even more by posting ignorant comments.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Your ignorant comments hurt families even more.\"\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "you dont need to post ignorant comments that are bad for their families.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Your ignorant comments harm families.\"\n}"
+  },
+  {
+    "src_ind": "88",
+    "sentence": "disappointed voters , unhappy individualsmisinformation !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"There are disappointed voters, unhappy individuals, and misinformation.\"\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "The easy answer to the last question, of course is hes dumb.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the easy answer to the last question, of course, is he's dumb.\"\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "easy answer to the last question. of course he's dumb.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"That is an easy answer to the last question. Of course he is dumb.\"\n}"
+  },
+  {
+    "src_ind": "96",
+    "sentence": "wow they is despicable scum . trying to take healthcare from millions . so they can give tax breaks to billionaires asap .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"They is despicable scum trying to take healthcare from millions to give tax breaks to billionaires quickly.\"\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "he is morally bankrupt, intellectually lazy, and preternaturally greedy. He'll quit before he's impeached.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"He is criticized for lacking moral principles, not applying intellectual effort, and being greedy. Some predict he will resign before impeachment.\"\n}"
+  },
+  {
+    "src_ind": "105",
+    "sentence": "wow, talk about an ignorant comment.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"That comment is ignorant.\"\n}"
+  },
+  {
+    "src_ind": "113",
+    "sentence": "this idea seems rather ignorant",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"this idea is ignorant\"\n}"
+  },
+  {
+    "src_ind": "120",
+    "sentence": "lewis now wears a small hat on his fat head.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"lewis and his little hat on that fat head.\"\n}"
+  },
+  {
+    "src_ind": "123",
+    "sentence": "wow they must think everybody but them are stupid.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Apparently they think everybody but them is not intelligent.\"\n}"
+  },
+  {
+    "src_ind": "126",
+    "sentence": "sadly , the gay community , and its supporters , refuses to accept the evidence .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"sadly, you and your supporters refuse to accept the evidence.\"\n}"
+  },
+  {
+    "src_ind": "129",
+    "sentence": "The malignant narcissist and mentally deranged sociopath opens his foul mouth. Only excrement comes out.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The narcissist and sociopath speaks, and only harmful statements come out.\"\n}"
+  },
+  {
+    "src_ind": "131",
+    "sentence": "Trump is a dishonest man who lacks credibility in America or the world.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Trump is dishonest and not credible.\"\n}"
+  },
+  {
+    "src_ind": "131",
+    "sentence": "trump is a reckless, ignorant, dishonest man who is not credible.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Trump is not seen as credible, and some find him dishonest and reckless.\"\n}"
+  },
+  {
+    "src_ind": "132",
+    "sentence": "A grown man who Sen. Collins has more principled balls than he does.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"A grown man who Sen. Collins has more integrity than he does.\",\n  \"fixed_weakness\": [\"Vulgar language ('principled balls') replaced with neutral term\", \"Awkward sentence structure clarified\", \"Comparison made clear\"],\n  \"preserved_weaknesses\": [\"Missing apostrophe in 'Sen. Collins' (should be 'Sen. Collins’s')\"]\n}"
+  },
+  {
+    "src_ind": "132",
+    "sentence": "A grown man who Sen. Collins has more principled balls than he does.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"A grown man who has less principle than Sen. Collins's does.\",\n  \"fixed_weakness\": [\n    \"Replaced vulgar 'principled balls' with 'principle'\",\n    \"Fixed sentence structure by clarifying comparison and removing grammatical flaws\",\n    \"Added missing apostrophe to 'Sen. Collins's' (possessive)\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks clarity in comparison; the phrase 'than Sen. Collins's does' is confusing as the antecedent of 'does' is unclear.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "132",
+    "sentence": "A grown man who Sen. Collins has more principled balls than he does.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"A grown man who Sen. Collins’s more principled courage than he does.\",\n  \"fixed_weakness\": [\n    \"Uses vulgar language ('principled balls') which is inappropriate for neutral style.\",\n    \"Lacks clarity in comparison; the phrase 'more principled balls than he does' is confusing.\",\n    \"Missing apostrophe in 'Sen. Collins' (should be 'Sen. Collins’s').\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Awkward sentence structure that is unclear and grammatically flawed.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "132",
+    "sentence": "A grown man who Sen. Collins has more principled balls than he does.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Sen. Collins’s principled balls are greater than a grown man’s.\",\n  \"fixed_weakness\": [\n    \"Clarified comparison by restructuring the sentence to show possession and direct comparison.\",\n    \"Fixed missing apostrophe in 'Sen. Collins’s'.\",\n    \"Resolved awkward and grammatically flawed structure.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses vulgar language 'principled balls' which is inappropriate for neutral style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "136",
+    "sentence": "yeah, this clowns gonna work on Alberta.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"This clown is going to work on Alberta.\"\n}"
+  },
+  {
+    "src_ind": "141",
+    "sentence": "the flawed arguments that i read here just make me shake my head",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The flawed arguments I read here are unconvincing.\"\n}"
+  },
+  {
+    "src_ind": "146",
+    "sentence": "putin isn't a stupid man.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"You think putin is stupid? He is certainly not a stupid man, and we know it.\"\n}"
+  },
+  {
+    "src_ind": "148",
+    "sentence": "your protests is meaningless and pathetic at this point",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Your protests are a desperate and meaningless display of your insecurities at this point.\"\n}"
+  },
+  {
+    "src_ind": "148",
+    "sentence": "your protests and your leftist ideology are meaningless and pathetic at this point.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Your protests and leftist ideology appear to lack constructive outcomes at this point.\"\n}"
+  },
+  {
+    "src_ind": "150",
+    "sentence": "harper was superior to this clown.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Harper was way better than this clown, no contest!\"\n}"
+  },
+  {
+    "src_ind": "153",
+    "sentence": "trump is a compulsive liar and malignant narcissist who serves only himself.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Trump is a liar who only cares about himself.\"\n}"
+  },
+  {
+    "src_ind": "160",
+    "sentence": "this guy is clearly sexually frustrated; he needs to get laid soon.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"This man is clearly sexually frustrated; he seems troubled by unmet desires.\"\n}"
+  },
+  {
+    "src_ind": "171",
+    "sentence": "an astounding ignorance",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"This is an ignorant comment.\"\n}"
+  },
+  {
+    "src_ind": "173",
+    "sentence": "let's try being intelligent adults here and stop this juvenile crap.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"You need to act like intelligent adults and stop this juvenile behavior.\"\n}"
+  },
+  {
+    "src_ind": "173",
+    "sentence": "lets try being intelligent adults here and stop this juvenile nonsense.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"You people need to try being intelligent adults and stop this juvenile nonsense.\"\n}"
+  },
+  {
+    "src_ind": "175",
+    "sentence": "this is what happens whens fools send a boy to do a mans job.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"This is what happens when fools send a boy to do a man's job.\"\n}"
+  },
+  {
+    "src_ind": "176",
+    "sentence": "this man could be some drunk jerk with a gun.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"This man could be a drunk person with a gun.\"\n}"
+  },
+  {
+    "src_ind": "192",
+    "sentence": "This type of ignorant comment is not helpful.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Your comment is ignorant.\"\n}"
+  },
+  {
+    "src_ind": "201",
+    "sentence": "gay , muslim , nonanglophone , white males might be able to wangle something under the right circumstances , the sneaky bastards.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"gay, muslim, non-English-speaking, white males might be able to wangle something in the right conditions, the sneaky bastards.\",\n  \"fixed_weakness\": [\n    \"Non-standard spacing before commas: removed space before comma.\",\n    \"Use of uncommon term 'nonanglophone': replaced with 'non-English-speaking'.\",\n    \"Verbose phrase 'under the right circumstances': simplified to 'in the right conditions'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Ending with a period inconsistent with the abrupt style of references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "201",
+    "sentence": "gay , muslim , nonanglophone , white males might be able to wangle something under the right circumstances , the sneaky bastards.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"gay, muslim, non-English-speaking, white males might be able to wangle something under the right circumstances, the sneaky bastards\",\n  \"fixed_weakness\": [\n    \"Non-standard spacing before commas\",\n    \"Use of uncommon term 'nonanglophone' instead of simpler words\",\n    \"Ending with a period inconsistent with the abrupt style of references\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Verbose phrase 'under the right circumstances'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "201",
+    "sentence": "gay , muslim , nonanglophone , white males might be able to wangle something under the right circumstances , the sneaky bastards.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"gay, muslim, nonanglophone, white males might be able to wangle something if lucky, the sneaky bastards\",\n  \"fixed_weakness\": [\n    \"Non-standard spacing before commas (e.g., 'gay , muslim')\",\n    \"Verbose phrase 'under the right circumstances'\",\n    \"Ending with a period inconsistent with the abrupt style of references\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Use of uncommon term 'nonanglophone' instead of simpler words\"\n  ]\n}"
+  },
+  {
+    "src_ind": "201",
+    "sentence": "gay , muslim , nonanglophone , white males might be able to wangle something under the right circumstances , the sneaky bastards.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"gay , muslim , non-English speaking , white males might wangle something , the sneaky bastards\",\n  \"fixed_weakness\": [\n    \"Replace 'nonanglophone' with 'non-English speaking'\",\n    \"Remove verbose phrase 'under the right circumstances'\",\n    \"Remove period to match abrupt style of references\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Non-standard spacing before commas (e.g., 'gay , muslim')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "214",
+    "sentence": "this guy is a complete failure.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"This man is a disappointment.\"\n}"
+  },
+  {
+    "src_ind": "217",
+    "sentence": "i think you are dumb and useless.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I think your statement is not useful.\"\n}"
+  },
+  {
+    "src_ind": "230",
+    "sentence": "you can have your stinking office building.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"you can have your stinking office building!\"\n}"
+  },
+  {
+    "src_ind": "233",
+    "sentence": "You are one hate filled individual pal!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"You people and your hate-filled garbage are a joke, keep crying me a river.\"\n}"
+  },
+  {
+    "src_ind": "239",
+    "sentence": "Shawn good is a crook .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Shawn Good is not a good person.\"\n}"
+  },
+  {
+    "src_ind": "242",
+    "sentence": "You are as ignorant as the original commenter. Once again, who is Senator Koch from Ohio?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"You're ignorant. And who exactly is Senator Koch from Ohio?\"\n}"
+  },
+  {
+    "src_ind": "248",
+    "sentence": "Poor people don't deserve any healthcare because of flawed policies, right ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Flawed policies limit healthcare access for low-income individuals.\"\n}"
+  },
+  {
+    "src_ind": "252",
+    "sentence": "Such a talented player does not need to be a jerk.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"such a talented player, but a jerk.\"\n}"
+  },
+  {
+    "src_ind": "252",
+    "sentence": "Why does a talented player sometimes act like a jerk?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"a talented player sometimes acts like a jerk\"\n}"
+  },
+  {
+    "src_ind": "266",
+    "sentence": "time for these incompetent people to resign.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"These incompetent people should resign, period.\"\n}"
+  },
+  {
+    "src_ind": "273",
+    "sentence": "play stupid games. this is what happens.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"This is what happens when you act foolishly.\"\n}"
+  },
+  {
+    "src_ind": "277",
+    "sentence": "theyre both megalomaniac jerks.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"They're both megalomaniac individuals.\"\n}"
+  },
+  {
+    "src_ind": "285",
+    "sentence": "There exist three categories of deception: falsehoods, egregious falsehoods, and statistical manipulations.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I see three categories of deception: lies, big lies, and statistical manipulations.\",\n  \"fixed_weakness\": [\n    \"Overly formal phrase 'There exist' instead of more conversational constructions.\",\n    \"Impersonal and academic tone, lacking the subjective or directive elements of references.\",\n    \"Uses elevated vocabulary like 'egregious falsehoods' not matched in target references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Rigid declarative structure with a colon, unlike varied sentence types in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "285",
+    "sentence": "There exist three categories of deception: falsehoods, egregious falsehoods, and statistical manipulations.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"There are three categories of deception. They are falsehoods, egregious falsehoods, and statistical manipulations.\",\n  \"fixed_weakness\": [\n    \"Overly formal phrase 'There exist' replaced with conversational 'There are'\",\n    \"Impersonal and academic tone reduced by using two simpler sentences\",\n    \"Rigid declarative structure with a colon changed to two separate declarative sentences\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses elevated vocabulary like 'egregious falsehoods' not matched in target references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "285",
+    "sentence": "There exist three categories of deception: falsehoods, egregious falsehoods, and statistical manipulations.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Falsehoods, big lies, and statistical manipulations are the three types of deception.\",\n  \"fixed_weakness\": [\n    \"Overly formal phrase 'There exist' replaced with a more straightforward construction\",\n    \"Elevated vocabulary 'egregious falsehoods' replaced with simpler 'big lies'\",\n    \"Rigid declarative structure with a colon replaced with a simple declarative sentence\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Impersonal and academic tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "285",
+    "sentence": "There exist three categories of deception: falsehoods, egregious falsehoods, and statistical manipulations.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"There exist three categories of deception, and you need to watch for them: lies, outright lies, and statistical tricks.\",\n  \"fixed_weakness\": [\n    \"Added directive and subjective element ('you need to watch for them')\",\n    \"Replaced 'egregious falsehoods' with simpler 'outright lies'\",\n    \"Varied sentence structure by adding a conjunction and clause, breaking the rigid colon-based declarative\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overly formal phrase 'There exist' retained\"\n  ]\n}"
+  },
+  {
+    "src_ind": "285",
+    "sentence": "there's three kinds of lies: lies, damned lies and statistics.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"You know there's three kinds of lies: lies, damned lies, and statistics. But you, you just lie, lie, lie.\"\n}"
+  },
+  {
+    "src_ind": "289",
+    "sentence": "You have such a pathetic and immature perspective, and it demonstrates a lack of insight.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"You have a pathetic and immature perspective, and it shows you are ignorant.\"\n}"
+  },
+  {
+    "src_ind": "292",
+    "sentence": "youre an obscene person and you should be banned.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"You are an obscene person, a moral cesspool, and you should be banned.\",\n  \"fixed_weakness\": [\n    \"Uses contraction 'youre' now fixed to 'you are'\",\n    \"Added vivid metaphorical language 'moral cesspool'\",\n    \"Changed sentence structure to include appositive phrase and coordination\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Does not employ imperative or commanding tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "292",
+    "sentence": "youre an obscene person and you should be banned.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"You are an obscene box of hammers and need to be banned.\",\n  \"fixed_weakness\": [\n    \"Uses contraction 'you're' which is less formal than the references\",\n    \"Lacks vivid metaphorical language like 'box of hammers' or 'diseased sob'\",\n    \"Does not employ imperative or commanding tone seen in references\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentence is a single declarative clause, lacking variety in structure\"\n  ]\n}"
+  },
+  {
+    "src_ind": "292",
+    "sentence": "youre an obscene person and you should be banned.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"You are obscene. Be banned.\",\n  \"fixed_weakness\": [\n    \"Uses contraction 'youre' which is less formal than the references.\",\n    \"Sentence is a single declarative clause, lacking variety in structure.\",\n    \"Does not employ imperative or commanding tone seen in references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks vivid metaphorical language like 'box of hammers' or 'diseased sob'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "292",
+    "sentence": "youre an obscene person and you should be banned.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"youre an obscene person, you diseased sob; be banned already.\",\n  \"fixed_weakness\": [\n    \"Added vivid metaphorical language ('diseased sob')\",\n    \"Introduced variety in sentence structure by using a compound sentence with an imperative clause\",\n    \"Employed imperative/commanding tone ('be banned already')\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses contraction 'youre' which is less formal than the references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "293",
+    "sentence": "drumpfs deplorables hold the belief that anyone who is not white is definitely illegal .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"deplorables hold the belief that anyone who isn't white is definitely illegal\"\n}"
+  },
+  {
+    "src_ind": "295",
+    "sentence": "you must be a republican who feels people are too stupid to run their own lives.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"You seem to think people are incapable of running their own lives—like some politicians who underestimate the public, don't you?\"\n}"
+  },
+  {
+    "src_ind": "297",
+    "sentence": "what happened to the function that allowed readers to ignore specific posters on gm comment boards ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"what's happened to the function that let people ignore specific posters on gm comment boards?\"\n}"
+  },
+  {
+    "src_ind": "308",
+    "sentence": "President malignant narcissist to you!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The president is a malignant narcissist.\"\n}"
+  },
+  {
+    "src_ind": "311",
+    "sentence": "why such ignorant comments.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Why are your comments ignorant?\"\n}"
+  },
+  {
+    "src_ind": "315",
+    "sentence": "albert araklien : cant tell if your post is sarcasm or stupidity.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Albert araklien: I can't tell if your post is sarcasm or ignorance.\"\n}"
+  },
+  {
+    "src_ind": "316",
+    "sentence": "i guess the ontario liberals and alberta ndp share stupid ideas.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The Ontario Liberals and Alberta NDP have similarly misguided policies.\"\n}"
+  },
+  {
+    "src_ind": "317",
+    "sentence": "history is doomed to be repeated when fools like yourself ignore whats happening.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Why do fools like you ignore what's happening, as if history won't repeat itself?\"\n}"
+  },
+  {
+    "src_ind": "318",
+    "sentence": "what a bureaucratic oversight.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"This is a bureaucratic oversight.\"\n}"
+  },
+  {
+    "src_ind": "318",
+    "sentence": "This is a ridiculous, cruel bureaucratic joke.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"This is just a ridiculous bureaucratic joke.\"\n}"
+  },
+  {
+    "src_ind": "322",
+    "sentence": "Students of colour cannot be expected to learn in such a toxic environment of white supremacy.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"You can't expect students of colour to learn in such a toxic white supremacist environment.\"\n}"
+  },
+  {
+    "src_ind": "322",
+    "sentence": "How can students of colour possibly be expected to learn in such a toxic environment of white supremacy?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"you can't expect students of colour to learn in a toxic white supremacy environment\"\n}"
+  },
+  {
+    "src_ind": "324",
+    "sentence": "you mean like denis coderre is unintelligent ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Do you mean that Denis Coderre is unintelligent?\"\n}"
+  },
+  {
+    "src_ind": "329",
+    "sentence": "sorry Kelly, we dont want you or your filthy coal up here in Canada.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"kelly i dont want you or your filthy coal up here in canada\"\n}"
+  },
+  {
+    "src_ind": "334",
+    "sentence": "fired over a stupid joke.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"They fired him over a stupid joke.\"\n}"
+  },
+  {
+    "src_ind": "337",
+    "sentence": "They have the same attitude toward gay people as I do.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"they got the same attitude towards gay people as i do.\"\n}"
+  },
+  {
+    "src_ind": "341",
+    "sentence": "Get your lazy commie ass back here.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Come back here.\"\n}"
+  },
+  {
+    "src_ind": "344",
+    "sentence": "the saudi royalsbe stupid but i dont believe the saudis do not have good advisers.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The saudi royals be stupid but I don't believe the saudis do not have good advisers.\"\n}"
+  },
+  {
+    "src_ind": "347",
+    "sentence": "hes a killer, though, mr.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"He is a killer, though, mr.\",\n  \"fixed_weakness\": [\n    \"Missing capital letter at start of sentence\",\n    \"Informal contraction 'hes' instead of 'he is'\",\n    \"Inconsistent punctuation: 'though' followed by comma before 'mr.'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Abbreviation 'mr.' not capitalized or in standard form\"\n  ]\n}"
+  },
+  {
+    "src_ind": "347",
+    "sentence": "hes a killer, though, mr.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"He is a killer, though, Mr.\",\n  \"fixed_weakness\": [\n    \"Capitalized first letter of sentence\",\n    \"Expanded contraction 'hes' to 'he is'\",\n    \"Capitalized 'Mr.' correctly\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Inconsistent punctuation: comma after 'though' before 'Mr.'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "347",
+    "sentence": "hes a killer, though, mr.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Hes a killer, though, Mr.\",\n  \"fixed_weakness\": [\n    \"Missing capital letter at start of sentence\",\n    \"Inconsistent punctuation: 'though' followed by comma before 'mr.'\",\n    \"Abbreviation 'mr.' not capitalized or in standard form\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal contraction 'hes' instead of 'he is'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "347",
+    "sentence": "hes a killer, though, mr.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"he is a killer, though Mr.\",\n  \"fixed_weakness\": [\n    \"Informal contraction 'hes' replaced with 'he is'\",\n    \"Inconsistent punctuation: comma after 'though' removed\",\n    \"Abbreviation 'mr.' capitalized to 'Mr.'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing capital letter at start of sentence\"\n  ]\n}"
+  },
+  {
+    "src_ind": "348",
+    "sentence": "you're nothing to me, you loser.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"you ain't worth a dime to me, so beat it, loser.\"\n}"
+  },
+  {
+    "src_ind": "357",
+    "sentence": "Their management is incompetent.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"They're incompetent, they should be fired. Period.\"\n}"
+  },
+  {
+    "src_ind": "368",
+    "sentence": "Your ignorance is a nightmare.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Your remark is ignorant.\"\n}"
+  },
+  {
+    "src_ind": "371",
+    "sentence": "hilary clinton is a horrible person. it's sad that people keep voting for her.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Hillary Clinton is not a good person. It's sad that voters in her district keep electing her.\"\n}"
+  },
+  {
+    "src_ind": "372",
+    "sentence": "I know, I'm a horrible bigoted, murdering oppressor by right of birth .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"You are a horrible bigot and murderer by birth.\"\n}"
+  },
+  {
+    "src_ind": "376",
+    "sentence": "After seeing something like this, I expected you to be a throwaway account.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"After seeing this, you are a throwaway account.\"\n}"
+  },
+  {
+    "src_ind": "379",
+    "sentence": "that it is easy to spot those racist idiots.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"It is easy to spot racist idiots.\"\n}"
+  },
+  {
+    "src_ind": "387",
+    "sentence": "Be ignorant of the most basic aspects of canadian history.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Keep being ignorant of Canadian history, Justin – it's your brand.\"\n}"
+  },
+  {
+    "src_ind": "387",
+    "sentence": "He being ignorant of the most basic aspects of Canadian history.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"He's ignorant of the basics of Canadian history.\"\n}"
+  },
+  {
+    "src_ind": "389",
+    "sentence": "A lying crook is rewarded.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"In the end, someone rewarded a person who lied and stole.\"\n}"
+  },
+  {
+    "src_ind": "392",
+    "sentence": "im a caucasian american and those cognitivelychallenged individuals do not in any way speak for me .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I'm a Caucasian American, and those cognitively challenged individuals do not represent me.\"\n}"
+  },
+  {
+    "src_ind": "398",
+    "sentence": "oh, its ok zucker, were too stupid to believe you anyway.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"oh, it's ok, zucker, we're too stupid to believe you anyway.\"\n}"
+  },
+  {
+    "src_ind": "407",
+    "sentence": "Trump was not chosen by god to be anything but the clown he has proven to be.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Trump has proven to be an unsuitable leader.\"\n}"
+  },
+  {
+    "src_ind": "407",
+    "sentence": "i doubt trump is anything but the clown he has proven to be.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Trump is nothing but the incompetent leader he has proven to be.\",\n  \"fixed_weakness\": [\n    \"Improper capitalization of 'i' and 'trump' makes it informal.\",\n    \"Use of colloquial word 'clown' is not neutral.\",\n    \"Hedging with 'doubt' adds personal skepticism lacking in references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Emotional tone ('incompetent', 'proven to be') deviates from factual neutrality.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "407",
+    "sentence": "i doubt trump is anything but the clown he has proven to be.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I doubt Trump is anything but the unfit leader he has proven to be.\",\n  \"fixed_weakness\": [\n    \"Improper capitalization of 'i' and 'trump' makes it informal.\",\n    \"Use of colloquial word 'clown' is not neutral.\",\n    \"Emotional tone ('clown', 'proven to be') deviates from factual neutrality.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Hedging with 'doubt' adds personal skepticism lacking in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "407",
+    "sentence": "i doubt trump is anything but the clown he has proven to be.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Trump is nothing but the clown he has shown himself to be.\",\n  \"fixed_weakness\": [\n    \"Improper capitalization of 'i' and 'trump' corrected to 'Trump'.\",\n    \"Hedging with 'doubt' removed; statement is now direct.\",\n    \"Emotional tone reduced by replacing 'proven to be' with 'shown himself to be'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Use of colloquial word 'clown' is not neutral.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "407",
+    "sentence": "i doubt trump is anything but the clown he has proven to be.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i note that trump is the unsuitable leader he has proven to be.\",\n  \"fixed_weakness\": [\"Use of colloquial word 'clown' is not neutral.\", \"Hedging with 'doubt' adds personal skepticism lacking in references.\", \"Emotional tone ('clown', 'proven to be') deviates from factual neutrality.\"],\n  \"preserved_weaknesses\": [\"Improper capitalization of 'i' and 'trump' makes it informal.\"]\n}"
+  },
+  {
+    "src_ind": "410",
+    "sentence": "the trump supporters are too dull to understand this.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The Trump supporters are too unintelligent to understand this.\"\n}"
+  },
+  {
+    "src_ind": "412",
+    "sentence": "big box stores like cabalas, sportsmans and bass pro are breeding grounds for such morons.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Breeding grounds for morons, those big box stores like cabalas, sportsmans and bass pro.\"\n}"
+  },
+  {
+    "src_ind": "414",
+    "sentence": "This is because , through our education system and the media , we have been dazzled by nonsense .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The education system and the media are fooling us with nonsense.\"\n}"
+  },
+  {
+    "src_ind": "423",
+    "sentence": "Now you're dead again!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"You are dead!\"\n}"
+  },
+  {
+    "src_ind": "424",
+    "sentence": "why in hell would Bill Nye agree to talk to these neandertal bible bangers?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Why would Bill Nye agree to talk to these religious fundamentalists?\"\n}"
+  },
+  {
+    "src_ind": "433",
+    "sentence": "I think you are clearly an immature jerk.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I think you have the maturity of a spoiled child.\"\n}"
+  },
+  {
+    "src_ind": "440",
+    "sentence": "you remind me of several liberal individuals who have said, 'youre just trying to confuse me with facts.'",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"You are a liberal who says facts are confusing.\"\n}"
+  },
+  {
+    "src_ind": "447",
+    "sentence": "he continues his revealing of his absolute lack of knowledge.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"He keeps revealing his lack of knowledge.\"\n}"
+  },
+  {
+    "src_ind": "447",
+    "sentence": "the clueless buffoon continues his revealing of his stupidity.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"He continues to display his lack of knowledge.\"\n}"
+  },
+  {
+    "src_ind": "451",
+    "sentence": "this is one arrogant useless twit.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"This person is arrogant and not useful.\"\n}"
+  },
+  {
+    "src_ind": "453",
+    "sentence": "and his voters gave this unfit person the nuclear codes.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"and his voters elected a person who now controls the nuclear arsenal.\"\n}"
+  },
+  {
+    "src_ind": "463",
+    "sentence": "It is truly disheartening that she continues to be such a lying scum bag.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Isn't it disheartening how she continues to be dishonest?\"\n}"
+  },
+  {
+    "src_ind": "463",
+    "sentence": "she is a scum bag who lies.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"She is known for lying, which makes her untrustworthy.\"\n}"
+  },
+  {
+    "src_ind": "466",
+    "sentence": "Repeating the same answer six times to Gomer Scheers's questions makes him look pretty inept.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Repeating the same answer six times to Gomer Scheers's questions proves his ineptitude.\"\n}"
+  },
+  {
+    "src_ind": "472",
+    "sentence": "You know, thats an insult to both snakes and scum.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"That insults snakes and scum.\"\n}"
+  },
+  {
+    "src_ind": "476",
+    "sentence": "please stop user : j milburn , who is a picture deletor .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"please stop that user.\"\n}"
+  },
+  {
+    "src_ind": "477",
+    "sentence": "like other psychotic leaders of the past century, trump is deserving of hatred.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Trump is a problematic leader who faces widespread criticism.\"\n}"
+  },
+  {
+    "src_ind": "478",
+    "sentence": "the only extremist I see on this blog is you !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The only extremist I see on this blog is that individual.\"\n}"
+  },
+  {
+    "src_ind": "478",
+    "sentence": "the only extremist i see on this blog is you!",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The only extremist I see on this blog is the user being addressed.\"\n}"
+  },
+  {
+    "src_ind": "483",
+    "sentence": "how can any man or woman identify with such a unsuitable human as worthy of their vote !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"How can you people vote for such an unsuitable human as worthy of your vote?\"\n}"
+  },
+  {
+    "src_ind": "487",
+    "sentence": "you socialists are useless and never contribute anything constuctive",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"You socialists are useless and never contribute constructively.\"\n}"
+  },
+  {
+    "src_ind": "487",
+    "sentence": "socialism is the worst life form and well below algea when it comes to anything constuctive",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Socialism is unproductive and lacks constructive outcomes.\"\n}"
+  },
+  {
+    "src_ind": "492",
+    "sentence": "shes kind of stupid too.",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"She is stupid.\"\n}"
+  }
+]

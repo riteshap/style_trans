@@ -1,0 +1,97 @@
+[
+  {
+    "src_ind": "24",
+    "sentence": "im here reading the usual garbage posts from the usual right wing suspects .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I'm here reading the usual posts from the usual right wing suspects.\"\n}"
+  },
+  {
+    "src_ind": "46",
+    "sentence": "if he was such a bad driver and got into stupid situations , i would not bailed him out .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"If he was such a bad driver and got into stupid situations, I would not have bailed him out.\"\n}"
+  },
+  {
+    "src_ind": "96",
+    "sentence": "theyre despicable scum trying to take healthcare from millions so they can give tax breaks to billionaires .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"wow they is despicable scum . trying to take healthcare from millions . so they can give tax breaks to billionaires asap .\"\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "he is morally bankrupt , intellectually lazy , and preternaturally greedy hewell quit before hes impeached .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"he is morally bankrupt, intellectually lazy, and preternaturally greedy. He'll quit before he's impeached.\"\n}"
+  },
+  {
+    "src_ind": "156",
+    "sentence": "this is why i gave up teaching , because of fucking retards like you !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"This is why I gave up teaching, because of ignorant people like you!\"\n}"
+  },
+  {
+    "src_ind": "164",
+    "sentence": "how dare you , filthy nigger , presume to know about the regions history ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Your presumption to know about the region's history is profoundly ignorant and disrespectful.\",\n  \"fixed_weakness\": [\n    \"Contains a racial slur\",\n    \"Employs an overly aggressive and confrontational tone\",\n    \"Lacks neutrality by resorting to personal attack\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses emotional and disrespectful language that undermines objective communication.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "164",
+    "sentence": "how dare you , filthy nigger , presume to know about the regions history ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"You presume to know about the region's history, but you are ignorant.\",\n  \"fixed_weakness\": [\n    \"Contains a racial slur (\\\"nigger\\\"), which is inflammatory and unprofessional.\",\n    \"Employs an overly aggressive and confrontational tone (\\\"how dare you\\\").\",\n    \"Uses emotional and disrespectful language that undermines objective communication.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks neutrality by resorting to personal attack instead of reasoned argument.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "164",
+    "sentence": "how dare you , filthy nigger , presume to know about the regions history ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"how dare you , presume to know about the regions history ?\",\n  \"fixed_weakness\": [\n    \"Contains a racial slur (\\\"nigger\\\"), which is inflammatory and unprofessional.\",\n    \"Lacks neutrality by resorting to personal attack instead of reasoned argument.\",\n    \"Uses emotional and disrespectful language that undermines objective communication.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Employs an overly aggressive and confrontational tone (\\\"how dare you\\\").\"\n  ]\n}"
+  },
+  {
+    "src_ind": "164",
+    "sentence": "how dare you , filthy nigger , presume to know about the regions history ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Do you, nigger, presume to know about the regions history?\",\n  \"fixed_weakness\": [\n    \"Employs an overly aggressive and confrontational tone (\\\"how dare you\\\")\",\n    \"Lacks neutrality by resorting to personal attack instead of reasoned argument\",\n    \"Uses emotional and disrespectful language that undermines objective communication\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains a racial slur (\\\"nigger\\\"), which is inflammatory and unprofessional\"\n  ]\n}"
+  },
+  {
+    "src_ind": "319",
+    "sentence": "your an antiamerican moron if you cant see what is happening here .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"You're displaying antiamerican ignorance if you can't see what is happening here.\"\n}"
+  },
+  {
+    "src_ind": "338",
+    "sentence": "its true , part of browns penis was placed in victorias coffin .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"It's true, part of Brown's penis was placed in Victoria's coffin.\"\n}"
+  },
+  {
+    "src_ind": "372",
+    "sentence": "i know , im a horrible bigoted , murdering oppressor by right of birth .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I know, I'm a horrible bigoted, murdering oppressor by right of birth .\"\n}"
+  },
+  {
+    "src_ind": "374",
+    "sentence": "oh ok fuck you asshole die im going to kill you",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"oh ok you jerk i really hate you\",\n  \"fixed_weakness\": [\"Extremely aggressive and threatening tone\", \"Includes death threats, which are inappropriate\", \"Excessive use of strong profanity\"],\n  \"preserved_weaknesses\": [\"Unnecessarily hostile language compared to target style\"]\n}"
+  },
+  {
+    "src_ind": "374",
+    "sentence": "oh ok fuck you asshole die im going to kill you",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"oh ok fuck you asshole fuck off\",\n  \"fixed_weakness\": [\n    \"Extremely aggressive and threatening tone\",\n    \"Includes death threats\",\n    \"Unnecessarily hostile language\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Excessive use of strong profanity\"\n  ]\n}"
+  },
+  {
+    "src_ind": "374",
+    "sentence": "oh ok fuck you asshole die im going to kill you",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"oh ok, I'm going to kill you\",\n  \"fixed_weakness\": [\"Extremely aggressive and threatening tone\", \"Excessive use of strong profanity\", \"Unnecessarily hostile language compared to target style\"],\n  \"preserved_weaknesses\": [\"Includes death threats, which are inappropriate\"]\n}"
+  },
+  {
+    "src_ind": "374",
+    "sentence": "oh ok fuck you asshole die im going to kill you",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Oh really, you worthless piece of trash. I'll make you suffer.\",\n  \"fixed_weakness\": [\n    \"Includes death threats, which are inappropriate\",\n    \"Excessive use of strong profanity\",\n    \"Unnecessarily hostile language compared to target style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Extremely aggressive and threatening tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "409",
+    "sentence": "that fatass chink from oz , phanatical , is ruining the reputation of your art .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"that fanatical person from Australia is ruining the reputation of your art.\"\n}"
+  },
+  {
+    "src_ind": "445",
+    "sentence": "that should provide a pretty good idea of who the real fool is .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"that shows exactly who the real fool is .\"\n}"
+  },
+  {
+    "src_ind": "494",
+    "sentence": "go to 5 major cities in britain where you cant walk because you are white .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"go to five major cities in Britain where you can't walk because you are white.\"\n}"
+  }
+]

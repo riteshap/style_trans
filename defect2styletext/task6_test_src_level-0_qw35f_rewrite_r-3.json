@@ -1,0 +1,142 @@
+[
+  {
+    "src_ind": "4",
+    "sentence": "my mums a big old dirty roadwhore",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"My mum's a big old mess.\",\n  \"fixed_weakness\": [\n    \"Removed explicit profanity and derogatory language ('roadwhore', 'dirty')\",\n    \"Corrected lack of standard capitalization ('my' to 'My')\",\n    \"Added standard punctuation (period)\",\n    \"Softened aggressively insulting tone to a more objective description\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Relies on colloquial slang ('mum', 'big old', 'mess') instead of standard vocabulary\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "my mums a big old dirty roadwhore",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"my mum is not very proper\",\n  \"fixed_weakness\": [\n    \"Removed explicit profanity and derogatory language inconsistent with neutral English standards.\",\n    \"Replaced aggressively insulting tone with an objective or descriptive approach.\",\n    \"Substituted colloquial slang with standard vocabulary appropriate for the style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks standard capitalization expected in standard neutral writing.\",\n    \"Lacks standard punctuation expected in standard neutral writing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "my mums a big old dirty roadwhore",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"My mum is a big old dirty prostitute.\",\n  \"fixed_weakness\": [\n    \"Uses explicit profanity and derogatory language inconsistent with neutral English standards.\",\n    \"Lacks standard capitalization and punctuation expected in standard neutral writing.\",\n    \"Relies on colloquial slang instead of standard vocabulary appropriate for the style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Employing an aggressively insulting tone rather than an objective or descriptive approach.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "my mums a big old dirty roadwhore",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"My mother is a big old dirty roadwhore.\",\n  \"fixed_weakness\": [\n    \"Employing an aggressively insulting tone rather than an objective or descriptive approach\",\n    \"Lacks standard capitalization and punctuation expected in standard neutral writing\",\n    \"Relies on colloquial slang instead of standard vocabulary appropriate for the style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses explicit profanity and derogatory language inconsistent with neutral English standards\"\n  ]\n}"
+  },
+  {
+    "src_ind": "12",
+    "sentence": "you still missed like half the shit ive changed .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"You still missed half the things ive changed .\",\n  \"fixed_weakness\": [\n    \"Failure to capitalize the first word\",\n    \"Informal filler words such as 'like'\",\n    \"Inappropriate profanity like 'shit'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Incorrectly spelled contraction 'ive'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "12",
+    "sentence": "you still missed like half the shit ive changed .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"you still missed half the changes I've made .\",\n  \"fixed_weakness\": [\n    \"Inappropriate profanity like 'shit' undermines the requirement for a neutral tone.\",\n    \"Informal filler words such as 'like' decrease the text's professionalism.\",\n    \"Incorrectly spelled contraction 'ive' suggests carelessness inconsistent with neutral editing.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Failure to capitalize the first word violates standard written conventions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "12",
+    "sentence": "you still missed like half the shit ive changed .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"You still missed like half the things I've changed.\",\n  \"fixed_weakness\": [\n    \"Inappropriate profanity like 'shit' undermines the requirement for a neutral tone.\",\n    \"Failure to capitalize the first word violates standard written conventions.\",\n    \"Incorrectly spelled contraction 'ive' suggests carelessness inconsistent with neutral editing.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal filler words such as 'like' decrease the text's professionalism.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "12",
+    "sentence": "you still missed like half the shit ive changed .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"You still missed half the shit I've changed .\",\n  \"fixed_weakness\": [\n    \"Capitalized the first word 'you'\",\n    \"Removed the informal filler word 'like'\",\n    \"Corrected the spelling of the contraction 'ive' to 'I've'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained the inappropriate profanity 'shit'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "even without muslims they only haverapes a minute and a murder everyminutes .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Even without muslims they only have rapes a minute and a murder every minute .\",\n  \"fixed_weakness\": [\n    \"Sentence begins with lowercase letter instead of capital letter.\",\n    \"Words merged without spaces creating typos like haverapes.\",\n    \"Incorrect grammatical plurality used for time measurement everyminutes.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Religious demonym muslims lacks required capitalization.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "even without muslims they only haverapes a minute and a murder everyminutes .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Even without Muslims they only have rapes a minute and a murder everyminutes .\",\n  \"fixed_weakness\": [\n    \"Sentence begins with lowercase letter instead of capital letter.\",\n    \"Words merged without spaces creating typos like haverapes.\",\n    \"Religious demonym muslims lacks required capitalization.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Incorrect grammatical plurality used for time measurement everyminutes.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "even without muslims they only haverapes a minute and a murder everyminutes .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"Even without Muslims they only haverapes a minute and a murder every minute .\",\n  \"fixed_weakness\": [\n    \"Sentence begins with lowercase letter instead of capital letter.\",\n    \"Incorrect grammatical plurality used for time measurement everyminutes.\",\n    \"Religious demonym muslims lacks required capitalization.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Words merged without spaces creating typos like haverapes.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "even without muslims they only haverapes a minute and a murder everyminutes .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"even without Muslims they only have rapes a minute and a murder every minute.\",\n  \"fixed_weakness\": [\n    \"Separated words merged without spaces like haverapes\",\n    \"Corrected incorrect grammatical plurality for time measurement everyminutes\",\n    \"Capitalized religious demonym muslims\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentence begins with lowercase letter instead of capital letter\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "it isnt the unlawful orders i worry about so much as the lawful but really stupid ones .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"It isn't the unlawful orders I worry about so much as the lawful but really stupid ones .\",\n  \"fixed_weakness\": [\n    \"Contraction lacks necessary apostrophe character.\",\n    \"First letter of sentence is uncapitalized.\",\n    \"Internal pronoun 'i' is incorrectly lowercase.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Use of informal adjective 'stupid' affects tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "it isnt the unlawful orders i worry about so much as the lawful but really stupid ones .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"It isn't the unlawful orders i worry about so much as the lawful but really unwise ones .\",\n  \"fixed_weakness\": [\n    \"Contraction lacks necessary apostrophe character.\",\n    \"First letter of sentence is uncapitalized.\",\n    \"Use of informal adjective 'stupid' affects tone.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Internal pronoun 'i' is incorrectly lowercase.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "it isnt the unlawful orders i worry about so much as the lawful but really stupid ones .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"it isn't the unlawful orders I worry about so much as the lawful but really unwise ones .\",\n  \"fixed_weakness\": [\n    \"Contraction lacks necessary apostrophe character.\",\n    \"Internal pronoun 'i' is incorrectly lowercase.\",\n    \"Use of informal adjective 'stupid' affects tone.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"First letter of sentence is uncapitalized.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "48",
+    "sentence": "it isnt the unlawful orders i worry about so much as the lawful but really stupid ones .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"It isnt the unlawful orders I worry about so much as the lawful but really unwise ones .\",\n  \"fixed_weakness\": [\n    \"First letter of sentence is uncapitalized.\",\n    \"Internal pronoun 'i' is incorrectly lowercase.\",\n    \"Use of informal adjective 'stupid' affects tone.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contraction lacks necessary apostrophe character.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "56",
+    "sentence": "my god , you are stupidity incarnate .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"You are showing ignorance.\",\n  \"fixed_weakness\": [\n    \"Starts with an emotional interjection undermining objective tone.\",\n    \"Uses insulting labels instead of describing specific behaviors.\",\n    \"Relies on hyperbole rather than precise descriptive language.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Adopts a hostile stance contrary to neutral discourse norms.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "56",
+    "sentence": "my god , you are stupidity incarnate .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"You are demonstrating utter ignorance .\",\n  \"fixed_weakness\": [\n    \"Removed the emotional interjection 'my god' that undermined objective tone.\",\n    \"Replaced the identity-based insult 'stupidity incarnate' with a behavioral observation.\",\n    \"Adjusted the stance to be less hostile and more aligned with neutral discourse.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Retained reliance on hyperbolic language ('utter') rather than precise descriptive language.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "56",
+    "sentence": "my god , you are stupidity incarnate .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"You are showing ignorance.\",\n  \"fixed_weakness\": [\n    \"Removed the emotional interjection \\\"my god\\\"\",\n    \"Replaced hyperbolic phrasing \\\"incarnate\\\" with direct description\",\n    \"Adjusted stance to be more declarative and less hostile\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Used insulting labels rather than describing specific behaviors\"\n  ]\n}"
+  },
+  {
+    "src_ind": "56",
+    "sentence": "my god , you are stupidity incarnate .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"my god , this reasoning appears illogical .\",\n  \"fixed_weakness\": [\n    \"Uses insulting labels instead of describing specific behaviors.\",\n    \"Relies on hyperbole rather than precise descriptive language.\",\n    \"Adopts a hostile stance contrary to neutral discourse norms.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Starts with an emotional interjection undermining objective tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "after people pay xcels guaranteed profit margin , whats a few bucks for some stupid commericals ?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"after people pay xcels guaranteed profit margin , what's a few bucks for some commercials ?\",\n  \"fixed_weakness\": [\n    \"Removed subjective term 'stupid' to align with neutral tone requirement.\",\n    \"Corrected misspelling of 'commericals' to 'commercials'.\",\n    \"Added apostrophe to 'whats' for standard grammar conventions.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Maintained lowercase 'xcels' instead of capitalized 'Xcel' as per format norms.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "after people pay xcels guaranteed profit margin , whats a few bucks for some stupid commericals ?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"after people pay Xcel's guaranteed profit margin , whats a few bucks for some commercials ?\",\n  \"fixed_weakness\": [\n    \"Use of subjective term 'stupid' contradicts neutral tone requirement.\",\n    \"Misspelling of 'commercial' undermines professional presentation standards.\",\n    \"Failure to capitalize proper noun 'Xcel' breaches format norms.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omission of apostrophe in 'whats' violates standard grammar conventions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "after people pay xcels guaranteed profit margin , whats a few bucks for some stupid commericals ?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"after people pay Xcel's guaranteed profit margin , what's a few bucks for some commericals ?\",\n  \"fixed_weakness\": [\n    \"Use of subjective term 'stupid'\",\n    \"Omission of apostrophe in 'whats'\",\n    \"Failure to capitalize proper noun 'Xcel'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Misspelling of 'commercial'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "68",
+    "sentence": "after people pay xcels guaranteed profit margin , whats a few bucks for some stupid commericals ?",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"after people pay Xcel's guaranteed profit margin, what's a few bucks for some stupid commercials?\",\n  \"fixed_weakness\": [\n    \"Misspelling of 'commercial' undermines professional presentation standards.\",\n    \"Omission of apostrophe in 'whats' violates standard grammar conventions.\",\n    \"Failure to capitalize proper noun 'Xcel' breaches format norms.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Use of subjective term 'stupid' contradicts neutral tone requirement.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "you guys are fuckin idiots .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"you guys seem fuckin idiots.\",\n  \"fixed_weakness\": [\n    \"Space before terminal punctuation removed.\",\n    \"Hostile direct address softened by introducing uncertainty.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal contraction 'fuckin' retained as per instruction.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "you guys are fuckin idiots .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"you are entirely uninformed .\",\n  \"fixed_weakness\": [\n    \"Explicit profanity contradicts the non-offensive nature of the target style.\",\n    \"Hostile direct address lacks the restrained critique observed in references.\",\n    \"Informal contraction 'fuckin' deviates from standard spelling norms.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Space before terminal punctuation violates standard orthographic conventions.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "you guys are fuckin idiots .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"You guys are idiots.\",\n  \"fixed_weakness\": [\n    \"Explicit profanity contradicts the non-offensive nature of the target style.\",\n    \"Space before terminal punctuation violates standard orthographic conventions.\",\n    \"Informal contraction 'fuckin' deviates from standard spelling norms.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Hostile direct address lacks the restrained critique observed in references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "you guys are fuckin idiots .",
+    "qwen3.5-flash": "{\n  \"rewritten_text\": \"You are fucking idiots.\",\n  \"fixed_weakness\": [\n    \"Space before terminal punctuation violates standard orthographic conventions\",\n    \"Informal contraction 'fuckin' deviates from standard spelling norms\",\n    \"Hostile direct address lacks the restrained critique observed in references\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Explicit profanity contradicts the non-offensive nature of the target style\"\n  ]\n}"
+  }
+]

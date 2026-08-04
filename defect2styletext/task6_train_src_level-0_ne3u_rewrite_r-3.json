@@ -1,0 +1,607 @@
+[
+  {
+    "src_ind": "15",
+    "sentence": "i was just feeding him back his own , hypocritically selfrighteous words .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"I was just giving him back his own , hypocritically self-righteous words .\",\n  \"fixed_weakness\": [\n    \"Lowercase sentence start and first-person pronoun 'i'\",\n    \"Missing hyphen in compound adjective 'selfrighteous'\",\n    \"Informal colloquial phrasing 'feeding him back'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Improper spacing before comma\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "i was just feeding him back his own , hypocritically selfrighteous words .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"I was just feeding him back his own, hypocritically self-righteous words .\",\n  \"fixed_weakness\": [\n    \"Lowercase sentence start and first-person pronoun 'i'\",\n    \"Missing hyphen in compound adjective 'selfrighteous'\",\n    \"Improper spacing before comma\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal colloquial phrasing 'feeding him back'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "i was just feeding him back his own , hypocritically selfrighteous words .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"I was just giving him back his own, hypocritically selfrighteous words .\",\n  \"fixed_weakness\": [\n    \"Capitalized sentence start and first-person pronoun 'i' to 'I'\",\n    \"Replaced informal colloquial phrasing 'feeding him back' with more standard 'giving him back'\",\n    \"Removed improper space before the comma\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing hyphen in compound adjective 'selfrighteous' (should be 'self-righteous')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "15",
+    "sentence": "i was just feeding him back his own , hypocritically selfrighteous words .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i was just returning to him his own, hypocritically self-righteous words .\",\n  \"fixed_weakness\": [\n    \"Missing hyphen in compound adjective 'selfrighteous'\",\n    \"Informal colloquial phrasing 'feeding him back'\",\n    \"Improper spacing before comma\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lowercase sentence start and first-person pronoun 'i'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "the police dont have time for this crap .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the police dont have time for this crap!\",\n  \"fixed_weakness\": [\n    \"Uses period instead of exclamation or no terminal punctuation\",\n    \"Declarative statement lacks imperative directness of references\",\n    \"Space before period violates informal formatting patterns\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing colloquial contraction apostrophe in 'dont'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "the police dont have time for this crap .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the police don't have time for this crap !\",\n  \"fixed_weakness\": [\n    \"Replaced period with exclamation mark\",\n    \"Changed declarative to more direct tone via exclamation\",\n    \"Added apostrophe to 'dont'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Space before terminal punctuation (now exclamation) violates informal formatting patterns\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "the police dont have time for this crap .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the police don't have time for this crap!\",\n  \"fixed_weakness\": [\n    \"Uses period instead of exclamation or no terminal punctuation\",\n    \"Space before period violates informal formatting patterns\",\n    \"Missing colloquial contraction apostrophe in 'dont'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Declarative statement lacks imperative directness of references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "16",
+    "sentence": "the police dont have time for this crap .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"don't waste police time on this crap.\",\n  \"fixed_weakness\": [\n    \"Changed declarative statement to imperative directness\",\n    \"Removed space before period\",\n    \"Added apostrophe in 'don't'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses period instead of exclamation or no terminal punctuation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "hello , you sexy little lovehole ! .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"hello, you little thing!\",\n  \"fixed_weakness\": [\n    \"Explicitly sexual and vulgar language\",\n    \"Aggressive sexualized tone inappropriate for neutral style\",\n    \"Irregular punctuation spacing and double terminal punctuation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overly familiar and objectifying address\"\n  ]\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "hello , you sexy little lovehole ! .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"hello , you sweet little friend ! .\",\n  \"fixed_weakness\": [\n    \"Explicitly sexual and vulgar language\",\n    \"Aggressive sexualized tone inappropriate for neutral style\",\n    \"Overly familiar and objectifying address\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Irregular punctuation spacing and double terminal punctuation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "hello , you sexy little lovehole ! .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"hello, you little teaser!\",\n  \"fixed_weakness\": [\n    \"Explicitly sexual and vulgar language\",\n    \"Irregular punctuation spacing and double terminal punctuation\",\n    \"Overly familiar and objectifying address\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Aggressive sexualized tone inappropriate for neutral style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "hello , you sexy little lovehole ! .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"hello, sexy lovehole.\",\n  \"fixed_weakness\": [\n    \"Aggressive sexualized tone inappropriate for neutral style\",\n    \"Irregular punctuation spacing and double terminal punctuation\",\n    \"Overly familiar and objectifying address\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Explicitly sexual and vulgar language\"\n  ]\n}"
+  },
+  {
+    "src_ind": "34",
+    "sentence": "if you arent frightened i think you are an idiot",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"If you aren't frightened, I think you are an idiot\",\n  \"fixed_weakness\": [\n    \"Missing apostrophe in contraction 'arent'\",\n    \"Missing initial capitalization\",\n    \"Missing comma after conditional clause\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks colloquial idioms used in references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "34",
+    "sentence": "if you arent frightened i think you are an idiot",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"If you aren't frightened i think you are as bad as a box of hammers\",\n  \"fixed_weakness\": [\n    \"Missing apostrophe in contraction 'arent'\",\n    \"Missing initial capitalization\",\n    \"Lacks colloquial idioms used in references\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing comma after conditional clause\"\n  ]\n}"
+  },
+  {
+    "src_ind": "34",
+    "sentence": "if you arent frightened i think you are an idiot",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"if you aren't frightened, you're not the sharpest tool in the shed\",\n  \"fixed_weakness\": [\n    \"Missing apostrophe in contraction 'arent'\",\n    \"Missing comma after conditional clause\",\n    \"Lacks colloquial idioms used in references\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing initial capitalization\"\n  ]\n}"
+  },
+  {
+    "src_ind": "34",
+    "sentence": "if you arent frightened i think you are an idiot",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"If you arent frightened, I think you're as dumb as a bag of hammers.\",\n  \"fixed_weakness\": [\n    \"Missing initial capitalization\",\n    \"Missing comma after conditional clause\",\n    \"Lacks colloquial idioms used in references\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing apostrophe in contraction 'arent'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "36",
+    "sentence": "you tried make an irrelevant point by using a really dumb generalization .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"you tried to make an irrelevant point by using a weak generalization.\"\n}"
+  },
+  {
+    "src_ind": "57",
+    "sentence": "our court system is so screwed and if he is caught he will only get out again .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"our court system so screwed . if caught , only get out again .\",\n  \"fixed_weakness\": [\n    \"Overly standard grammar lacks target style's informal errors\",\n    \"Proper punctuation differs from reference irregular spacing\",\n    \"Complete sentence structure contrasts with elliptical fragments\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Absence of characteristic pronoun and verb form mistakes\"\n  ]\n}"
+  },
+  {
+    "src_ind": "57",
+    "sentence": "our court system is so screwed and if he is caught he will only get out again .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"our court system is so screwed , and if he is caught he will only gets out again .\",\n  \"fixed_weakness\": [\n    \"Overly standard grammar lacks target style's informal errors\",\n    \"Proper punctuation differs from reference irregular spacing\",\n    \"Absence of characteristic pronoun and verb form mistakes\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Complete sentence structure contrasts with elliptical fragments\"\n  ]\n}"
+  },
+  {
+    "src_ind": "57",
+    "sentence": "our court system is so screwed and if he is caught he will only get out again .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"our court system so screwed and if he caught he only get out again .\",\n  \"fixed_weakness\": [\n    \"Overly standard grammar lacks target style's informal errors\",\n    \"Complete sentence structure contrasts with elliptical fragments\",\n    \"Absence of characteristic pronoun and verb form mistakes\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Proper punctuation differs from reference irregular spacing\"\n  ]\n}"
+  },
+  {
+    "src_ind": "57",
+    "sentence": "our court system is so screwed and if he is caught he will only get out again .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"our court system is so screwed  and if he is caught he will only gets out again .\",\n  \"fixed_weakness\": [\n    \"Proper punctuation differs: added extra space before 'and' for irregular spacing\",\n    \"Complete sentence structure: kept as run-on but added verb error for informality\",\n    \"Absence of characteristic pronoun and verb form mistakes: introduced 'gets' instead of 'get'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overly standard grammar lacks target style's informal errors: sentence structure remains relatively standard despite spacing and verb error\"\n  ]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "hey , you are a chicken shit coward .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"hey , you are a coward .\",\n  \"fixed_weakness\": [\n    \"Contains profanity ('shit') incompatible with neutral style\",\n    \"Excessively hostile and insulting tone\",\n    \"Uses crude slur ('chicken shit') instead of descriptive language\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks objective or restrained expression characteristic of neutral style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "hey , you are a chicken shit coward .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"hey, you are a chicken coward.\",\n  \"fixed_weakness\": [\n    \"Contains profanity ('shit') incompatible with neutral style\",\n    \"Excessively hostile and insulting tone\",\n    \"Lacks objective or restrained expression characteristic of neutral style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses crude slur ('chicken shit') instead of descriptive language\"\n  ]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "hey , you are a chicken shit coward .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"hey, you are a coward without an ounce of courage.\",\n  \"fixed_weakness\": [\n    \"Contains profanity ('shit') incompatible with neutral style\",\n    \"Uses crude slur ('chicken shit') instead of descriptive language\",\n    \"Lacks objective or restrained expression characteristic of neutral style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Excessively hostile and insulting tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "hey , you are a chicken shit coward .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"hey , you are a shit coward .\",\n  \"fixed_weakness\": [\n    \"Excessively hostile and insulting tone\",\n    \"Uses crude slur ('chicken shit') instead of descriptive language\",\n    \"Lacks objective or restrained expression characteristic of neutral style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains profanity ('shit') incompatible with neutral style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "69",
+    "sentence": "since only idiots would take politcal cues from facebook , i can see why the democrat party is alarmed !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"Only idiots would take political cues from facebook. I can see why the democrat party is alarmed.\",\n  \"fixed_weakness\": [\"overly formal complex sentence structure with subordinate clause\", \"inconsistent capitalization of proper nouns (Facebook vs cnn)\", \"uses exclamation mark instead of period\"],\n  \"preserved_weaknesses\": [\"employs pejorative 'democrat party' vs neutral 'liberals/liberalism'\"]\n}"
+  },
+  {
+    "src_ind": "69",
+    "sentence": "since only idiots would take politcal cues from facebook , i can see why the democrat party is alarmed !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"only idiots would take politcal cues from facebook , i can see why the liberals are alarmed !\",\n  \"fixed_weakness\": [\n    \"Overly formal complex sentence structure with subordinate clause\",\n    \"Inconsistent capitalization of proper nouns (Facebook vs cnn)\",\n    \"Employs pejorative 'democrat party' vs neutral 'liberals/liberalism'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses exclamation mark instead of period\"\n  ]\n}"
+  },
+  {
+    "src_ind": "69",
+    "sentence": "since only idiots would take politcal cues from facebook , i can see why the democrat party is alarmed !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"only idiots would take politcal cues from facebook. i can see why the liberals are alarmed.\",\n  \"fixed_weakness\": [\n    \"Overly formal complex sentence structure with subordinate clause\",\n    \"Uses exclamation mark instead of period\",\n    \"Employs pejorative 'democrat party' vs neutral 'liberals/liberalism'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Inconsistent capitalization of proper nouns (Facebook vs cnn)\"\n  ]\n}"
+  },
+  {
+    "src_ind": "69",
+    "sentence": "since only idiots would take politcal cues from facebook , i can see why the democrat party is alarmed !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"since only idiots would take political cues from Facebook, i can see why the Democratic Party is alarmed.\",\n  \"fixed_weakness\": [\n    \"Inconsistent capitalization of proper nouns (Facebook)\",\n    \"Uses exclamation mark instead of period\",\n    \"Employs pejorative 'democrat party' vs neutral 'liberals/liberalism'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overly formal complex sentence structure with subordinate clause\"\n  ]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "thats not a policy , thats nothing but bull pucky for the ignorant masses .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"that's not a policy , that's nothing but nonsense for the uninformed masses .\",\n  \"fixed_weakness\": [\n    \"Replaced vulgar colloquialism 'bull pucky' with neutral terminology 'nonsense'\",\n    \"Replaced insulting phrase 'ignorant masses' with neutral 'uninformed masses'\",\n    \"Added apostrophe in contractions 'thats' to 'that's'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks capitalization at sentence start violating standard conventions\"\n  ]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "thats not a policy , thats nothing but bull pucky for the ignorant masses .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"Thats not a policy, thats nothing but nonsense for the uninformed masses.\",\n  \"fixed_weakness\": [\n    \"Uses vulgar colloquialism 'bull pucky' instead of neutral terminology\",\n    \"Employs insulting phrase 'ignorant masses' violating neutral tone\",\n    \"Lacks capitalization at sentence start violating standard conventions\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing apostrophe in contraction 'thats' showing informal grammar\"\n  ]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "thats not a policy , thats nothing but bull pucky for the ignorant masses .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"That's not a policy, that's nothing but nonsense for the ignorant masses.\",\n  \"fixed_weakness\": [\n    \"Replaced vulgar colloquialism 'bull pucky' with neutral terminology 'nonsense'\",\n    \"Added apostrophe in 'that's' to correct contraction\",\n    \"Capitalized the first letter of the sentence\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Employs insulting phrase 'ignorant masses' violating neutral tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "83",
+    "sentence": "thats not a policy , thats nothing but bull pucky for the ignorant masses .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"That's not a policy , that's nothing but bull pucky for the masses .\",\n  \"fixed_weakness\": [\n    \"Replaced insulting phrase 'ignorant masses' with neutral 'the masses'\",\n    \"Added apostrophes to 'thats' to form 'that's'\",\n    \"Capitalized 'That's' at the start of the sentence\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses vulgar colloquialism 'bull pucky' instead of neutral terminology\"\n  ]\n}"
+  },
+  {
+    "src_ind": "88",
+    "sentence": "sore losers , cry babiesfake news !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"sore losers , cry babies, fake news !\",\n  \"fixed_weakness\": [\"Missing space and punctuation between 'babies' and 'fake' creating run-on text\"],\n  \"preserved_weaknesses\": [\"No discourse connectives or predicates unlike reference texts\"]\n}"
+  },
+  {
+    "src_ind": "88",
+    "sentence": "sore losers , cry babiesfake news !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"sore losers, cry babies, are fake news!\",\n  \"fixed_weakness\": [\n    \"Missing space and punctuation between 'babies' and 'fake' creating run-on text\",\n    \"Lacks sentence or clause structure; only noun phrase fragments\",\n    \"No discourse connectives or predicates unlike reference texts\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overly telegraphic slogan style unlike references' commentary fragments\"\n  ]\n}"
+  },
+  {
+    "src_ind": "88",
+    "sentence": "sore losers , cry babiesfake news !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"sore losers, cry babies, fake news!\",\n  \"fixed_weakness\": [\n    \"Missing space and punctuation between 'babies' and 'fake' creating run-on text\",\n    \"Overly telegraphic slogan style unlike references' commentary fragments\",\n    \"No discourse connectives or predicates unlike reference texts\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks sentence or clause structure; only noun phrase fragments\"\n  ]\n}"
+  },
+  {
+    "src_ind": "88",
+    "sentence": "sore losers , cry babiesfake news !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"They are sore losers , cry babiesfake news !\",\n  \"fixed_weakness\": [\n    \"Lacks sentence or clause structure\",\n    \"Only noun phrase fragments\",\n    \"Overly telegraphic slogan style\",\n    \"No discourse connectives or predicates\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing space and punctuation between 'babies' and 'fake' creating run-on text\"\n  ]\n}"
+  },
+  {
+    "src_ind": "98",
+    "sentence": "so sad the voters in her district are stupid enough to continue to elect her .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"jeez so sad the voters in her district are stupid enough to continue to elect her .\",\n  \"fixed_weakness\": [\n    \"Overly grammatical complete sentence structure\",\n    \"Missing informal interjections like 'Jeez'\",\n    \"Standard capitalization contradicts lowercase convention\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks characteristic non-standard grammar (e.g., 'casted', 'vote her')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "98",
+    "sentence": "so sad the voters in her district are stupid enough to continue to elect her .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"jeez so sad the voters in her district are stupid enough to continue to vote her\",\n  \"fixed_weakness\": [\n    \"Overly grammatical complete sentence structure\",\n    \"Missing informal interjections like 'Jeez'\",\n    \"Lacks characteristic non-standard grammar (e.g., 'casted', 'vote her')\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Standard capitalization contradicts lowercase convention\"\n  ]\n}"
+  },
+  {
+    "src_ind": "98",
+    "sentence": "so sad the voters in her district are stupid enough to continue to elect her .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"so sad the voters in her district be stupid enough to continue elect her .\",\n  \"fixed_weakness\": [\n    \"Overly grammatical complete sentence structure\",\n    \"Standard capitalization contradicts lowercase convention\",\n    \"Lacks characteristic non-standard grammar (e.g., 'casted', 'vote her')\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing informal interjections like 'Jeez'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "98",
+    "sentence": "so sad the voters in her district are stupid enough to continue to elect her .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"jeez so sad the voters in her district are stupid enough to continue to vote her .\",\n  \"fixed_weakness\": [\n    \"added informal interjection 'jeez'\",\n    \"changed 'elect her' to 'vote her' for non-standard grammar\",\n    \"ensured consistent lowercase convention\"\n  ],\n  \"preserved_weaknesses\": [\n    \"overly grammatical complete sentence structure\"\n  ]\n}"
+  },
+  {
+    "src_ind": "135",
+    "sentence": "i am reading , slowly , mcmasters dereliction of duty about the damn vietnam war .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i am reading, slowly, mcmasters' dereliction of duty about the damn Vietnam war .\",\n  \"fixed_weakness\": [\"Extra spaces around commas\", \"Missing possessive apostrophe in 'mcmasters'\", \"Lowercase proper noun 'vietnam'\"],\n  \"preserved_weaknesses\": [\"Lowercase proper noun 'mcmasters'\"]\n}"
+  },
+  {
+    "src_ind": "135",
+    "sentence": "i am reading , slowly , mcmasters dereliction of duty about the damn vietnam war .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i am reading, slowly, McMaster's dereliction of duty about the damn vietnam war .\",\n  \"fixed_weakness\": [\n    \"Extra spaces around commas\",\n    \"Missing possessive apostrophe in 'mcmasters'\",\n    \"Lowercase proper noun 'mcmasters'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lowercase proper noun 'vietnam'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "135",
+    "sentence": "i am reading , slowly , mcmasters dereliction of duty about the damn vietnam war .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i am reading, slowly, McMasters dereliction of duty about the damn Vietnam war .\",\n  \"fixed_weakness\": [\"extra spaces around commas\", \"lowercase proper noun 'vietnam'\", \"lowercase proper noun 'mcmasters'\"],\n  \"preserved_weaknesses\": [\"missing possessive apostrophe in 'mcmasters'\"]\n}"
+  },
+  {
+    "src_ind": "135",
+    "sentence": "i am reading , slowly , mcmasters dereliction of duty about the damn vietnam war .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i am reading , slowly , McMaster's dereliction of duty about the damn Vietnam war .\",\n  \"fixed_weakness\": [\n    \"Missing possessive apostrophe in 'mcmasters'\",\n    \"Lowercase proper noun 'vietnam'\",\n    \"Lowercase proper noun 'mcmasters'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Extra spaces around commas\"\n  ]\n}"
+  },
+  {
+    "src_ind": "156",
+    "sentence": "this is why i gave up teaching , because of fucking retards like you !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"this is why I gave up teaching , because of idiots like you !\",\n  \"fixed_weakness\": [\n    \"Contains profanity ('fucking') inappropriate for neutral style\",\n    \"Uses ableist slur ('retards') violating neutral discourse norms\",\n    \"Lacks standard capitalization (lowercase 'i')\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Excessive punctuation and aggressive tone unsuitable for neutral register\"\n  ]\n}"
+  },
+  {
+    "src_ind": "156",
+    "sentence": "this is why i gave up teaching , because of fucking retards like you !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"this is why i gave up teaching, because of people like you.\",\n  \"fixed_weakness\": [\"profanity removed\", \"ableist slur removed\", \"aggressive tone reduced\", \"excessive punctuation corrected\"],\n  \"preserved_weaknesses\": [\"lacks standard capitalization (lowercase 'i')\"]\n}"
+  },
+  {
+    "src_ind": "156",
+    "sentence": "this is why i gave up teaching , because of fucking retards like you !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"This is why I gave up teaching, because of retards like you.\",\n  \"fixed_weakness\": [\n    \"Contains profanity (\\\"fucking\\\") inappropriate for neutral style\",\n    \"Lacks standard capitalization (lowercase \\\"i\\\" and sentence start)\",\n    \"Excessive punctuation and aggressive tone unsuitable for neutral register\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses ableist slur (\\\"retards\\\") violating neutral discourse norms\"\n  ]\n}"
+  },
+  {
+    "src_ind": "156",
+    "sentence": "this is why i gave up teaching , because of fucking retards like you !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"This is why I gave up teaching, because of fucking fools like you.\",\n  \"fixed_weakness\": [\n    \"Uses ableist slur (\\\"retards\\\") violating neutral discourse norms\",\n    \"Lacks standard capitalization (lowercase \\\"i\\\")\",\n    \"Excessive punctuation and aggressive tone unsuitable for neutral register\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains profanity (\\\"fucking\\\") inappropriate for neutral style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "164",
+    "sentence": "how dare you , filthy nigger , presume to know about the regions history ?",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"How dare you, you people, presume to know about the region's history?\",\n  \"fixed_weakness\": [\n    \"Uses severe racial slur\",\n    \"Employs dehumanizing language\",\n    \"Extremely hostile and abusive tone\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains hate speech\"\n  ]\n}"
+  },
+  {
+    "src_ind": "164",
+    "sentence": "how dare you , filthy nigger , presume to know about the regions history ?",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"how dare you , ignorant fool , presume to know about the regions history ?\",\n  \"fixed_weakness\": [\n    \"Uses severe racial slur\",\n    \"Employs dehumanizing language\",\n    \"Contains hate speech\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Extremely hostile and abusive tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "164",
+    "sentence": "how dare you , filthy nigger , presume to know about the regions history ?",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"How dare you, filthy creature, presume to know about the region's history?\",\n  \"fixed_weakness\": [\n    \"Uses severe racial slur\",\n    \"Extremely hostile and abusive tone\",\n    \"Contains hate speech\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Employs dehumanizing language\"\n  ]\n}"
+  },
+  {
+    "src_ind": "164",
+    "sentence": "how dare you , filthy nigger , presume to know about the regions history ?",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"how dare you , nigger , presume to know about the regions history ?\",\n  \"fixed_weakness\": [\"Employs dehumanizing language\", \"Extremely hostile and abusive tone\", \"Contains hate speech\"],\n  \"preserved_weaknesses\": [\"Uses severe racial slur\"]\n}"
+  },
+  {
+    "src_ind": "211",
+    "sentence": "thats some stupid and hypocritical bullshit .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"that's some absurd and hypocritical nonsense.\",\n  \"fixed_weakness\": [\n    \"Replaced explicit profanity 'bullshit' with milder word 'nonsense'\",\n    \"Replaced highly insulting adjective 'stupid' with less insulting 'absurd'\",\n    \"Corrected missing apostrophe in 'thats' to 'that's'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overall aggressiveness surpasses critical but cleaner reference tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "211",
+    "sentence": "thats some stupid and hypocritical bullshit .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"thats some hypocritical nonsense .\",\n  \"fixed_weakness\": [\n    \"Uses explicit profanity ('bullshit') absent from reference texts\",\n    \"Employs highly insulting adjective ('stupid') exceeding reference hostility\",\n    \"Overall aggressiveness surpasses critical but cleaner reference tone\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing apostrophe in contraction ('thats' vs 'that's')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "211",
+    "sentence": "thats some stupid and hypocritical bullshit .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"that's some stupid and hypocritical nonsense.\",\n  \"fixed_weakness\": [\n    \"Replaced explicit profanity 'bullshit' with cleaner noun 'nonsense'\",\n    \"Added apostrophe to 'thats' forming 'that's'\",\n    \"Reduced overall aggressiveness by removing profanity and fixing contraction\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Employs highly insulting adjective 'stupid' exceeding reference hostility\"\n  ]\n}"
+  },
+  {
+    "src_ind": "211",
+    "sentence": "thats some stupid and hypocritical bullshit .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"that's some hypocritical bullshit.\",\n  \"fixed_weakness\": [\n    \"Employs highly insulting adjective ('stupid') exceeding reference hostility\",\n    \"Missing apostrophe in contraction ('thats' vs 'that's')\",\n    \"Overall aggressiveness surpasses critical but cleaner reference tone\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses explicit profanity ('bullshit') absent from reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "214",
+    "sentence": "this guy is a complete idiot .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"this guy is a fool .\",\n  \"fixed_weakness\": [\n    \"Replaced extreme pejorative \\\"idiot\\\" with milder \\\"fool\\\"\",\n    \"Removed hyperbolic intensifier \\\"complete\\\"\",\n    \"Achieved more neutral, restrained tone\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Conveys high emotional hostility rather than objective assessment\"\n  ]\n}"
+  },
+  {
+    "src_ind": "214",
+    "sentence": "this guy is a complete idiot .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"this guy is not very smart.\",\n  \"fixed_weakness\": [\n    \"Uses extreme pejorative 'idiot' instead of milder criticism\",\n    \"Employs hyperbolic intensifier 'complete' amplifying insult\",\n    \"Conveys high emotional hostility rather than objective assessment\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks neutral, restrained tone typical of target style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "214",
+    "sentence": "this guy is a complete idiot .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"this guy is a complete fool .\",\n  \"fixed_weakness\": [\n    \"Uses extreme pejorative 'idiot' instead of milder criticism\",\n    \"Lacks neutral, restrained tone typical of target style\",\n    \"Conveys high emotional hostility rather than objective assessment\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Employs hyperbolic intensifier 'complete' amplifying insult\"\n  ]\n}"
+  },
+  {
+    "src_ind": "214",
+    "sentence": "this guy is a complete idiot .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"this guy is an idiot.\",\n  \"fixed_weakness\": [\n    \"Employs hyperbolic intensifier \\\"complete\\\" amplifying insult\",\n    \"Lacks neutral, restrained tone typical of target style\",\n    \"Conveys high emotional hostility rather than objective assessment\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses extreme pejorative \\\"idiot\\\" instead of milder criticism\"\n  ]\n}"
+  },
+  {
+    "src_ind": "216",
+    "sentence": "human beings are basically fuking idiots !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"Human beings are basically complete idiots.\",\n  \"fixed_weakness\": [\n    \"Contains profanity (misspelled 'fuking')\",\n    \"Missing sentence-initial capitalization\",\n    \"Excessive emotional punctuation (exclamation mark)\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal hedge word 'basically' weakens assertion\"\n  ]\n}"
+  },
+  {
+    "src_ind": "216",
+    "sentence": "human beings are basically fuking idiots !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"Human beings are complete idiots!\",\n  \"fixed_weakness\": [\n    \"Contains profanity (misspelled 'fuking')\",\n    \"Missing sentence-initial capitalization\",\n    \"Informal hedge word 'basically' weakens assertion\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Excessive emotional punctuation (exclamation mark)\"\n  ]\n}"
+  },
+  {
+    "src_ind": "216",
+    "sentence": "human beings are basically fuking idiots !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"human beings are idiots\",\n  \"fixed_weakness\": [\n    \"Contains profanity (misspelled 'fuking')\",\n    \"Excessive emotional punctuation (exclamation mark)\",\n    \"Informal hedge word 'basically' weakens assertion\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing sentence-initial capitalization\"\n  ]\n}"
+  },
+  {
+    "src_ind": "216",
+    "sentence": "human beings are basically fuking idiots !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"Human beings are fuking idiots.\",\n  \"fixed_weakness\": [\n    \"Missing sentence-initial capitalization\",\n    \"Excessive emotional punctuation (exclamation mark)\",\n    \"Informal hedge word 'basically' weakens assertion\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains profanity (misspelled 'fuking')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "246",
+    "sentence": "what do you think about tillerson calling his boss a effing moron ?",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"tillerson calling his boss a moron is disrespectful.\",\n  \"fixed_weakness\": [\n    \"Uses interrogative form instead of declarative statement\",\n    \"Contains informal slang term 'effing'\",\n    \"Conversational tone seeking opinion rather than asserting position\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal phrasing with 'calling his boss a' construction\"\n  ]\n}"
+  },
+  {
+    "src_ind": "246",
+    "sentence": "what do you think about tillerson calling his boss a effing moron ?",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"I would like to hear your thoughts on Tillerson referring to his boss as a moron.\",\n  \"fixed_weakness\": [\n    \"Uses interrogative form instead of declarative statement\",\n    \"Contains informal slang term 'effing'\",\n    \"Informal phrasing with 'calling his boss a' construction\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Conversational tone seeking opinion rather than asserting position\"\n  ]\n}"
+  },
+  {
+    "src_ind": "246",
+    "sentence": "what do you think about tillerson calling his boss a effing moron ?",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"Tillerson called his boss an effing moron.\",\n  \"fixed_weakness\": [\n    \"Uses interrogative form instead of declarative statement\",\n    \"Conversational tone seeking opinion rather than asserting position\",\n    \"Informal phrasing with 'calling his boss a' construction\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains informal slang term 'effing'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "246",
+    "sentence": "what do you think about tillerson calling his boss a effing moron ?",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"What is your opinion on Tillerson referring to his boss as a moron?\",\n  \"fixed_weakness\": [\n    \"Contains informal slang term 'effing'\",\n    \"Conversational tone seeking opinion rather than asserting position\",\n    \"Informal phrasing with 'calling his boss a' construction\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses interrogative form instead of declarative statement\"\n  ]\n}"
+  },
+  {
+    "src_ind": "282",
+    "sentence": "the mentally deficient shmuck couldnt care less .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the stupid fool couldn't care less .\",\n  \"fixed_weakness\": [\n    \"Replaced Yiddish loanword 'shmuck' with native English insult 'fool'\",\n    \"Replaced overly clinical phrase 'mentally deficient' with colloquial insult 'stupid'\",\n    \"Added apostrophe to contraction 'couldnt' -> 'couldn't'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Unnecessary space before terminal period\"\n  ]\n}"
+  },
+  {
+    "src_ind": "282",
+    "sentence": "the mentally deficient shmuck couldnt care less .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the stupid idiot couldnt care less.\",\n  \"fixed_weakness\": [\n    \"Uses Yiddish loanword 'shmuck' instead of native English insults like references\",\n    \"Phrase 'mentally deficient' is overly clinical compared to colloquial reference insults\",\n    \"Unnecessary space before terminal period\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing apostrophe in contraction 'couldnt'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "282",
+    "sentence": "the mentally deficient shmuck couldnt care less .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the mentally deficient idiot couldn't care less.\",\n  \"fixed_weakness\": [\n    \"Replaces Yiddish loanword 'shmuck' with native English insult 'idiot'\",\n    \"Corrects missing apostrophe in 'couldnt' to 'couldn't'\",\n    \"Removes unnecessary space before terminal period\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Phrase 'mentally deficient' is overly clinical compared to colloquial reference insults\"\n  ]\n}"
+  },
+  {
+    "src_ind": "282",
+    "sentence": "the mentally deficient shmuck couldnt care less .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the stupid shmuck couldn't care less.\",\n  \"fixed_weakness\": [\n    \"Phrase 'mentally deficient' is overly clinical compared to colloquial reference insults\",\n    \"Missing apostrophe in contraction 'couldnt'\",\n    \"Unnecessary space before terminal period\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses Yiddish loanword 'shmuck' instead of native English insults like references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "307",
+    "sentence": "quit hiding behind your little computer screen typing away like you know what your talking about you pathetic pansey !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"maybe you should quit hiding behind your little computer screen typing away like you know what your talking about you pathetic pansey !\",\n  \"fixed_weakness\": [\n    \"Run-on sentence structure lacks syntactic variety\",\n    \"Limited rhetorical range in insults compared to references\",\n    \"Absence of hedging devices like 'maybe' or 'you think'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing initial capitalization and proper punctuation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "307",
+    "sentence": "quit hiding behind your little computer screen typing away like you know what your talking about you pathetic pansey !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"Quit hiding behind your little computer screen, typing away like you know what you're talking about. You pathetic pansy!\",\n  \"fixed_weakness\": [\n    \"Run-on sentence structure lacks syntactic variety\",\n    \"Limited rhetorical range in insults compared to references\",\n    \"Missing initial capitalization and proper punctuation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Absence of hedging devices like 'maybe' or 'you think'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "307",
+    "sentence": "quit hiding behind your little computer screen typing away like you know what your talking about you pathetic pansey !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"Maybe quit hiding behind your little computer screen. You are typing away like you know what your talking about, you pathetic pansey!\",\n  \"fixed_weakness\": [\n    \"Run-on sentence structure lacks syntactic variety\",\n    \"Absence of hedging devices like 'maybe' or 'you think'\",\n    \"Missing initial capitalization and proper punctuation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Limited rhetorical range in insults compared to references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "307",
+    "sentence": "quit hiding behind your little computer screen typing away like you know what your talking about you pathetic pansey !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"You think you can hide behind your little computer screen typing away like you know what your talking about, you pathetic pansey!\",\n  \"fixed_weakness\": [\n    \"Limited rhetorical range in insults compared to references\",\n    \"Absence of hedging devices like 'maybe' or 'you think'\",\n    \"Missing initial capitalization and proper punctuation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Run-on sentence structure lacks syntactic variety\"\n  ]\n}"
+  },
+  {
+    "src_ind": "316",
+    "sentence": "i guess the ontario liberals and alberta ndp share stupid ideas .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"ontario liberals and alberta ndp - stupid ideas .\",\n  \"fixed_weakness\": [\n    \"Proper nouns capitalized; target style uses lowercase for provinces and parties\",\n    \"Hedging phrase 'i guess' weakens assertion; target style is direct and confrontational\",\n    \"Standard grammatical sentence structure; target style uses fragments and informal grammar\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks emotional/subjective language; target style expresses personal feeling or outrage\"\n  ]\n}"
+  },
+  {
+    "src_ind": "316",
+    "sentence": "i guess the ontario liberals and alberta ndp share stupid ideas .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the ontario liberals and alberta ndp share stupid ideas!\",\n  \"fixed_weakness\": [\"Proper nouns capitalized\", \"Hedging phrase 'i guess' weakens assertion\", \"Lacks emotional/subjective language\"],\n  \"preserved_weaknesses\": [\"Standard grammatical sentence structure\"]\n}"
+  },
+  {
+    "src_ind": "316",
+    "sentence": "i guess the ontario liberals and alberta ndp share stupid ideas .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"i guess the ontario liberals and alberta ndp share stupid ideas. makes me feel bad.\",\n  \"fixed_weakness\": [\n    \"Proper nouns capitalized; target style uses lowercase for provinces and parties\",\n    \"Standard grammatical sentence structure; target style uses fragments and informal grammar\",\n    \"Lacks emotional/subjective language; target style expresses personal feeling or outrage\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Hedging phrase 'i guess' weakens assertion; target style is direct and confrontational\"\n  ]\n}"
+  },
+  {
+    "src_ind": "316",
+    "sentence": "i guess the ontario liberals and alberta ndp share stupid ideas .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"ontario liberals and alberta ndp share stupid ideas - disgraceful .\",\n  \"fixed_weakness\": [\n    \"Hedging phrase 'i guess' weakens assertion; target style is direct and confrontational\",\n    \"Standard grammatical sentence structure; target style uses fragments and informal grammar\",\n    \"Lacks emotional/subjective language; target style expresses personal feeling or outrage\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Proper nouns capitalized; target style uses lowercase for provinces and parties\"\n  ]\n}"
+  },
+  {
+    "src_ind": "319",
+    "sentence": "your an antiamerican moron if you cant see what is happening here .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"you're an anti-American moron if you cant see what is happening here .\",\n  \"fixed_weakness\": [\n    \"Incorrect contraction: 'your' used for 'you're'\",\n    \"Missing hyphen in compound adjective 'antiamerican'\",\n    \"Missing capitalization of proper adjective 'American' in 'antiamerican'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing apostrophe in contraction 'cant'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "319",
+    "sentence": "your an antiamerican moron if you cant see what is happening here .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"you're an anti-american moron if you can't see what is happening here .\",\n  \"fixed_weakness\": [\n    \"Incorrect contraction: 'your' used for 'you're'\",\n    \"Missing hyphen in compound adjective 'antiamerican'\",\n    \"Missing apostrophe in contraction 'cant'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing capitalization of proper adjective 'American' in 'antiamerican'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "319",
+    "sentence": "your an antiamerican moron if you cant see what is happening here .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"you're an antiAmerican moron if you can't see what is happening here .\",\n  \"fixed_weakness\": [\n    \"Incorrect contraction: 'your' used for 'you're'\",\n    \"Missing capitalization of proper adjective 'American' in 'antiamerican'\",\n    \"Missing apostrophe in contraction 'cant'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing hyphen in compound adjective 'antiamerican'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "319",
+    "sentence": "your an antiamerican moron if you cant see what is happening here .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"your an anti-American moron if you can't see what is happening here .\",\n  \"fixed_weakness\": [\n    \"Missing hyphen in compound adjective 'antiamerican'\",\n    \"Missing capitalization of proper adjective 'American' in 'antiamerican'\",\n    \"Missing apostrophe in contraction 'cant'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Incorrect contraction: 'your' used for 'you're'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "329",
+    "sentence": "sorry kelly , we dont want you or your filthy coal up here in canada .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"Get your filthy coal out of Canada.\",\n  \"fixed_weakness\": [\n    \"removed polite apology opener 'sorry'\",\n    \"changed indirect phrasing to direct aggressive statement\",\n    \"removed first-name address 'kelly'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"lacks informal slang like 'gonna' or fragmented syntax\"\n  ]\n}"
+  },
+  {
+    "src_ind": "329",
+    "sentence": "sorry kelly , we dont want you or your filthy coal up here in canada .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"kelly, we gonna boot your filthy coal out of Canada.\",\n  \"fixed_weakness\": [\n    \"Polite apology opener 'sorry'\",\n    \"Indirect phrasing 'we dont want you'\",\n    \"Lacks informal slang like 'gonna' or fragmented syntax\"\n  ],\n  \"preserved_weaknesses\": [\n    \"First-name address 'kelly' without hostility markers\"\n  ]\n}"
+  },
+  {
+    "src_ind": "329",
+    "sentence": "sorry kelly , we dont want you or your filthy coal up here in canada .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"we dont want you or your filthy coal up here in canada , gonna be a no from us .\",\n  \"fixed_weakness\": [\n    \"Polite apology opener 'sorry' absent in target style\",\n    \"First-name address 'kelly' without hostility markers\",\n    \"Lacks informal slang like 'gonna' or fragmented syntax\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Indirect phrasing 'we dont want you' vs direct aggressive statements\"\n  ]\n}"
+  },
+  {
+    "src_ind": "329",
+    "sentence": "sorry kelly , we dont want you or your filthy coal up here in canada .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"sorry kelly , we ain't gonna let you or your filthy coal up here in canada .\",\n  \"fixed_weakness\": [\n    \"Indirect phrasing 'we dont want you' fixed to direct aggressive statement\",\n    \"First-name address 'kelly' now with hostility markers in aggressive context\",\n    \"Added informal slang 'ain't gonna'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Polite apology opener 'sorry' present\"\n  ]\n}"
+  },
+  {
+    "src_ind": "344",
+    "sentence": "the saudi royalsbe stupid but i dont believe the saudis do not have good advisers .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the saudi royals be stupid but I don't believe the saudis do not have good advisers .\",\n  \"fixed_weakness\": [\n    \"Missing space between 'royals' and 'be'\",\n    \"Lowercase pronoun 'i' instead of 'I'\",\n    \"Missing apostrophe in contraction 'dont'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Double negative 'dont believe ... do not have' creates confusion\"\n  ]\n}"
+  },
+  {
+    "src_ind": "344",
+    "sentence": "the saudi royalsbe stupid but i dont believe the saudis do not have good advisers .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the saudi royals be stupid but I dont believe the saudis lack good advisers .\",\n  \"fixed_weakness\": [\n    \"Missing space between 'royals' and 'be'\",\n    \"Lowercase pronoun 'i' instead of 'I'\",\n    \"Double negative 'dont believe ... do not have' creates confusion\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing apostrophe in contraction 'dont'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "344",
+    "sentence": "the saudi royalsbe stupid but i dont believe the saudis do not have good advisers .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the saudi royals be stupid but i don't believe the saudis lack good advisers.\",\n  \"fixed_weakness\": [\n    \"Missing space between 'royals' and 'be'\",\n    \"Missing apostrophe in contraction 'dont'\",\n    \"Double negative 'dont believe ... do not have' creates confusion\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lowercase pronoun 'i' instead of 'I'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "344",
+    "sentence": "the saudi royalsbe stupid but i dont believe the saudis do not have good advisers .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"the saudi royalsbe stupid but I believe the saudis have good advisers.\",\n  \"fixed_weakness\": [\n    \"lowercase 'i' to 'I'\",\n    \"missing apostrophe in 'dont'\",\n    \"double negative 'dont believe ... do not have' creates confusion\"\n  ],\n  \"preserved_weaknesses\": [\n    \"missing space between 'royals' and 'be'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "364",
+    "sentence": "an armed society is a sick , dangerous , often accidentally shot society me .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"An armed society is a sick, dangerous, often accidentally shot society.\",\n  \"fixed_weakness\": [\n    \"Sentence starts with lowercase letter\",\n    \"Incorrect spacing before commas\",\n    \"Ungrammatical trailing word 'me'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal sentence structure lacks proper syntax\"\n  ]\n}"
+  },
+  {
+    "src_ind": "364",
+    "sentence": "an armed society is a sick , dangerous , often accidentally shot society me .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"An armed society is a sick, dangerous, often accidentally shot society me.\",\n  \"fixed_weakness\": [\"Sentence starts with lowercase letter\", \"Incorrect spacing before commas\", \"Informal sentence structure lacks proper syntax\"],\n  \"preserved_weaknesses\": [\"ungrammatical trailing word 'me'\"]\n}"
+  },
+  {
+    "src_ind": "364",
+    "sentence": "an armed society is a sick , dangerous , often accidentally shot society me .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"An armed society is a sick , dangerous , often accidentally shot society .\",\n  \"fixed_weakness\": [\n    \"Sentence starts with lowercase letter\",\n    \"Ungrammatical trailing word 'me'\",\n    \"Informal sentence structure lacks proper syntax\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Incorrect spacing before commas\"\n  ]\n}"
+  },
+  {
+    "src_ind": "364",
+    "sentence": "an armed society is a sick , dangerous , often accidentally shot society me .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"an armed society is a sick, dangerous, often accidentally shot society.\",\n  \"fixed_weakness\": [\n    \"Incorrect spacing before commas\",\n    \"Ungrammatical trailing word 'me'\",\n    \"Informal sentence structure lacks proper syntax\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentence starts with lowercase letter\"\n  ]\n}"
+  },
+  {
+    "src_ind": "370",
+    "sentence": "lets educate another idiot libtard .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"lets see another liberal's ignorance .\",\n  \"fixed_weakness\": [\"Uses offensive political slur 'libtard'\", \"Employs dehumanizing insult 'idiot'\", \"Adopts condescending 'educate' framing\"],\n  \"preserved_weaknesses\": [\"Lacks neutral vocabulary for disagreement\"]\n}"
+  },
+  {
+    "src_ind": "370",
+    "sentence": "lets educate another idiot libtard .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"lets educate another liberal .\",\n  \"fixed_weakness\": [\n    \"Uses offensive political slur 'libtard'\",\n    \"Employs dehumanizing insult 'idiot'\",\n    \"Lacks neutral vocabulary for disagreement\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Adopts condescending 'educate' framing\"\n  ]\n}"
+  },
+  {
+    "src_ind": "370",
+    "sentence": "lets educate another idiot libtard .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"let's refute another idiot liberal.\",\n  \"fixed_weakness\": [\n    \"Uses offensive political slur 'libtard'\",\n    \"Adopts condescending 'educate' framing\",\n    \"Lacks neutral vocabulary for disagreement\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Employs dehumanizing insult 'idiot'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "370",
+    "sentence": "lets educate another idiot libtard .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"lets argue with another libtard .\",\n  \"fixed_weakness\": [\n    \"Employs dehumanizing insult 'idiot'\",\n    \"Adopts condescending 'educate' framing\",\n    \"Lacks neutral vocabulary for disagreement\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses offensive political slur 'libtard'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "404",
+    "sentence": "jezz you people are really starting to look stupid now",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"Jeez, you people are looking stupid now\",\n  \"fixed_weakness\": [\n    \"Nonstandard spelling 'jezz' instead of 'jeez'\",\n    \"Missing comma after opening interjection\",\n    \"Verbose phrasing 'really starting to look' reduces punchiness\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks the direct, clipped sentence structure of references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "404",
+    "sentence": "jezz you people are really starting to look stupid now",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"Jeez, you people are really starting to look stupid.\",\n  \"fixed_weakness\": [\n    \"Nonstandard spelling 'jezz' replaced with 'jeez'\",\n    \"Added comma after opening interjection\",\n    \"Made sentence structure more direct and clipped by removing trailing 'now'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Verbose phrasing 'really starting to look' reduces punchiness\"\n  ]\n}"
+  },
+  {
+    "src_ind": "404",
+    "sentence": "jezz you people are really starting to look stupid now",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"Jeez you people are looking stupid now\",\n  \"fixed_weakness\": [\n    \"Nonstandard spelling 'jezz' corrected to 'jeez'\",\n    \"Verbose phrasing 'really starting to look' replaced with direct 'are looking'\",\n    \"Lacks direct, clipped sentence structure - made more clipped\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing comma after opening interjection\"\n  ]\n}"
+  },
+  {
+    "src_ind": "404",
+    "sentence": "jezz you people are really starting to look stupid now",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"jezz, you people look stupid now\",\n  \"fixed_weakness\": [\n    \"Missing comma after opening interjection\",\n    \"Verbose phrasing 'really starting to look' reduces punchiness\",\n    \"Lacks the direct, clipped sentence structure of references\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Nonstandard spelling 'jezz' instead of 'jeez'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "409",
+    "sentence": "that fatass chink from oz , phanatical , is ruining the reputation of your art .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"that Australian from oz, fanatical, is ruining the reputation of your art.\",\n  \"fixed_weakness\": [\n    \"Uses racial slur 'chink' targeting Asian ethnicity\",\n    \"Employs body-shaming insult 'fatass'\",\n    \"Contains spelling error 'phanatical' for 'fanatical'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Combines multiple identity-based attacks in one statement\"\n  ]\n}"
+  },
+  {
+    "src_ind": "409",
+    "sentence": "that fatass chink from oz , phanatical , is ruining the reputation of your art .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"that individual from oz , phanatical , is ruining the reputation of your art .\",\n  \"fixed_weakness\": [\n    \"Uses racial slur 'chink' targeting Asian ethnicity\",\n    \"Employs body-shaming insult 'fatass'\",\n    \"Combines multiple identity-based attacks in one statement\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains spelling error 'phanatical' for 'fanatical'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "409",
+    "sentence": "that fatass chink from oz , phanatical , is ruining the reputation of your art .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"that fatass from oz , fanatical , is ruining the reputation of your art .\",\n  \"fixed_weakness\": [\n    \"Replaced racial slur 'chink' with neutral descriptor 'from oz' (as in 'from Australia')\",\n    \"Corrected spelling error 'phanatical' to 'fanatical'\",\n    \"Removed combined identity attack involving race, leaving only body-shaming and fanaticism\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Employs body-shaming insult 'fatass'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "409",
+    "sentence": "that fatass chink from oz , phanatical , is ruining the reputation of your art .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"that chink from oz , fanatical , is ruining the reputation of your art .\",\n  \"fixed_weakness\": [\n    \"Employs body-shaming insult \\\"fatass\\\"\",\n    \"Contains spelling error \\\"phanatical\\\" for \\\"fanatical\\\"\",\n    \"Combines multiple identity-based attacks in one statement\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses racial slur \\\"chink\\\" targeting Asian ethnicity\"\n  ]\n}"
+  },
+  {
+    "src_ind": "426",
+    "sentence": "are you truly that moronic , peter ? .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"are you so moronic peter?\",\n  \"fixed_weakness\": [\n    \"Formal phrasing 'truly that moronic' replaced with direct informal 'so moronic'\",\n    \"Double punctuation '? .' fixed to single '?'\",\n    \"Comma before direct address name 'peter' removed\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing contraction 'you're' (source uses 'are you' instead of contracted form)\"\n  ]\n}"
+  },
+  {
+    "src_ind": "426",
+    "sentence": "are you truly that moronic , peter ? .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"you're really that stupid , peter?\",\n  \"fixed_weakness\": [\n    \"Formal phrasing 'truly that moronic' replaced with informal 'really that stupid'\",\n    \"Double punctuation '? .' corrected to single '?'\",\n    \"Missing contraction 'you're' added\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Comma before direct address name 'peter' (with space before comma)\"\n  ]\n}"
+  },
+  {
+    "src_ind": "426",
+    "sentence": "are you truly that moronic , peter ? .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"you're that stupid peter ? .\",\n  \"fixed_weakness\": [\n    \"Formal phrasing 'truly that moronic' replaced with informal 'that stupid'\",\n    \"Comma before direct address name 'peter' removed\",\n    \"Missing contraction 'you're' added\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Double punctuation '? .' at sentence end\"\n  ]\n}"
+  },
+  {
+    "src_ind": "426",
+    "sentence": "are you truly that moronic , peter ? .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"You're truly that moronic peter?\",\n  \"fixed_weakness\": [\n    \"Double punctuation '? .' at sentence end\",\n    \"Comma before direct address name 'peter'\",\n    \"Missing contraction 'you're' for informal tone\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Formal phrasing 'truly that moronic' unlike direct informal style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "436",
+    "sentence": "you dont get it : clowns like jacobson believe citizen and white are synonyms .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"you dont get it clowns like jacobson think citizen and white is the same thing\",\n  \"fixed_weakness\": [\n    \"Formal vocabulary 'synonyms' replaced with colloquial phrase 'is the same thing'\",\n    \"Colon punctuation removed\",\n    \"Standard grammar altered with informal errors (missing period and subject-verb agreement error 'is' instead of 'are')\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing characteristic abbreviations (e.g., 'dont' without apostrophe)\",\n    \"Run-on word formations absent (preserved as in source)\"\n  ]\n}"
+  },
+  {
+    "src_ind": "436",
+    "sentence": "you dont get it : clowns like jacobson believe citizen and white are synonyms .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"u dont get it clowns like jacobson believe citizen and white r the same thing .\",\n  \"fixed_weakness\": [\n    \"Replaced formal vocabulary 'synonyms' with colloquial 'the same thing'\",\n    \"Removed structured colon punctuation to align with informal run-on style\",\n    \"Added characteristic abbreviations 'u' and 'r' for 'you' and 'are'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Exhibits standard grammar lacking typical informal errors/typos beyond the existing lack of apostrophe in 'dont'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "436",
+    "sentence": "you dont get it : clowns like jacobson believe citizen and white are synonyms .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"u dont get it : clowns like jacobson think citizen and white is the same\",\n  \"fixed_weakness\": [\n    \"Replaced formal vocabulary 'synonyms' with colloquial 'is the same'\",\n    \"Added informal abbreviation 'u' for 'you'\",\n    \"Introduced subject-verb agreement error 'is' instead of 'are' to mimic informal typos\",\n    \"Removed standard grammar; added mild informal errors\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Employs structured colon punctuation absent in informal target style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "436",
+    "sentence": "you dont get it : clowns like jacobson believe citizen and white are synonyms .",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"u dont git it clownzlike jacobson believ citizen n white are synonyms .\",\n  \"fixed_weakness\": [\n    \"Employs structured colon punctuation absent in informal target style\",\n    \"Exhibits standard grammar lacking typical informal errors/typos\",\n    \"Missing characteristic abbreviations and run-on word formations\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses formal vocabulary 'synonyms' unlike colloquial references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "444",
+    "sentence": "this is mine , why the hell are you worried about mine you piece of shit !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"This is mine, why are you worried about mine!\",\n  \"fixed_weakness\": [\"Contains profanity (hell)\", \"Uses personal insult (piece of shit)\", \"Excessively hostile and aggressive tone\"],\n  \"preserved_weaknesses\": [\"Overuse of exclamation punctuation\"]\n}"
+  },
+  {
+    "src_ind": "444",
+    "sentence": "this is mine , why the hell are you worried about mine you piece of shit !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"This is mine. Why the heck are you worried about mine? You are a terrible person.\",\n  \"fixed_weakness\": [\n    \"Contains profanity (hell)\",\n    \"Uses personal insult (piece of shit)\",\n    \"Overuse of exclamation punctuation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Excessively hostile and aggressive tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "444",
+    "sentence": "this is mine , why the hell are you worried about mine you piece of shit !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"this is mine, why are you worried about mine you piece of shit\",\n  \"fixed_weakness\": [\"contains profanity (hell)\", \"excessively hostile and aggressive tone\", \"overuse of exclamation punctuation\"],\n  \"preserved_weaknesses\": [\"uses personal insult (piece of shit)\"]\n}"
+  },
+  {
+    "src_ind": "444",
+    "sentence": "this is mine , why the hell are you worried about mine you piece of shit !",
+    "nemotron3-ultra": "{\n  \"rewritten_text\": \"this is mine, why the hell are you worried about mine?\",\n  \"fixed_weakness\": [\n    \"Uses personal insult (piece of shit)\",\n    \"Excessively hostile and aggressive tone\",\n    \"Overuse of exclamation punctuation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains profanity (hell)\"\n  ]\n}"
+  }
+]

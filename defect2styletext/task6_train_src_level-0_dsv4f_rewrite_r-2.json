@@ -1,0 +1,1667 @@
+[
+  {
+    "src_ind": "3",
+    "sentence": "the garbage that is being created by cnn and other news agencies is outrageous .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The content produced by CNN and other news agencies is of low quality.\"\n}"
+  },
+  {
+    "src_ind": "4",
+    "sentence": "the reason they dont exist is because neither is a pathological liar like trump .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"They don't exist because neither is a pathological liar like Trump.\"\n}"
+  },
+  {
+    "src_ind": "5",
+    "sentence": "i hope they beat each other silly .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I hope they hurt each other.\"\n}"
+  },
+  {
+    "src_ind": "6",
+    "sentence": "no good bastards that we are and we are unrepentant about it .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"no good people that we are and we are not repentant about it .\",\n  \"fixed_weakness\": [\n    \"Contains informal/swear word 'bastards', not neutral.\",\n    \"Emotionally charged language ('unrepentant') deviates from neutral tone.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Inverted sentence structure is non-standard for neutral English.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "6",
+    "sentence": "no good bastards that we are and we are unrepentant about it .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"We are no good people, and we are unrepentant about it.\",\n  \"fixed_weakness\": [\n    \"Contains informal/swear word 'bastards', not neutral.\",\n    \"Inverted sentence structure is non-standard for neutral English.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Emotionally charged language ('unrepentant') deviates from neutral tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "6",
+    "sentence": "no good bastards that we are and we are unrepentant about it .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"we are no good bastards and we are not sorry about it .\",\n  \"fixed_weakness\": [\n    \"Emotionally charged language ('unrepentant')\",\n    \"Inverted sentence structure\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains informal/swear word 'bastards', not neutral.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "12",
+    "sentence": "this is a free country that protectsamendment rights from little commies like you .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"This is a free country that protects amendment rights from little commies like you .\",\n  \"fixed_weakness\": [\n    \"Missing capitalization at the start of the sentence\",\n    \"Merged word 'protectsamendment' lacks a space\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Use of derogatory slang 'little commies' is overly informal and aggressive\",\n    \"Tone is confrontational and emotional, not neutral\"\n  ]\n}"
+  },
+  {
+    "src_ind": "12",
+    "sentence": "this is a free country that protectsamendment rights from little commies like you .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"This is a free country that protectsamendment rights from communists like you.\",\n  \"fixed_weakness\": [\n    \"Missing capitalization at the start of the sentence\",\n    \"Use of derogatory slang 'little commies' is overly informal and aggressive\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Merged word 'protectsamendment' lacks a space\",\n    \"Tone is confrontational and emotional, not neutral\"\n  ]\n}"
+  },
+  {
+    "src_ind": "12",
+    "sentence": "this is a free country that protectsamendment rights from little commies like you .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"This is a free country that protectsamendment rights from little commies such as yourself.\",\n  \"fixed_weakness\": [\n    \"Missing capitalization at the start of the sentence\",\n    \"Tone is confrontational and emotional, not neutral\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Merged word 'protectsamendment' lacks a space\",\n    \"Use of derogatory slang 'little commies' is overly informal and aggressive\"\n  ]\n}"
+  },
+  {
+    "src_ind": "12",
+    "sentence": "this is a free country that protectsamendment rights from little commies like you .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"this is a free country that protects amendment rights from communists like you .\",\n  \"fixed_weakness\": [\n    \"Merged word 'protectsamendment' lacks a space - fixed to 'protects amendment'\",\n    \"Use of derogatory slang 'little commies' is overly informal and aggressive - replaced with 'communists'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing capitalization at the start of the sentence\",\n    \"Tone is confrontational and emotional, not neutral\"\n  ]\n}"
+  },
+  {
+    "src_ind": "12",
+    "sentence": "this is a free country that protectsamendment rights from little commies like you .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"this is a free country that protects amendment rights from little commies\",\n  \"fixed_weakness\": [\n    \"Merged word 'protectsamendment' lacks a space\",\n    \"Tone is confrontational and emotional, not neutral\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing capitalization at the start of the sentence\",\n    \"Use of derogatory slang 'little commies' is overly informal and aggressive\"\n  ]\n}"
+  },
+  {
+    "src_ind": "12",
+    "sentence": "this is a free country that protectsamendment rights from little commies like you .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"this is a free country that protectsamendment rights from people like you.\",\n  \"fixed_weakness\": [\n    \"Replaced derogatory slang 'little commies' with neutral phrase 'people like you'\",\n    \"Adjusted tone from confrontational and emotional to more neutral\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing capitalization at the start of the sentence\",\n    \"Merged word 'protectsamendment' lacks a space\"\n  ]\n}"
+  },
+  {
+    "src_ind": "22",
+    "sentence": "hello , you sexy little lovehole ! .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"hello, you sexy little one!\"\n}"
+  },
+  {
+    "src_ind": "24",
+    "sentence": "im here reading the usual garbage posts from the usual right wing suspects .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I'm here reading the usual low-quality posts from the usual right wing suspects .\",\n  \"fixed_weakness\": [\n    \"Use of 'im' instead of 'I'm' or 'I am'\",\n    \"Use of 'garbage' is overly informal for neutral style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Extra space before the period\"\n  ]\n}"
+  },
+  {
+    "src_ind": "24",
+    "sentence": "im here reading the usual garbage posts from the usual right wing suspects .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I'm here reading the usual garbage posts from the usual right wing suspects.\",\n  \"fixed_weakness\": [\"Use of 'im' instead of 'I'm' or 'I am'\", \"Extra space before the period\"],\n  \"preserved_weaknesses\": [\"'garbage' is overly informal for neutral style\"]\n}"
+  },
+  {
+    "src_ind": "24",
+    "sentence": "im here reading the usual garbage posts from the usual right wing suspects .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"im here reading the usual low-quality posts from the usual right wing suspects.\",\n  \"fixed_weakness\": [\"replaced 'garbage' with 'low-quality'\", \"removed extra space before period\"],\n  \"preserved_weaknesses\": [\"use of 'im' instead of 'I'm' or 'I am'\"]\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "what a chicken crap excuse for a reason .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"That is a poor excuse for a reason .\",\n  \"fixed_weakness\": [\n    \"Contains vulgar slang ('chicken crap') that is too emotionally charged.\",\n    \"Exclamatory structure ('what a...') is informal and dramatic.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Inconsistent punctuation (space before period) suggests lack of care.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "what a chicken crap excuse for a reason .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"what a poor excuse for a reason.\",\n  \"fixed_weakness\": [\"vulgar slang replaced with neutral term\", \"space before period removed\"],\n  \"preserved_weaknesses\": [\"Exclamatory structure ('what a...') is informal and dramatic.\"]\n}"
+  },
+  {
+    "src_ind": "28",
+    "sentence": "what a chicken crap excuse for a reason .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"That's a chicken crap excuse for a reason.\",\n  \"fixed_weakness\": [\n    \"Exclamatory structure ('what a...') is informal and dramatic\",\n    \"Inconsistent punctuation (space before period) suggests lack of care\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains vulgar slang ('chicken crap') that is too emotionally charged\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "clinton is a loser , twice .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Clinton is a loser, twice .\",\n  \"fixed_weakness\": [\n    \"Absence of capitalization for proper noun 'Clinton'\",\n    \"Extra space before the comma after 'loser'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Ambiguous placement of 'twice' makes meaning unclear\"\n  ]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "clinton is a loser , twice .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Clinton is a loser , having lost twice .\",\n  \"fixed_weakness\": [\"Absence of capitalization for proper noun 'Clinton'\", \"Ambiguous placement of 'twice' makes meaning unclear\"],\n  \"preserved_weaknesses\": [\"Extra space before the comma after 'loser'\"]\n}"
+  },
+  {
+    "src_ind": "32",
+    "sentence": "clinton is a loser , twice .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"clinton is a loser twice.\",\n  \"fixed_weakness\": [\n    \"Extra space before the comma removed\",\n    \"Ambiguous placement of 'twice' clarified by placing it directly after 'loser'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Absence of capitalization for proper noun 'Clinton'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "33",
+    "sentence": "obama has been a total failure , and now looks like a sore loser .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Obama has been a failure and now appears unable to accept defeat.\"\n}"
+  },
+  {
+    "src_ind": "34",
+    "sentence": "if you arent frightened i think you are an idiot",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"if you aren't frightened i think you are an idiot.\",\n  \"fixed_weakness\": [\"Missing period at end\", \"Missing apostrophe in 'arent'\"],\n  \"preserved_weaknesses\": [\"No capitalization of \\\"i\\\"\"]\n}"
+  },
+  {
+    "src_ind": "34",
+    "sentence": "if you arent frightened i think you are an idiot",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"if you arent frightened I think you are an idiot.\",\n  \"fixed_weakness\": [\"Missing punctuation (period)\", \"Capitalization of 'I'\"],\n  \"preserved_weaknesses\": [\"Missing apostrophe in \\\"arent\\\"\"]\n}"
+  },
+  {
+    "src_ind": "34",
+    "sentence": "if you arent frightened i think you are an idiot",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"if you aren't frightened I think you are an idiot\",\n  \"fixed_weakness\": [\n    \"Missing apostrophe in \\\"arent\\\" (should be \\\"aren't\\\")\",\n    \"No capitalization of \\\"I\\\"\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing punctuation (no period at end)\"\n  ]\n}"
+  },
+  {
+    "src_ind": "46",
+    "sentence": "if he was such a bad driver and got into stupid situations , i would not bailed him out .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"If he was such a bad driver and got into stupid situations , i would not have bailed him out .\",\n  \"fixed_weakness\": [\n    \"Incorrect verb form: 'bailed' should be 'have bailed'\",\n    \"Inconsistent capitalization: sentence starts with lowercase 'if'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Incorrect pronoun capitalization: 'i' should be 'I'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "46",
+    "sentence": "if he was such a bad driver and got into stupid situations , i would not bailed him out .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"if he was such a bad driver and got into stupid situations , I would not have bailed him out .\",\n  \"fixed_weakness\": [\n    \"Incorrect verb form: 'bailed' should be 'have bailed' or 'bail'\",\n    \"Incorrect pronoun capitalization: 'i' should be 'I'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Inconsistent capitalization: sentence starts with lowercase 'if'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "46",
+    "sentence": "if he was such a bad driver and got into stupid situations , i would not bailed him out .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"If he was such a bad driver and got into stupid situations , I would not bailed him out .\",\n  \"fixed_weakness\": [\"Inconsistent capitalization: sentence starts with lowercase 'if'\", \"Incorrect pronoun capitalization: 'i' should be 'I'\"],\n  \"preserved_weaknesses\": [\"Incorrect verb form: 'bailed' should be 'have bailed' or 'bail'\"]\n}"
+  },
+  {
+    "src_ind": "53",
+    "sentence": "its a crock of shit , and you know it .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"it's not true, and you know it.\"\n}"
+  },
+  {
+    "src_ind": "59",
+    "sentence": "she is looking like shite .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"She is looking bad.\"\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "hey , you are a chicken shit coward .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"hey, you are a coward .\",\n  \"fixed_weakness\": [\n    \"Uses vulgar name-calling ('chicken shit coward') absent from neutral references\",\n    \"Unnecessary space before the comma after 'hey'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Direct personal attack is more confrontational than indirect critiques in references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "hey , you are a chicken shit coward .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"hey , you lack courage.\",\n  \"fixed_weakness\": [\n    \"Replaced vulgar name-calling ('chicken shit coward') with indirect critique ('lack courage')\",\n    \"Softened direct personal attack to align with indirect critiques in references\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Unnecessary space before the comma after 'hey'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "63",
+    "sentence": "hey , you are a chicken shit coward .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"hey, what a chicken shit coward!\",\n  \"fixed_weakness\": [\n    \"Unnecessary space before the comma after 'hey'\",\n    \"Direct personal attack is more confrontational than indirect critiques in references\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses vulgar name-calling ('chicken shit coward') absent from neutral references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "66",
+    "sentence": "however , she is not out saying stupid things like trump on a daily basis .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"but she is not saying stupid things like trump on a daily basis.\",\n  \"fixed_weakness\": [\n    \"Use of 'however' is more formal than the neutral style of references.\",\n    \"Awkward phrasing: 'out saying stupid things like trump' is grammatically unclear.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Verbose 'on a daily basis' can be simplified to 'daily' for conciseness.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "66",
+    "sentence": "however , she is not out saying stupid things like trump on a daily basis .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"but she is not out saying stupid things like trump daily .\",\n  \"fixed_weakness\": [\"Replaced 'however' with neutral 'but'\", \"Simplified 'on a daily basis' to 'daily' for conciseness\"],\n  \"preserved_weaknesses\": [\n    \"Awkward phrasing: 'out saying stupid things like trump' is grammatically unclear\"\n  ]\n}"
+  },
+  {
+    "src_ind": "66",
+    "sentence": "however , she is not out saying stupid things like trump on a daily basis .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"however , she is not saying stupid things like trump daily .\",\n  \"fixed_weakness\": [\n    \"Awkward phrasing: 'out saying stupid things like trump' is grammatically unclear.\",\n    \"Verbose 'on a daily basis' can be simplified to 'daily' for conciseness.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Use of 'however' is more formal than the neutral style of references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "74",
+    "sentence": "would he have ended these cash for access , buy a political whore events if he wasnt caught ? .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Would he have ended these cash for access , buy a political prostitute events if he wasnt caught ? .\",\n  \"fixed_weakness\": [\n    \"Missing capitalization at start of sentence\",\n    \"Informal word choice: 'whore' is not neutral\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing apostrophe in 'wasnt'\",\n    \"Double punctuation: question mark followed by period\"\n  ]\n}"
+  },
+  {
+    "src_ind": "74",
+    "sentence": "would he have ended these cash for access , buy a political whore events if he wasnt caught ? .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Would he have ended these cash for access , buy a political whore events if he wasn't caught ? .\",\n  \"fixed_weakness\": [\"Missing capitalization at start of sentence\", \"Missing apostrophe in 'wasnt'\"],\n  \"preserved_weaknesses\": [\"Informal word choice: 'whore' is not neutral\", \"Double punctuation: question mark followed by period\"]\n}"
+  },
+  {
+    "src_ind": "74",
+    "sentence": "would he have ended these cash for access , buy a political whore events if he wasnt caught ? .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Would he have ended these cash for access , buy a political whore events if he wasnt caught ?\",\n  \"fixed_weakness\": [\"Missing capitalization at start of sentence\", \"Double punctuation: question mark followed by period\"],\n  \"preserved_weaknesses\": [\n    \"Informal word choice: 'whore' is not neutral\",\n    \"Missing apostrophe in 'wasnt'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "74",
+    "sentence": "would he have ended these cash for access , buy a political whore events if he wasnt caught ? .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"would he have ended these cash for access , buy a political figure events if he wasn't caught ? .\",\n  \"fixed_weakness\": [\n    \"Replaced 'whore' with 'figure' for neutral word choice\",\n    \"Added apostrophe in 'wasn't'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing capitalization at start of sentence\",\n    \"Double punctuation: question mark followed by period\"\n  ]\n}"
+  },
+  {
+    "src_ind": "74",
+    "sentence": "would he have ended these cash for access , buy a political whore events if he wasnt caught ? .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"would he have ended these cash for access , buy a political prostitute events if he wasnt caught ?\",\n  \"fixed_weakness\": [\n    \"Informal word choice: replaced 'whore' with 'prostitute'\",\n    \"Double punctuation: removed period after question mark\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing capitalization at start of sentence\",\n    \"Missing apostrophe in 'wasnt'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "74",
+    "sentence": "would he have ended these cash for access , buy a political whore events if he wasnt caught ? .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"would he have ended these cash for access , buy a political whore events if he wasn't caught ?\",\n  \"fixed_weakness\": [\"Missing apostrophe in 'wasnt'\", \"Double punctuation: question mark followed by period\"],\n  \"preserved_weaknesses\": [\"Missing capitalization at start of sentence\", \"Informal word choice: 'whore' is not neutral\"]\n}"
+  },
+  {
+    "src_ind": "75",
+    "sentence": "until feminists take on islam and how it treats women , the entire movement is a total farce !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"until feminists take on Islam and how it treats women, the entire movement is a total farce !\",\n  \"fixed_weakness\": [\n    \"Improper spacing before comma (removed space before comma)\",\n    \"Lack of capitalization for proper noun 'Islam' (capitalized to 'Islam')\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overly emphatic language 'total farce' compared to neutral tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "75",
+    "sentence": "until feminists take on islam and how it treats women , the entire movement is a total farce !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"until feminists take on islam and how it treats women, the entire movement is a problem!\",\n  \"fixed_weakness\": [\n    \"improper spacing before comma\",\n    \"overly emphatic language 'total farce' changed to neutral 'a problem'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"lack of capitalization for proper noun 'Islam'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "75",
+    "sentence": "until feminists take on islam and how it treats women , the entire movement is a total farce !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"until feminists take on Islam and how it treats women , the entire movement is misguided !\",\n  \"fixed_weakness\": [\n    \"Lack of capitalization for proper noun 'Islam'\",\n    \"Overly emphatic language 'total farce' compared to neutral tone\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Improper spacing before comma\"\n  ]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "outsideryou are an idiot to make such an ignorant remark .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"outsider you made such an ignorant remark .\",\n  \"fixed_weakness\": [\"Uses harsh name-calling ('idiot') which the references avoid.\", \"Contains typographical error ('outsideryou' instead of 'outsider you').\"],\n  \"preserved_weaknesses\": [\"Missing space after the period in the source text.\"]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "outsideryou are an idiot to make such an ignorant remark .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"outsideryou are being ignorant by making such a remark.\",\n  \"fixed_weakness\": [\n    \"Uses harsh name-calling ('idiot') which the references avoid.\",\n    \"Missing space after the period in the source text.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains typographical error ('outsideryou' instead of 'outsider you').\"\n  ]\n}"
+  },
+  {
+    "src_ind": "79",
+    "sentence": "outsideryou are an idiot to make such an ignorant remark .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"outsider you are an idiot to make such an ignorant remark.\",\n  \"fixed_weakness\": [\n    \"Typographical error: 'outsideryou' changed to 'outsider you' (missing space between words)\",\n    \"Removed extraneous space before period\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses harsh name-calling ('idiot') which the references avoid\"\n  ]\n}"
+  },
+  {
+    "src_ind": "81",
+    "sentence": "i wouldnt spend dollar one in that racist hellhole .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i wouldnt spend a dollar in that racist place .\",\n  \"fixed_weakness\": [\"Hyperbolic language ('hellhole')\", \"Non-idiomatic phrasing ('dollar one')\"],\n  \"preserved_weaknesses\": [\"Inconsistent spacing before period\"]\n}"
+  },
+  {
+    "src_ind": "81",
+    "sentence": "i wouldnt spend dollar one in that racist hellhole .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i wouldnt spend dollar one in that racist place.\",\n  \"fixed_weakness\": [\n    \"Hyperbolic language ('hellhole')\",\n    \"Inconsistent spacing before period\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Non-idiomatic phrasing ('dollar one')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "81",
+    "sentence": "i wouldnt spend dollar one in that racist hellhole .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i wouldnt spend a single dollar in that racist hellhole.\",\n  \"fixed_weakness\": [\"Non-idiomatic phrasing ('dollar one')\", \"Inconsistent spacing before period\"],\n  \"preserved_weaknesses\": [\"Hyperbolic language ('hellhole')\"]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "do they think we are really stupid or just too lazy to stop them ? .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Do they think we are really stupid or just too lazy to stop them? .\",\n  \"fixed_weakness\": [\n    \"Missing capital letter at start of sentence\",\n    \"Incorrect spacing before question mark\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Unnecessary period after question mark\"\n  ]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "do they think we are really stupid or just too lazy to stop them ? .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Do they think we are really stupid or just too lazy to stop them ?\",\n  \"fixed_weakness\": [\n    \"Missing capital letter at start of sentence\",\n    \"Unnecessary period after question mark\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Incorrect spacing before question mark\"\n  ]\n}"
+  },
+  {
+    "src_ind": "82",
+    "sentence": "do they think we are really stupid or just too lazy to stop them ? .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"do they think we are really stupid or just too lazy to stop them?\",\n  \"fixed_weakness\": [\"Incorrect spacing before question mark\", \"Unnecessary period after question mark\"],\n  \"preserved_weaknesses\": [\"Missing capital letter at start of sentence\"]\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "you dont need to be hurting their families even more by posting ignorant judgemental comments .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Posting ignorant judgemental comments that hurt families is unnecessary.\",\n  \"fixed_weakness\": [\n    \"Removed direct address 'you' to reduce confrontation.\",\n    \"Replaced emotionally charged phrase 'hurting their families even more' with more neutral 'hurt families'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Using 'judgemental' as an additional label makes it less neutral.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "you dont need to be hurting their families even more by posting ignorant judgemental comments .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"There is no need to be hurting their families even more by posting ignorant comments.\",\n  \"fixed_weakness\": [\n    \"Directly addressing 'you' makes it more confrontational than the neutral tone.\",\n    \"Using 'judgemental' as an additional label makes it less neutral.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Emotionally charged phrasing ('hurting their families even more') deviates from neutral directness.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "84",
+    "sentence": "you dont need to be hurting their families even more by posting ignorant judgemental comments .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"you dont need to post ignorant comments that are bad for their families.\",\n  \"fixed_weakness\": [\n    \"Emotionally charged phrasing ('hurting their families even more') replaced with neutral phrase ('that are bad for their families')\",\n    \"Removed the additional label 'judgemental'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Directly addressing 'you' makes it more confrontational than the neutral tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "90",
+    "sentence": "thats all the garbage you can come up with to bash trump ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"thats all the points you can come up with to bash trump?\",\n  \"fixed_weakness\": [\n    \"Replaced insulting term 'garbage' with neutral term 'points'\",\n    \"Softened confrontational tone by keeping the phrasing but removing accusatory 'all you can come up with' (still present but less harsh without 'garbage')\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing apostrophe in 'thats' (should be 'that's')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "90",
+    "sentence": "thats all the garbage you can come up with to bash trump ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"that's all the things you can come up with to bash trump ?\",\n  \"fixed_weakness\": [\n    \"Uses the insulting term 'garbage' instead of neutral language\",\n    \"Missing apostrophe in 'thats' for proper contraction\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Confrontational tone with accusatory phrasing ('all you can come up with')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "90",
+    "sentence": "thats all the garbage you can come up with to bash trump ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"that's all the garbage to bash trump?\",\n  \"fixed_weakness\": [\n    \"Removed confrontational accusatory phrasing 'all you can come up with'\",\n    \"Added apostrophe to 'thats' for proper contraction\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses the insulting term 'garbage' instead of neutral language\"\n  ]\n}"
+  },
+  {
+    "src_ind": "92",
+    "sentence": "the ship of fools are sailing full speed ahead .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the fools are sailing full speed ahead\",\n  \"fixed_weakness\": [\n    \"Uses literary allusion 'ship of fools' instead of plain language\",\n    \"Subject-verb disagreement: 'ship ... are' should be 'is'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Phrase 'sailing full speed ahead' is overly dramatic\"\n  ]\n}"
+  },
+  {
+    "src_ind": "92",
+    "sentence": "the ship of fools are sailing full speed ahead .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the group of fools are moving fast.\",\n  \"fixed_weakness\": [\n    \"Uses literary allusion 'ship of fools' instead of plain language\",\n    \"Phrase 'sailing full speed ahead' is overly dramatic\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Subject-verb disagreement: 'ship ... are' should be 'is'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "92",
+    "sentence": "the ship of fools are sailing full speed ahead .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the ship of fools is sailing forward .\",\n  \"fixed_weakness\": [\"Subject-verb disagreement: 'ship ... are' changed to 'is'\", \"Overly dramatic phrase 'sailing full speed ahead' changed to neutral 'sailing forward'\"],\n  \"preserved_weaknesses\": [\"Uses literary allusion 'ship of fools' instead of plain language\"]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "easy answer to the last question , of course hes dumb .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Easy answer to the last question , of course he's dumb .\",\n  \"fixed_weakness\": [\"Missing capitalization at the start of the sentence\", \"Incorrect contraction 'hes' instead of 'he's' or 'he is'\"],\n  \"preserved_weaknesses\": [\n    \"Fragment 'easy answer to the last question' is not a complete sentence\",\n    \"Comma usage distorts the sentence structure\"\n  ]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "easy answer to the last question , of course hes dumb .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The easy answer to the last question, of course is hes dumb.\",\n  \"fixed_weakness\": [\"Missing capitalization at the start of the sentence.\", \"Fragment 'easy answer to the last question' is now a complete sentence.\"],\n  \"preserved_weaknesses\": [\"Incorrect contraction 'hes' instead of 'he's' or 'he is'.\", \"Comma usage distorts the sentence structure.\"]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "easy answer to the last question , of course hes dumb .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Easy answer to the last question, of course hes dumb .\",\n  \"fixed_weakness\": [\n    \"Missing capitalization at the start of the sentence\",\n    \"Comma usage distorts the sentence structure\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Incorrect contraction 'hes' instead of 'he's' or 'he is'\",\n    \"Fragment 'easy answer to the last question' is not a complete sentence\"\n  ]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "easy answer to the last question , of course hes dumb .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"easy answer to the last question is , of course he's dumb .\",\n  \"fixed_weakness\": [\n    \"Incorrect contraction 'hes' changed to 'he's'\",\n    \"Fragment 'easy answer to the last question' fixed by adding verb 'is' to form a complete sentence\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing capitalization at the start of the sentence\",\n    \"Comma usage distorts the sentence structure\"\n  ]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "easy answer to the last question , of course hes dumb .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"easy answer to the last question. of course he's dumb.\",\n  \"fixed_weakness\": [\"Corrected 'hes' to 'he's'\", \"Removed comma that distorted sentence structure\"],\n  \"preserved_weaknesses\": [\n    \"Missing capitalization at the start of the sentence\",\n    \"Fragment 'easy answer to the last question' is not a complete sentence\"\n  ]\n}"
+  },
+  {
+    "src_ind": "95",
+    "sentence": "easy answer to the last question , of course hes dumb .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"easy answer to the last question is of course hes dumb.\",\n  \"fixed_weakness\": [\"Converted fragment 'easy answer to the last question' into a complete sentence by adding a verb; removed comma that distorted structure\"],\n  \"preserved_weaknesses\": [\n    \"Missing capitalization at the start of the sentence\",\n    \"Incorrect contraction 'hes' instead of 'he's' or 'he is'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "96",
+    "sentence": "theyre despicable scum trying to take healthcare from millions so they can give tax breaks to billionaires .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"wow they're despicable scum. trying to take healthcare from millions. so they can give tax breaks to billionaires.\",\n  \"fixed_weakness\": [\n    \"Missing informal interjections like 'wow' or 'asap' common in target style\",\n    \"Too grammatically complete compared to target style's fragmented sentences\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks grammatical errors characteristic of target style (e.g., subject-verb disagreement)\"\n  ]\n}"
+  },
+  {
+    "src_ind": "96",
+    "sentence": "theyre despicable scum trying to take healthcare from millions so they can give tax breaks to billionaires .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"wow they is despicable scum trying to take healthcare from millions so they can give tax breaks to billionaires asap .\",\n  \"fixed_weakness\": [\n    \"Added informal interjection 'wow' and 'asap'\",\n    \"Introduced subject-verb disagreement: 'they is' instead of 'they are'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Too grammatically complete compared to target style's fragmented sentences\"\n  ]\n}"
+  },
+  {
+    "src_ind": "96",
+    "sentence": "theyre despicable scum trying to take healthcare from millions so they can give tax breaks to billionaires .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"they is despicable scum. trying to take healthcare from millions. so they can give tax breaks to billionaires.\",\n  \"fixed_weakness\": [\n    \"Too grammatically complete compared to target style's fragmented sentences\",\n    \"Lacks grammatical errors characteristic of target style (e.g., subject-verb disagreement)\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing informal interjections like 'wow' or 'asap' common in target style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "he is morally bankrupt , intellectually lazy , and preternaturally greedy hewell quit before hes impeached .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"he is morally bankrupt, intellectually lazy, and preternaturally greedy. hewell quit before hes impeached .\",\n  \"fixed_weakness\": [\"Extra space before comma in list\", \"Run-on sentence lacks punctuation between clauses\"],\n  \"preserved_weaknesses\": [\"Missing apostrophes\"]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "he is morally bankrupt , intellectually lazy , and preternaturally greedy hewell quit before hes impeached .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"he is morally bankrupt, intellectually lazy, and preternaturally greedy he'll quit before he's impeached .\",\n  \"fixed_weakness\": [\"Extra space before comma in list\", \"Missing apostrophes: 'hewell' to 'he'll', 'hes' to 'he's'\"],\n  \"preserved_weaknesses\": [\"Run-on sentence lacks punctuation between clauses\"]\n}"
+  },
+  {
+    "src_ind": "97",
+    "sentence": "he is morally bankrupt , intellectually lazy , and preternaturally greedy hewell quit before hes impeached .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"he is morally bankrupt , intellectually lazy , and preternaturally greedy. he'll quit before he's impeached .\",\n  \"fixed_weakness\": [\n    \"Run-on sentence lacks punctuation between clauses: added period after 'greedy'\",\n    \"Missing apostrophes: 'hewell' corrected to 'he'll', 'hes' corrected to 'he's'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Extra space before comma in list\"\n  ]\n}"
+  },
+  {
+    "src_ind": "98",
+    "sentence": "so sad the voters in her district are stupid enough to continue to elect her .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"It's unfortunate that the voters in her district continue to elect her.\"\n}"
+  },
+  {
+    "src_ind": "100",
+    "sentence": "for these two fat , dumb , and stupid is no way to go through life .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"For these two, being fat, dumb, and stupid is no way to go through life.\",\n  \"fixed_weakness\": [\n    \"Grammatically awkward: missing subject and verb for the comparison.\",\n    \"Overuse of commas disrupts natural flow and readability.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Unclear phrasing: 'for these two' is ambiguous.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "100",
+    "sentence": "for these two fat , dumb , and stupid is no way to go through life .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"For these two, being fat , dumb , and stupid is no way to go through life .\",\n  \"fixed_weakness\": [\n    \"Grammatically awkward: missing subject and verb for the comparison.\",\n    \"Unclear phrasing: 'for these two' is ambiguous.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overuse of commas disrupts natural flow and readability.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "100",
+    "sentence": "for these two fat , dumb , and stupid is no way to go through life .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"For these two people, fat dumb and stupid is no way to go through life.\",\n  \"fixed_weakness\": [\n    \"Overuse of commas disrupts natural flow and readability.\",\n    \"Unclear phrasing: 'for these two' is ambiguous.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Grammatically awkward: missing subject and verb for the comparison.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "117",
+    "sentence": "some people who claim to love wildlife are either lying about it or are just plain stupid .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Who cares if some people who claim to love wildlife are either lying or just not that smart?\",\n  \"fixed_weakness\": [\n    \"Replaced abrasive 'plain stupid' with milder 'just not that smart'\",\n    \"Changed declarative sentence to rhetorical question to match target style's use of questions/fragments\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing informal punctuation and connectives like 'oh' or 'nd' for conversational tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "117",
+    "sentence": "some people who claim to love wildlife are either lying about it or are just plain stupid .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Oh , some people who claim to love wildlife are either lying about it or just not very smart .\",\n  \"fixed_weakness\": [\n    \"Replaced abrasive phrase 'plain stupid' with milder criticism.\",\n    \"Added informal connective 'oh' and punctuation to enhance conversational tone.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Declarative sentence lacks rhetorical questions or fragments.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "117",
+    "sentence": "some people who claim to love wildlife are either lying about it or are just plain stupid .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Oh, and then some people who claim to love wildlife – either lying about it or just plain stupid.\",\n  \"fixed_weakness\": [\n    \"Declarative sentence lacks the rhetorical questions or fragments used in references.\",\n    \"Missing informal punctuation and connectives like 'oh' or 'nd' for conversational tone.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses 'plain stupid' which is more abrasive than target style's milder criticism.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "125",
+    "sentence": "like willie martinez , youre an idiot .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"like willie martinez youre not the brightest bulb.\",\n  \"fixed_weakness\": [\n    \"Direct insult 'idiot' replaced with indirect criticism\",\n    \"Unnecessary comma before 'youre' removed\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses contraction 'youre' where target style prefers full form 'you are'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "125",
+    "sentence": "like willie martinez , youre an idiot .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"like willie martinez, you are as sharp as a bowling ball.\",\n  \"fixed_weakness\": [\n    \"replaced direct insult 'idiot' with indirect criticism\",\n    \"fixed contraction 'youre' to full form 'you are'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"unnecessary comma before 'you are' differs from target punctuation style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "125",
+    "sentence": "like willie martinez , youre an idiot .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"like willie martinez you are an idiot.\",\n  \"fixed_weakness\": [\n    \"Removed unnecessary comma before 'youre'\",\n    \"Changed 'youre' to full form 'you are'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Direct insult ('idiot') is more aggressive than target style's indirect criticism\"\n  ]\n}"
+  },
+  {
+    "src_ind": "135",
+    "sentence": "i am reading , slowly , mcmasters dereliction of duty about the damn vietnam war .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i am reading slowly mcmasters dereliction of duty about the vietnam war.\",\n  \"fixed_weakness\": [\"Excessive comma usage\", \"Use of mild expletive 'damn'\"],\n  \"preserved_weaknesses\": [\"Inconsistent capitalization of proper nouns and 'I'\"]\n}"
+  },
+  {
+    "src_ind": "135",
+    "sentence": "i am reading , slowly , mcmasters dereliction of duty about the damn vietnam war .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I am reading slowly McMaster's Dereliction of Duty about the damn Vietnam war.\",\n  \"fixed_weakness\": [\"Excessive comma usage\", \"Inconsistent capitalization of proper nouns and 'I'\"],\n  \"preserved_weaknesses\": [\"Use of mild expletive 'damn' adds emotional tone.\"]\n}"
+  },
+  {
+    "src_ind": "135",
+    "sentence": "i am reading , slowly , mcmasters dereliction of duty about the damn vietnam war .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I am reading , slowly , McMaster's Dereliction of Duty about the Vietnam War .\",\n  \"fixed_weakness\": [\n    \"Use of mild expletive 'damn' adds emotional tone.\",\n    \"Inconsistent capitalization of proper nouns and 'I'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Excessive comma usage disrupts natural reading flow.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "143",
+    "sentence": "oh my just call them rock you idiots !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Oh just call them rock !\",\n  \"fixed_weakness\": [\"Overly informal exclamation 'oh my'\", \"Insulting phrase 'you idiots'\"],\n  \"preserved_weaknesses\": [\"Excessive use of exclamation marks\", \"Unclear slang use of 'rock'\"]\n}"
+  },
+  {
+    "src_ind": "143",
+    "sentence": "oh my just call them rock you idiots !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Just call them rock you idiots.\",\n  \"fixed_weakness\": [\"Overly informal exclamation 'oh my'\", \"Excessive use of exclamation marks\"],\n  \"preserved_weaknesses\": [\"Insulting phrase 'you idiots'\", \"Unclear slang use of 'rock'\"]\n}"
+  },
+  {
+    "src_ind": "143",
+    "sentence": "oh my just call them rock you idiots !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Oh, just call them great, you idiots!\",\n  \"fixed_weakness\": [\n    \"Overly informal exclamation 'oh my'\",\n    \"Unclear slang use of 'rock'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Insulting phrase 'you idiots'\",\n    \"Excessive use of exclamation marks\"\n  ]\n}"
+  },
+  {
+    "src_ind": "143",
+    "sentence": "oh my just call them rock you idiots !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"oh my just call them rock\",\n  \"fixed_weakness\": [\n    \"Insulting phrase 'you idiots'\",\n    \"Excessive use of exclamation marks\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overly informal exclamation 'oh my'\",\n    \"Unclear slang use of 'rock'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "143",
+    "sentence": "oh my just call them rock you idiots !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"oh my just call them awesome you guys !\",\n  \"fixed_weakness\": [\"Insulting phrase 'you idiots' replaced with 'you guys'\", \"Unclear slang 'rock' clarified to 'awesome'\"],\n  \"preserved_weaknesses\": [\"Overly informal exclamation 'oh my'\", \"Excessive use of exclamation marks\"]\n}"
+  },
+  {
+    "src_ind": "143",
+    "sentence": "oh my just call them rock you idiots !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"oh my just call them 'rock', you idiots.\",\n  \"fixed_weakness\": [\"Excessive use of exclamation marks\", \"Unclear slang use of 'rock'\"],\n  \"preserved_weaknesses\": [\"Overly informal exclamation 'oh my'\", \"Insulting phrase 'you idiots'\"]\n}"
+  },
+  {
+    "src_ind": "144",
+    "sentence": "this is pure and utter crap !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"this is pure and utter nonsense\",\n  \"fixed_weakness\": [\"Replaced vulgar language ('crap') with neutral phrasing ('nonsense')\", \"Removed exclamation mark to reduce unnecessary emphasis and informality\"],\n  \"preserved_weaknesses\": [\n    \"Hyperbole and informal phrasing via 'pure and utter'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "144",
+    "sentence": "this is pure and utter crap !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"this is no good!\",\n  \"fixed_weakness\": [\n    \"Uses vulgar language ('crap') instead of more neutral phrasing.\",\n    \"Phrase 'pure and utter' is hyperbolic and informal.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Exclamation mark adds unnecessary emphasis and informality.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "144",
+    "sentence": "this is pure and utter crap !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"this is crap.\",\n  \"fixed_weakness\": [\n    \"Exclamation mark adds unnecessary emphasis and informality.\",\n    \"Phrase 'pure and utter' is hyperbolic and informal.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses vulgar language ('crap') instead of more neutral phrasing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "146",
+    "sentence": "but putin is not a stupid man .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"but putin isn't a totally stupid man .\",\n  \"fixed_weakness\": [\n    \"Uses contraction 'isn't' for more casual tone.\",\n    \"Adds intensifier 'totally' to match emphasis.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Begins with 'but', less direct than typical reference openings.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "146",
+    "sentence": "but putin is not a stupid man .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"putin isn't a stupid man.\",\n  \"fixed_weakness\": [\n    \"Uses contraction 'isn't' for more casual tone\",\n    \"Begins with 'putin' instead of 'but', more direct like typical reference openings\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks an intensifier like 'totally' or 'real' to match emphasis\"\n  ]\n}"
+  },
+  {
+    "src_ind": "146",
+    "sentence": "but putin is not a stupid man .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"putin is not a totally stupid man .\",\n  \"fixed_weakness\": [\n    \"added intensifier 'totally'\",\n    \"removed opening 'but' for more direct start\"\n  ],\n  \"preserved_weaknesses\": [\n    \"does not use contraction 'isn't'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "156",
+    "sentence": "this is why i gave up teaching , because of fucking retards like you !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"this is why i gave up teaching , because of ignorant people like you !\",\n  \"fixed_weakness\": [\"Used profanity ('fucking') which is more vulgar than neutral style.\", \"Used offensive slur ('retards') inappropriate for neutral tone.\"],\n  \"preserved_weaknesses\": [\"Lacks capitalization (e.g., 'this' and 'i' should be capitalized).\"]\n}"
+  },
+  {
+    "src_ind": "156",
+    "sentence": "this is why i gave up teaching , because of fucking retards like you !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"This is why I gave up teaching , because of retards like you !\",\n  \"fixed_weakness\": [\n    \"Uses profanity ('fucking') which is more vulgar than neutral style.\",\n    \"Lacks capitalization (e.g., 'this' and 'i' should be capitalized).\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses offensive slur ('retards') inappropriate for neutral tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "156",
+    "sentence": "this is why i gave up teaching , because of fucking retards like you !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"This is why I gave up teaching , because of fucking idiots like you !\",\n  \"fixed_weakness\": [\"Uses offensive slur ('retards') inappropriate for neutral tone.\", \"Lacks capitalization (e.g., 'this' and 'i' should be capitalized).\"],\n  \"preserved_weaknesses\": [\"Uses profanity ('fucking') which is more vulgar than neutral style.\"]\n}"
+  },
+  {
+    "src_ind": "164",
+    "sentence": "how dare you , filthy nigger , presume to know about the regions history ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"you filthy fool , you presume to know about the regions history ?\",\n  \"fixed_weakness\": [\n    \"Contains a racial slur (\\\"nigger\\\")\",\n    \"Employs an overly aggressive and confrontational tone (\\\"how dare you\\\")\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks neutrality by resorting to personal attack instead of reasoned argument\",\n    \"Uses emotional and disrespectful language that undermines objective communication\"\n  ]\n}"
+  },
+  {
+    "src_ind": "164",
+    "sentence": "how dare you , filthy nigger , presume to know about the regions history ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"how dare you , filthy ignoramus , presume to know about the regions history ?\",\n  \"fixed_weakness\": [\n    \"Contains a racial slur (\\\"nigger\\\"), which is inflammatory and unprofessional.\",\n    \"Lacks neutrality by resorting to personal attack instead of reasoned argument.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Employs an overly aggressive and confrontational tone (\\\"how dare you\\\").\",\n    \"Uses emotional and disrespectful language that undermines objective communication.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "164",
+    "sentence": "how dare you , filthy nigger , presume to know about the regions history ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"how dare you , ignorant fool , presume to know about the regions history ?\",\n  \"fixed_weakness\": [\n    \"Contains a racial slur (\\\"nigger\\\"), which is inflammatory and unprofessional.\",\n    \"Uses emotional and disrespectful language that undermines objective communication.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Employs an overly aggressive and confrontational tone (\\\"how dare you\\\").\",\n    \"Lacks neutrality by resorting to personal attack instead of reasoned argument.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "164",
+    "sentence": "how dare you , filthy nigger , presume to know about the regions history ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"You filthy nigger don't know anything about the region's history.\",\n  \"fixed_weakness\": [\n    \"Overly aggressive and confrontational tone (\\\"how dare you\\\")\",\n    \"Lack of neutrality by resorting to personal attack instead of reasoned argument\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains a racial slur (\\\"nigger\\\"), which is inflammatory and unprofessional\",\n    \"Uses emotional and disrespectful language that undermines objective communication\"\n  ]\n}"
+  },
+  {
+    "src_ind": "164",
+    "sentence": "how dare you , filthy nigger , presume to know about the regions history ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"You, filthy nigger, presume to know about the region's history?\",\n  \"fixed_weakness\": [\n    \"Removed overly aggressive and confrontational tone ('how dare you')\",\n    \"Reduced emotional and disrespectful language to a less confrontational level\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains racial slur ('nigger'), which is inflammatory and unprofessional\",\n    \"Lacks neutrality by resorting to personal attack instead of reasoned argument\"\n  ]\n}"
+  },
+  {
+    "src_ind": "164",
+    "sentence": "how dare you , filthy nigger , presume to know about the regions history ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"how dare you , nigger , presume to know about the regions history ?\",\n  \"fixed_weakness\": [\n    \"Removed the personal attack adjective 'filthy' that added emotional disrespect\",\n    \"Reduced the emotional language by eliminating the insulting modifier\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains a racial slur ('nigger'), which is inflammatory and unprofessional.\",\n    \"Employs an overly aggressive and confrontational tone ('how dare you').\"\n  ]\n}"
+  },
+  {
+    "src_ind": "173",
+    "sentence": "lets try being intelligent adults here and stop this juvenile crap .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"let's try being intelligent adults here and stop this juvenile behavior .\",\n  \"fixed_weakness\": [\n    \"Missing apostrophe in 'lets' changed to 'let's'\",\n    \"Informal word 'crap' changed to 'behavior' for neutral style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Space before period is a typographical error\"\n  ]\n}"
+  },
+  {
+    "src_ind": "173",
+    "sentence": "lets try being intelligent adults here and stop this juvenile crap .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"let's try being intelligent adults here and stop this juvenile crap.\",\n  \"fixed_weakness\": [\"Missing apostrophe in 'lets' fixed to 'let's'\", \"Removed space before period\"],\n  \"preserved_weaknesses\": [\"Informal word 'crap' clashes with neutral style\"]\n}"
+  },
+  {
+    "src_ind": "173",
+    "sentence": "lets try being intelligent adults here and stop this juvenile crap .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"lets try being intelligent adults here and stop this juvenile nonsense.\",\n  \"fixed_weakness\": [\n    \"Informal word 'crap' replaced with 'nonsense'\",\n    \"Space before period removed\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing apostrophe in 'lets'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "177",
+    "sentence": "if you did you wouldnt be post such garbage .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"if you did you wouldn't be posting such garbage .\"\n}"
+  },
+  {
+    "src_ind": "178",
+    "sentence": "i am startled by the assertion ththe american voters are just plain stupid .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I am startled by the assertion that the American voters are just plain stupid.\",\n  \"fixed_weakness\": [\"Incorrect capitalization of 'i' and 'american'\", \"Typo 'ththe'\"],\n  \"preserved_weaknesses\": [\"Formal phrasing 'I am startled by the assertion' contrasts with direct style of references\"]\n}"
+  },
+  {
+    "src_ind": "178",
+    "sentence": "i am startled by the assertion ththe american voters are just plain stupid .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The assertion ththe American voters are just plain stupid? I'm stunned.\",\n  \"fixed_weakness\": [\n    \"Incorrect capitalization: 'i' -> 'I', 'american' -> 'American'\",\n    \"Formal phrasing changed to direct style: 'I am startled by the assertion...' to rhetorical question and short statement\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Typo: 'ththe' instead of 'that the'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "178",
+    "sentence": "i am startled by the assertion ththe american voters are just plain stupid .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i am startled that the american voters are just plain stupid.\",\n  \"fixed_weakness\": [\n    \"typo: 'ththe' corrected to 'that the'\",\n    \"formal phrasing 'I am startled by the assertion' changed to direct 'i am startled that'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"incorrect capitalization: 'i' should be 'I'\",\n    \"incorrect capitalization: 'american' should be 'American'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "186",
+    "sentence": "then you will pay for learning how screwed up society actually is , not to mention corrupt .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"You will pay for discovering just how screwed up and corrupt society is.\"\n}"
+  },
+  {
+    "src_ind": "192",
+    "sentence": "you know this type of ignorant comment isnt helpful in the least .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"This type of ignorant comment is not helpful.\"\n}"
+  },
+  {
+    "src_ind": "195",
+    "sentence": "are the navigators asleep , or having sex , or something ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Are the navigators asleep, or having sex, or something ?\",\n  \"fixed_weakness\": [\n    \"Missing capitalization at the start of the sentence\",\n    \"Incorrect comma placement with a space before the comma\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal phrase 'or something' is too colloquial for neutral style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "195",
+    "sentence": "are the navigators asleep , or having sex , or something ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Are the navigators asleep , or having sex , or some other activity ?\",\n  \"fixed_weakness\": [\n    \"Missing capitalization at the start of the sentence\",\n    \"Informal phrase 'or something' is too colloquial for neutral style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Incorrect comma placement with a space before the comma\"\n  ]\n}"
+  },
+  {
+    "src_ind": "195",
+    "sentence": "are the navigators asleep , or having sex , or something ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"are the navigators asleep, or having sex, or something of the sort ?\",\n  \"fixed_weakness\": [\n    \"Incorrect comma placement with a space before the comma\",\n    \"Informal phrase 'or something' is too colloquial for neutral style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing capitalization at the start of the sentence\"\n  ]\n}"
+  },
+  {
+    "src_ind": "196",
+    "sentence": "this has got to be the stupidest , most corrupt , method of bidding in the history of mankind .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"this has got to be a stupid and corrupt method of bidding.\",\n  \"fixed_weakness\": [\"extreme superlatives like 'stupidest' and 'most corrupt'\", \"hyperbolic phrase 'in the history of mankind'\"],\n  \"preserved_weaknesses\": [\"strong emotional language deviates from neutral style\"]\n}"
+  },
+  {
+    "src_ind": "196",
+    "sentence": "this has got to be the stupidest , most corrupt , method of bidding in the history of mankind .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"this has got to be a rather not good, fairly corrupt method of bidding in the history of mankind.\",\n  \"fixed_weakness\": [\"Uses extreme superlatives like 'stupidest' and 'most corrupt'\", \"Strong emotional language deviates from neutral style\"],\n  \"preserved_weaknesses\": [\"Hyperbolic phrase 'in the history of mankind' is too dramatic\"]\n}"
+  },
+  {
+    "src_ind": "196",
+    "sentence": "this has got to be the stupidest , most corrupt , method of bidding in the history of mankind .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"this has got to be the stupidest , most corrupt , method of bidding .\",\n  \"fixed_weakness\": [\"Hyperbolic phrase 'in the history of mankind' removed\", \"Strong emotional language toned down\"],\n  \"preserved_weaknesses\": [\"Uses extreme superlatives 'stupidest' and 'most corrupt'\"]\n}"
+  },
+  {
+    "src_ind": "208",
+    "sentence": "im glad you clowns love the little power trip you get .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I'm glad you love the little power trip you get.\",\n  \"fixed_weakness\": [\n    \"Use of lowercase 'im' instead of proper contraction 'I'm'\",\n    \"Derogatory term 'clowns' shifts tone to insulting\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal phrase 'power trip' is too colloquial for neutral style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "208",
+    "sentence": "im glad you clowns love the little power trip you get .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I'm glad you clowns love the little authority you get .\",\n  \"fixed_weakness\": [\n    \"Use of lowercase 'im' instead of proper contraction 'I'm'\",\n    \"Informal phrase 'power trip' is too colloquial for neutral style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Derogatory term 'clowns' shifts tone to insulting\"\n  ]\n}"
+  },
+  {
+    "src_ind": "208",
+    "sentence": "im glad you clowns love the little power trip you get .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"im glad you people love the little authority you get .\",\n  \"fixed_weakness\": [\n    \"Derogatory term 'clowns' shifts tone to insulting\",\n    \"Informal phrase 'power trip' is too colloquial for neutral style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Use of lowercase 'im' instead of proper contraction 'I'm'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "211",
+    "sentence": "thats some stupid and hypocritical bullshit .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"That's some stupid and hypocritical nonsense.\",\n  \"fixed_weakness\": [\n    \"Contains profanity ('bullshit')\",\n    \"Lacks proper capitalization and apostrophe\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Tone is more aggressive and inflammatory than neutral style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "211",
+    "sentence": "thats some stupid and hypocritical bullshit .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"thats some stupid and hypocritical nonsense .\",\n  \"fixed_weakness\": [\"Contains profanity ('bullshit') not present in reference texts\", \"Tone is more aggressive and inflammatory than neutral style\"],\n  \"preserved_weaknesses\": [\n    \"Lacks proper capitalization and apostrophe ('thats' instead of 'that's')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "211",
+    "sentence": "thats some stupid and hypocritical bullshit .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I think that's some stupid and hypocritical bullshit.\",\n  \"fixed_weakness\": [\n    \"Lacks proper capitalization and apostrophe\",\n    \"Tone is more aggressive and inflammatory than neutral style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains profanity ('bullshit') not present in reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "215",
+    "sentence": "you are sick in the head .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"you have lost your mind .\",\n  \"fixed_weakness\": [\n    \"Replaced the stigmatizing medical idiom 'sick in the head' with a softer colloquial phrase 'lost your mind'.\",\n    \"Reduced the direct insulting and aggressive tone to match the target style's blunt yet restrained criticism.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks distancing or observational qualifiers present in the reference texts.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "215",
+    "sentence": "you are sick in the head .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"you may be sick in the head.\",\n  \"fixed_weakness\": [\n    \"Added a qualifying phrase ('may be') to make the criticism less directly insulting and more observational, aligning with the target style's blunt yet restrained criticism.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses a stigmatizing medical idiom ('sick in the head') instead of softer colloquialisms.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "215",
+    "sentence": "you are sick in the head .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"you have clearly lost your mind.\",\n  \"fixed_weakness\": [\n    \"Replaced stigmatizing medical idiom 'sick in the head' with softer colloquialism 'lost your mind'.\",\n    \"Added observational qualifier 'clearly' for distancing.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Directly insulting and aggressive tone retained.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "216",
+    "sentence": "human beings are basically fuking idiots !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"human beings are basically unwise !\",\n  \"fixed_weakness\": [\n    \"Uses profanity (\\\"fuking\\\") replaced with neutral language\",\n    \"Informal insulting language (\\\"idiots\\\") replaced with neutral term\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks capitalization at the start of the sentence\"\n  ]\n}"
+  },
+  {
+    "src_ind": "216",
+    "sentence": "human beings are basically fuking idiots !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Human beings are basically idiots !\",\n  \"fixed_weakness\": [\"profanity removed\", \"capitalized first word\"],\n  \"preserved_weaknesses\": [\n    \"Informal insulting language (\\\"idiots\\\") is too casual.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "216",
+    "sentence": "human beings are basically fuking idiots !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Human beings are basically fuking imbeciles !\",\n  \"fixed_weakness\": [\n    \"Informal insulting language (\\\"idiots\\\") is too casual.\",\n    \"Lacks capitalization at the start of the sentence.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses profanity (\\\"fuking\\\"), which is not neutral.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "217",
+    "sentence": "i think you are as dumb as a box of hammers and much less useful .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"you are dumb and much less useful .\",\n  \"fixed_weakness\": [\n    \"Uses a simile ('dumb as a box of hammers') which is not in the target style\",\n    \"Includes the hedging phrase 'i think' making it less assertive than target\"\n  ],\n  \"preserved_weaknesses\": [\n    \"The phrase 'much less useful' is verbose; target style is more concise\"\n  ]\n}"
+  },
+  {
+    "src_ind": "217",
+    "sentence": "i think you are as dumb as a box of hammers and much less useful .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i think you are dumb and useless.\",\n  \"fixed_weakness\": [\n    \"Removed simile 'as dumb as a box of hammers'\",\n    \"Simplified 'much less useful' to 'useless' for conciseness\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Includes the hedging phrase 'i think' making it less assertive than target\"\n  ]\n}"
+  },
+  {
+    "src_ind": "217",
+    "sentence": "i think you are as dumb as a box of hammers and much less useful .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"you are as dumb as a box of hammers and less useful.\",\n  \"fixed_weakness\": [\"Removed hedging phrase 'i think'\", \"Shortened 'much less useful' to 'less useful' for conciseness\"],\n  \"preserved_weaknesses\": [\"Uses a simile ('dumb as a box of hammers') which is not in the target style\"]\n}"
+  },
+  {
+    "src_ind": "220",
+    "sentence": "i fuckingg love tacos ! there the fuckingg best bitchh ! 54 now suckk my dick !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i freakingg love tacos ! there the freakingg best darnn ! 54 now eat them with me !\",\n  \"fixed_weakness\": [\n    \"Excessive profanity and vulgar language\",\n    \"Aggressive and confrontational tone\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Misspellings and non-standard word forms\",\n    \"Overuse of exclamation marks\"\n  ]\n}"
+  },
+  {
+    "src_ind": "220",
+    "sentence": "i fuckingg love tacos ! there the fuckingg best bitchh ! 54 now suckk my dick !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i love tacos ! they're the best, you idiot ! 54 now, back off !\",\n  \"fixed_weakness\": [\n    \"Excessive profanity and vulgar language\",\n    \"Misspellings and non-standard word forms\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Aggressive and confrontational tone\",\n    \"Overuse of exclamation marks\"\n  ]\n}"
+  },
+  {
+    "src_ind": "220",
+    "sentence": "i fuckingg love tacos ! there the fuckingg best bitchh ! 54 now suckk my dick !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i freakingg love tacos ! there the freakingg best bratt . 54 now suckk my toe .\",\n  \"fixed_weakness\": [\n    \"Excessive profanity and vulgar language\",\n    \"Overuse of exclamation marks\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Aggressive and confrontational tone\",\n    \"Misspellings and non-standard word forms\"\n  ]\n}"
+  },
+  {
+    "src_ind": "220",
+    "sentence": "i fuckingg love tacos ! there the fuckingg best bitchh ! 54 now suckk my dick !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i fucking love tacos! they're the fucking best bitch! 54 now, you can suck my dick!\",\n  \"fixed_weakness\": [\"Aggressive and confrontational tone\", \"Misspellings and non-standard word forms\"],\n  \"preserved_weaknesses\": [\n    \"Excessive profanity and vulgar language\",\n    \"Overuse of exclamation marks\"\n  ]\n}"
+  },
+  {
+    "src_ind": "220",
+    "sentence": "i fuckingg love tacos ! there the fuckingg best bitchh ! 54 now suckk my dick !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i fuckingg love tacos. theyre the fuckingg best bitchh. 54 now suckk my dick.\",\n  \"fixed_weakness\": [\"Aggressive and confrontational tone\", \"Overuse of exclamation marks\"],\n  \"preserved_weaknesses\": [\"Excessive profanity and vulgar language\", \"Misspellings and non-standard word forms\"]\n}"
+  },
+  {
+    "src_ind": "220",
+    "sentence": "i fuckingg love tacos ! there the fuckingg best bitchh ! 54 now suckk my dick !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i fucking love tacos. they're the fucking best bitch. 54 now suck my dick!\",\n  \"fixed_weakness\": [\n    \"Fixed spelling of 'fuckingg' to 'fucking'\",\n    \"Fixed spelling of 'bitchh' to 'bitch'\",\n    \"Fixed spelling of 'suckk' to 'suck'\",\n    \"Fixed 'there' to 'they're' (correct possessive form)\",\n    \"Reduced exclamation marks from three to one to reduce overuse\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Excessive profanity and vulgar language (e.g., 'fucking', 'bitch', 'suck my dick')\",\n    \"Aggressive and confrontational tone (e.g., imperative 'suck my dick', overall hostility)\"\n  ]\n}"
+  },
+  {
+    "src_ind": "223",
+    "sentence": "the fact that we are all going to paying for this gigantic liberal party jerkoff just makes me sick .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the fact that we are all going to be paying for this large Liberal Party effort is just frustrating.\"\n}"
+  },
+  {
+    "src_ind": "233",
+    "sentence": "you are one hate filled individual pal !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"You are one hate filled individual !\",\n  \"fixed_weakness\": [\n    \"Uses informal address 'pal' which softens confrontation compared to reference texts.\",\n    \"Lacks capitalisation at the start, deviating from the reference texts' consistent style.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains a space before the exclamation mark, inconsistent with reference punctuation.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "233",
+    "sentence": "you are one hate filled individual pal !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"you are one hate filled individual!\",\n  \"fixed_weakness\": [\"Uses informal address 'pal' which softens confrontation compared to reference texts.\", \"Contains a space before the exclamation mark, inconsistent with reference punctuation.\"],\n  \"preserved_weaknesses\": [\"Lacks capitalisation at the start, deviating from the reference texts' consistent style.\"]\n}"
+  },
+  {
+    "src_ind": "233",
+    "sentence": "you are one hate filled individual pal !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"You are one hate filled individual pal!\",\n  \"fixed_weakness\": [\n    \"Lacks capitalisation at the start\",\n    \"Space before exclamation mark\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses informal address 'pal' which softens confrontation compared to reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "239",
+    "sentence": "good shawn is a crook .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"a good shawn is a crook\",\n  \"fixed_weakness\": [\n    \"Adjective-noun order is non-standard: 'good shawn' instead of 'a good Shawn'.\",\n    \"Missing indefinite article before 'good shawn'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Improper noun capitalization: 'shawn' should be 'Shawn'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "239",
+    "sentence": "good shawn is a crook .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Shawn good is a crook .\",\n  \"fixed_weakness\": [\n    \"Changed 'good shawn' to 'Shawn good' to fix adjective-noun order\",\n    \"Capitalized 'Shawn'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing indefinite article before 'good shawn' (now before 'Shawn good')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "239",
+    "sentence": "good shawn is a crook .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"a good Shawn is a crook .\",\n  \"fixed_weakness\": [\n    \"Missing indefinite article before 'good shawn'\",\n    \"Improper noun capitalization: 'shawn' should be 'Shawn'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Adjective-noun order is non-standard: 'good shawn' instead of 'a good Shawn'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "246",
+    "sentence": "what do you think about tillerson calling his boss a effing moron ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Tillerson called his boss a moron.\",\n  \"fixed_weakness\": [\n    \"Uses a question format instead of a declarative statement\",\n    \"Contains vulgar language ('effing') not appropriate for neutral style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal phrasing ('calling his boss a ... moron') lacks neutrality\"\n  ]\n}"
+  },
+  {
+    "src_ind": "246",
+    "sentence": "what do you think about tillerson calling his boss a effing moron ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"tillerson called his boss an effing moron.\",\n  \"fixed_weakness\": [\"Uses question format instead of declarative statement\", \"Informal phrasing ('calling his boss a ... moron') lacks neutrality\"],\n  \"preserved_weaknesses\": [\"Contains vulgar language ('effing') not appropriate for neutral style\"]\n}"
+  },
+  {
+    "src_ind": "246",
+    "sentence": "what do you think about tillerson calling his boss a effing moron ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"what is your opinion on tillerson's characterization of his boss as unintelligent ?\",\n  \"fixed_weakness\": [\n    \"Contains vulgar language ('effing') not appropriate for neutral style\",\n    \"Informal phrasing ('calling his boss a ... moron') lacks neutrality\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses a question format instead of a declarative statement\"\n  ]\n}"
+  },
+  {
+    "src_ind": "250",
+    "sentence": "so murkowski and sullivan have been scumbags for years .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"so Murkowski and Sullivan have been scumbags for years .\",\n  \"fixed_weakness\": [\"Proper capitalization of names\", \"Ends with a period\"],\n  \"preserved_weaknesses\": [\"Contains no grammatical errors\"]\n}"
+  },
+  {
+    "src_ind": "250",
+    "sentence": "so murkowski and sullivan have been scumbags for years .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"so Murkowski and Sullivan have been scumbags for years .\",\n  \"fixed_weakness\": [\"Proper capitalization of names\", \"No grammatical errors\"],\n  \"preserved_weaknesses\": [\"Ends with a period\"]\n}"
+  },
+  {
+    "src_ind": "250",
+    "sentence": "so murkowski and sullivan have been scumbags for years .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"so Murkowski and Sullivan has been scumbags for years\",\n  \"fixed_weakness\": [\n    \"Ends with a period\",\n    \"Contains no grammatical errors\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses proper capitalization of names\"\n  ]\n}"
+  },
+  {
+    "src_ind": "251",
+    "sentence": "you can always count on the ignorant to display their lack of knowledge .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"you can always count on those who are ignorant to demonstrate it.\"\n}"
+  },
+  {
+    "src_ind": "254",
+    "sentence": "youre fucked up , leave the god damn article alone .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"You're wrong, leave the article alone.\"\n}"
+  },
+  {
+    "src_ind": "260",
+    "sentence": "and declaring after the french debate is pathetic .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Declaring after the french debate is pathetic.\",\n  \"fixed_weakness\": [\n    \"Removed initial conjunction 'and'\",\n    \"Added clear subject by making 'declaring' the gerund subject\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lowercase 'french' should be capitalized as 'French'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "260",
+    "sentence": "and declaring after the french debate is pathetic .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Declaring after the French debate is pathetic.\",\n  \"fixed_weakness\": [\n    \"Removed initial 'and' that lacked prior context\",\n    \"Capitalized 'French'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing a clear subject; 'declaring' is ambiguous\"\n  ]\n}"
+  },
+  {
+    "src_ind": "260",
+    "sentence": "and declaring after the french debate is pathetic .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"and their declaring after the French debate is pathetic.\",\n  \"fixed_weakness\": [\n    \"Added a clear subject 'their' to resolve ambiguity of 'declaring'\",\n    \"Capitalized 'French'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentence begins with conjunction 'and' without clear prior context\"\n  ]\n}"
+  },
+  {
+    "src_ind": "263",
+    "sentence": "really other people have been harassing me like styrofoam1994 who called me a dick head .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"other people have been harassing me for example styrofoam1994 who called me a dick head .\",\n  \"fixed_weakness\": [\"removed filler word 'really'\", \"replaced conversational 'like' with 'for example'\"],\n  \"preserved_weaknesses\": [\"vulgar term 'dick head' is overly informal for neutral style\", \"run-on structure lacks proper punctuation\"]\n}"
+  },
+  {
+    "src_ind": "263",
+    "sentence": "really other people have been harassing me like styrofoam1994 who called me a dick head .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"other people have been harassing me like styrofoam1994 who called me a vulgar name .\",\n  \"fixed_weakness\": [\n    \"Unnecessary filler word 'really' undermined directness\",\n    \"Vulgar term 'dick head' was overly informal for neutral style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Using 'like' to introduce an example is too conversational\",\n    \"Run-on structure lacks proper punctuation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "263",
+    "sentence": "really other people have been harassing me like styrofoam1994 who called me a dick head .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Other people have been harassing me, like styrofoam1994 who called me a dick head.\",\n  \"fixed_weakness\": [\n    \"Unnecessary filler word 'really' undermines directness.\",\n    \"Run-on structure lacks proper punctuation.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Using 'like' to introduce an example is too conversational.\",\n    \"Vulgar term 'dick head' is overly informal for neutral style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "263",
+    "sentence": "really other people have been harassing me like styrofoam1994 who called me a dick head .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"really other people have been harassing me such as styrofoam1994 who called me a rude name .\",\n  \"fixed_weakness\": [\n    \"Using 'like' to introduce an example is too conversational\",\n    \"Vulgar term 'dick head' is overly informal for neutral style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Unnecessary filler word 'really' undermines directness\",\n    \"Run-on structure lacks proper punctuation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "263",
+    "sentence": "really other people have been harassing me like styrofoam1994 who called me a dick head .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Really, other people have been harassing me, such as styrofoam1994, who called me a dick head.\",\n  \"fixed_weakness\": [\n    \"Using 'like' to introduce an example is too conversational.\",\n    \"Run-on structure lacks proper punctuation.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Unnecessary filler word 'really' undermines directness.\",\n    \"Vulgar term 'dick head' is overly informal for neutral style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "263",
+    "sentence": "really other people have been harassing me like styrofoam1994 who called me a dick head .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Really, other people have been harassing me, like styrofoam1994, who insulted me.\",\n  \"fixed_weakness\": [\n    \"Vulgar term 'dick head' is overly informal for neutral style.\",\n    \"Run-on structure lacks proper punctuation.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Unnecessary filler word 'really' undermines directness.\",\n    \"Using 'like' to introduce an example is too conversational.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "264",
+    "sentence": "so , whose the fool now ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"so, who's the fool now?\",\n  \"fixed_weakness\": [\n    \"Incorrect contraction: 'whose' should be 'who's' (who is)\",\n    \"Non-standard spacing before commas and question marks\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Tone is confrontational rather than neutral\"\n  ]\n}"
+  },
+  {
+    "src_ind": "264",
+    "sentence": "so , whose the fool now ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"so , who's the fool now ?\",\n  \"fixed_weakness\": [\n    \"Incorrect contraction: 'whose' corrected to 'who's'\",\n    \"Tone adjusted from confrontational to neutral\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Non-standard spacing before commas and question marks\"\n  ]\n}"
+  },
+  {
+    "src_ind": "264",
+    "sentence": "so , whose the fool now ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"So, whose the fool now?\",\n  \"fixed_weakness\": [\n    \"Non-standard spacing before commas and question marks\",\n    \"Tone is confrontational rather than neutral\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Incorrect contraction: 'whose' should be 'who's' (who is)\"\n  ]\n}"
+  },
+  {
+    "src_ind": "266",
+    "sentence": "time for these clowns to retire .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"time for these incompetent people to resign.\"\n}"
+  },
+  {
+    "src_ind": "275",
+    "sentence": "maybe these woman should take thier marches to sa or iran where real crap against woman actually exists .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"maybe these women should take their marches to SA or Iran where real crap against women actually exists .\",\n  \"fixed_weakness\": [\n    \"Spelling: 'woman' corrected to 'women'\",\n    \"Spelling: 'thier' corrected to 'their'\",\n    \"Capitalization: 'sa' corrected to 'SA'\",\n    \"Capitalization: 'iran' corrected to 'Iran'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Use of 'maybe' weakens the assertive, direct tone of the target style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "275",
+    "sentence": "maybe these woman should take thier marches to sa or iran where real crap against woman actually exists .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"these women should take their marches to sa or iran where real crap against women actually exists .\",\n  \"fixed_weakness\": [\n    \"Spelling errors: 'thier' changed to 'their'\",\n    \"'woman' changed to 'women' for plural\",\n    \"Removed 'maybe' to strengthen assertive tone\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Improper capitalization of proper nouns: 'sa' and 'iran' remain lowercase\"\n  ]\n}"
+  },
+  {
+    "src_ind": "275",
+    "sentence": "maybe these woman should take thier marches to sa or iran where real crap against woman actually exists .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"These women should take thier marches to SA or Iran where real crap against woman actually exists.\",\n  \"fixed_weakness\": [\n    \"Improper capitalization of proper nouns: 'sa' and 'iran' are now capitalized as 'SA' and 'Iran'.\",\n    \"Use of 'maybe' removed to strengthen assertive, direct tone.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Spelling error: 'thier' should be 'their'.\",\n    \"Spelling error: 'woman' should be 'women' for plural.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "282",
+    "sentence": "the mentally deficient shmuck couldnt care less .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the mentally deficient person couldn't care less .\"\n}"
+  },
+  {
+    "src_ind": "285",
+    "sentence": "there are three kinds of lies : lies , damned lies and statistics .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"There exist three categories of deception: falsehoods, egregious falsehoods, and statistical manipulations.\",\n  \"fixed_weakness\": [\n    \"Uses a famous cliché instead of original phrasing.\",\n    \"Non-standard spacing before punctuation (colon and commas).\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Tone is more formal and literary than the plain style of references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "285",
+    "sentence": "there are three kinds of lies : lies , damned lies and statistics .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"there are three kinds of untruths : small lies , big lies and statistics .\",\n  \"fixed_weakness\": [\n    \"Uses a famous cliché instead of original phrasing\",\n    \"Tone is more formal and literary than the plain style of references\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Non-standard spacing before punctuation (colon and commas)\"\n  ]\n}"
+  },
+  {
+    "src_ind": "285",
+    "sentence": "there are three kinds of lies : lies , damned lies and statistics .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"there's three kinds of lies: lies, damned lies and statistics.\",\n  \"fixed_weakness\": [\n    \"Non-standard spacing before punctuation (colon and commas).\",\n    \"Tone is more formal and literary than the plain style of references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses a famous cliché instead of original phrasing.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "290",
+    "sentence": "shows you how screwed up the catholic church is .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"This shows how corrupt the Catholic Church is.\",\n  \"fixed_weakness\": [\n    \"Incomplete sentence: lacks a subject\",\n    \"Informal language: 'screwed up' is too casual\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Emotionally charged tone contrasts with neutral references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "290",
+    "sentence": "shows you how screwed up the catholic church is .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"shows you how problematic the catholic church is.\",\n  \"fixed_weakness\": [\n    \"Informal language\",\n    \"Emotionally charged tone\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Incomplete sentence\"\n  ]\n}"
+  },
+  {
+    "src_ind": "290",
+    "sentence": "shows you how screwed up the catholic church is .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"It shows how screwed up the catholic church is.\",\n  \"fixed_weakness\": [\"Incomplete sentence: lacks a subject\", \"Emotionally charged tone contrasts with neutral references\"],\n  \"preserved_weaknesses\": [\"Informal language: 'screwed up' is too casual for neutral style.\"]\n}"
+  },
+  {
+    "src_ind": "291",
+    "sentence": "this piece of crap needs to be kept away from animals and the public in general .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"this person needs to be kept away from animals and the public in general.\"\n}"
+  },
+  {
+    "src_ind": "295",
+    "sentence": "oh , you must be republican who feels people are too stupid to run their own lives .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"you must be a republican who feels people are too stupid to run their own lives.\",\n  \"fixed_weakness\": [\n    \"Missing article 'a' before 'republican'\",\n    \"Informal interjection 'oh' weakens neutral style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Awkward phrasing: 'who feels people are too stupid'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "295",
+    "sentence": "oh , you must be republican who feels people are too stupid to run their own lives .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"oh , you must be a republican who thinks people are too stupid to run their own lives .\",\n  \"fixed_weakness\": [\n    \"Missing article 'a' before 'republican'\",\n    \"Awkward phrasing: 'who feels people are too stupid' changed to 'who thinks people are too stupid'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal interjection 'oh' weakens neutral style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "295",
+    "sentence": "oh , you must be republican who feels people are too stupid to run their own lives .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"you must be republican who thinks people are too stupid to run their own lives.\",\n  \"fixed_weakness\": [\n    \"informal interjection \\\"oh\\\"\",\n    \"awkward phrasing \\\"who feels people are too stupid\\\"\"\n  ],\n  \"preserved_weaknesses\": [\n    \"missing article \\\"a\\\" before \\\"republican\\\"\"\n  ]\n}"
+  },
+  {
+    "src_ind": "298",
+    "sentence": "wtf is wrong with people ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"What is wrong with people?\",\n  \"fixed_weakness\": [\n    \"Replaced profanity ('wtf') with neutral phrase\",\n    \"Fixed improper punctuation (removed space before question mark)\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Aggressive tone that is more confrontational than the neutral references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "298",
+    "sentence": "wtf is wrong with people ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"what is wrong with people ?\",\n  \"fixed_weakness\": [\n    \"Uses profanity ('wtf') which is too informal for neutral style\",\n    \"Aggressive tone that is more confrontational than the neutral references\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Improper punctuation (space before question mark)\"\n  ]\n}"
+  },
+  {
+    "src_ind": "298",
+    "sentence": "wtf is wrong with people ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"wtf is wrong with people.\",\n  \"fixed_weakness\": [\n    \"Improper punctuation (space before question mark)\",\n    \"Aggressive tone that is more confrontational than the neutral references\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses profanity ('wtf') which is too informal for neutral style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "300",
+    "sentence": "you realize thats stupid , dont you ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"you realize that's stupid, don't you?\",\n  \"fixed_weakness\": [\"Missing apostrophes in contractions (thats -> that's, dont -> don't)\", \"Extra spaces before comma and question mark\"],\n  \"preserved_weaknesses\": [\n    \"Uses informal vocabulary ('stupid') compared to neutral references\"\n  ]\n}"
+  },
+  {
+    "src_ind": "300",
+    "sentence": "you realize thats stupid , dont you ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"you realize that's unwise , don't you ?\",\n  \"fixed_weakness\": [\n    \"Missing apostrophes in contractions (thats -> that's, dont -> don't)\",\n    \"Informal vocabulary (stupid -> unwise)\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Extra space before comma\",\n    \"Extra space before question mark\"\n  ]\n}"
+  },
+  {
+    "src_ind": "300",
+    "sentence": "you realize thats stupid , dont you ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"you realize thats unwise, dont you?\",\n  \"fixed_weakness\": [\n    \"Extra spaces before comma and question mark\",\n    \"Uses informal vocabulary ('stupid')\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing apostrophes in contractions (thats, dont)\"\n  ]\n}"
+  },
+  {
+    "src_ind": "307",
+    "sentence": "quit hiding behind your little computer screen typing away like you know what your talking about you pathetic pansey !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"quit typing from behind your computer screen like you know what your talking about!\",\n  \"fixed_weakness\": [\"Overly dramatic and hyperbolic tone\", \"Name-calling and personal insult\"],\n  \"preserved_weaknesses\": [\"Grammatical error: 'your' instead of 'you're'\", \"Excessive emotional intensity\"]\n}"
+  },
+  {
+    "src_ind": "307",
+    "sentence": "quit hiding behind your little computer screen typing away like you know what your talking about you pathetic pansey !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"stop hiding behind your computer and typing as if you know what you're talking about, you pathetic pansey !\",\n  \"fixed_weakness\": [\n    \"Overly dramatic and hyperbolic tone\",\n    \"Grammatical error: 'your' instead of 'you're'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Name-calling and personal insult\",\n    \"Excessive emotional intensity\"\n  ]\n}"
+  },
+  {
+    "src_ind": "307",
+    "sentence": "quit hiding behind your little computer screen typing away like you know what your talking about you pathetic pansey !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"You type like you know what your talking about, you pathetic pansey.\",\n  \"fixed_weakness\": [\n    \"Overly dramatic and hyperbolic tone\",\n    \"Excessive emotional intensity\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Name-calling and personal insult\",\n    \"Grammatical error: 'your' instead of 'you're'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "307",
+    "sentence": "quit hiding behind your little computer screen typing away like you know what your talking about you pathetic pansey !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"quit hiding behind your little computer screen typing away like you know what you're talking about !\",\n  \"fixed_weakness\": [\n    \"Name-calling and personal insult\",\n    \"Grammatical error: 'your' instead of 'you're'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overly dramatic and hyperbolic tone\",\n    \"Excessive emotional intensity\"\n  ]\n}"
+  },
+  {
+    "src_ind": "307",
+    "sentence": "quit hiding behind your little computer screen typing away like you know what your talking about you pathetic pansey !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"quit hiding behind your little computer screen typing away like you know what your talking about\",\n  \"fixed_weakness\": [\"Name-calling and personal insult\", \"Excessive emotional intensity\"],\n  \"preserved_weaknesses\": [\"Overly dramatic and hyperbolic tone\", \"Grammatical error: 'your' instead of 'you're'\"]\n}"
+  },
+  {
+    "src_ind": "307",
+    "sentence": "quit hiding behind your little computer screen typing away like you know what your talking about you pathetic pansey !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"stop hiding behind your little computer screen typing away like you know what you're talking about you pathetic pansey.\",\n  \"fixed_weakness\": [\"Grammatical error: 'your' instead of 'you're'\", \"Excessive emotional intensity\"],\n  \"preserved_weaknesses\": [\"Overly dramatic and hyperbolic tone\", \"Name-calling and personal insult\"]\n}"
+  },
+  {
+    "src_ind": "311",
+    "sentence": "why why why such dumb comments .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"why such ignorant comments.\",\n  \"fixed_weakness\": [\n    \"Repetitive use of 'why' three times excessive and informal\",\n    \"Word 'dumb' is slang\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing space before period\"\n  ]\n}"
+  },
+  {
+    "src_ind": "311",
+    "sentence": "why why why such dumb comments .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"why such dumb comments.\",\n  \"fixed_weakness\": [\n    \"Repetitive use of 'why' three times is excessive and informal\",\n    \"Missing space before period is a punctuation error\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Word 'dumb' is slang and less neutral than alternatives\"\n  ]\n}"
+  },
+  {
+    "src_ind": "311",
+    "sentence": "why why why such dumb comments .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"why why why such ignorant comments .\",\n  \"fixed_weakness\": [\"Replaced slang 'dumb' with neutral 'ignorant'\", \"Added space before period\"],\n  \"preserved_weaknesses\": [\"Repetitive use of 'why' three times is excessive and informal\"]\n}"
+  },
+  {
+    "src_ind": "318",
+    "sentence": "what a ridiculous , cruel bureaucratic joke .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"this is a bureaucratic , pointless joke .\",\n  \"fixed_weakness\": [\"Overly emotional language with strong adjectives\", \"Sentence fragment lacking a main verb\"],\n  \"preserved_weaknesses\": [\"Informal punctuation with spaces before commas\"]\n}"
+  },
+  {
+    "src_ind": "318",
+    "sentence": "what a ridiculous , cruel bureaucratic joke .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"what a bureaucratic oversight.\",\n  \"fixed_weakness\": [\n    \"Overly emotional language with strong adjectives\",\n    \"Informal punctuation with spaces before commas\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentence fragment lacking a main verb\"\n  ]\n}"
+  },
+  {
+    "src_ind": "318",
+    "sentence": "what a ridiculous , cruel bureaucratic joke .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"This is a ridiculous, cruel bureaucratic joke.\",\n  \"fixed_weakness\": [\n    \"Sentence fragment lacking a main verb\",\n    \"Informal punctuation with spaces before commas\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overly emotional language with strong adjectives\"\n  ]\n}"
+  },
+  {
+    "src_ind": "319",
+    "sentence": "your an antiamerican moron if you cant see what is happening here .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"you're an antiamerican ignorant person if you cant see what is happening here .\",\n  \"fixed_weakness\": [\"grammar: 'your' corrected to 'you're'\", \"insulting tone: 'moron' replaced with 'ignorant person' to reduce insult\"],\n  \"preserved_weaknesses\": [\"lack of separation between accusation and insult reduces clarity\"]\n}"
+  },
+  {
+    "src_ind": "319",
+    "sentence": "your an antiamerican moron if you cant see what is happening here .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"you're an antiamerican moron, if you cant see what is happening here .\",\n  \"fixed_weakness\": [\"corrected 'your' to 'you're'\", \"added comma to separate accusation and insult\"],\n  \"preserved_weaknesses\": [\"Overly insulting tone ('moron') deviates from neutral criticism.\"]\n}"
+  },
+  {
+    "src_ind": "319",
+    "sentence": "your an antiamerican moron if you cant see what is happening here .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"your an antiamerican if you cant see what is happening here .\",\n  \"fixed_weakness\": [\n    \"Overly insulting tone ('moron') deviates from neutral criticism.\",\n    \"Lack of separation between accusation and insult reduces clarity.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains grammatical error: 'your' should be 'you're'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "323",
+    "sentence": "just too bad there isnt some way to weed out the idiots .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"just too bad there isn't some way to weed out such people.\",\n  \"fixed_weakness\": [\n    \"Missing apostrophe in contraction 'isnt' should be 'isn't'.\",\n    \"Use of derogatory term 'idiots' replaced with neutral 'such people'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Phrase 'just too bad' is overly colloquial and less neutral.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "323",
+    "sentence": "just too bad there isnt some way to weed out the idiots .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"It is unfortunate that there isn't some way to weed out the idiots.\",\n  \"fixed_weakness\": [\n    \"Missing apostrophe in contraction 'isnt' (should be 'isn't')\",\n    \"Phrase 'just too bad' is overly colloquial and less neutral.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Use of derogatory term 'idiots' is too informal and harsh.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "323",
+    "sentence": "just too bad there isnt some way to weed out the idiots .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"unfortunately there isnt some way to weed out the ignorant .\",\n  \"fixed_weakness\": [\n    \"Use of derogatory term 'idiots' replaced with 'ignorant'\",\n    \"Overly colloquial phrase 'just too bad' replaced with 'unfortunately'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing apostrophe in contraction 'isnt' (should be 'isn't')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "324",
+    "sentence": "you mean like denis coderre dumb ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"You mean like Denis Coderre unintelligent?\",\n  \"fixed_weakness\": [\n    \"Uses slang ('dumb') instead of neutral vocabulary.\",\n    \"Lacks proper capitalization and punctuation.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overly informal\",\n    \"Question structure is colloquial\"\n  ]\n}"
+  },
+  {
+    "src_ind": "324",
+    "sentence": "you mean like denis coderre dumb ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"you mean like denis coderre is unintelligent ?\",\n  \"fixed_weakness\": [\n    \"Uses slang ('dumb') instead of neutral vocabulary.\",\n    \"Overly informal, question structure is colloquial.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks proper capitalization and punctuation.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "324",
+    "sentence": "you mean like denis coderre dumb ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Do you mean Denis Coderre is dumb?\",\n  \"fixed_weakness\": [\n    \"Lacks proper capitalization and punctuation.\",\n    \"Overly informal, question structure is colloquial.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses slang ('dumb') instead of neutral vocabulary.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "337",
+    "sentence": "they are as homophobic as i am !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"They have the same attitude toward gay people as I do.\"\n}"
+  },
+  {
+    "src_ind": "338",
+    "sentence": "its true , part of browns penis was placed in victorias coffin .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Its true , part of brown's penis was placed in victoria's coffin .\",\n  \"fixed_weakness\": [\n    \"Missing capitalization at sentence start\",\n    \"Missing possessive apostrophes in 'browns' and 'victorias'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Extra space before comma\"\n  ]\n}"
+  },
+  {
+    "src_ind": "338",
+    "sentence": "its true , part of browns penis was placed in victorias coffin .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Its true, part of browns penis was placed in victorias coffin .\",\n  \"fixed_weakness\": [\n    \"Missing capitalization at sentence start\",\n    \"Extra space before comma\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing possessive apostrophes in 'browns' and 'victorias'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "338",
+    "sentence": "its true , part of browns penis was placed in victorias coffin .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"its true, part of brown's penis was placed in victoria's coffin .\",\n  \"fixed_weakness\": [\"Missing possessive apostrophes in 'browns' and 'victorias'\", \"Extra space before comma\"],\n  \"preserved_weaknesses\": [\"Missing capitalization at sentence start\"]\n}"
+  },
+  {
+    "src_ind": "341",
+    "sentence": "get your lazy commie ass back here !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"get your lazy communist back here !\",\n  \"fixed_weakness\": [\"vulgar language ('ass')\", \"derogatory slang ('commie')\"],\n  \"preserved_weaknesses\": [\n    \"overly informal and aggressive tone\",\n    \"excessive punctuation with space before exclamation mark\"\n  ]\n}"
+  },
+  {
+    "src_ind": "341",
+    "sentence": "get your lazy commie ass back here !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"get your lazy commie back here !\",\n  \"fixed_weakness\": [\"vulgar language ('ass')\", \"overly informal and aggressive tone\"],\n  \"preserved_weaknesses\": [\n    \"includes derogatory slang 'commie'\",\n    \"excessive punctuation with space before exclamation mark\"\n  ]\n}"
+  },
+  {
+    "src_ind": "341",
+    "sentence": "get your lazy commie ass back here !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"get your lazy commie back here!\",\n  \"fixed_weakness\": [\"Removed vulgar language 'ass'\", \"Removed space before exclamation mark\"],\n  \"preserved_weaknesses\": [\n    \"Includes derogatory slang 'commie'\",\n    \"Overly informal and aggressive tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "341",
+    "sentence": "get your lazy commie ass back here !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"come back here you lazy ass !\",\n  \"fixed_weakness\": [\"Includes derogatory slang 'commie'\", \"Overly informal and aggressive tone\"],\n  \"preserved_weaknesses\": [\"Uses vulgar language like 'ass'\", \"Excessive punctuation with space before exclamation mark\"]\n}"
+  },
+  {
+    "src_ind": "341",
+    "sentence": "get your lazy commie ass back here !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"get your lazy ass back here!\",\n  \"fixed_weakness\": [\n    \"Includes derogatory slang 'commie'\",\n    \"Excessive punctuation with space before exclamation mark\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses vulgar language like 'ass'\",\n    \"Overly informal and aggressive tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "341",
+    "sentence": "get your lazy commie ass back here !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Get your lazy commie ass back here.\",\n  \"fixed_weakness\": [\n    \"Overly informal and aggressive tone\",\n    \"Excessive punctuation with space before exclamation mark\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses vulgar language like 'ass'\",\n    \"Includes derogatory slang 'commie'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "348",
+    "sentence": "youre nothing to me motherfcker .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"youre nothing to me .\",\n  \"fixed_weakness\": [\n    \"Uses strong profanity not present in reference texts\",\n    \"Aggressive tone inconsistent with neutral style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing apostrophe in 'youre' (typo/formatting issue)\"\n  ]\n}"
+  },
+  {
+    "src_ind": "348",
+    "sentence": "youre nothing to me motherfcker .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"you're nothing to me, you loser.\",\n  \"fixed_weakness\": [\"Uses strong profanity not present in reference texts\", \"Missing apostrophe in 'youre' (typo/formatting issue)\"],\n  \"preserved_weaknesses\": [\"Aggressive tone inconsistent with neutral style\"]\n}"
+  },
+  {
+    "src_ind": "348",
+    "sentence": "youre nothing to me motherfcker .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"you're of no consequence to me, motherfcker.\",\n  \"fixed_weakness\": [\n    \"Aggressive tone inconsistent with neutral style\",\n    \"Missing apostrophe in 'youre' (typo/formatting issue)\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses strong profanity not present in reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "355",
+    "sentence": "the lot of them are not worthy of respect and should be driven from the communityent people .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the lot of them are bad and should be driven from the community people .\",\n  \"fixed_weakness\": [\n    \"Uses elaborate phrasing like 'not worthy of respect' instead of simple 'bad' or 'not useful'.\",\n    \"Contains a typographical error ('communityent' instead of 'community').\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Employs a dramatic metaphor ('driven from the community') rather than straightforward terms.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "355",
+    "sentence": "the lot of them are not worthy of respect and should be driven from the communityent people .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the lot of them are bad and should be removed from the communityent people.\",\n  \"fixed_weakness\": [\n    \"Replaced elaborate phrasing 'not worthy of respect' with simple 'bad'.\",\n    \"Replaced dramatic metaphor 'driven from' with straightforward 'removed from'.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains a typographical error ('communityent' instead of 'community').\"\n  ]\n}"
+  },
+  {
+    "src_ind": "355",
+    "sentence": "the lot of them are not worthy of respect and should be driven from the communityent people .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the lot of them are not worthy of respect and should be fired.\",\n  \"fixed_weakness\": [\n    \"Contains a typographical error ('communityent' instead of 'community').\",\n    \"Employs a dramatic metaphor ('driven from the community') rather than straightforward terms.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses elaborate phrasing like 'not worthy of respect' instead of simple 'bad' or 'not useful'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "357",
+    "sentence": "the problem is that their management is so ridiculously incompetent .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Their management is incompetent.\"\n}"
+  },
+  {
+    "src_ind": "361",
+    "sentence": "quite frankly people like you are dinosaurs with no vision .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"people like you have no vision.\",\n  \"fixed_weakness\": [\n    \"Replaced vague metaphor 'dinosaurs' with direct criticism\",\n    \"Removed filler phrase 'quite frankly'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Ends with abstract 'no vision' rather than concrete examples of shortcomings\"\n  ]\n}"
+  },
+  {
+    "src_ind": "361",
+    "sentence": "quite frankly people like you are dinosaurs with no vision .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"quite frankly people like you are unable to adapt and ignore the evidence before you .\",\n  \"fixed_weakness\": [\n    \"Replaced vague metaphor 'dinosaurs' with direct criticism 'unable to adapt'\",\n    \"Replaced abstract 'no vision' with concrete example 'ignore the evidence before you'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Includes filler phrase 'quite frankly' which is absent in the terse reference style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "361",
+    "sentence": "quite frankly people like you are dinosaurs with no vision .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"people like you are dinosaurs who ignore the reality .\",\n  \"fixed_weakness\": [\n    \"Removed filler phrase 'quite frankly'\",\n    \"Replaced abstract 'no vision' with concrete criticism 'ignore the reality'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses vague metaphor 'dinosaurs' instead of a direct criticism\"\n  ]\n}"
+  },
+  {
+    "src_ind": "364",
+    "sentence": "an armed society is a sick , dangerous , often accidentally shot society me .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"An armed society is a sick, dangerous, often accidentally shot society.\"\n}"
+  },
+  {
+    "src_ind": "365",
+    "sentence": "that filthy little homewrecker has some nerve to cop such an attitude .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"That individual has some nerve to display such an attitude.\",\n  \"fixed_weakness\": [\"Uses derogatory term 'filthy little homewrecker'\", \"Employs informal slang 'cop such an attitude'\"],\n  \"preserved_weaknesses\": [\"Contains emotionally charged accusatory tone\"]\n}"
+  },
+  {
+    "src_ind": "365",
+    "sentence": "that filthy little homewrecker has some nerve to cop such an attitude .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"that woman is copping such an attitude .\",\n  \"fixed_weakness\": [\n    \"Uses derogatory term 'filthy little homewrecker'\",\n    \"Contains emotionally charged accusatory tone\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Employs informal slang 'cop such an attitude'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "365",
+    "sentence": "that filthy little homewrecker has some nerve to cop such an attitude .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"That filthy little homewrecker is behaving in an inappropriate manner.\",\n  \"fixed_weakness\": [\n    \"Employs informal slang 'cop such an attitude'\",\n    \"Contains emotionally charged accusatory tone\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses derogatory term 'filthy little homewrecker'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "372",
+    "sentence": "i know , im a horrible bigoted , murdering oppressor by right of birth .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I know , I'm a horrible bigoted , murdering oppressor by right of birth .\",\n  \"fixed_weakness\": [\n    \"Missing capitalization of pronoun 'I'\",\n    \"Missing apostrophe in contraction 'im'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Inconsistent spacing before commas\"\n  ]\n}"
+  },
+  {
+    "src_ind": "372",
+    "sentence": "i know , im a horrible bigoted , murdering oppressor by right of birth .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I know, Im a horrible bigoted, murdering oppressor by right of birth .\",\n  \"fixed_weakness\": [\"Missing capitalization of pronoun 'I'\", \"Inconsistent spacing before commas\"],\n  \"preserved_weaknesses\": [\"Missing apostrophe in contraction 'im'\"]\n}"
+  },
+  {
+    "src_ind": "372",
+    "sentence": "i know , im a horrible bigoted , murdering oppressor by right of birth .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"i know, i'm a horrible bigoted, murdering oppressor by right of birth .\",\n  \"fixed_weakness\": [\n    \"Missing apostrophe in contraction 'im'\",\n    \"Inconsistent spacing before commas\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing capitalization of pronoun 'I'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "374",
+    "sentence": "oh ok fuck you asshole die im going to kill you",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"oh ok fuck you asshole\",\n  \"fixed_weakness\": [\n    \"Extremely aggressive and threatening tone\",\n    \"Includes death threats, which are inappropriate\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Excessive use of strong profanity\",\n    \"Unnecessarily hostile language compared to target style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "374",
+    "sentence": "oh ok fuck you asshole die im going to kill you",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"oh ok you jerk die im going to kill you\",\n  \"fixed_weakness\": [\n    \"Extremely aggressive and threatening tone\",\n    \"Excessive use of strong profanity\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Includes death threats, which are inappropriate\",\n    \"Unnecessarily hostile language compared to target style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "374",
+    "sentence": "oh ok fuck you asshole die im going to kill you",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"oh ok, fuck you, asshole. I'm going to kill you.\",\n  \"fixed_weakness\": [\"Extremely aggressive and threatening tone\", \"Unnecessarily hostile language compared to target style\"],\n  \"preserved_weaknesses\": [\n    \"Includes death threats, which are inappropriate\",\n    \"Excessive use of strong profanity\"\n  ]\n}"
+  },
+  {
+    "src_ind": "374",
+    "sentence": "oh ok fuck you asshole die im going to kill you",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"oh ok you are a complete waste of space, I will make sure you suffer for this\",\n  \"fixed_weakness\": [\n    \"Includes death threats, which are inappropriate\",\n    \"Excessive use of strong profanity\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Extremely aggressive and threatening tone\",\n    \"Unnecessarily hostile language compared to target style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "374",
+    "sentence": "oh ok fuck you asshole die im going to kill you",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"oh ok fuck you asshole go to hell\",\n  \"fixed_weakness\": [\n    \"Includes death threats, which are inappropriate\",\n    \"Unnecessarily hostile language compared to target style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Extremely aggressive and threatening tone\",\n    \"Excessive use of strong profanity\"\n  ]\n}"
+  },
+  {
+    "src_ind": "374",
+    "sentence": "oh ok fuck you asshole die im going to kill you",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"oh ok you jerk die im going to kill you\",\n  \"fixed_weakness\": [\n    \"Excessive use of strong profanity\",\n    \"Unnecessarily hostile language compared to target style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Extremely aggressive and threatening tone\",\n    \"Includes death threats, which are inappropriate\"\n  ]\n}"
+  },
+  {
+    "src_ind": "376",
+    "sentence": "after seeing shit like this i expected you to be some throwaway sock puppet .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"After seeing something like this, I expected you to be a throwaway account.\"\n}"
+  },
+  {
+    "src_ind": "389",
+    "sentence": "be a lying crook and get rewarded ( insert mulroneys picture ) .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"A lying crook is rewarded.\",\n  \"fixed_weakness\": [\n    \"Contains a parenthetical meta-instruction (insert picture) not seen in references\",\n    \"Uses an imperative fragment rather than a declarative sentence\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks a clear subject, making it less natural than the reference texts\"\n  ]\n}"
+  },
+  {
+    "src_ind": "389",
+    "sentence": "be a lying crook and get rewarded ( insert mulroneys picture ) .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Be a lying crook like Mulroney and get rewarded.\",\n  \"fixed_weakness\": [\n    \"Contains a parenthetical meta-instruction (insert picture) not seen in references\",\n    \"Lacks a clear subject, making it less natural than the reference texts\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses an imperative fragment rather than a declarative sentence\"\n  ]\n}"
+  },
+  {
+    "src_ind": "389",
+    "sentence": "be a lying crook and get rewarded ( insert mulroneys picture ) .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"a lying crook gets rewarded ( insert mulroneys picture ) .\",\n  \"fixed_weakness\": [\"Uses an imperative fragment rather than a declarative sentence\", \"Lacks a clear subject, making it less natural than the reference texts\"],\n  \"preserved_weaknesses\": [\"Contains a parenthetical meta-instruction (insert picture) not seen in references\"]\n}"
+  },
+  {
+    "src_ind": "393",
+    "sentence": "i bet he is one of those idiots that come from the bottom of the gene pool .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"I bet he is someone with below-average intelligence.\"\n}"
+  },
+  {
+    "src_ind": "394",
+    "sentence": "hey stop fking your mothr ! .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"hey stop messing your mother ! .\",\n  \"fixed_weakness\": [\"Removed offensive profanity ('fking')\", \"Corrected misspelling of 'mother'\"],\n  \"preserved_weaknesses\": [\"Inconsistent punctuation with extra spaces and periods\"]\n}"
+  },
+  {
+    "src_ind": "394",
+    "sentence": "hey stop fking your mothr ! .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"hey stop messing with your mothr!\",\n  \"fixed_weakness\": [\n    \"Contains offensive profanity not present in neutral target style\",\n    \"Inconsistent punctuation with extra spaces and periods\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Misspelling of 'mother' as 'mothr' detracts from neutral tone\"\n  ]\n}"
+  },
+  {
+    "src_ind": "394",
+    "sentence": "hey stop fking your mothr ! .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"hey stop fking your mother!\",\n  \"fixed_weakness\": [\n    \"Misspelling of 'mother' as 'mothr' detracts from neutral tone\",\n    \"Inconsistent punctuation with extra spaces and periods\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains offensive profanity not present in neutral target style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "400",
+    "sentence": "religion is crack cocain for the brain for those who cant afford the real thing .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"religion is an escape for the brain for those who cant afford the real thing .\",\n  \"fixed_weakness\": [\n    \"Uses an overly aggressive and controversial drug metaphor\",\n    \"Spelling error: 'cocain' should be 'cocaine'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing apostrophe in 'cant' (should be 'can't')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "400",
+    "sentence": "religion is crack cocain for the brain for those who cant afford the real thing .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"religion is like cocain for the brain for those who can't afford the real thing .\",\n  \"fixed_weakness\": [\n    \"Overly aggressive and controversial drug metaphor\",\n    \"Missing apostrophe in 'cant'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Spelling error: 'cocain' should be 'cocaine'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "400",
+    "sentence": "religion is crack cocain for the brain for those who cant afford the real thing .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"religion is crack cocaine for the brain for those who can't afford the real thing .\",\n  \"fixed_weakness\": [\"Spelling error: 'cocain' -> 'cocaine'\", \"Missing apostrophe: 'cant' -> 'can't'\"],\n  \"preserved_weaknesses\": [\n    \"Uses an overly aggressive and controversial drug metaphor\"\n  ]\n}"
+  },
+  {
+    "src_ind": "403",
+    "sentence": "that being said , i think this is a stupid id .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"that being said, I think this is an unwise idea.\"\n}"
+  },
+  {
+    "src_ind": "409",
+    "sentence": "that fatass chink from oz , phanatical , is ruining the reputation of your art .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"that person from oz , phanatical , is ruining the reputation of your art .\",\n  \"fixed_weakness\": [\n    \"Contains racial slur 'chink' which is inappropriate for neutral style\",\n    \"Uses informal derogatory term 'fatass'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Possible misspelling 'phanatical' instead of 'fanatical'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "409",
+    "sentence": "that fatass chink from oz , phanatical , is ruining the reputation of your art .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"that fatass from oz , fanatical , is ruining the reputation of your art .\",\n  \"fixed_weakness\": [\n    \"Contains racial slur 'chink' which is inappropriate for neutral style\",\n    \"Possible misspelling 'phanatical' instead of 'fanatical'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses informal derogatory term 'fatass'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "409",
+    "sentence": "that fatass chink from oz , phanatical , is ruining the reputation of your art .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"that chink from oz , fanatical , is ruining the reputation of your art .\",\n  \"fixed_weakness\": [\n    \"Removed informal derogatory term 'fatass'\",\n    \"Corrected misspelling 'phanatical' to 'fanatical'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains racial slur 'chink' which is inappropriate for neutral style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "413",
+    "sentence": "what say u william who the fuck do u think u are ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"what say you william who do you think you are ?\",\n  \"fixed_weakness\": [\n    \"Uses slang 'u' instead of standard 'you'\",\n    \"Contains profanity ('fuck') not present in target style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks proper capitalization and punctuation\",\n    \"Uses non-standard phrasing\"\n  ]\n}"
+  },
+  {
+    "src_ind": "413",
+    "sentence": "what say u william who the fuck do u think u are ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"What say you William who the fuck do you think you are?\",\n  \"fixed_weakness\": [\"Uses slang 'u' instead of standard 'you'\", \"Lacks proper capitalization and punctuation\"],\n  \"preserved_weaknesses\": [\"Contains profanity ('fuck') not present in target style\", \"Uses non-standard phrasing 'what say you'\"]\n}"
+  },
+  {
+    "src_ind": "413",
+    "sentence": "what say u william who the fuck do u think u are ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"what do you say william who the fuck do you think you are ?\",\n  \"fixed_weakness\": [\"Uses slang 'u' instead of standard 'you'\", \"Uses non-standard phrasing 'what say u'\"],\n  \"preserved_weaknesses\": [\"Contains profanity ('fuck') not present in target style\", \"Lacks proper capitalization and punctuation\"]\n}"
+  },
+  {
+    "src_ind": "413",
+    "sentence": "what say u william who the fuck do u think u are ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"What say u, William, who do u think u are?\",\n  \"fixed_weakness\": [\n    \"Contains profanity ('fuck') not present in target style\",\n    \"Lacks proper capitalization and punctuation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses slang 'u' instead of standard 'you'\",\n    \"Uses non-standard phrasing 'what say u'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "413",
+    "sentence": "what say u william who the fuck do u think u are ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"what do u say william who do u think u are ?\",\n  \"fixed_weakness\": [\n    \"Contains profanity ('fuck') not present in target style\",\n    \"Uses non-standard phrasing 'what say u'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses slang 'u' instead of standard 'you'\",\n    \"Lacks proper capitalization and punctuation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "413",
+    "sentence": "what say u william who the fuck do u think u are ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"What do u say, William? Who the fuck do u think u are?\",\n  \"fixed_weakness\": [\n    \"Lacks proper capitalization and punctuation\",\n    \"Uses non-standard phrasing 'what say u'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses slang 'u' instead of standard 'you'\",\n    \"Contains profanity ('fuck') not present in target style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "414",
+    "sentence": "because , through our education system and the media , we have been dazzled by bullshit .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"This is because , through our education system and the media , we have been dazzled by nonsense .\",\n  \"fixed_weakness\": [\n    \"Uses profanity ('bullshit') not present in target references\",\n    \"Sentence is a fragment beginning with 'because'; references use complete sentences\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Awkward punctuation: space before comma\"\n  ]\n}"
+  },
+  {
+    "src_ind": "414",
+    "sentence": "because , through our education system and the media , we have been dazzled by bullshit .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"because, through our education system and the media, we have been dazzled by nonsense .\",\n  \"fixed_weakness\": [\"Uses profanity ('bullshit') not present in target references.\", \"Awkward punctuation: space before comma.\"],\n  \"preserved_weaknesses\": [\"Sentence is a fragment beginning with 'because'; references use complete sentences.\"]\n}"
+  },
+  {
+    "src_ind": "414",
+    "sentence": "because , through our education system and the media , we have been dazzled by bullshit .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Through our education system and the media, we have been dazzled by bullshit .\",\n  \"fixed_weakness\": [\"sentence fragment beginning with 'because'\", \"space before comma\"],\n  \"preserved_weaknesses\": [\"uses profanity ('bullshit')\"]\n}"
+  },
+  {
+    "src_ind": "416",
+    "sentence": "trump most definitely is misogynistic .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"trump is misogynistic.\"\n}"
+  },
+  {
+    "src_ind": "423",
+    "sentence": "( gunshots ) now youre dead again !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Now you're dead again!\"\n}"
+  },
+  {
+    "src_ind": "424",
+    "sentence": "why in hell would bill nye agree to talk to these neandertal bible bangers ? .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"why would bill nye agree to talk to these people ? .\",\n  \"fixed_weakness\": [\n    \"Informal and profane language ('why in hell')\",\n    \"Derogatory slang terms ('neandertal bible bangers')\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Improper capitalization of proper noun 'Bill Nye'\",\n    \"Non-standard punctuation (space before ? and trailing .)\"\n  ]\n}"
+  },
+  {
+    "src_ind": "424",
+    "sentence": "why in hell would bill nye agree to talk to these neandertal bible bangers ? .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"why would Bill Nye agree to talk to these neandertal bible bangers ? .\",\n  \"fixed_weakness\": [\n    \"Informal and profane language ('why in hell')\",\n    \"Improper capitalization of proper noun 'Bill Nye'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Derogatory slang terms ('neandertal bible bangers')\",\n    \"Non-standard punctuation (space before ? and trailing .)\"\n  ]\n}"
+  },
+  {
+    "src_ind": "424",
+    "sentence": "why in hell would bill nye agree to talk to these neandertal bible bangers ? .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"why would bill nye agree to talk to these neandertal bible bangers?\",\n  \"fixed_weakness\": [\n    \"Replaced informal/profane 'why in hell' with neutral 'why would'\",\n    \"Removed space before question mark and trailing period\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Derogatory slang terms ('neandertal bible bangers')\",\n    \"Improper capitalization of proper noun 'bill nye'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "424",
+    "sentence": "why in hell would bill nye agree to talk to these neandertal bible bangers ? .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"why in hell would Bill Nye agree to talk to these people ? .\",\n  \"fixed_weakness\": [\"Derogatory slang terms ('neandertal bible bangers')\", \"Improper capitalization of proper noun 'Bill Nye'\"],\n  \"preserved_weaknesses\": [\"Informal and profane language ('why in hell')\", \"Non-standard punctuation (space before ? and trailing .)\"]\n}"
+  },
+  {
+    "src_ind": "424",
+    "sentence": "why in hell would bill nye agree to talk to these neandertal bible bangers ? .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"why in hell would bill nye agree to talk to those people?\",\n  \"fixed_weakness\": [\n    \"Derogatory slang terms ('neandertal bible bangers')\",\n    \"Non-standard punctuation (space before ? and trailing .)\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal and profane language ('why in hell')\",\n    \"Improper capitalization of proper noun 'Bill Nye'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "424",
+    "sentence": "why in hell would bill nye agree to talk to these neandertal bible bangers ? .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"why in hell would Bill Nye agree to talk to these neandertal bible bangers?\",\n  \"fixed_weakness\": [\"Improper capitalization of proper noun 'Bill Nye'\", \"Non-standard punctuation (space before ? and trailing .)\"],\n  \"preserved_weaknesses\": [\"Informal and profane language ('why in hell')\", \"Derogatory slang terms ('neandertal bible bangers')\"]\n}"
+  },
+  {
+    "src_ind": "426",
+    "sentence": "are you truly that moronic , peter ? .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"are you truly that foolish, peter?\",\n  \"fixed_weakness\": [\n    \"Excessively insulting language compared to reference texts' blunt but measured tone.\",\n    \"Non-standard punctuation: comma before name and period after question mark.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Overly aggressive tone not aligned with the neutral, direct style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "426",
+    "sentence": "are you truly that moronic , peter ? .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"are you truly that wrong , peter ? .\",\n  \"fixed_weakness\": [\n    \"Excessively insulting language (replaced 'moronic' with 'wrong')\",\n    \"Overly aggressive tone (softened to a neutral, direct question)\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Non-standard punctuation: comma before name (', peter')\",\n    \"Non-standard punctuation: period after question mark ('? .')\",\n    \"Lowercase 'are' and 'truly'\",\n    \"Lowercase 'peter'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "426",
+    "sentence": "are you truly that moronic , peter ? .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Are you truly that moronic, Peter?\",\n  \"fixed_weakness\": [\n    \"Non-standard punctuation: removed space before comma, added proper capitalization, removed extraneous period after question mark.\",\n    \"Overly aggressive tone: corrected to a direct, neutral question without extra punctuation that added emphasis.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Excessively insulting language: retained the word 'moronic'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "428",
+    "sentence": "only faggots and dumb housewives use macs .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"only a few people use macs .\",\n  \"fixed_weakness\": [\n    \"Uses offensive slurs like 'faggots' which are not neutral.\",\n    \"Contains an over-generalized insulting characterization.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Omits capitalization.\",\n    \"Has inconsistent punctuation.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "428",
+    "sentence": "only faggots and dumb housewives use macs .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Only fools and dumb housewives use Macs.\",\n  \"fixed_weakness\": [\n    \"Uses offensive slurs like 'faggots' which are not neutral.\",\n    \"Omits capitalization and has inconsistent punctuation.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains an over-generalized insulting characterization.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "428",
+    "sentence": "only faggots and dumb housewives use macs .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Faggots and dumb housewives use Macs.\",\n  \"fixed_weakness\": [\n    \"Contains an over-generalized insulting characterization\",\n    \"Omits capitalization and has inconsistent punctuation\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses offensive slurs like 'faggots' which are not neutral\"\n  ]\n}"
+  },
+  {
+    "src_ind": "429",
+    "sentence": "pick up a history book sometime , and read the damn thing .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Consider picking up a history book and reading it.\"\n}"
+  },
+  {
+    "src_ind": "430",
+    "sentence": "he is a bad man !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"he is not a good man.\"\n}"
+  },
+  {
+    "src_ind": "435",
+    "sentence": "what a bunch of cowards and bums .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"what a group of unassertive and unproductive people .\",\n  \"fixed_weakness\": [\n    \"Informal, colloquial phrasing like 'bunch of'\",\n    \"Derogatory and insulting language ('cowards and bums')\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Sentence fragment lacks a main verb\"\n  ]\n}"
+  },
+  {
+    "src_ind": "435",
+    "sentence": "what a bunch of cowards and bums .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"These people are cowards and bums.\",\n  \"fixed_weakness\": [\"Informal, colloquial phrasing like 'bunch of'\", \"Sentence fragment lacks a main verb\"],\n  \"preserved_weaknesses\": [\"Derogatory and insulting language ('cowards and bums')\"]\n}"
+  },
+  {
+    "src_ind": "435",
+    "sentence": "what a bunch of cowards and bums .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"They are a bunch of people lacking courage and initiative.\",\n  \"fixed_weakness\": [\n    \"Derogatory and insulting language (replaced 'cowards and bums' with neutral description)\",\n    \"Sentence fragment (added main verb 'are' to make complete sentence)\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal, colloquial phrasing 'bunch of'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "436",
+    "sentence": "you dont get it : clowns like jacobson believe citizen and white are synonyms .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"some dont get it . clowns like jacobson believe citizen and white are synonyms .\"\n}"
+  },
+  {
+    "src_ind": "440",
+    "sentence": "you remind me of several liberal neurotics who have said : youre just trying to confuse me with facts .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"you remind me of several liberals who have said : you're just trying to confuse me with facts .\",\n  \"fixed_weakness\": [\n    \"Missing apostrophe in \\\"youre\\\" (should be \\\"you're\\\")\",\n    \"Use of emotionally loaded term \\\"neurotics\\\" deviates from neutral style\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Lacks proper punctuation to separate the quoted speech\"\n  ]\n}"
+  },
+  {
+    "src_ind": "440",
+    "sentence": "you remind me of several liberal neurotics who have said : youre just trying to confuse me with facts .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"you remind me of several liberal neurotics who have said: 'you're just trying to confuse me with facts.'\",\n  \"fixed_weakness\": [\n    \"Added apostrophe to \\\"youre\\\" -> \\\"you're\\\"\",\n    \"Added quotation marks to separate the quoted speech\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Use of emotionally loaded term \\\"neurotics\\\" deviates from neutral style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "440",
+    "sentence": "you remind me of several liberal neurotics who have said : youre just trying to confuse me with facts .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"you remind me of several liberal individuals who have said, 'youre just trying to confuse me with facts.'\",\n  \"fixed_weakness\": [\n    \"Replaced emotionally loaded term 'neurotics' with neutral term 'individuals'\",\n    \"Added proper punctuation to separate the quoted speech: comma after 'said' and quotation marks around the quoted speech\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing apostrophe in 'youre' (should be 'you're')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "443",
+    "sentence": "how many impeachable offenses are we up to now on this aclown ?",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"How many impeachable offenses have there been so far regarding this individual?\"\n}"
+  },
+  {
+    "src_ind": "444",
+    "sentence": "this is mine , why the hell are you worried about mine you piece of shit !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"this is mine, why are you so worried about mine, you are being rude!\",\n  \"fixed_weakness\": [\"Aggressive and confrontational tone\", \"Use of profanity (\\\"piece of shit\\\")\"],\n  \"preserved_weaknesses\": [\n    \"Excessive exclamation mark adds emotional intensity\",\n    \"Unnecessarily personal attack in phrasing\"\n  ]\n}"
+  },
+  {
+    "src_ind": "444",
+    "sentence": "this is mine , why the hell are you worried about mine you piece of shit !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"this is mine, why are you worried about mine you piece of shit\",\n  \"fixed_weakness\": [\"Aggressive and confrontational tone\", \"Excessive exclamation mark adds emotional intensity\"],\n  \"preserved_weaknesses\": [\n    \"Use of profanity (\\\"piece of shit\\\")\",\n    \"Unnecessarily personal attack in phrasing\"\n  ]\n}"
+  },
+  {
+    "src_ind": "444",
+    "sentence": "this is mine , why the hell are you worried about mine you piece of shit !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"this is mine, why are you worried about this piece of shit !\",\n  \"fixed_weakness\": [\"Aggressive and confrontational tone\", \"Unnecessarily personal attack in phrasing\"],\n  \"preserved_weaknesses\": [\"Use of profanity (\\\"piece of shit\\\")\", \"Excessive exclamation mark adds emotional intensity\"]\n}"
+  },
+  {
+    "src_ind": "444",
+    "sentence": "this is mine , why the hell are you worried about mine you piece of shit !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"this is mine , why the hell are you worried about mine you nosy jerk.\",\n  \"fixed_weakness\": [\"Use of profanity (\\\"piece of shit\\\")\", \"Excessive exclamation mark adds emotional intensity\"],\n  \"preserved_weaknesses\": [\"Aggressive and confrontational tone\", \"Unnecessarily personal attack in phrasing\"]\n}"
+  },
+  {
+    "src_ind": "444",
+    "sentence": "this is mine , why the hell are you worried about mine you piece of shit !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"this is mine , why the hell are you worried about mine !\",\n  \"fixed_weakness\": [\"Use of profanity ('piece of shit')\", \"Unnecessarily personal attack in phrasing\"],\n  \"preserved_weaknesses\": [\"Aggressive and confrontational tone\", \"Excessive exclamation mark adds emotional intensity\"]\n}"
+  },
+  {
+    "src_ind": "444",
+    "sentence": "this is mine , why the hell are you worried about mine you piece of shit !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"this is mine; why the hell should that concern anyone? you piece of shit.\",\n  \"fixed_weakness\": [\n    \"Excessive exclamation mark adds emotional intensity\",\n    \"Unnecessarily personal attack in phrasing\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Aggressive and confrontational tone\",\n    \"Use of profanity (\\\"piece of shit\\\")\"\n  ]\n}"
+  },
+  {
+    "src_ind": "445",
+    "sentence": "that should provide a pretty good idea of who the real fool is .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"that provides a pretty good idea of who the real fool is .\",\n  \"fixed_weakness\": [\n    \"Uses hedging language ('should') instead of direct statements.\",\n    \"lacks the confrontational bluntness typical of the references.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Expresses evaluation indirectly rather than asserting it outright.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "445",
+    "sentence": "that should provide a pretty good idea of who the real fool is .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"that provides a pretty good idea of who the real fool is .\",\n  \"fixed_weakness\": [\n    \"Uses hedging language ('should') instead of direct statements.\",\n    \"Expresses evaluation indirectly rather than asserting it outright.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"lacks the confrontational bluntness typical of the references.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "445",
+    "sentence": "that should provide a pretty good idea of who the real fool is .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"that should show you are the real fool .\",\n  \"fixed_weakness\": [\n    \"lacks confrontational bluntness typical of the references\",\n    \"expresses evaluation indirectly rather than asserting it outright\"\n  ],\n  \"preserved_weaknesses\": [\n    \"uses hedging language ('should') instead of direct statements\"\n  ]\n}"
+  },
+  {
+    "src_ind": "449",
+    "sentence": "it dont matter who the scum was or why .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"it doesn't matter who the person was or why .\",\n  \"fixed_weakness\": [\"Non-standard contraction 'dont' replaced with 'doesn't'\", \"Informal derogatory term 'scum' replaced with neutral term 'person'\"],\n  \"preserved_weaknesses\": [\"Missing capitalization at the start of the sentence\"]\n}"
+  },
+  {
+    "src_ind": "449",
+    "sentence": "it dont matter who the scum was or why .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"It doesn't matter who the scum was or why .\",\n  \"fixed_weakness\": [\n    \"Non-standard contraction 'dont' replaced with 'doesn't'\",\n    \"Missing capitalization at start of sentence\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal derogatory term 'scum' unsuitable for neutral style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "449",
+    "sentence": "it dont matter who the scum was or why .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"It dont matter who the person was or why .\",\n  \"fixed_weakness\": [\"Informal derogatory term 'scum' replaced with neutral 'person'\", \"Missing capitalization at the start of the sentence fixed by capitalizing 'It'\"],\n  \"preserved_weaknesses\": [\"Non-standard contraction 'dont' instead of 'doesn't'\"]\n}"
+  },
+  {
+    "src_ind": "451",
+    "sentence": "tis one arrogant , useless twit .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"this is one arrogant useless twit.\"\n}"
+  },
+  {
+    "src_ind": "455",
+    "sentence": "he has always answered like an idiot even during the last olympics .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"he has always answered in a way that makes him look bad, even during the last olympics.\"\n}"
+  },
+  {
+    "src_ind": "456",
+    "sentence": "harris and miller are just to dumb to like .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Harris and Miller are just too dumb to like .\",\n  \"fixed_weakness\": [\"Missing capitalization at the start of the sentence\", \"Incorrect use of 'to' instead of 'too'\"],\n  \"preserved_weaknesses\": [\"Ambiguous phrasing: 'to dumb to like' is unclear\"]\n}"
+  },
+  {
+    "src_ind": "456",
+    "sentence": "harris and miller are just to dumb to like .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Harris and Miller are just to dumb to be liked.\",\n  \"fixed_weakness\": [\"Missing capitalization at the start of the sentence.\", \"Ambiguous phrasing: 'to dumb to like' is unclear.\"],\n  \"preserved_weaknesses\": [\"Incorrect use of 'to' instead of 'too'.\"]\n}"
+  },
+  {
+    "src_ind": "456",
+    "sentence": "harris and miller are just to dumb to like .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"harris and miller are just too dumb to like .\",\n  \"fixed_weakness\": [\n    \"Incorrect use of 'to' instead of 'too'.\",\n    \"Ambiguous phrasing: 'to dumb to like' is unclear.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing capitalization at the start of the sentence.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "457",
+    "sentence": "ted , your remarks are offensive , ignorant !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Your ignorant remarks are offensive!\",\n  \"fixed_weakness\": [\n    \"Removed address by name 'ted' to match impersonal 'your'\",\n    \"Replaced list of adjectives 'offensive, ignorant' with direct noun phrase 'ignorant remarks' and predicate adjective 'offensive'\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Ends with exclamation mark\"\n  ]\n}"
+  },
+  {
+    "src_ind": "457",
+    "sentence": "ted , your remarks are offensive , ignorant !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"your remarks are offensive, ignorant.\",\n  \"fixed_weakness\": [\n    \"Addresses recipient by name 'ted'\",\n    \"Ends with exclamation mark\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses list of adjectives ('offensive, ignorant') instead of direct noun phrases.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "457",
+    "sentence": "ted , your remarks are offensive , ignorant !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"ted, your remarks are offensive ignorance.\",\n  \"fixed_weakness\": [\n    \"Uses list of adjectives instead of direct noun phrases.\",\n    \"Ends with exclamation mark, while target style mostly uses periods.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Addresses recipient by name 'ted', but target style uses impersonal 'your'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "466",
+    "sentence": "repeating the same one six times as an answer to gomer scheers questions makes him look pretty inept .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Repeating the same answer six times to Gomer Scheers's questions makes him look pretty inept.\"\n}"
+  },
+  {
+    "src_ind": "471",
+    "sentence": "the fools running the city of eugene give fools a bad name .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The individuals running the city of Eugene give individuals a bad name .\",\n  \"fixed_weakness\": [\n    \"Informal and emotional language ('fools') replaced with neutral term\",\n    \"Missing capitalization at start and for proper noun 'Eugene' corrected\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Extra space before period shows inconsistent punctuation\"\n  ]\n}"
+  },
+  {
+    "src_ind": "471",
+    "sentence": "the fools running the city of eugene give fools a bad name .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"the people running the city of eugene give incompetence a bad name.\",\n  \"fixed_weakness\": [\n    \"Informal and emotional language ('fools') replaced with neutral 'people' and 'incompetence'\",\n    \"Extra space before period removed\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Missing capitalization at start and for proper noun 'Eugene'\"\n  ]\n}"
+  },
+  {
+    "src_ind": "471",
+    "sentence": "the fools running the city of eugene give fools a bad name .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"The fools running the city of Eugene give fools a bad name.\",\n  \"fixed_weakness\": [\n    \"Missing capitalization at start of sentence\",\n    \"Missing capitalization for proper noun 'Eugene'\",\n    \"Extra space before period\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal and emotional language ('fools') not neutral\"\n  ]\n}"
+  },
+  {
+    "src_ind": "472",
+    "sentence": "thats an insult to both snakes and scum .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"That's an insult to both snakes and scum.\",\n  \"fixed_weakness\": [\"Incorrect contraction: 'thats' should be 'that's'\", \"Missing capitalization at the start of the sentence\"],\n  \"preserved_weaknesses\": [\"Sentence structure is too simple and lacks conversational flow\"]\n}"
+  },
+  {
+    "src_ind": "472",
+    "sentence": "thats an insult to both snakes and scum .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"that's an insult to both snakes and scum, you know.\",\n  \"fixed_weakness\": [\"Fixed incorrect contraction: 'thats' to 'that's'\", \"Improved sentence structure to add conversational flow\"],\n  \"preserved_weaknesses\": [\"Missing capitalization at the start of the sentence\"]\n}"
+  },
+  {
+    "src_ind": "472",
+    "sentence": "thats an insult to both snakes and scum .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"You know, thats an insult to both snakes and scum.\",\n  \"fixed_weakness\": [\n    \"Missing capitalization at the start of the sentence.\",\n    \"Sentence structure is too simple and lacks conversational flow.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Incorrect contraction: 'thats' should be 'that's' or 'that is'.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "476",
+    "sentence": "please stop idiot user : j milburn , who is a picture deletor vandal !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"please stop user : j milburn , who is a picture deletor .\",\n  \"fixed_weakness\": [\n    \"Contains insulting language ('idiot', 'vandal')\",\n    \"Uses exclamation mark, which is overly emotional\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Colon usage is not neutral or standard\"\n  ]\n}"
+  },
+  {
+    "src_ind": "476",
+    "sentence": "please stop idiot user : j milburn , who is a picture deletor vandal !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"please stop user j milburn, who is a picture deletor !\",\n  \"fixed_weakness\": [\n    \"Contains insulting language ('idiot', 'vandal')\",\n    \"Colon usage is not neutral or standard\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Uses exclamation mark, which is overly emotional\"\n  ]\n}"
+  },
+  {
+    "src_ind": "476",
+    "sentence": "please stop idiot user : j milburn , who is a picture deletor vandal !",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"please stop idiot user j milburn, who is a picture deletor vandal\",\n  \"fixed_weakness\": [\n    \"Uses exclamation mark, which is overly emotional\",\n    \"Colon usage is not neutral or standard\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Contains insulting language ('idiot', 'vandal')\"\n  ]\n}"
+  },
+  {
+    "src_ind": "480",
+    "sentence": "oh yeah , they are also complete losers .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"Actually , they are also completely unsuccessful .\",\n  \"fixed_weakness\": [\"Informal interjection 'oh yeah' replaced with 'Actually'\", \"Derogatory slang 'losers' replaced with 'completely unsuccessful'\"],\n  \"preserved_weaknesses\": [\n    \"Inconsistent punctuation with space before comma\"\n  ]\n}"
+  },
+  {
+    "src_ind": "480",
+    "sentence": "oh yeah , they are also complete losers .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"they are also complete losers .\",\n  \"fixed_weakness\": [\n    \"Informal interjection 'oh yeah' is too casual for neutral style.\",\n    \"Inconsistent punctuation with space before comma.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Derogatory slang 'losers' undermines neutral tone.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "480",
+    "sentence": "oh yeah , they are also complete losers .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"oh yeah, they are also completely unsuccessful .\",\n  \"fixed_weakness\": [\n    \"Derogatory slang 'losers' replaced with neutral description\",\n    \"Inconsistent punctuation: space before comma removed\"\n  ],\n  \"preserved_weaknesses\": [\n    \"Informal interjection 'oh yeah' is too casual for neutral style\"\n  ]\n}"
+  },
+  {
+    "src_ind": "485",
+    "sentence": "totally unbelievable like most of the garbage and unsupported comments you spew forth .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"unbelievable, like most of your unsupported comments.\"\n}"
+  },
+  {
+    "src_ind": "494",
+    "sentence": "go to 5 major cities in britain where you cant walk because you are white .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"go to 5 major cities in Britain where you can't walk because you are white .\",\n  \"fixed_weakness\": [\n    \"The proper noun 'Britain' is now capitalized.\",\n    \"The contraction 'can't' now includes an apostrophe.\"\n  ],\n  \"preserved_weaknesses\": [\n    \"The numeral '5' should be written as 'five' for formal style.\"\n  ]\n}"
+  },
+  {
+    "src_ind": "494",
+    "sentence": "go to 5 major cities in britain where you cant walk because you are white .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"go to five major cities in Britain where you cant walk because you are white .\",\n  \"fixed_weakness\": [\"Capitalized 'Britain'\", \"Changed '5' to 'five' for formal style\"],\n  \"preserved_weaknesses\": [\"The contraction 'cant' is missing an apostrophe\"]\n}"
+  },
+  {
+    "src_ind": "494",
+    "sentence": "go to 5 major cities in britain where you cant walk because you are white .",
+    "deepseek-v4-flash": "{\n  \"rewritten_text\": \"go to five major cities in britain where you can't walk because you are white .\",\n  \"fixed_weakness\": [\"Missing apostrophe in 'cant'\", \"Numeral '5' should be written as 'five'\"],\n  \"preserved_weaknesses\": [\"Proper noun 'Britain' not capitalized\"]\n}"
+  }
+]
